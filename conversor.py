@@ -6,7 +6,10 @@ URL_M3U = "http://hightechtvr1.online/get.php?username=97533635&password=5798944
 
 print("Baixando a lista M3U...")
 try:
-    req = urllib.request.Request(URL_M3U, headers={'User-Agent': 'Mozilla/5.0'})
+    req = urllib.request.Request(
+        URL_M3U, 
+        headers={'User-Agent': 'IPTV Smarters Pro'} # Fingindo ser o app
+    )
     with urllib.request.urlopen(req) as resposta:
         conteudo_arquivo = resposta.read().decode('utf-8')
 except Exception as e:
