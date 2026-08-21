@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Onde Está — Buscador de Catálogo</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script src="data.js"></script>
+<style>
+  :root{
+    --bg: #0b0d10;
+    --bg-panel: #14171c;
+    --bg-panel-2: #1c2027;
+    --line: #262b33;
+    --ink: #eef1f5;
+    --ink-dim: #9aa3b2;
+    --signal: #ffb454;
+    --signal-2: #4fd1c5;
+    --radius: 10px;
+    font-family: "Inter", "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  *{box-sizing:border-box;}
+  html,body{
+    margin:0; padding:0; min-height:100vh;
+    background: radial-gradient(1200px 800px at 50% -10%, #171b21 0%, var(--bg) 55%);
+    color: var(--ink);
+  }
+  body{
+    display:flex; flex-direction:column; align-items:center;
+    padding: 6vh 20px 60px;
+  }
+
+  .brand{
+    display:flex; align-items:baseline; gap:10px;
+    margin-bottom: 6px;
+  }
+  .brand .mark{
+    font-family: "Georgia", serif;
+    font-weight:700; font-size: 2.1rem;
+    letter-spacing: -0.02em;
+  }
+  .brand .mark .dot{ color: var(--signal); }
+  .tagline{
+    color: var(--ink-dim);
+    font-size: 0.95rem;
+    margin-bottom: 34px;
+    text-align:center;
+    max-width: 480px;
+    line-height:1.5;
+  }
+
+  .search-wrap{
+    width:100%;
+    max-width: 640px;
+    position:relative;
+  }
+  .search-box{
+    width:100%;
+    background: var(--bg-panel);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 18px 52px 18px 20px;
+    font-size: 1.05rem;
+    color: var(--ink);
+    outline:none;
+    transition: border-color .15s ease, box-shadow .15s ease;
+  }
+  .search-box::placeholder{ color: #5c6472; }
+  .search-box:focus{
+    border-color: var(--signal-2);
+    box-shadow: 0 0 0 3px rgba(79,209,197,0.12);
+  }
+  .search-icon{
+    position:absolute; right:18px; top:50%; transform: translateY(-50%);
+    width:20px; height:20px; color: var(--ink-dim); pointer-events:none;
+  }
+  .clear-btn{
+    position:absolute; right:16px; top:50%; transform: translateY(-50%);
+    background:none; border:none; color: var(--ink-dim); cursor:pointer;
+    font-size: 1.3rem; line-height:1; padding:4px 6px; display:none;
+  }
+  .clear-btn:hover{ color: var(--ink); }
+
+  .meta-row{
+    width:100%; max-width: 640px;
+    display:flex; justify-content:space-between; align-items:center;
+    margin-top:14px; font-size: 0.82rem; color: var(--ink-dim);
+    min-height: 18px;
+  }
+  .meta-row .count-badge{ color: var(--signal-2); font-weight:600; }
+
+  .results{
+    width:100%; max-width: 640px;
+    margin-top: 18px;
+    display:flex; flex-direction:column; gap:16px;
+  }
+
+  .group{
+    background: var(--bg-panel);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    overflow:hidden;
+    animation: rise .25s ease both;
+  }
+  @keyframes rise{
+    from{ opacity:0; transform: translateY(6px); }
+    to{ opacity:1; transform: translateY(0); }
+  }
+  .group-header{
+    padding: 14px 18px 10px;
+    display:flex; align-items:baseline; justify-content:space-between; flex-wrap:wrap; gap:10px;
+  }
+  .group-title{
+    font-size: 1.08rem; font-weight:600; color: var(--ink);
+  }
+  .group-count{
+    font-size: 0.78rem; color: var(--ink-dim);
+    background: var(--bg-panel-2);
+    border-radius: 999px; padding: 2px 9px;
+  }
+  .entry-list{
+    display:flex; flex-direction:column;
+  }
+  .entry{
+    display:flex; align-items:center; gap:12px;
+    padding: 12px 18px;
+    border-top: 1px solid var(--line);
+  }
+
+  /* Cores personalizadas para as Categorias Maiores (cat) */
+  .entry-cat-badge {
+    font-size: 0.7rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.05em; padding: 4px 8px; border-radius: 6px;
+    background: var(--bg-panel-2); color: var(--ink-dim); white-space: nowrap;
+  }
+  .entry-cat-badge[data-cat="FILMES"] { background: rgba(56, 189, 248, 0.15); color: #38bdf8; border: 1px solid rgba(56, 189, 248, 0.3); }
+  .entry-cat-badge[data-cat="SÉRIES"] { background: rgba(168, 85, 247, 0.15); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.3); }
+  .entry-cat-badge[data-cat="CANAIS"] { background: rgba(250, 204, 21, 0.15); color: #facc15; border: 1px solid rgba(250, 204, 21, 0.3); }
+
+  .entry-subcat{
+    font-size: 0.9rem; color: var(--ink);
+    flex: 1;
+    display: flex; flex-direction: column; gap: 2px;
+  }
+  .entry-subcat .sub-name { font-size: 0.8rem; color: var(--ink-dim); }
+
+  .empty-state, .hint-state{
+    width:100%; max-width:640px;
+    text-align:center; color: var(--ink-dim);
+    padding: 50px 20px; font-size:0.95rem; line-height:1.6;
+  }
+  .empty-state strong{ color: var(--ink); }
+
+  footer{
+    margin-top:auto; padding-top:50px;
+    color: #4d5563; font-size:0.78rem; text-align:center;
+  }
+
+  @media (max-width: 480px){
+    .brand .mark{ font-size:1.7rem; }
+    .search-box{ font-size:1rem; padding:15px 46px 15px 16px; }
+    .group-header{ padding:12px 14px 8px; }
+    .entry{ padding:10px 14px; }
+  }
+</style>
+</head>
+<body>
+
+  <div class="brand">
+    <span class="mark">Onde<span class="dot">.</span>Está</span>
+  </div>
+  <div class="tagline">Digite o nome do filme, série ou canal — mesmo com erro de digitação — e veja em quais categorias e serviços ele aparece.</div>
+
+  <div class="search-wrap">
+    <input id="searchBox" class="search-box" type="text" placeholder="Ex: toy story, ted lasso, cine sky..." autocomplete="off" spellcheck="false" autofocus>
+    <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="11" cy="11" r="7"></circle>
+      <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+    </svg>
+    <button id="clearBtn" class="clear-btn" aria-label="Limpar">&times;</button>
+  </div>
+
+  <div class="meta-row" id="metaRow"></div>
+
+  <div id="resultsArea" class="results"></div>
+
+  <footer>Catálogo com <span id="totalCount">0</span> itens · busca 100% local no seu navegador</footer>
+
+<script>
+(function(){
+  const data = typeof CATALOG_DATA !== 'undefined' ? CATALOG_DATA : [];
+  document.getElementById('totalCount').textContent = data.length.toLocaleString('pt-BR');
+
+  function normalize(s){
+    if (!s) return '';
+    return s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+  }
+
+  const fuse = new Fuse(data, {
+    keys: ['t'],
+    threshold: 0.3,
+    distance: 40,
+    minMatchCharLength: 3,
+    ignoreLocation: false,
+    location: 0,
+    includeScore: true,
+    getFn: (obj, path) => {
+      if(path[0] === 't') return normalize(obj.t);
+      return Fuse.config.getFn(obj, path);
+    }
+  });
+
+  const searchBox = document.getElementById('searchBox');
+  const resultsArea = document.getElementById('resultsArea');
+  const metaRow = document.getElementById('metaRow');
+  const clearBtn = document.getElementById('clearBtn');
+
+  function escapeHtml(s){
+    if (!s) return '';
+    return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function render(query){
+    clearBtn.style.display = query ? 'block' : 'none';
+
+    if(!query || query.trim().length < 2){
+      resultsArea.innerHTML = `<div class="hint-state">Comece digitando pelo menos 2 letras.<br>A busca ignora acentos e tolera pequenos erros de digitação.</div>`;
+      metaRow.textContent = '';
+      return;
+    }
+
+    const results = fuse.search(query.trim());
+
+    if(results.length === 0){
+      resultsArea.innerHTML = `<div class="empty-state">Nenhum resultado para <strong>"${escapeHtml(query)}"</strong>.<br>Tente digitar de outra forma ou verifique o título.</div>`;
+      metaRow.textContent = '';
+      return;
+    }
+
+    const groups = new Map();
+    for(const r of results){
+      const nt = normalize(r.item.t);
+      if(!groups.has(nt)){
+        groups.set(nt, { title: r.item.t, items: [], bestScore: r.score });
+      }
+      const g = groups.get(nt);
+      g.items.push(r.item);
+      if(r.score < g.bestScore) g.bestScore = r.score;
+    }
+
+    const groupList = Array.from(groups.values()).sort((a,b) => {
+      if(Math.abs(a.bestScore - b.bestScore) > 0.001) return a.bestScore - b.bestScore;
+      return a.title.localeCompare(b.title, 'pt-BR');
+    });
+
+    const totalItems = groupList.reduce((n,g) => n + g.items.length, 0);
+    metaRow.innerHTML = `<span><span class="count-badge">${groupList.length}</span> título${groupList.length!==1?'s':''} encontrado${groupList.length!==1?'s':''} · ${totalItems} localizações</span>`;
+
+    resultsArea.innerHTML = groupList.map(g => {
+      const sortedItems = g.items.slice().sort((a,b) => (a.cat || '').localeCompare(b.cat || '', 'pt-BR'));
+      
+      const rows = sortedItems.map(it => `
+        <div class="entry">
+          <span class="entry-cat-badge" data-cat="${escapeHtml(it.cat)}">${escapeHtml(it.cat || 'OUTROS')}</span>
+          <div class="entry-subcat">
+            <span>${escapeHtml(it.tp)}</span>
+          </div>
+        </div>
+      `).join('');
+
+      return `
+        <div class="group">
+          <div class="group-header">
+            <span class="group-title">${escapeHtml(g.title)}</span>
+            <span class="group-count">${g.items.length} ${g.items.length===1?'local':'locais'}</span>
+          </div>
+          <div class="entry-list">${rows}</div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  let debounceTimer;
+  searchBox.addEventListener('input', (e) => {
+    clearTimeout(debounceTimer);
+    const val = e.target.value;
+    debounceTimer = setTimeout(() => render(val), 120);
+  });
+
+  clearBtn.addEventListener('click', () => {
+    searchBox.value = '';
+    render('');
+    searchBox.focus();
+  });
+
+  render('');
+})();
+</script>
+
+</body>
+</html>
