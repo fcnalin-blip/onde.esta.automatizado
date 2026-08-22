@@ -2,7 +2,7 @@ import json
 import re
 import urllib.request
 
-URL_M3U = "http://hightechtvr1.online/get.php?username=97533635&password=57989443&type=m3u_plus&output=ts"
+URL_M3U = "https://hightechtvr1.online/get.php?username=97533635&password=57989443&type=m3u_plus&output=ts"
 
 print("Baixando a lista M3U...")
 try:
