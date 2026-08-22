@@ -2,20 +2,11 @@ import json
 import re
 import urllib.request
 
-URL_M3U = "https://hightechtvr1.online/get.php?username=97533635&password=57989443&type=m3u_plus&output=ts"
+URL_M3U = "http://hightechtvr1.online/get.php?username=97533635&password=57989443&type=m3u_plus&output=ts"
 
 print("Baixando a lista M3U...")
 try:
-   # Adicionando um conjunto completo de cabeçalhos de um navegador real
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-        'Accept-Language': 'pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7',
-        'Connection': 'keep-alive',
-        'Referer': 'http://hightechtvr1.online/' # Importante: o referer costuma ser checado
-    }
-    
-    req = urllib.request.Request(URL_M3U, headers=headers)
+    req = urllib.request.Request(URL_M3U, headers={'User-Agent': 'Mozilla/5.0'})
     with urllib.request.urlopen(req) as resposta:
         conteudo_arquivo = resposta.read().decode('utf-8')
 except Exception as e:
