@@ -15,46 +15,6 @@ const CATALOG_DATA = [
     "tp": "24H INFANTIS/DESENHOS"
   },
   {
-    "t": "15:00 - AL-FAISALY FC X NEOM [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (21/08)"
-  },
-  {
-    "t": "15:00 - AL-FAISALY FC X NEOM [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (21/08)"
-  },
-  {
-    "t": "15:00 - AL-QADISIYAH FC X AL-ITTIHAD FC [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (21/08)"
-  },
-  {
-    "t": "15:00 - AL-QADISIYAH FC X AL-ITTIHAD FC [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (21/08)"
-  },
-  {
-    "t": "16:00 - ARSENAL X COVENTRY [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (21/08)"
-  },
-  {
-    "t": "16:00 - ARSENAL X COVENTRY [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (21/08)"
-  },
-  {
-    "t": "16:00 - REAL BETIS X REAL SOCIEDAD [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (21/08)"
-  },
-  {
-    "t": "16:00 - REAL BETIS X REAL SOCIEDAD [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (21/08)"
-  },
-  {
     "t": "3 Palavrinhas",
     "cat": "CANAIS",
     "tp": "24H INFANTIS/DESENHOS"
@@ -1125,36 +1085,6 @@ const CATALOG_DATA = [
     "tp": "CAZÉ TV PPV"
   },
   {
-    "t": "CAZÉ TV FHD 10",
-    "cat": "CANAIS",
-    "tp": "CAZÉ TV PPV"
-  },
-  {
-    "t": "CAZÉ TV FHD 11",
-    "cat": "CANAIS",
-    "tp": "CAZÉ TV PPV"
-  },
-  {
-    "t": "CAZÉ TV FHD 12",
-    "cat": "CANAIS",
-    "tp": "CAZÉ TV PPV"
-  },
-  {
-    "t": "CAZÉ TV FHD 13",
-    "cat": "CANAIS",
-    "tp": "CAZÉ TV PPV"
-  },
-  {
-    "t": "CAZÉ TV FHD 14",
-    "cat": "CANAIS",
-    "tp": "CAZÉ TV PPV"
-  },
-  {
-    "t": "CAZÉ TV FHD 15",
-    "cat": "CANAIS",
-    "tp": "CAZÉ TV PPV"
-  },
-  {
     "t": "CAZÉ TV FHD 16",
     "cat": "CANAIS",
     "tp": "CAZÉ TV PPV"
@@ -1281,11 +1211,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Cine SKY 09",
-    "cat": "CANAIS",
-    "tp": "CINE"
-  },
-  {
-    "t": "Cine SKY 10",
     "cat": "CANAIS",
     "tp": "CINE"
   },
@@ -1545,11 +1470,6 @@ const CATALOG_DATA = [
     "tp": "DAZN PPV"
   },
   {
-    "t": "DAZN 10 HD",
-    "cat": "CANAIS",
-    "tp": "DAZN PPV"
-  },
-  {
     "t": "DAZN 11 HD",
     "cat": "CANAIS",
     "tp": "DAZN PPV"
@@ -1606,11 +1526,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "DAZN 8 HD",
-    "cat": "CANAIS",
-    "tp": "DAZN PPV"
-  },
-  {
-    "t": "DAZN 9 HD",
     "cat": "CANAIS",
     "tp": "DAZN PPV"
   },
@@ -1996,51 +1911,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "DISNEY+ 13 HD",
-    "cat": "CANAIS",
-    "tp": "DISNEY+ PPV"
-  },
-  {
-    "t": "DISNEY+ 14 HD",
-    "cat": "CANAIS",
-    "tp": "DISNEY+ PPV"
-  },
-  {
-    "t": "DISNEY+ 15 HD",
-    "cat": "CANAIS",
-    "tp": "DISNEY+ PPV"
-  },
-  {
-    "t": "DISNEY+ 16 HD",
-    "cat": "CANAIS",
-    "tp": "DISNEY+ PPV"
-  },
-  {
-    "t": "DISNEY+ 17 HD",
-    "cat": "CANAIS",
-    "tp": "DISNEY+ PPV"
-  },
-  {
-    "t": "DISNEY+ 18 HD",
-    "cat": "CANAIS",
-    "tp": "DISNEY+ PPV"
-  },
-  {
-    "t": "DISNEY+ 19 HD",
-    "cat": "CANAIS",
-    "tp": "DISNEY+ PPV"
-  },
-  {
-    "t": "DISNEY+ 20 HD",
-    "cat": "CANAIS",
-    "tp": "DISNEY+ PPV"
-  },
-  {
-    "t": "DISNEY+ 21 HD",
-    "cat": "CANAIS",
-    "tp": "DISNEY+ PPV"
-  },
-  {
-    "t": "DISNEY+ 22 HD",
     "cat": "CANAIS",
     "tp": "DISNEY+ PPV"
   },
@@ -3650,7 +3520,7 @@ const CATALOG_DATA = [
     "tp": "GLOBO NORDESTE"
   },
   {
-    "t": "GLOBO PETROLINA-PE",
+    "t": "GLOBO TV GRANDE RIO FHD",
     "cat": "CANAIS",
     "tp": "GLOBO NORDESTE"
   },
@@ -5645,36 +5515,6 @@ const CATALOG_DATA = [
     "tp": "NBA/NFL PPV"
   },
   {
-    "t": "NICKELODEON FHD",
-    "cat": "CANAIS",
-    "tp": "INFANTIS"
-  },
-  {
-    "t": "NICKELODEON FHD²",
-    "cat": "CANAIS",
-    "tp": "INFANTIS"
-  },
-  {
-    "t": "NICKELODEON HD",
-    "cat": "CANAIS",
-    "tp": "INFANTIS"
-  },
-  {
-    "t": "NICKELODEON HD²",
-    "cat": "CANAIS",
-    "tp": "INFANTIS"
-  },
-  {
-    "t": "NICKELODEON SD",
-    "cat": "CANAIS",
-    "tp": "INFANTIS"
-  },
-  {
-    "t": "NICKELODEON SD²",
-    "cat": "CANAIS",
-    "tp": "INFANTIS"
-  },
-  {
     "t": "NSPORTS 01 HD",
     "cat": "CANAIS",
     "tp": "PAY-PER-VIEW"
@@ -5690,37 +5530,12 @@ const CATALOG_DATA = [
     "tp": "PAY-PER-VIEW"
   },
   {
-    "t": "NSPORTS 04 HD",
-    "cat": "CANAIS",
-    "tp": "PAY-PER-VIEW"
-  },
-  {
-    "t": "NSPORTS 05 HD",
-    "cat": "CANAIS",
-    "tp": "PAY-PER-VIEW"
-  },
-  {
-    "t": "NSPORTS 06 HD",
-    "cat": "CANAIS",
-    "tp": "PAY-PER-VIEW"
-  },
-  {
     "t": "NSPORTS 07 HD",
     "cat": "CANAIS",
     "tp": "PAY-PER-VIEW"
   },
   {
     "t": "NSPORTS 08 HD",
-    "cat": "CANAIS",
-    "tp": "PAY-PER-VIEW"
-  },
-  {
-    "t": "NSPORTS 09 HD",
-    "cat": "CANAIS",
-    "tp": "PAY-PER-VIEW"
-  },
-  {
-    "t": "NSPORTS 10 HD",
     "cat": "CANAIS",
     "tp": "PAY-PER-VIEW"
   },
@@ -6360,17 +6175,7 @@ const CATALOG_DATA = [
     "tp": "PRIME VIDEO PPV"
   },
   {
-    "t": "PRIME VIDEO AMAZON 1²",
-    "cat": "CANAIS",
-    "tp": "PRIME VIDEO PPV"
-  },
-  {
     "t": "PRIME VIDEO AMAZON 2",
-    "cat": "CANAIS",
-    "tp": "PRIME VIDEO PPV"
-  },
-  {
-    "t": "PRIME VIDEO AMAZON 2²",
     "cat": "CANAIS",
     "tp": "PRIME VIDEO PPV"
   },
@@ -6380,17 +6185,7 @@ const CATALOG_DATA = [
     "tp": "PRIME VIDEO PPV"
   },
   {
-    "t": "PRIME VIDEO AMAZON 3²",
-    "cat": "CANAIS",
-    "tp": "PRIME VIDEO PPV"
-  },
-  {
     "t": "PRIME VIDEO AMAZON 4",
-    "cat": "CANAIS",
-    "tp": "PRIME VIDEO PPV"
-  },
-  {
-    "t": "PRIME VIDEO AMAZON 4²",
     "cat": "CANAIS",
     "tp": "PRIME VIDEO PPV"
   },
@@ -8000,37 +7795,12 @@ const CATALOG_DATA = [
     "tp": "SPORTYNET PPV"
   },
   {
-    "t": "SPORTYNET 05",
-    "cat": "CANAIS",
-    "tp": "SPORTYNET PPV"
-  },
-  {
-    "t": "SPORTYNET 05²",
-    "cat": "CANAIS",
-    "tp": "SPORTYNET PPV"
-  },
-  {
-    "t": "SPORTYNET 06",
-    "cat": "CANAIS",
-    "tp": "SPORTYNET PPV"
-  },
-  {
     "t": "SPORTYNET 06²",
     "cat": "CANAIS",
     "tp": "SPORTYNET PPV"
   },
   {
-    "t": "SPORTYNET 07",
-    "cat": "CANAIS",
-    "tp": "SPORTYNET PPV"
-  },
-  {
     "t": "SPORTYNET 07²",
-    "cat": "CANAIS",
-    "tp": "SPORTYNET PPV"
-  },
-  {
-    "t": "SPORTYNET 08",
     "cat": "CANAIS",
     "tp": "SPORTYNET PPV"
   },
@@ -8790,16 +8560,6 @@ const CATALOG_DATA = [
     "tp": "RELIGIOSOS"
   },
   {
-    "t": "TV MEIO NORTE FHD H264",
-    "cat": "CANAIS",
-    "tp": "ABERTOS"
-  },
-  {
-    "t": "TV MEIO NORTE HD",
-    "cat": "CANAIS",
-    "tp": "ABERTOS"
-  },
-  {
     "t": "TV MUNDO MAIOR HD",
     "cat": "CANAIS",
     "tp": "RELIGIOSOS"
@@ -8880,11 +8640,6 @@ const CATALOG_DATA = [
     "tp": "LUTAS / UFC"
   },
   {
-    "t": "UFC FIGHT 04",
-    "cat": "CANAIS",
-    "tp": "LUTAS / UFC"
-  },
-  {
     "t": "UFC FIGHT 05",
     "cat": "CANAIS",
     "tp": "LUTAS / UFC"
@@ -8896,11 +8651,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "UFC FIGHT 07",
-    "cat": "CANAIS",
-    "tp": "LUTAS / UFC"
-  },
-  {
-    "t": "UFC FIGHT 08",
     "cat": "CANAIS",
     "tp": "LUTAS / UFC"
   },
@@ -9198,6 +8948,396 @@ const CATALOG_DATA = [
     "t": "Zé Coleta",
     "cat": "CANAIS",
     "tp": "24H INFANTIS/DESENHOS"
+  },
+  {
+    "t": "GLOBO TV GRANDE RIO HD",
+    "cat": "CANAIS",
+    "tp": "GLOBO NORDESTE"
+  },
+  {
+    "t": "GLOBO TV GRANDE RIO SD",
+    "cat": "CANAIS",
+    "tp": "GLOBO NORDESTE"
+  },
+  {
+    "t": "10:00 - BRIGHTON X ASTON VILLA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "10:00 - BRIGHTON X ASTON VILLA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "10:00 - BRIGHTON X ASTON VILLA [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "10:00 - MANCHESTER CITY X BOURNEMOUTH [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "10:00 - MANCHESTER CITY X BOURNEMOUTH [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "12:00 - ATLÉTICO DE MADRID X VILLARREAL [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "12:00 - ATLÉTICO DE MADRID X VILLARREAL [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "12:30 - NEWCASTLE UNITED X LIVERPOOL [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "12:30 - NEWCASTLE UNITED X LIVERPOOL [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "12:30 - NEWCASTLE UNITED X LIVERPOOL [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "14:30 - GETAFE X RACING SANTANDER [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "14:30 - GETAFE X RACING SANTANDER [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - VITÓRIA X BAHIA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - VITÓRIA X BAHIA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - VITÓRIA X BAHIA [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - PALMEIRAS X VASCO DA GAMA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - PALMEIRAS X VASCO DA GAMA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - PALMEIRAS X VASCO DA GAMA [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - RB BRAGANTINO X GRÊMIO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - RB BRAGANTINO X GRÊMIO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - RB BRAGANTINO X GRÊMIO [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - PONTE PRETA X AVAÍ [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - PONTE PRETA X AVAÍ [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - SÃO BERNARDO-SP X NÁUTICO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - SÃO BERNARDO-SP X NÁUTICO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - SÃO BERNARDO-SP X NÁUTICO [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - MARINGÁ X BARRA FC [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - MARINGÁ X BARRA FC [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - BRUSQUE X AMAZONAS FC [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - BRUSQUE X AMAZONAS FC [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - INTER DE LIMEIRA X FIGUEIRENSE [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:00 - INTER DE LIMEIRA X FIGUEIRENSE [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:30 - ELCHE X FC BARCELONA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:30 - ELCHE X FC BARCELONA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:00 - OPERÁRIO-PR X VILA NOVA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:00 - OPERÁRIO-PR X VILA NOVA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:30 - CHAPECOENSE X SÃO PAULO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:30 - CHAPECOENSE X SÃO PAULO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:30 - CHAPECOENSE X SÃO PAULO [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:30 - SANTOS X MIRASSOL [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:30 - SANTOS X MIRASSOL [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:30 - SANTOS X MIRASSOL [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:30 - CRICIÚMA X FORTALEZA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:30 - CRICIÚMA X FORTALEZA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:30 - CRICIÚMA X FORTALEZA [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:30 - YPIRANGA-RS X FERROVIÁRIA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:30 - YPIRANGA-RS X FERROVIÁRIA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "19:30 - CORITIBA X CORINTHIANS [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "19:30 - CORITIBA X CORINTHIANS [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "19:30 - CORITIBA X CORINTHIANS [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "08:00 - WEST BROM X BURNLEY [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "08:00 - WEST BROM X BURNLEY [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "08:00 - WEST BROM X BURNLEY [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "09:15 - DINAMO MOSCOW X RODINA MOSKVA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "09:15 - DINAMO MOSCOW X RODINA MOSKVA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "09:30 - PSV EINDHOVEN X GRONINGEN [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "09:30 - PSV EINDHOVEN X GRONINGEN [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "13:00 - TRABZONSPOR X ISTANBUL BASAKSEHIR [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "13:00 - TRABZONSPOR X ISTANBUL BASAKSEHIR [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "13:00 - TRABZONSPOR X ISTANBUL BASAKSEHIR [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "14:00 - SPARTAK MOSCOW X ZENIT SAINT [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "14:00 - SPARTAK MOSCOW X ZENIT SAINT [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "15:00 - ATLETICO TORQUE X WANDERERS [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "15:00 - ATLETICO TORQUE X WANDERERS [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:30 - FC PORTO X AROUCA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:30 - FC PORTO X AROUCA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "16:30 - FC PORTO X AROUCA [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:30 - MARANHÃO X ITABAIANA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "18:30 - MARANHÃO X ITABAIANA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "19:15 - RIVER PLATE X VELEZ SARSFIELD [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "19:15 - RIVER PLATE X VELEZ SARSFIELD [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "19:15 - RIVER PLATE X VELEZ SARSFIELD [3]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "21:30 - RACING CLUB X BOCA JUNIORS [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "21:30 - RACING CLUB X BOCA JUNIORS [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "22:00 - U.N.A.M. - PUMAS X NECAXA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
+  },
+  {
+    "t": "22:00 - U.N.A.M. - PUMAS X NECAXA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (23/08)"
   },
   {
     "t": "Depravação [L]",
@@ -58680,9 +58820,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
-    "t": "Instinto Materno - QUALIDADE CINEMA",
+    "t": "Instinto Materno (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Instinto Materno (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Instinto Materno (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Monster Mash - QUALIDADE CINEMA",
@@ -107645,9 +107795,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
-    "t": "Manual Prático da Vingança Lucrativa - QUALIDADE CINEMA (2026)",
+    "t": "Manual Prático da Vingança Lucrativa (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Manual Prático da Vingança Lucrativa (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Manual Prático da Vingança Lucrativa (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O ARREBATAMENTO (1998)",
@@ -110255,9 +110415,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Aventura"
   },
   {
-    "t": "Vingadora - QUALIDADE CINEMA (2026)",
+    "t": "Vingadora (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Vingadora (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Vingadora (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Casamento Sangrento: A Viúva - QUALIDADE CINEMA (2026)",
@@ -110265,9 +110435,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
-    "t": "Uma Segunda Chance - QUALIDADE CINEMA (2026)",
+    "t": "Uma Segunda Chance (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Uma Segunda Chance (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Uma Segunda Chance (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Signing Tony Raymond - QUALIDADE CINEMA (2026)",
@@ -110300,9 +110480,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
-    "t": "Eles Vão te Matar - QUALIDADE CINEMA (2026)",
+    "t": "Eles Vão te Matar (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Eles Vão te Matar (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Eles Vão te Matar (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Eles Vão te Matar (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Twenty One Pilots: More Than We Ever Imagined - QUALIDADE CINEMA (2026)",
@@ -113025,9 +113220,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Uma Segunda Chance [L] - QUALIDADE CINEMA (2026)",
+    "t": "Uma Segunda Chance [L] (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Legendados"
   },
   {
     "t": "Uno: Entre o Ouro e a Morte (2024)",
@@ -148281,6 +148476,396 @@ const CATALOG_DATA = [
   },
   {
     "t": "Desaparecida e Esquecida: O Caso Chompoo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Maridos em Ação (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Maridos em Ação (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Maridos em Ação (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Maridos em Ação [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Casamento (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Casamento (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Casamento (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Casamento (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Casamento [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pillion (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Dhurandhar: A Vingança [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pinóquio: Maldição de Madeira (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Pinóquio: Maldição de Madeira (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Pinóquio: Maldição de Madeira (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Pinóquio: Maldição de Madeira (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Pinóquio: Maldição de Madeira [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Amor Não se Ensina (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "The Legend of Captain Scarlet (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "The Legend of Captain Scarlet (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "The Legend of Captain Scarlet (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "The Legend of Captain Scarlet [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "POV: Presença Oculta (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "POV: Presença Oculta (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Delator (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "O Delator (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Delator (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Delator (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Delator [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vingadora [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vingança Brutal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Vingança Brutal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Vingança Brutal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Vingança Brutal [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A História de Um Gorila com David Attenborough (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A História de Um Gorila com David Attenborough (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Noah Kahan: Out of Body (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Noah Kahan: Out of Body (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Noah Kahan: Out of Body (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Untold: Jail Blazers (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Untold: Jail Blazers (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Colega Perfeita (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Colega Perfeita (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Untold: O Rei em Xeque [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Man of War [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Código: Vingança [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Rosebush Pruning [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Manual Prático da Vingança Lucrativa [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Torradeira (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Torradeira (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Torradeira (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "A Torradeira (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Momento (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "O Momento (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "O Momento (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Momento (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Momento [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hannah Montana: Especial de 20° Aniversário (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Hannah Montana: Especial de 20° Aniversário (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Hannah Montana: Especial de 20° Aniversário (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Ladrar (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Ladrar (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Ladrar [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Tragédia de Moriah Wilson (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Tragédia de Moriah Wilson (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Tragédia de Moriah Wilson (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Morro dos Ventos Uivantes [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lego Disney Princesa: Bagunça Mágica (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Lego Disney Princesa: Bagunça Mágica (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Lego Disney Princesa: Bagunça Mágica (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Lego Disney Princesa: Bagunça Mágica (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Isso Ainda Está de Pé? (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Isso Ainda Está de Pé? (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Isso Ainda Está de Pé? [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Forjando Campeões 2 (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Forjando Campeões 2 (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Forjando Campeões 2 (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Forjando Campeões 2 [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Detox de Plástico [L] (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -207993,5 +208578,35 @@ const CATALOG_DATA = [
     "t": "um Cara Comum",
     "cat": "SÉRIES",
     "tp": "Séries | Paramount"
+  },
+  {
+    "t": "The K2",
+    "cat": "SÉRIES",
+    "tp": "Séries | Doramas"
+  },
+  {
+    "t": "Lanchonetes Clássicas com Guy Fieri [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Conan O'Brien Vai Nessa [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Beyond the Gates [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Salish e Jordan Matter [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Smartypants [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
   }
 ];
