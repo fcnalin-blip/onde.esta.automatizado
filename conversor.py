@@ -108,9 +108,18 @@ print("========================================")
 # 5. Envio automático para o GitHub
 print("\n[4/4] Enviando atualizacao para o GitHub...")
 try:
+    # Aborta qualquer merge pendente travado anteriormente
+    subprocess.run(["git", "merge", "--abort"], check=False)
+    
+    # Descarta alterações locais apenas no conversor.py para permitir o pull limpo
+    subprocess.run(["git", "checkout", "conversor.py"], check=False)
+    
+    # Atualiza o repositório usando --no-edit para não abrir editor de texto
+    subprocess.run(["git", "pull", "--no-edit", "origin", "main"], check=True)
+    
     subprocess.run(["git", "add", "data.js"], check=True)
     subprocess.run(["git", "commit", "-m", f"Atualizacao automatica: +{len(adicionados)} / -{len(removidos)}"], capture_output=True, text=True)
-    subprocess.run(["git", "push"], check=True)
+    subprocess.run(["git", "push", "origin", "main"], check=True)
     print("      [OK] Upload concluido com sucesso no GitHub!")
 except subprocess.CalledProcessError as e:
     print(f"      [AVISO/ERRO NO GIT]: O arquivo foi gerado localmente, mas o envio teve um detalhe: {e}")
