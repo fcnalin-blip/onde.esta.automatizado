@@ -1,8 +1,19 @@
+const CATALOG_UPDATED = "07/11/2026";
 const CATALOG_DATA = [
   {
     "t": "(Des)encanto",
     "cat": "CANAIS",
     "tp": "24H INFANTIS/DESENHOS"
+  },
+  {
+    "t": "09:30 - LEEDS UNITED X TOTTENHAM [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "09:30 - LEEDS UNITED X TOTTENHAM [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
   },
   {
     "t": "100 Coisas para Fazer Antes de Virar Zumbi",
@@ -13,6 +24,226 @@ const CATALOG_DATA = [
     "t": "100 Lobo A Lenda da Pedra da Lua",
     "cat": "CANAIS",
     "tp": "24H INFANTIS/DESENHOS"
+  },
+  {
+    "t": "11:00 - TORINO X LECCE [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "11:00 - TORINO X LECCE [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "11:30 - BORUSSIA DORTMUND X SV 07 ELVERSBERG [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "11:30 - BORUSSIA DORTMUND X SV 07 ELVERSBERG [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "11:30 - FSV MAINZ 05 X BAYERN [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "11:30 - FSV MAINZ 05 X BAYERN [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "12:00 - ARSENAL X HULL CITY [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "12:00 - ARSENAL X HULL CITY [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "12:00 - FULHAM X NEWCASTLE UNITED [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "12:00 - FULHAM X NEWCASTLE UNITED [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "12:15 - ESPANYOL X DEPORTIVO LA CORUNA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "12:15 - ESPANYOL X DEPORTIVO LA CORUNA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "13:00 - GALATASARAY X AMED [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "13:00 - GALATASARAY X AMED [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "13:30 - KRASNODAR X CSKA MOSCOW [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "13:30 - KRASNODAR X CSKA MOSCOW [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "14:30 - NOTTINGHAM FOREST X MANCHESTER CITY [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "14:30 - NOTTINGHAM FOREST X MANCHESTER CITY [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "14:30 - VFB STUTTGART X WERDER BREMEN [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "14:30 - VFB STUTTGART X WERDER BREMEN [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "15:00 - AUXERRE X PARIS FC [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "15:00 - AUXERRE X PARIS FC [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "15:00 - TALLERES CORDOBA X ESTUDIANTES [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "15:00 - TALLERES CORDOBA X ESTUDIANTES [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "16:00 - AVAI X SÃO BERNARDO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "16:00 - AVAI X SÃO BERNARDO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "16:10 - NOVORIZONTINO X FORTALEZA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "16:10 - NOVORIZONTINO X FORTALEZA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "16:45 - ROMA X SASSUOLO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "16:45 - ROMA X SASSUOLO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "17:00 - VALENCIA X REAL MADRID [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "17:00 - VALENCIA X REAL MADRID [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "17:05 - PSG X ESTAC TROYES [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "17:05 - PSG X ESTAC TROYES [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "17:30 - BOCA JUNIORS X DEFENSA Y JUSTICIA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "17:30 - BOCA JUNIORS X DEFENSA Y JUSTICIA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "18:00 - ATLÉTICO-MG X GRÊMIO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "18:00 - ATLÉTICO-MG X GRÊMIO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "20:00 - CUIABÁ X JUVENTUDE [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "20:00 - CUIABÁ X JUVENTUDE [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "20:00 - VILA NOVA X CRICIÚMA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "20:00 - VILA NOVA X CRICIÚMA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "21:30 - NÁUTICO X CRB [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
+  },
+  {
+    "t": "21:30 - NÁUTICO X CRB [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (07/11)"
   },
   {
     "t": "3 Palavrinhas",
@@ -6125,6 +6356,11 @@ const CATALOG_DATA = [
     "tp": "PRIME VIDEO PPV"
   },
   {
+    "t": "PRIME VIDEO AMAZON 10",
+    "cat": "CANAIS",
+    "tp": "PRIME VIDEO PPV"
+  },
+  {
     "t": "PRIME VIDEO AMAZON 2",
     "cat": "CANAIS",
     "tp": "PRIME VIDEO PPV"
@@ -8903,101 +9139,6 @@ const CATALOG_DATA = [
     "t": "Zé Coleta",
     "cat": "CANAIS",
     "tp": "24H INFANTIS/DESENHOS"
-  },
-  {
-    "t": "PRIME VIDEO AMAZON 10",
-    "cat": "CANAIS",
-    "tp": "PRIME VIDEO PPV"
-  },
-  {
-    "t": "16:45 - VENEZIA X UDINESE [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "16:45 - VENEZIA X UDINESE [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "16:45 - TOULOUSE X STRASBOURG [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "16:45 - TOULOUSE X STRASBOURG [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "17:00 - EVERTON X COVENTRY [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "17:00 - EVERTON X COVENTRY [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "17:00 - SEVILLA X ALAVÉS [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "17:00 - SEVILLA X ALAVÉS [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "17:45 - FAMALICÃO X AROUCA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "17:45 - FAMALICÃO X AROUCA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "19:30 - OPERÁRIO-PR X SPORT RECIFE [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "19:30 - OPERÁRIO-PR X SPORT RECIFE [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "20:00 - VITÓRIA X FLUMINENSE [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "20:00 - VITÓRIA X FLUMINENSE [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "22:00 - TIGRE X SARMIENTO JUNIN [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "22:00 - TIGRE X SARMIENTO JUNIN [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "13:30 - LOKOMOTIV MOSCOW X RUBIN [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
-  },
-  {
-    "t": "13:30 - LOKOMOTIV MOSCOW X RUBIN [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (06/11)"
   },
   {
     "t": "Depravação [L]",
@@ -176615,6 +176756,41 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
+    "t": "Musk [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Robotica [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Misty Green [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lobos de Perto com Bertie Gregory [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Midnight Crave [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vão Sentir Minha Falta? [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alta Gama: O Caso dos Relógios [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
     "t": "Tetra: Acreditar de Novo (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
@@ -242226,6 +242402,41 @@ const CATALOG_DATA = [
   },
   {
     "t": "Love After Lockup: Relationship Rehab [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Noiva da Presilha Dourada [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Cheap Seats [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Devils' Crest",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Classic Movies: The Story Of [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Jonestown: Terror in the Jungle [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Downhill Skiers - Rausch der Geschwindigkeit [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Last Leg [L]",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   }
