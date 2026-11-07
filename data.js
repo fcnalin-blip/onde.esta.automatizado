@@ -65,6 +65,41 @@ const CATALOG_DATA = [
     "tp": "24H DORAMAS"
   },
   {
+    "t": "A FAZENDA 18 - MOSAICO",
+    "cat": "CANAIS",
+    "tp": "A FAZENDA 18"
+  },
+  {
+    "t": "A FAZENDA 18 CAM 01",
+    "cat": "CANAIS",
+    "tp": "A FAZENDA 18"
+  },
+  {
+    "t": "A FAZENDA 18 CAM 02",
+    "cat": "CANAIS",
+    "tp": "A FAZENDA 18"
+  },
+  {
+    "t": "A FAZENDA 18 CAM 03",
+    "cat": "CANAIS",
+    "tp": "A FAZENDA 18"
+  },
+  {
+    "t": "A FAZENDA 18 CAM 04",
+    "cat": "CANAIS",
+    "tp": "A FAZENDA 18"
+  },
+  {
+    "t": "A FAZENDA 18 CAM 05",
+    "cat": "CANAIS",
+    "tp": "A FAZENDA 18"
+  },
+  {
+    "t": "A FAZENDA 18 CAM 06",
+    "cat": "CANAIS",
+    "tp": "A FAZENDA 18"
+  },
+  {
     "t": "A Grande Familia",
     "cat": "CANAIS",
     "tp": "24H SÉRIES/PROGRAMAS"
@@ -4085,6 +4120,21 @@ const CATALOG_DATA = [
     "tp": "GLOBO SUL"
   },
   {
+    "t": "GLOBO TV SUBAÉ FHD",
+    "cat": "CANAIS",
+    "tp": "GLOBO NORDESTE"
+  },
+  {
+    "t": "GLOBO TV SUBAÉ HD",
+    "cat": "CANAIS",
+    "tp": "GLOBO NORDESTE"
+  },
+  {
+    "t": "GLOBO TV SUBAÉ SD",
+    "cat": "CANAIS",
+    "tp": "GLOBO NORDESTE"
+  },
+  {
     "t": "GLOBO TV SUDOESTE",
     "cat": "CANAIS",
     "tp": "GLOBO NORDESTE"
@@ -5405,121 +5455,6 @@ const CATALOG_DATA = [
     "tp": "24H INFANTIS/DESENHOS"
   },
   {
-    "t": "NBA BRASIL HD",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 01 (PPV)",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 01 (PPV)²",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 02 (PPV)",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 02 (PPV)²",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 03 (PPV)",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 03 (PPV)²",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 04 (PPV)",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 04 (PPV)²",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 05 (PPV)",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 05 (PPV)²",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 06 (PPV)",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 06 (PPV)²",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 07 (PPV)",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 07 (PPV)²",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 08 (PPV)",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 08 (PPV)²",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 09 (PPV)",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 09 (PPV)²",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 10 (PPV)",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 10 (PPV)²",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 11 (PPV)²",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
-    "t": "NBA LEAGUE PASS 12 (PPV)²",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
-  },
-  {
     "t": "Neon Genesis Evangelion",
     "cat": "CANAIS",
     "tp": "24H INFANTIS/DESENHOS"
@@ -5528,11 +5463,6 @@ const CATALOG_DATA = [
     "t": "NETFLIX EVENTOS",
     "cat": "CANAIS",
     "tp": "PAY-PER-VIEW"
-  },
-  {
-    "t": "NFL TV",
-    "cat": "CANAIS",
-    "tp": "NBA/NFL PPV"
   },
   {
     "t": "NSPORTS 01 HD",
@@ -6531,6 +6461,11 @@ const CATALOG_DATA = [
   },
   {
     "t": "RECORD PAULISTA HD",
+    "cat": "CANAIS",
+    "tp": "RECORD TV"
+  },
+  {
+    "t": "RECORD PIAUÍ - TV ANTENA 10",
     "cat": "CANAIS",
     "tp": "RECORD TV"
   },
@@ -8580,6 +8515,11 @@ const CATALOG_DATA = [
     "tp": "RELIGIOSOS"
   },
   {
+    "t": "TV MEIO NORTE",
+    "cat": "CANAIS",
+    "tp": "ABERTOS"
+  },
+  {
     "t": "TV MUNDO MAIOR HD",
     "cat": "CANAIS",
     "tp": "RELIGIOSOS"
@@ -8965,199 +8905,99 @@ const CATALOG_DATA = [
     "tp": "24H INFANTIS/DESENHOS"
   },
   {
-    "t": "RECORD PIAUÍ - TV ANTENA 10",
+    "t": "PRIME VIDEO AMAZON 10",
     "cat": "CANAIS",
-    "tp": "RECORD TV"
+    "tp": "PRIME VIDEO PPV"
   },
   {
-    "t": "TV MEIO NORTE",
+    "t": "16:45 - VENEZIA X UDINESE [1]",
     "cat": "CANAIS",
-    "tp": "ABERTOS"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "10:00 - COVENTRY X BRIGHTON [1]",
+    "t": "16:45 - VENEZIA X UDINESE [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "10:00 - COVENTRY X BRIGHTON [2]",
+    "t": "16:45 - TOULOUSE X STRASBOURG [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "10:00 - COVENTRY X BRIGHTON [3]",
+    "t": "16:45 - TOULOUSE X STRASBOURG [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "11:15 - LEVANTE X FC BARCELONA [1]",
+    "t": "17:00 - EVERTON X COVENTRY [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "11:15 - LEVANTE X FC BARCELONA [2]",
+    "t": "17:00 - EVERTON X COVENTRY [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "12:30 - MANCHESTER UNITED X MANCHESTER CITY [1]",
+    "t": "17:00 - SEVILLA X ALAVÉS [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "12:30 - MANCHESTER UNITED X MANCHESTER CITY [2]",
+    "t": "17:00 - SEVILLA X ALAVÉS [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "12:30 - MANCHESTER UNITED X MANCHESTER CITY [3]",
+    "t": "17:45 - FAMALICÃO X AROUCA [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "13:00 - NAPOLI X BOLOGNA [1]",
+    "t": "17:45 - FAMALICÃO X AROUCA [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "13:00 - NAPOLI X BOLOGNA [2]",
+    "t": "19:30 - OPERÁRIO-PR X SPORT RECIFE [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "15:45 - SASSUOLO X JUVENTUS [1]",
+    "t": "19:30 - OPERÁRIO-PR X SPORT RECIFE [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "15:45 - SASSUOLO X JUVENTUS [2]",
+    "t": "20:00 - VITÓRIA X FLUMINENSE [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "15:45 - SASSUOLO X JUVENTUS [3]",
+    "t": "20:00 - VITÓRIA X FLUMINENSE [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "16:00 - MIRASSOL X VITÓRIA [1]",
+    "t": "22:00 - TIGRE X SARMIENTO JUNIN [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "16:00 - MIRASSOL X VITÓRIA [2]",
+    "t": "22:00 - TIGRE X SARMIENTO JUNIN [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "16:00 - MIRASSOL X VITÓRIA [3]",
+    "t": "13:30 - LOKOMOTIV MOSCOW X RUBIN [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
-    "t": "16:00 - ATLÉTICO-GO X CRICIÚMA [1]",
+    "t": "13:30 - LOKOMOTIV MOSCOW X RUBIN [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "16:00 - ATLÉTICO-GO X CRICIÚMA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "16:00 - REAL SOCIEDAD X ATLÉTICO DE MADRID [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "16:00 - REAL SOCIEDAD X ATLÉTICO DE MADRID [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "16:00 - FERROVIÁRIA X PAYSANDU [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "16:00 - FERROVIÁRIA X PAYSANDU [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "17:30 - FLAMENGO X CORINTHIANS [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "17:30 - FLAMENGO X CORINTHIANS [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "17:30 - FLAMENGO X CORINTHIANS [3]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "18:00 - JUVENTUDE X ATHLETIC CLUB [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "18:00 - JUVENTUDE X ATHLETIC CLUB [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "18:30 - NOVORIZONTINO X CUIABÁ [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "18:30 - NOVORIZONTINO X CUIABÁ [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "18:30 - FORTALEZA X CEARÁ [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "18:30 - FORTALEZA X CEARÁ [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "18:30 - BRUSQUE X INTER DE LIMEIRA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "18:30 - BRUSQUE X INTER DE LIMEIRA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "12:30 - SV ELVERSBERG X BAYERN [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "12:30 - SV ELVERSBERG X BAYERN [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "14:00 - BENFICA X GIL VICENTE [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
-  },
-  {
-    "t": "14:00 - BENFICA X GIL VICENTE [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (13/09)"
+    "tp": "JOGOS DO DIA (06/11)"
   },
   {
     "t": "Depravação [L]",
@@ -9295,19 +9135,34 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Boogeyman: Seu Medo é Real [L]",
+    "t": "Boogeyman: Seu Medo é Real [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Som da Liberdade",
+    "t": "Som da Liberdade (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Boogeyman: Seu Medo é Real",
+    "t": "Som da Liberdade (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Som da Liberdade (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Boogeyman: Seu Medo é Real (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Boogeyman: Seu Medo é Real (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Um Lugar Silencioso - Parte II [L]",
@@ -9350,9 +9205,24 @@ const CATALOG_DATA = [
     "tp": "Especial | Natal"
   },
   {
-    "t": "Rodeio Rock",
+    "t": "Rodeio Rock (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Rodeio Rock (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Rodeio Rock (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Rodeio Rock (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
   },
   {
     "t": "O Natal de Costume",
@@ -9380,17 +9250,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "BlackBerry [L]",
+    "t": "BlackBerry [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Perdida no Deserto",
+    "t": "Perdida no Deserto (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Perdida no Deserto [L]",
+    "t": "Perdida no Deserto (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Perdida no Deserto [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -9410,12 +9285,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Mavka: Aventura na Floresta",
+    "t": "Mavka: Aventura na Floresta (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Mavka: Aventura na Floresta [L]",
+    "t": "Mavka: Aventura na Floresta (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Mavka: Aventura na Floresta (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Mavka: Aventura na Floresta (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Mavka: Aventura na Floresta [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -9430,12 +9320,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Natal do Pequeno Batman",
+    "t": "O Natal do Pequeno Batman (2023)",
     "cat": "FILMES",
-    "tp": "Especial | Natal"
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Natal do Pequeno Batman [L]",
+    "t": "O Natal do Pequeno Batman (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "O Natal do Pequeno Batman (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Natal do Pequeno Batman (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "O Natal do Pequeno Batman [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -9455,12 +9360,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Mundo Depois de Nós",
+    "t": "O Mundo Depois de Nós (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Mundo Depois de Nós [L]",
+    "t": "O Mundo Depois de Nós (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Mundo Depois de Nós (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "O Mundo Depois de Nós (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Mundo Depois de Nós [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -9500,9 +9420,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Rainha da Noite",
+    "t": "A Rainha da Noite (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Rainha da Noite (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "A Rainha da Noite (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "TPM! Meu amor",
@@ -9555,12 +9485,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Um Amor de Natal",
+    "t": "Um Amor de Natal (2024)",
     "cat": "FILMES",
-    "tp": "Especial | Natal"
+    "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Um Amor de Natal [L]",
+    "t": "Um Amor de Natal (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Um Amor de Natal (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Um Amor de Natal [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -9585,7 +9525,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Há Algo no Celeiro [L]",
+    "t": "Há Algo no Celeiro [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -9605,7 +9545,7 @@ const CATALOG_DATA = [
     "tp": "Especial | Natal"
   },
   {
-    "t": "Anatomia de uma Queda [L]",
+    "t": "Anatomia de uma Queda [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -9650,24 +9590,49 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "12 Horas Para o Fim do Mundo",
+    "t": "12 Horas Para o Fim do Mundo (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Drama"
   },
   {
-    "t": "Jester: A Morte Sorri",
+    "t": "12 Horas Para o Fim do Mundo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Jester: A Morte Sorri (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Jester: A Morte Sorri [L]",
+    "t": "Jester: A Morte Sorri (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Jester: A Morte Sorri (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Jester: A Morte Sorri [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Não Abra!",
+    "t": "Não Abra! (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Não Abra! (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Não Abra! (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Risco Absoluto",
@@ -9735,9 +9700,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Há Algo no Celeiro",
+    "t": "Há Algo no Celeiro (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Há Algo no Celeiro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Há Algo no Celeiro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Há Algo no Celeiro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Sob a Luz da Fama: O Poder da Paixão",
@@ -9820,12 +9800,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "South Park (Não Recomendado Para Menores)",
+    "t": "South Park (Não Recomendado Para Menores) (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "South Park (Não Recomendado Para Menores) [L]",
+    "t": "South Park (Não Recomendado Para Menores) (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "South Park (Não Recomendado Para Menores) (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "South Park (Não Recomendado Para Menores) (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "South Park (Não Recomendado Para Menores) [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10140,12 +10135,27 @@ const CATALOG_DATA = [
     "tp": "Especial | Karaokê/Infantil"
   },
   {
-    "t": "Saltburn",
+    "t": "Saltburn (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Saltburn [L]",
+    "t": "Saltburn (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Saltburn (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Saltburn (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Saltburn [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10165,12 +10175,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Rebel Moon - Parte 1: A Menina do Fogo",
+    "t": "Rebel Moon - Parte 1: A Menina do Fogo (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Rebel Moon - Parte 1: A Menina do Fogo [L]",
+    "t": "Rebel Moon - Parte 1: A Menina do Fogo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Rebel Moon - Parte 1: A Menina do Fogo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Rebel Moon - Parte 1: A Menina do Fogo [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10230,7 +10250,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Jornada Para Belém [L]",
+    "t": "Jornada Para Belém [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10285,17 +10305,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Hotel do Medo",
+    "t": "Hotel do Medo (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
   {
-    "t": "O Mistério da Floresta",
+    "t": "O Mistério da Floresta (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Mistério"
   },
   {
-    "t": "O Mistério da Floresta [L]",
+    "t": "O Mistério da Floresta (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Mistério da Floresta (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Mistério da Floresta [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10330,9 +10360,19 @@ const CATALOG_DATA = [
     "tp": "Especial | Natal"
   },
   {
-    "t": "A Lenda da Serpente",
+    "t": "A Lenda da Serpente (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Lenda da Serpente (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "A Lenda da Serpente (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "U.S. Marshals: Os Federais",
@@ -10350,12 +10390,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Um Romance Perfeito",
+    "t": "Um Romance Perfeito (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
   },
   {
-    "t": "Um Romance Perfeito [L]",
+    "t": "Um Romance Perfeito (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Um Romance Perfeito [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10365,12 +10410,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "A Bruxa do Gelo",
+    "t": "A Bruxa do Gelo (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
   {
-    "t": "A Bruxa do Gelo [L]",
+    "t": "A Bruxa do Gelo [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10420,17 +10465,42 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Jornada Para Belém",
+    "t": "Jornada Para Belém (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Finestkind",
+    "t": "Jornada Para Belém (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Jornada Para Belém (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Finestkind (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Finestkind [L]",
+    "t": "Finestkind (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Finestkind (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Finestkind (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Finestkind [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10535,12 +10605,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Criptofraude",
+    "t": "Criptofraude (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Criptofraude [L]",
+    "t": "Criptofraude (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Criptofraude (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Criptofraude [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10550,12 +10630,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Início Do Mundo De Greg: Um Filme Original",
+    "t": "O Início do Mundo de Greg: Um Filme Original (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Início Do Mundo De Greg: Um Filme Original [L]",
+    "t": "O Início do Mundo de Greg: Um Filme Original (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "O Início do Mundo de Greg: Um Filme Original (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "O Início do Mundo de Greg: Um Filme Original (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "O Início do Mundo de Greg: Um Filme Original [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10580,9 +10675,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Tia Virgínia",
+    "t": "Tia Virgínia (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Tia Virgínia (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Tequila Re-Pasado",
@@ -10595,12 +10695,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Maldição do Boneco Robert",
+    "t": "A Maldição do Boneco Robert (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Documentários"
+    "tp": "Filmes | Terror"
   },
   {
-    "t": "A Maldição do Boneco Robert [L]",
+    "t": "A Maldição do Boneco Robert [L] (2016)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10665,7 +10765,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Genie - A Magia do Natal [L]",
+    "t": "Genie - A Magia do Natal [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10705,12 +10805,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Carona Aterrorizante",
+    "t": "Carona Aterrorizante (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Carona Aterrorizante [L]",
+    "t": "Carona Aterrorizante (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Carona Aterrorizante (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Carona Aterrorizante [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10740,12 +10850,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Lift: Roubo nas Alturas",
+    "t": "Lift: Roubo nas Alturas (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Lift: Roubo nas Alturas [L]",
+    "t": "Lift: Roubo nas Alturas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Lift: Roubo nas Alturas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Lift: Roubo nas Alturas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Lift: Roubo nas Alturas [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10755,12 +10880,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Jogo do Disfarce",
+    "t": "O Jogo do Disfarce (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Jogo do Disfarce [L]",
+    "t": "O Jogo do Disfarce (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Jogo do Disfarce (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Jogo do Disfarce (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Jogo do Disfarce [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10775,9 +10915,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Afonso Padilha: Gerações",
+    "t": "Afonso Padilha: Gerações (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Afonso Padilha: Gerações (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Amor(es) Verdadeiro(s)",
@@ -10845,9 +10990,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "As Aventuras de Poliana: O Filme",
+    "t": "As Aventuras de Poliana: O Filme (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "As Aventuras de Poliana: O Filme (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "As Aventuras de Poliana: O Filme (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "As Aventuras de Poliana: O Filme (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
   },
   {
     "t": "Casamento Arranjado [L]",
@@ -10885,7 +11045,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "12 Horas Para o Fim do Mundo [L]",
+    "t": "12 Horas Para o Fim do Mundo [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -10980,22 +11140,47 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Nina: A Heroína dos Sete Mares",
+    "t": "Nina: A Heroína dos Sete Mares (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Nina: A Heroína dos Sete Mares [L]",
+    "t": "Nina: A Heroína dos Sete Mares (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Nina: A Heroína dos Sete Mares (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Nina: A Heroína dos Sete Mares (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Nina: A Heroína dos Sete Mares [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "57 Segundos",
+    "t": "57 Segundos (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "57 Segundos [L]",
+    "t": "57 Segundos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "57 Segundos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "57 Segundos [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11010,12 +11195,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Jogo da Invocação",
+    "t": "O Jogo da Invocação (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Jogo da Invocação [L]",
+    "t": "O Jogo da Invocação (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Jogo da Invocação (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Jogo da Invocação [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11042,6 +11237,11 @@ const CATALOG_DATA = [
   {
     "t": "60 Minutos (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "60 Minutos (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
@@ -11057,17 +11257,7 @@ const CATALOG_DATA = [
   {
     "t": "60 Minutos [L] (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
-  },
-  {
-    "t": "60 Minutos [L] (2024)",
-    "cat": "FILMES",
-    "tp": "Filmes | Aventura"
-  },
-  {
-    "t": "60 Minutos [L] (2024)",
-    "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Legendados"
   },
   {
     "t": "Minha Solidão Tem Asas",
@@ -11080,12 +11270,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "The Kitchen",
+    "t": "The Kitchen (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "The Kitchen [L]",
+    "t": "The Kitchen (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "The Kitchen (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "The Kitchen [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11180,9 +11380,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Nosso sonho",
+    "t": "Nosso Sonho (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Nosso Sonho (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Nosso Sonho (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Nosso Sonho (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
   },
   {
     "t": "Lore [L]",
@@ -11195,12 +11410,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "As Superpoderosas",
+    "t": "As Superpoderosas (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "As Superpoderosas [L]",
+    "t": "As Superpoderosas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "As Superpoderosas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "As Superpoderosas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "As Superpoderosas [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11220,12 +11450,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Último Caso do Sr. Monk",
+    "t": "O Último Caso do Sr. Monk (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Último Caso do Sr. Monk [L]",
+    "t": "O Último Caso do Sr. Monk (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Último Caso do Sr. Monk (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Último Caso do Sr. Monk (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "O Último Caso do Sr. Monk [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11265,12 +11510,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Em Ruínas",
+    "t": "Em Ruínas (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Em Ruínas [L]",
+    "t": "Em Ruínas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Em Ruínas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Em Ruínas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Em Ruínas [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11380,9 +11640,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Maldição do Queen Mary",
+    "t": "A Maldição do Queen Mary (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Maldição do Queen Mary (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Maldição do Queen Mary (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Maldição do Queen Mary (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "A Indestrutível Tatiana Suarez [L]",
@@ -11415,12 +11690,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Noite que Mudou o Pop",
+    "t": "A Noite que Mudou o Pop (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "A Noite que Mudou o Pop [L]",
+    "t": "A Noite que Mudou o Pop (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Noite que Mudou o Pop (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "A Noite que Mudou o Pop [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11455,12 +11740,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Feed: O Terror está Online",
+    "t": "Feed: O Terror está Online (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Feed: O Terror está Online (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Feed: O Terror está Online [L]",
+    "t": "Feed: O Terror está Online [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11485,12 +11775,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Rainha Guerreira",
+    "t": "A Rainha Guerreira (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "A Rainha Guerreira [L]",
+    "t": "A Rainha Guerreira (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Rainha Guerreira (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "A Rainha Guerreira [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11500,9 +11800,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Sequestro do Voo 375",
+    "t": "O Sequestro do Voo 375 (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Sequestro do Voo 375 (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Sequestro do Voo 375 (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Segredos de Família",
@@ -11580,9 +11890,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Upgrade: As Cores do Amor",
+    "t": "Upgrade: As Cores do Amor (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Upgrade: As Cores do Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Upgrade: As Cores do Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Stalker e Mortal",
@@ -11590,7 +11910,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Stalker e Mortal [L]",
+    "t": "Stalker e Mortal [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11610,12 +11930,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Indiferença",
+    "t": "Indiferença (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Indiferença [L]",
+    "t": "Indiferença (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Indiferença (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Indiferença [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11685,9 +12015,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Fazendo Meu Filme",
+    "t": "Fazendo Meu Filme (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Fazendo Meu Filme (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Fazendo Meu Filme (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Amor em Soweto",
@@ -11700,12 +12040,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Jogos de Amor",
+    "t": "Jogos de Amor (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Jogos de Amor [L]",
+    "t": "Jogos de Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Jogos de Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Jogos de Amor [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11720,12 +12070,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Guerra do Hambúrguer 2",
+    "t": "A Guerra do Hambúrguer 2 (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "A Guerra do Hambúrguer 2 [L]",
+    "t": "A Guerra do Hambúrguer 2 (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "A Guerra do Hambúrguer 2 (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Guerra do Hambúrguer 2 [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11735,22 +12095,52 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "O Aprendiz do Tigre",
+    "t": "O Aprendiz do Tigre (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "O Aprendiz do Tigre [L]",
+    "t": "O Aprendiz do Tigre (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "O Aprendiz do Tigre (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "O Aprendiz do Tigre (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "O Aprendiz do Tigre [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Senhor do Caos",
+    "t": "O Senhor do Caos (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Senhor do Caos [L]",
+    "t": "O Senhor do Caos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Senhor do Caos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "O Senhor do Caos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Senhor do Caos [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11785,12 +12175,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Einstein e a Bomba",
+    "t": "Einstein e a Bomba (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Einstein e a Bomba [L]",
+    "t": "Einstein e a Bomba (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Einstein e a Bomba (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Einstein e a Bomba [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11940,12 +12340,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Remando para o Ouro",
+    "t": "Remando para o Ouro (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Remando para o Ouro [L]",
+    "t": "Remando para o Ouro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Remando para o Ouro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Remando para o Ouro [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -11965,12 +12375,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Dogman",
+    "t": "Dogman (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Dogman [L]",
+    "t": "Dogman (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Dogman (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Dogman (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Dogman [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -12040,12 +12465,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Mea Culpa",
+    "t": "Mea Culpa (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Mea Culpa [L]",
+    "t": "Mea Culpa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Mea Culpa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Mea Culpa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Mea Culpa [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -12060,7 +12500,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Quem Chamou o Charlie? [L]",
+    "t": "Quem Chamou o Charlie? [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -12070,12 +12510,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Manodrome",
+    "t": "Manodrome (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Manodrome [L]",
+    "t": "Manodrome (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Manodrome (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Manodrome (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Manodrome [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -12195,9 +12650,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Minha Irmã e Eu",
+    "t": "Minha Irmã e Eu (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Minha Irmã e Eu (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Code 8: Renegados - Parte 2",
@@ -12215,14 +12675,34 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Ó 2",
+    "t": "Ó 2 (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Astronauta",
+    "t": "Ó 2 (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Ó 2 (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Astronauta (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Astronauta (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "O Astronauta (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Astronauta [L]",
@@ -12270,12 +12750,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Saudade Que Fica",
+    "t": "A Saudade Que Fica (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "A Saudade Que Fica [L]",
+    "t": "A Saudade Que Fica (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Saudade Que Fica (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "A Saudade Que Fica [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -12300,27 +12790,52 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Turma da Mônica Jovem: Reflexos do Medo",
+    "t": "Turma da Mônica Jovem: Reflexos do Medo (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Marcas da Vida",
+    "t": "Turma da Mônica Jovem: Reflexos do Medo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Turma da Mônica Jovem: Reflexos do Medo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Turma da Mônica Jovem: Reflexos do Medo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Marcas da Vida (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Marcas da Vida [L]",
+    "t": "Marcas da Vida [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Sobreviventes - Depois do Terremoto",
+    "t": "Sobreviventes - Depois do Terremoto (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Sobreviventes - Depois do Terremoto [L]",
+    "t": "Sobreviventes - Depois do Terremoto (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sobreviventes - Depois do Terremoto (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Sobreviventes - Depois do Terremoto [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -12815,12 +13330,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Retorno dos Thundermans",
+    "t": "O Retorno dos Thundermans (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "O Retorno dos Thundermans [L]",
+    "t": "O Retorno dos Thundermans (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "O Retorno dos Thundermans (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Retorno dos Thundermans [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -12975,12 +13500,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "A Arte de Amar",
+    "t": "A Arte de Amar (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "A Arte de Amar [L]",
+    "t": "A Arte de Amar (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Arte de Amar (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Arte de Amar (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Arte de Amar [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -12995,22 +13535,47 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Madame Teia",
+    "t": "Madame Teia (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Madame Teia [L]",
+    "t": "Madame Teia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Madame Teia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Madame Teia [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Assassinato de Elite",
+    "t": "Assassinato de Elite (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Assassinato de Elite [L]",
+    "t": "Assassinato de Elite (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Assassinato de Elite (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Assassinato de Elite (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Assassinato de Elite [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -13040,12 +13605,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Pedido Irlandês",
+    "t": "Pedido Irlandês (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Pedido Irlandês [L]",
+    "t": "Pedido Irlandês (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Pedido Irlandês (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Pedido Irlandês (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Pedido Irlandês [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -13060,9 +13640,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Gato Galáctico e o feitiço do tempo",
+    "t": "Gato Galáctico e o Feitiço do Tempo (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Gato Galáctico e o Feitiço do Tempo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Gato Galáctico e o Feitiço do Tempo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Not Friends [L]",
@@ -13085,22 +13675,47 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Cão e Gato",
+    "t": "Cão e Gato (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Cão e Gato [L]",
+    "t": "Cão e Gato (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Cão e Gato (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Cão e Gato [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Bob Marley: One Love",
+    "t": "Bob Marley: One Love (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Bob Marley: One Love [L]",
+    "t": "Bob Marley: One Love (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Bob Marley: One Love (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Bob Marley: One Love (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Bob Marley: One Love [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -13155,9 +13770,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Matador de Aluguel",
+    "t": "Matador de Aluguel (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Matador de Aluguel (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Matador de Aluguel (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Matador de Aluguel (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Matador de Aluguel [L] (1989)",
@@ -13165,12 +13795,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Viagem Sombria",
+    "t": "Viagem Sombria (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Viagem Sombria [L]",
+    "t": "Viagem Sombria (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Viagem Sombria (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Viagem Sombria [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -13185,22 +13825,42 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Diário da Minha Vagina",
+    "t": "Diário da Minha Vagina (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Diário da Minha Vagina [L]",
+    "t": "Diário da Minha Vagina (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Diário da Minha Vagina (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Diário da Minha Vagina [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Marginal",
+    "t": "A Marginal (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "A Marginal [L]",
+    "t": "A Marginal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Marginal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Marginal [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -13220,22 +13880,52 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Debaixo do Píer",
+    "t": "Debaixo do Píer (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Debaixo do Píer [L]",
+    "t": "Debaixo do Píer (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Debaixo do Píer (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Debaixo do Píer (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Debaixo do Píer [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Os Casagrandes: O Filme",
+    "t": "Os Casagrandes: O Filme (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Os Casagrandes: O Filme [L]",
+    "t": "Os Casagrandes: O Filme (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Os Casagrandes: O Filme (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Os Casagrandes: O Filme (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Os Casagrandes: O Filme [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -13330,9 +14020,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "100 Medos",
+    "t": "100 Medos (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "100 Medos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Chernobyl: Sinta a Radiação",
@@ -13340,19 +14035,39 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Ivy e Bean",
+    "t": "Ivy e Bean (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Família"
   },
   {
-    "t": "Ivy e Bean Entram na Dança",
+    "t": "Ivy e Bean (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Ivy e Bean (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Ivy e Bean Entram na Dança (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Família"
   },
   {
-    "t": "Ivy e Bean: O Fantasma do Banheiro",
+    "t": "Ivy e Bean Entram na Dança (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Ivy e Bean: O Fantasma do Banheiro (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Família"
+  },
+  {
+    "t": "Ivy e Bean: O Fantasma do Banheiro (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "O Último Ataque de Hitler",
@@ -13515,11 +14230,6 @@ const CATALOG_DATA = [
     "tp": "Filmes | Thriller"
   },
   {
-    "t": "Indecente",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
     "t": "Spree",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
@@ -13660,7 +14370,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Minha Irmã",
+    "t": "Minha Irmã (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -14455,9 +15165,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "Viver Duas Vezes",
+    "t": "Viver Duas Vezes (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Viver Duas Vezes (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Villains",
@@ -15075,6 +15790,11 @@ const CATALOG_DATA = [
     "tp": "Filmes | Família"
   },
   {
+    "t": "A Boneca que Virou Gente 2 (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
     "t": "Luan Santana: VIVA",
     "cat": "FILMES",
     "tp": "Filmes | Música"
@@ -15205,7 +15925,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Enquanto Você Dorme",
+    "t": "Enquanto Você Dorme (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
@@ -15535,7 +16255,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Andar Montar Rodeio: A Virada de Amberley",
+    "t": "Andar Montar Rodeio: A Virada de Amberley (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -15960,9 +16680,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Megan Leavey",
+    "t": "Megan Leavey (2017)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Megan Leavey (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
   },
   {
     "t": "Medo Profundo",
@@ -16020,9 +16745,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Gonzaga: De Pai pra Filho",
+    "t": "Gonzaga: De Pai pra Filho (2012)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Gonzaga: De Pai pra Filho (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Gonzaga: De Pai pra Filho (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
   },
   {
     "t": "Gente de Bem",
@@ -16060,9 +16795,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Estrelas Além do Tempo",
+    "t": "Estrelas Além do Tempo (2016)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Estrelas Além do Tempo (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "Escobar: A Traição",
@@ -16485,9 +17225,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Thriller"
   },
   {
-    "t": "Sentença de Morte",
+    "t": "Sentença de Morte (2017)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Sentença de Morte (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Sem Escalas",
@@ -17340,9 +18085,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "John Wick 3: Parabellum [L]",
+    "t": "John Wick 3: Parabellum [L] (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Legendados"
   },
   {
     "t": "Altamente Imperfeitos",
@@ -17480,9 +18225,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Thriller"
   },
   {
-    "t": "Colateral",
+    "t": "Colateral (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Colateral (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Colateral (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Colateral (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Vida Secreta de Zoe",
@@ -17735,7 +18495,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "Tropas Estelares: Invasores de Marte",
+    "t": "Tropas Estelares: Invasores de Marte (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Tropas Estelares: Invasores de Marte (2017)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
@@ -17765,9 +18530,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "Troco em Dobro",
+    "t": "Troco em Dobro (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Troco em Dobro (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Troco em Dobro (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Axel e os Meninos do Espaço",
@@ -17775,9 +18550,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "O Limite da Traição",
+    "t": "O Limite da Traição (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Limite da Traição (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Limite da Traição (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "A Creche do Papai 3 (2019)",
@@ -17810,7 +18595,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Crime"
   },
   {
-    "t": "Quatro Histórias de Fantasmas",
+    "t": "Quatro Histórias de Fantasmas (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
@@ -17870,9 +18655,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Missão no Mar Vermelho",
+    "t": "Missão no Mar Vermelho (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Missão no Mar Vermelho (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Missão no Mar Vermelho (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "A Grande Jogada",
@@ -18085,9 +18880,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Thriller"
   },
   {
-    "t": "Por um Fio",
+    "t": "Por Um Fio (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Por Um Fio (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
   },
   {
     "t": "Por um Triz",
@@ -18510,9 +19310,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "Medo S.A.",
+    "t": "Medo S.A. (2016)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Medo S.A. (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Medo S.A. (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Mau-Olhado",
@@ -18700,9 +19510,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Pets Unidos",
+    "t": "Pets Unidos (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Pets Unidos (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Pets Unidos (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "#SemSaída",
@@ -19010,9 +19830,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "É o Bicho!",
+    "t": "É o Bicho! (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "É o Bicho! (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "É o Bicho! (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Endless",
@@ -19140,7 +19970,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "Resgate em Malibu: A Próxima Onda",
+    "t": "Resgate em Malibu: A Próxima Onda (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -19360,7 +20190,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Encontro Fatal",
+    "t": "Encontro Fatal (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
   },
@@ -19790,7 +20620,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "Enquanto Estivermos Juntos [L]",
+    "t": "Enquanto Estivermos Juntos [L] (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -19865,9 +20695,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Nacionais"
   },
   {
-    "t": "Dragon Quest: Sua História",
+    "t": "Dragon Quest: Sua História (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Dragon Quest: Sua História (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Dragon Quest: Sua História (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Timmy Fiasco",
@@ -20120,9 +20960,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Uma Ajuda Natalina",
+    "t": "Uma Ajuda Natalina (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Uma Ajuda Natalina (2012)",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Uma Ajuda Natalina (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "Um Desfile de Natal",
@@ -20207,7 +21057,17 @@ const CATALOG_DATA = [
   {
     "t": "Máfia Digital (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Máfia Digital (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Máfia Digital (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Rouxinol",
@@ -20225,7 +21085,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "A Despedida",
+    "t": "A Despedida (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -20505,9 +21365,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "Paralisia",
+    "t": "Paralisia (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Paralisia (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Show da Luna: Bichos na Fazenda",
@@ -21115,9 +21980,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Poderia Me Perdoar?",
+    "t": "Poderia Me Perdoar? (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Poderia Me Perdoar? (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Poderia Me Perdoar? (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Pelas Ruas de Paris",
@@ -22545,14 +23420,29 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Dancing Queens",
+    "t": "Dancing Queens (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Velocidade Mortal",
+    "t": "Dancing Queens (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Velocidade Mortal (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Velocidade Mortal (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Velocidade Mortal (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Nadando pelo Ouro",
@@ -22740,9 +23630,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Oferenda à Tempestade",
+    "t": "Oferenda à Tempestade (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Oferenda à Tempestade (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Oferenda à Tempestade (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Los Angeles: Cidade Proibida",
@@ -22865,9 +23765,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Presságio",
+    "t": "Presságio (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Presságio (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Cidade das Sombras",
@@ -22940,9 +23845,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Separacao e Reencontro",
+    "t": "Separação e Reencontro (2017)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Separação e Reencontro (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
   },
   {
     "t": "Anna O Perigo Tem Nome",
@@ -23025,9 +23935,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "No Ritmo da Sedução",
+    "t": "No Ritmo da Sedução (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "No Ritmo da Sedução (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "No Ritmo da Sedução (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "À Moda Antiga",
@@ -23200,9 +24120,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Um Estranho Entre Nós",
+    "t": "Um Estranho Entre Nós (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Um Estranho Entre Nós (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Invasão Final",
@@ -23215,7 +24140,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "100 Medos [L]",
+    "t": "100 Medos [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -23255,9 +24180,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Até o Limite da Honra",
+    "t": "Até o Limite da Honra (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Até o Limite da Honra (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
   },
   {
     "t": "Resgate",
@@ -23710,9 +24640,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Thriller"
   },
   {
-    "t": "O Grito",
+    "t": "O Grito (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Grito (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Sexta.Feira.13 -12",
@@ -23735,9 +24670,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Religiosos"
   },
   {
-    "t": "Uma Skatista Radical",
+    "t": "Uma Skatista Radical (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Uma Skatista Radical (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
   },
   {
     "t": "Maria: Mãe do Filho de Deus",
@@ -23745,9 +24685,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Religiosos"
   },
   {
-    "t": "Sombras da Noite",
+    "t": "Sombras da Noite (2012)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Sombras da Noite (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Código de Conduta",
@@ -23885,9 +24830,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Operação Final",
+    "t": "Operação Final (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Operação Final (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Operação Final (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Olga",
@@ -24375,7 +25330,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "O Divino Baggio",
+    "t": "O Divino Baggio (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -24490,9 +25445,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "O Último Desejo de Sardar",
+    "t": "O Último Desejo de Sardar (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Último Desejo de Sardar (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Último Desejo de Sardar (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Marley & Eu (2008)",
@@ -24500,9 +25465,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "A Última Linha de Defesa",
+    "t": "A Última Linha de Defesa (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "A Última Linha de Defesa (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Última Linha de Defesa (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "O Patriota",
@@ -24530,9 +25505,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Ascensão do Cisne Negro",
+    "t": "Ascensão do Cisne Negro (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Ascensão do Cisne Negro (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Ascensão do Cisne Negro (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Os Donos da Rua",
@@ -24560,9 +25545,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "Era Uma Vez em Nova York",
+    "t": "Era Uma Vez em Nova York (2013)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Era Uma Vez em Nova York (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Cherry 2000",
@@ -24720,9 +25710,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "2067",
+    "t": "2067 (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Distúrbio (2018)",
@@ -25015,9 +26005,19 @@ const CATALOG_DATA = [
     "tp": "Coletânea | Jean-Claude Van Damme"
   },
   {
-    "t": "Fora da Trilha",
+    "t": "Fora da Trilha (2016)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Fora da Trilha (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Fora da Trilha (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Anna Karenina",
@@ -25040,7 +26040,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "O Mensageiro",
+    "t": "O Mensageiro (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Mensageiro (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -25340,9 +26345,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Marcas do Passado",
+    "t": "Marcas do Passado (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Marcas do Passado (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "A Fábrica de Humanos",
@@ -25385,9 +26395,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Vingança",
+    "t": "Vingança (2016)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Vingança (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Vingança (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Coisa",
@@ -26085,9 +27105,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Parker",
+    "t": "Parker (2013)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Parker (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "O Homem Que Viu o Infinito",
@@ -27655,9 +28680,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Como Virei Super-Herói",
+    "t": "Como Virei Super-Herói (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Como Virei Super-Herói (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Vampiras",
@@ -27690,9 +28720,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "America: The Motion Picture",
+    "t": "America: The Motion Picture (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "America: The Motion Picture (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "America: The Motion Picture (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Trovão Tropical",
@@ -27780,9 +28820,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "O Guia da Família Perfeita",
+    "t": "O Guia da Família Perfeita (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Guia da Família Perfeita (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Juno",
@@ -27845,9 +28890,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Através Da Sombra",
+    "t": "Através da Sombra (2015)",
     "cat": "FILMES",
-    "tp": "Filmes | Nacionais"
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Através da Sombra (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Céu Vermelho-Sangue",
@@ -27855,9 +28905,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Encaixe Perfeito",
+    "t": "Encaixe Perfeito (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Encaixe Perfeito (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Encaixe Perfeito (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Expresso para o Inferno",
@@ -27905,9 +28965,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Guerra do Amanhã",
+    "t": "A Guerra do Amanhã (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Guerra do Amanhã (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "O Escritor Fantasma",
@@ -28230,9 +29295,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Sobreviva ou Morra Tentando",
+    "t": "Sobreviva ou Morra Tentando (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Sobreviva ou Morra Tentando (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Sobreviva ou Morra Tentando (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Os Dois Super-Tiras em Miami",
@@ -28485,9 +29560,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Ele é Demais",
+    "t": "Ele é Demais (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Ele é Demais (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Lado a Lado com o Amor",
@@ -28520,9 +29600,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "G.I. Joe Origens: Snake Eyes",
+    "t": "G.I. Joe Origens: Snake Eyes (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "G.I. Joe Origens: Snake Eyes (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Os Gatões 2: O Início",
@@ -28960,9 +30045,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "Noitários de Arrepiar",
+    "t": "Noitários de Arrepiar (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Noitários de Arrepiar (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Noitários de Arrepiar (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
   },
   {
     "t": "Casamentos e Outros Desastres",
@@ -29095,9 +30190,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Refém Rebelde",
+    "t": "Refém Rebelde (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Refém Rebelde (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Refém Rebelde (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Deu a Louca nos Nazis 2",
@@ -29115,9 +30220,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "Dead Kids",
+    "t": "Dead Kids (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Dead Kids (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Dead Kids (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Deu a Louca nos Nazis",
@@ -29525,9 +30640,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "My Little Pony: Nova Geração",
+    "t": "My Little Pony: Nova Geração (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "My Little Pony: Nova Geração (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "My Little Pony: Nova Geração (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Seis Minutos para Meia-Noite",
@@ -29715,9 +30840,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "É Proibido Amar",
+    "t": "É Proibido Amar (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "É Proibido Amar (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "É Proibido Amar (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Risco Duplo",
@@ -29810,9 +30945,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Hercules",
+    "t": "Hércules (2014)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Hércules (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Beethoven: Aventura de Natal (2011)",
@@ -29910,9 +31050,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Jardim da Fé",
+    "t": "O Jardim da Fé (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Família"
   },
   {
     "t": "A Heroína em Cape Cod",
@@ -30025,9 +31165,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Finch",
+    "t": "Finch (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Finch (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Quatro Dias com Ela",
@@ -30105,9 +31250,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Sem Conexão 2",
+    "t": "Sem Conexão 2 (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Sem Conexão 2 (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sem Conexão 2 (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Only Mine",
@@ -30630,9 +31785,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Morgan: A Evolução",
+    "t": "Morgan: A Evolução (2016)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Morgan: A Evolução (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Quando Encontrei Você",
@@ -30745,11 +31905,6 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Menino de Asakusa",
-    "cat": "FILMES",
-    "tp": "Filmes | Legendados"
-  },
-  {
     "t": "A Bruxa dos Doces",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
@@ -30763,11 +31918,6 @@ const CATALOG_DATA = [
     "t": "A Fita Cassete",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
-  },
-  {
-    "t": "Segredos nas Paredes",
-    "cat": "FILMES",
-    "tp": "Filmes | Terror"
   },
   {
     "t": "Bordertown: A Eliminação",
@@ -31095,9 +32245,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Olhos de Dragão",
+    "t": "Olhos de Dragão (2012)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Olhos de Dragão (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Reencontro de Natal (2017)",
@@ -31205,7 +32360,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "Espíritos Obscuros [L]",
+    "t": "Espíritos Obscuros [L] (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -31288,11 +32443,6 @@ const CATALOG_DATA = [
     "t": "O Bom Doutor",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
-  },
-  {
-    "t": "Super Murali",
-    "cat": "FILMES",
-    "tp": "Filmes | Comédia"
   },
   {
     "t": "The Night",
@@ -31615,11 +32765,6 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Sing 2",
-    "cat": "FILMES",
-    "tp": "Filmes | Comédia"
-  },
-  {
     "t": "Fantasmas do Passado",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
@@ -31670,7 +32815,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "Furioza",
+    "t": "Furioza (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Furioza (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Furioza (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -31680,9 +32835,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Yaksha: Operação Implacável",
+    "t": "Yaksha: Operação Implacável (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Yaksha: Operação Implacável (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Yaksha: Operação Implacável (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Jovem Viking",
@@ -31790,9 +32955,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "A Megera Domada",
+    "t": "A Megera Domada (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Megera Domada (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Horas Decisivas",
@@ -32000,9 +33170,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Coração de Campeão",
+    "t": "Coração de Campeão (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Coração de Campeão (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Família"
+  },
+  {
+    "t": "Coração de Campeão (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Os Reis da Rua",
@@ -32025,9 +33205,14 @@ const CATALOG_DATA = [
     "tp": "Coletânea | Indiana Jones"
   },
   {
-    "t": "De Novo!",
+    "t": "De Novo! (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "De Novo! (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Vai Dar Nada",
@@ -32210,9 +33395,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Interceptor",
+    "t": "Interceptor (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Interceptor (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Interceptor (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Meu Psicólogo Imaginário",
@@ -32250,9 +33445,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "King - Meu Melhor Amigo",
+    "t": "King - Meu Melhor Amigo (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "King - Meu Melhor Amigo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "King - Meu Melhor Amigo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
   },
   {
     "t": "Tiro às Cegas (2020)",
@@ -32395,9 +33600,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Respect: A História de Aretha Franklin",
+    "t": "Respect: A História de Aretha Franklin (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Respect: A História de Aretha Franklin (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Respect: A História de Aretha Franklin (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "O Talentoso Ripley",
@@ -32435,9 +33650,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "O Apocalipse do Amor",
+    "t": "O Apocalipse do Amor (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Apocalipse do Amor (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Tudo Pela Fama",
@@ -32450,9 +33670,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Algo Sobre Harry",
+    "t": "Algo Sobre Harry (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Algo Sobre Harry (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Algo Sobre Harry (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Recife Assombrado (2019)",
@@ -32505,9 +33735,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Crime"
   },
   {
-    "t": "A Ira de Deus",
+    "t": "A Ira de Deus (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Ira de Deus (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Exorcismo Sagrado",
@@ -32535,9 +33770,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Desfile de Corações",
+    "t": "Desfile de Corações (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Desfile de Corações (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Centauro",
@@ -32545,9 +33785,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Colisão",
+    "t": "Colisão (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Colisão (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Colisão (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Um Drink no Inferno 3: A Filha do Carrasco",
@@ -32755,9 +34005,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Dois Amigos e uma Ameaça Alienígena",
+    "t": "Dois Amigos e uma Ameaça Alienígena (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Dois Amigos e uma Ameaça Alienígena (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Em Busca do Portal Mágico",
@@ -32815,9 +34070,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Amor & Gelato",
+    "t": "Amor & Gelato (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Amor & Gelato (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Amor & Gelato (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Em Fuga",
@@ -32900,9 +34165,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Tudo por Jojo",
+    "t": "Tudo por Jojo (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Transcendence: A Revolução",
@@ -33070,9 +34335,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "Live Is Life",
+    "t": "Live Is Life (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Live Is Life (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Lightyear [L] (2022)",
@@ -33145,9 +34415,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Temporada de Casamentos",
+    "t": "Temporada de Casamentos (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Temporada de Casamentos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Duplamente Grávida 2",
@@ -33235,9 +34510,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Suspeita",
+    "t": "A Suspeita (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Suspeita (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "A Suspeita (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Red Rocket",
@@ -33250,9 +34535,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Bios. Vidas que Marcaram a Sua: Titãs",
+    "t": "Bios. Vidas que Marcaram a Sua: Titãs (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Bios. Vidas que Marcaram a Sua: Titãs (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "O Pai da Rita",
@@ -33275,9 +34565,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Em um Passe de Mágica",
+    "t": "Em um Passe de Mágica (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Em um Passe de Mágica (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Em um Passe de Mágica (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Enjaulado",
@@ -33355,14 +34655,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "De Férias da Família",
+    "t": "De Férias da Família (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Comédia"
   },
   {
-    "t": "Fullmetal Alchemist: A Vingança de Scar",
+    "t": "Fullmetal Alchemist: A Vingança de Scar (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Fullmetal Alchemist: A Vingança de Scar (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Fullmetal Alchemist: A Vingança de Scar (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Marcas da Maldição",
@@ -33405,9 +34715,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "Como Seria se...?",
+    "t": "Como Seria se...? (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Como Seria se...? (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Como Seria se...? (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "A Nossa Canção de Amor",
@@ -33420,9 +34740,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Crime"
   },
   {
-    "t": "Justiceiras",
+    "t": "Justiceiras (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Justiceiras (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Justiceiras (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Red Stone: Caçada Mortal",
@@ -33430,9 +34760,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "Honor Society",
+    "t": "Honor Society (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Vingança e Redenção",
@@ -33480,9 +34810,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "HollyBlood",
+    "t": "HollyBlood (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "HollyBlood (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "HollyBlood (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Thor: Amor e Trovão [L] (2022)",
@@ -33585,9 +34925,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Guerra"
   },
   {
-    "t": "Rainbow",
+    "t": "Rainbow (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Rainbow (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Rainbow (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "O Exorcismo da Minha Melhor Amiga",
@@ -33615,9 +34965,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Fullmetal Alchemist: A Alquimia Final",
+    "t": "Fullmetal Alchemist: A Alquimia Final (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Fullmetal Alchemist: A Alquimia Final (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Fullmetal Alchemist: A Alquimia Final (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Mamãe!",
@@ -33655,9 +35015,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Depois do Universo",
+    "t": "Depois do Universo (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Depois do Universo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Depois do Universo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
   },
   {
     "t": "O Monastério",
@@ -33805,9 +35175,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Blackout",
+    "t": "Blackout (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Blackout (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Blackout (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Maldição de Bridge Hollow",
@@ -33840,9 +35220,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "A Vida de Togo",
+    "t": "A Vida de Togo (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "A Vida de Togo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Os 800",
@@ -33870,9 +35255,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Crime"
   },
   {
-    "t": "Lar dos Esquecidos",
+    "t": "Lar dos Esquecidos (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Liga de Monstros [L]",
@@ -33890,7 +35275,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Cavaleiro do Rei",
+    "t": "O Cavaleiro do Rei (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -33975,9 +35360,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Faroeste"
   },
   {
-    "t": "Vento Selvagem",
+    "t": "Vento Selvagem (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Vento Selvagem (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Wendell & Wild",
@@ -33985,9 +35375,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Hackers no Controle",
+    "t": "Hackers no Controle (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Hackers no Controle (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Hackers no Controle (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Jaula",
@@ -34295,9 +35695,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Os 4 Malfeitores",
+    "t": "Os 4 Malfeitores (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Os 4 Malfeitores (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Os 4 Malfeitores (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Lutar",
@@ -34325,7 +35735,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Lima Barreto ao Terceiro Dia",
+    "t": "Lima Barreto ao Terceiro Dia (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -34520,7 +35930,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Mirador",
+    "t": "Mirador (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -35225,7 +36635,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Paixões Entrelaçadas",
+    "t": "Paixões Entrelaçadas (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Paixões Entrelaçadas (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
   },
@@ -35475,9 +36890,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "O Exorcista do Papa",
+    "t": "O Exorcista do Papa (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Exorcista do Papa (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Exorcista do Papa (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Grande Mauricinho",
@@ -35810,9 +37235,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Crime"
   },
   {
-    "t": "Sri Asih",
+    "t": "Sri Asih (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Dublagem/Não oficial"
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Sri Asih (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Stoyan",
@@ -36110,7 +37540,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Minta se For Capaz",
+    "t": "Minta se For Capaz (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Minta se For Capaz (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Minta se For Capaz (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
@@ -36290,7 +37730,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "A Filha da Noiva",
+    "t": "A Filha da Noiva (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Filha da Noiva (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -36405,9 +37850,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Família"
   },
   {
-    "t": "Explorando o Desconhecido: Robôs Assassinos",
+    "t": "Explorando o Desconhecido: Robôs Assassinos (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Explorando o Desconhecido: Robôs Assassinos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
   },
   {
     "t": "Filhas Roubadas: Sequestro pelo Boko Haram",
@@ -36750,9 +38200,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Além da Escuridão",
+    "t": "Além da Escuridão (2012)",
     "cat": "FILMES",
-    "tp": "Filmes | Guerra"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Além da Escuridão (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Além da Escuridão (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Alerta de Spoiler",
@@ -36860,9 +38320,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Miraculous: As Aventuras de Ladybug - O Filme",
+    "t": "Miraculous: As Aventuras de Ladybug - O Filme (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Miraculous: As Aventuras de Ladybug - O Filme (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Miraculous: As Aventuras de Ladybug - O Filme (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Miraculous: As Aventuras de Ladybug - O Filme (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Missão Cupido",
@@ -36930,9 +38405,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Papai é Pop",
+    "t": "Papai é Pop (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Nacionais"
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Papai é Pop (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Paraíso",
@@ -36955,9 +38435,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Quando Você Terminar de Salvar o Mundo",
+    "t": "Quando Você Terminar de Salvar o Mundo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Quando Você Terminar de Salvar o Mundo (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Quando Você Terminar de Salvar o Mundo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Que Horas Eu Te Pego? [L]",
@@ -36995,9 +38485,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Sede Sem Fim",
+    "t": "Sede Sem Fim (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Sede Sem Fim (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Sede Sem Fim (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Sede Sem Fim (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Sinal Divino",
@@ -37008,11 +38513,6 @@ const CATALOG_DATA = [
     "t": "Sobrenatural: A Porta Vermelha",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Stephen [L] (2025)",
-    "cat": "FILMES",
-    "tp": "Filmes | Legendados"
   },
   {
     "t": "Super Quem? Heróis Por Acidente",
@@ -37055,17 +38555,37 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Branco e Sangue Azul",
+    "t": "Branco e Sangue Azul (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Branco e Sangue Azul (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Zoey 102: O Casamento",
+    "t": "Branco e Sangue Azul (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
   },
   {
-    "t": "5000 Cobertas",
+    "t": "Zoey 102: O Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Zoey 102: O Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Zoey 102: O Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "5000 Cobertas (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -37140,9 +38660,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Heróis da Máscara Dourada",
+    "t": "Heróis da Máscara Dourada (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Heróis da Máscara Dourada (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Heróis da Máscara Dourada (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Heróis da Máscara Dourada (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Menino Maluquinho: O Filme",
@@ -37165,9 +38700,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "O Rei Macaco",
+    "t": "O Rei Macaco (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Rei Macaco (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "O Rei Macaco (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "O Rei Macaco (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "O Tutor",
@@ -37230,22 +38780,47 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Herói por Encomenda",
+    "t": "Herói por Encomenda (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Herói por Encomenda [L]",
+    "t": "Herói por Encomenda (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Herói por Encomenda (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Herói por Encomenda [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Refém - Atentado em Madri",
+    "t": "O Refém - Atentado em Madri (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Refém - Atentado em Madri [L]",
+    "t": "O Refém - Atentado em Madri (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Refém - Atentado em Madri (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Refém - Atentado em Madri (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Refém - Atentado em Madri [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -37380,9 +38955,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Na Linha de Frente",
+    "t": "Na Linha de Frente (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Bem Amado",
@@ -37410,7 +38985,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Pacificado",
+    "t": "Pacificado (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -37905,9 +39480,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Clube dos Anjos Caídos: Assassinatos Misteriosos",
+    "t": "Clube dos Anjos Caídos: Assassinatos Misteriosos (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Clube dos Anjos Caídos: Assassinatos Misteriosos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Clube dos Anjos Caídos: Assassinatos Misteriosos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "Pânico Americano",
@@ -37915,9 +39500,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "V para Vingança",
+    "t": "V para Vingança (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "V para Vingança (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Open: Abrindo a Relação",
@@ -37970,9 +39560,19 @@ const CATALOG_DATA = [
     "tp": "Coletânea | Homem Aranha"
   },
   {
-    "t": "U311: Guerra em Alto Mar",
+    "t": "U311: Guerra em Alto Mar (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "U311: Guerra em Alto Mar (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "U311: Guerra em Alto Mar (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Vulcões e Tubarões: Havaí",
@@ -38075,9 +39675,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "A Noite Antes do Natal",
+    "t": "A Noite Antes do Natal (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "A Noite Antes do Natal (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Noite Antes do Natal (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Nheengatu – A Língua da Amazónia",
@@ -38120,9 +39730,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Tribal: Caçada Feroz",
+    "t": "Tribal: Caçada Feroz (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Tribal: Caçada Feroz (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Tribal: Caçada Feroz (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Sisu",
@@ -38245,9 +39865,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "Frio nos Ossos",
+    "t": "Frio nos Ossos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Frio nos Ossos (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Frio nos Ossos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Frio nos Ossos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Complexo de Deus: Os Bebês do Dr. Quincy Fortier",
@@ -38340,7 +39975,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "O Milagre de Tyson",
+    "t": "O Milagre de Tyson (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -38610,7 +40245,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "A Piscina",
+    "t": "A Piscina (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Piscina (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
@@ -38660,7 +40300,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "A Partilha",
+    "t": "A Partilha (2001)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Partilha (2001)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -38795,9 +40440,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "Pânico VI",
+    "t": "Pânico VI (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Pânico VI (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Pânico VI (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Pânico VI (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "De Repente o Amor Acontece",
@@ -38950,7 +40610,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "A Batalha De Um Pai",
+    "t": "A Batalha De Um Pai (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -39058,6 +40718,11 @@ const CATALOG_DATA = [
     "t": "Em Águas Agitadas",
     "cat": "FILMES",
     "tp": "Filmes | Suspense"
+  },
+  {
+    "t": "No Seu Natal ou no Meu (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "No Seu Natal ou no Meu (2022)",
@@ -39225,9 +40890,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Romance"
   },
   {
-    "t": "O Último Refúgio",
+    "t": "O Último Refúgio (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Último Refúgio (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Duro de Atuar",
@@ -39255,9 +40925,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Abismos",
+    "t": "Abismos (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Abismos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Abismos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Abismos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Deslizando pela Vida (2022)",
@@ -39290,9 +40975,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Alerta Máximo",
+    "t": "Alerta Máximo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Alerta Máximo (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Alerta Máximo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Alerta Máximo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Os Novos Vingadores",
@@ -39355,9 +41055,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Excluídos",
+    "t": "Excluídos (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Excluídos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Acampamento em Família",
@@ -39370,9 +41075,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Um Amor para Duas",
+    "t": "Um Amor para Duas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Um Amor para Duas (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Um Amor para Duas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Sharper: Uma Vida de Trapaças",
@@ -39575,9 +41290,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "O Lobo Viking",
+    "t": "O Lobo Viking (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Lobo Viking (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Lobo Viking (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "O Suplente",
@@ -39660,9 +41385,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Narvik",
+    "t": "Narvik (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Narvik (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Narvik (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "Teen Wolf: O Filme [L] (2023)",
@@ -39830,7 +41565,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "O Pálido Olho Azul",
+    "t": "O Pálido Olho Azul (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Pálido Olho Azul (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Pálido Olho Azul (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
@@ -39865,9 +41610,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Não Devíamos Ter Crescido",
+    "t": "Não Devíamos Ter Crescido (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Não Devíamos Ter Crescido (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "O Menu [L] (2022)",
@@ -39890,9 +41640,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Amor Entre Amigos: O Casamento",
+    "t": "Amor Entre Amigos: O Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Amor Entre Amigos: O Casamento (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Amor Entre Amigos: O Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Três Vezes Amor",
@@ -39950,9 +41710,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Feliz Ano Nosso",
+    "t": "Feliz Ano Nosso (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Feliz Ano Nosso (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Desconectados",
@@ -40015,12 +41780,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Romance"
   },
   {
-    "t": "A Batalha de Shindisi",
+    "t": "A Batalha de Shindisi (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Uma Noite no Jardim de Infância",
+    "t": "A Batalha de Shindisi (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Uma Noite no Jardim de Infância (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -40055,7 +41825,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Elyse - A coragem vem do coração",
+    "t": "Elyse - A Coragem Vem do Coração (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -40160,9 +41930,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Matrimilhas",
+    "t": "Matrimilhas (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Matrimilhas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Filho da Mãe",
@@ -40355,11 +42130,6 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "Ligação Explosiva",
-    "cat": "FILMES",
-    "tp": "Filmes | Ação"
-  },
-  {
     "t": "Sorte no Amor",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
@@ -40380,9 +42150,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "Exército do Amanhã",
+    "t": "Exército do Amanhã (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Exército do Amanhã (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Os Patrulheiros em Ação Salvam o Natal",
@@ -40455,9 +42230,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Um Homem de Ação",
+    "t": "Um Homem de Ação (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Um Homem de Ação (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "Pokémon: Detetive Pikachu",
@@ -40540,9 +42320,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Plano de Aula",
+    "t": "Plano de Aula (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Plano de Aula (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "O Milagre",
@@ -40700,9 +42485,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Em Busca do Bilhete Premiado",
+    "t": "Em Busca do Bilhete Premiado (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Em Busca do Bilhete Premiado (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Vulcões: A Tragédia de Katia e Maurice Krafft",
@@ -40790,9 +42580,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "O Dragão do Meu Pai",
+    "t": "O Dragão do Meu Pai (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "O Dragão do Meu Pai (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "O Dragão do Meu Pai (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
   },
   {
     "t": "Ao Leste das Montanhas",
@@ -40830,9 +42630,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "O My Darling",
+    "t": "O My Darling (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O My Darling (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O My Darling (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Corrective Measures: Fuga da Prisão",
@@ -41015,9 +42825,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "O Perfumista",
+    "t": "O Perfumista (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Perfumista (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Perfumista (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Mortal Kombat Legends: Cegueira Glacial",
@@ -41025,9 +42845,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "O Homem do Jazz",
+    "t": "O Homem do Jazz (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Homem do Jazz (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Homem do Jazz (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Gran Torino",
@@ -41065,7 +42895,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "Garotos de Bem",
+    "t": "Garotos de Bem (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Garotos de Bem (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Garotos de Bem (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -41095,9 +42935,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Broad Peak",
+    "t": "Broad Peak (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Broad Peak (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "Drifting Home",
@@ -41145,9 +42990,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Diorama",
+    "t": "Diorama (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Diorama (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Diorama (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Adrenalina Máxima",
@@ -41160,9 +43015,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Amor em Verona",
+    "t": "Amor em Verona (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Amor em Verona (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Amor de Redenção",
@@ -41170,7 +43030,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Romance"
   },
   {
-    "t": "O Festival dos Trovadores",
+    "t": "O Festival dos Trovadores (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -41220,14 +43080,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "A Gestora",
+    "t": "A Gestora (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Na Sinfonia do Coração",
+    "t": "Na Sinfonia do Coração (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Romance"
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Na Sinfonia do Coração (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Na Sinfonia do Coração (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
   },
   {
     "t": "Flag Day: Lembranças Perdidas",
@@ -41290,7 +43160,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Linhas Opostas",
+    "t": "Linhas Opostas (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -41330,9 +43200,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Que Culpa Tem o Carma?",
+    "t": "Que Culpa Tem o Carma? (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Que Culpa Tem o Carma? (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Tudo Sobre Sexo",
@@ -41455,7 +43330,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Um Santo Plano",
+    "t": "Um Santo Plano (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -41475,14 +43350,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "O Sol de Amalfi",
+    "t": "O Sol de Amalfi (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
   },
   {
-    "t": "João Gilberto?",
+    "t": "O Sol de Amalfi (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "João Gilberto? (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "João Gilberto? (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
   },
   {
     "t": "Sou Louco Por Você",
@@ -41625,9 +43510,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Beauty",
+    "t": "Beauty (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Beauty (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Beauty (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
   },
   {
     "t": "A Vida Secreta das Abelhas",
@@ -41680,9 +43575,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Adeus e Tudo Mais",
+    "t": "Adeus e Tudo Mais (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Adeus e Tudo Mais (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Perigos da Rede",
@@ -41700,7 +43600,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Rise",
+    "t": "Rise (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -41890,9 +43790,14 @@ const CATALOG_DATA = [
     "tp": "Coletânea | Piratas do Caribe"
   },
   {
-    "t": "Morbius",
+    "t": "Morbius (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Morbius (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "A Vida é Agora (2021)",
@@ -41975,7 +43880,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "De Volta ao Baile",
+    "t": "De Volta ao Baile (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -41985,9 +43890,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "A Família Perfeita",
+    "t": "A Família Perfeita (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Família Perfeita (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Família Perfeita (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
   },
   {
     "t": "O Soldado que Não Existiu",
@@ -42005,9 +43920,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "O Rei das Fugas",
+    "t": "O Rei das Fugas (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Rei das Fugas (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Rei das Fugas (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
   },
   {
     "t": "As Duas Mortes de Henry Baker",
@@ -42110,9 +44035,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "A Caminho do Verão",
+    "t": "A Caminho do Verão (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Caminho do Verão (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Quarta Série",
@@ -42140,7 +44070,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Lua de Mel com a Minha Mãe",
+    "t": "Lua de Mel com a Minha Mãe (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -42175,7 +44105,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Ponto de Inflexão",
+    "t": "Ponto de Inflexão (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -42305,7 +44235,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "As Garotas de Cristal",
+    "t": "As Garotas de Cristal (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -42335,9 +44265,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "Batalhas: Freestyle",
+    "t": "Batalhas: Freestyle (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Batalhas: Freestyle (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Capitã Nova",
@@ -42350,9 +44285,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Um Mundo Encantado",
+    "t": "Um Mundo Encantado (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Um Mundo Encantado (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
   },
   {
     "t": "Uma Missão de Fé",
@@ -42375,9 +44315,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Eternamente Demais pra Mim",
+    "t": "Eternamente Demais pra Mim (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Eternamente Demais pra Mim (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Felix e o Tesouro de Morgan",
@@ -42400,9 +44345,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Apollo 10 e Meio: Aventura na Era Espacial",
+    "t": "Apollo 10 e Meio: Aventura na Era Espacial (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Apollo 10 e Meio: Aventura na Era Espacial (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Apollo 10 e Meio: Aventura na Era Espacial (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Assassinato em Sparrow Creek",
@@ -42450,9 +44405,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Como Pétalas que Caem",
+    "t": "Como Pétalas que Caem (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Como Pétalas que Caem (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "As Agentes 355",
@@ -42485,9 +44445,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Até a Próxima Vez",
+    "t": "Até a Próxima Vez (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Até a Próxima Vez (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Os Olhos Negros de Marilyn",
@@ -42505,9 +44470,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Romance"
   },
   {
-    "t": "Caranguejo Negro",
+    "t": "Caranguejo Negro (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Caranguejo Negro (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Uma Família Feliz 2",
@@ -42550,9 +44520,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Kalinda",
+    "t": "Kalinda (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Kalinda (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "Eiffel",
@@ -42660,7 +44635,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Não Me Mate",
+    "t": "Não Me Mate (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
@@ -42710,9 +44685,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Minha Vida Perfeita",
+    "t": "Minha Vida Perfeita (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Minha Vida Perfeita (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Minha Vida Perfeita (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "O Golpista do Tinder",
@@ -42720,9 +44705,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Naquele Fim de Semana",
+    "t": "Naquele Fim de Semana (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Naquele Fim de Semana (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Nosso Verão",
@@ -42730,14 +44720,34 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Laços de Afeto",
+    "t": "Laços de Afeto (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Laços de Afeto (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Laços de Afeto (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Golpes de Vingança",
+    "t": "Golpes de Vingança (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Golpes de Vingança (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Golpes de Vingança (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Blaze",
@@ -42750,9 +44760,19 @@ const CATALOG_DATA = [
     "tp": "Coletânea | Harry Potter"
   },
   {
-    "t": "Contra o Gelo",
+    "t": "Contra o Gelo (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Contra o Gelo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Contra o Gelo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "Querido Evan Hansen",
@@ -42890,9 +44910,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "ANNE+: O Filme",
+    "t": "ANNE+: O Filme (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "ANNE+: O Filme (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Billy Graham: Uma Jornada Extraordinária",
@@ -42940,7 +44965,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Através da Minha Janela",
+    "t": "Através da Minha Janela (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Através da Minha Janela (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Através da Minha Janela (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
   },
@@ -43010,9 +45045,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "Munique: No Limite da Guerra",
+    "t": "Munique: No Limite da Guerra (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Munique: No Limite da Guerra (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "O Canto do Cisne",
@@ -43025,14 +45065,29 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "O Violino do Meu Pai",
+    "t": "O Violino do Meu Pai (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Time do Coração",
+    "t": "O Violino do Meu Pai (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Time do Coração (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Time do Coração (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Time do Coração (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Prisioneiro Para Sempre",
@@ -43060,9 +45115,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Emboscada",
+    "t": "Emboscada (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Emboscada (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Emboscada (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Atividade Paranormal: Ente Próximo (2021)",
@@ -43198,11 +45263,6 @@ const CATALOG_DATA = [
     "t": "Um Natal de União",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
-  },
-  {
-    "t": "Como Me Apaixonei por um Gângster",
-    "cat": "FILMES",
-    "tp": "Filmes | Suspense"
   },
   {
     "t": "Bob Cuspe: Nós Não Gostamos de Gente",
@@ -43360,11 +45420,6 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Mais Que Demais Pra Mim",
-    "cat": "FILMES",
-    "tp": "Filmes | Romance"
-  },
-  {
     "t": "Fim da Sentença",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
@@ -43430,19 +45485,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Viagem ao Topo da Terra",
-    "cat": "FILMES",
-    "tp": "Filmes | Animação / Infantil"
-  },
-  {
     "t": "David e os Duendes de Natal",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
-  },
-  {
-    "t": "Um Crush para o Natal",
-    "cat": "FILMES",
-    "tp": "Filmes | Romance"
   },
   {
     "t": "Se Eu Fosse Você 2",
@@ -43715,7 +45760,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Ama-me",
+    "t": "Ama-me (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -43800,9 +45845,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Para Sempre Felicidade",
+    "t": "Para Sempre Felicidade (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Para Sempre Felicidade (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Operação Portugal",
@@ -44025,9 +46075,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "O 'W' da Questão",
+    "t": "O 'W' da Questão (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O 'W' da Questão (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Amor a Três",
@@ -44050,9 +46105,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Pequeno Linguarudo",
+    "t": "Pequeno Linguarudo (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Pequeno Linguarudo (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Falsos Milionários",
@@ -44090,7 +46150,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "A Salinha",
+    "t": "A Salinha (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -44110,9 +46170,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "No Jogo do Amor",
+    "t": "No Jogo do Amor (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "No Jogo do Amor (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "No Jogo do Amor (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Matemático",
@@ -44170,9 +46240,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Bright: Alma de Samurai",
+    "t": "Bright: Alma de Samurai (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Bright: Alma de Samurai (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Bright: Alma de Samurai (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Kick-Ass 2",
@@ -44395,9 +46475,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Difícil de Engolir",
+    "t": "Difícil de Engolir (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Difícil de Engolir (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Difícil de Engolir (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Auto da Boa Mentira",
@@ -44410,9 +46500,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "O Melhor Amigo",
+    "t": "O Melhor Amigo (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "O Melhor Amigo (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Melhor Amigo (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Melhor Amigo (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
   },
   {
     "t": "Pixie",
@@ -44460,9 +46565,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Forever Rich",
+    "t": "Forever Rich (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Forever Rich (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Forever Rich (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Os Cavaleiros do Zodíaco: Prólogo do Céu",
@@ -44490,9 +46605,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "Je Suis Karl",
+    "t": "Je Suis Karl (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Je Suis Karl (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Natal Shrektacular do Burro",
@@ -44545,9 +46665,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "Intrusion",
+    "t": "Intrusion (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Intrusion (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Intrusion (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Um Ninho para Dois",
@@ -44600,9 +46730,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "Um Casal Inseparável",
+    "t": "Um Casal Inseparável (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Um Casal Inseparável (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Determinado a Matar",
@@ -44635,9 +46770,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Um Amor Inesperado",
+    "t": "Um Amor Inesperado (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Um Amor Inesperado (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "72 Horas Depois",
@@ -44850,14 +46990,34 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "Alpinistas: Desastre no Everest",
+    "t": "Alpinistas: Desastre no Everest (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Alpinistas: Desastre no Everest (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
-    "t": "O Cavaleiro do Dragão",
+    "t": "Alpinistas: Desastre no Everest (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Cavaleiro do Dragão (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "O Cavaleiro do Dragão (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "O Cavaleiro do Dragão (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "A Princesa da Rua",
@@ -44900,9 +47060,19 @@ const CATALOG_DATA = [
     "tp": "Coletânea | Jean-Claude Van Damme"
   },
   {
-    "t": "Esticando a Festa",
+    "t": "Esticando a Festa (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Esticando a Festa (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Esticando a Festa (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Heróis do Ar",
@@ -44980,9 +47150,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Ilha de Segredos",
+    "t": "Ilha de Segredos (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Os Jovens Pistoleiros",
@@ -44995,9 +47165,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Romance"
   },
   {
-    "t": "The Loud House: O Filme",
+    "t": "The Loud House: O Filme (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "The Loud House: O Filme (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "The Loud House: O Filme (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Loucos por Justiça",
@@ -45060,9 +47240,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Demais pra Mim",
+    "t": "Demais pra Mim (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Demais pra Mim (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Arquivos de um Serial Killer",
@@ -45125,9 +47310,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Fugindo do Amor",
+    "t": "Fugindo do Amor (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Fugindo do Amor (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "O Lorax: Em Busca da Trúfula Perdida (2012)",
@@ -45180,9 +47370,14 @@ const CATALOG_DATA = [
     "tp": "Coletânea | Jurassic Park"
   },
   {
-    "t": "Bartkowiak",
+    "t": "Bartkowiak (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Bartkowiak (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Os Irmãos Cara de Pau",
@@ -45215,9 +47410,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "Aqueles Que Me Desejam a Morte",
+    "t": "Aqueles Que Me Desejam a Morte (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Aqueles Que Me Desejam a Morte (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Tom & Jerry: Velozes e Ferozes",
@@ -45240,9 +47440,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "O Último Mercenário",
+    "t": "O Último Mercenário (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Último Mercenário (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "O Amor Dá Trabalho",
@@ -45310,9 +47515,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "A Oitava Noite",
+    "t": "A Oitava Noite (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "A Oitava Noite (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Oitava Noite (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Stardust",
@@ -45710,9 +47925,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Kandasamys: A Viagem",
+    "t": "Kandasamys: A Viagem (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Kandasamys: A Viagem (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Os Incríveis 2",
@@ -45805,9 +48025,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Ghost Lab",
+    "t": "Ghost Lab (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Ghost Lab (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Milagre Azul (2021)",
@@ -46010,9 +48235,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Army of the Dead: Invasão em Las Vegas",
+    "t": "Army of the Dead: Invasão em Las Vegas (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Army of the Dead: Invasão em Las Vegas (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Army of the Dead: Invasão em Las Vegas (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Sequestro Internacional",
@@ -46155,9 +48390,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Eu Sou Todas as Meninas",
+    "t": "Eu Sou Todas as Meninas (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Eu Sou Todas as Meninas (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Eu Sou Todas as Meninas (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Pedra da Serpente (2019)",
@@ -46340,7 +48585,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Vozes e Vultos",
+    "t": "Vozes e Vultos (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
@@ -46600,9 +48845,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Histórias Incomuns",
+    "t": "Histórias Incomuns (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Histórias Incomuns (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Sonhos S.A.",
@@ -46730,9 +48980,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Assalto ao Banco da Espanha",
+    "t": "Assalto ao Banco da Espanha (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Assalto ao Banco da Espanha (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Assalto ao Banco da Espanha (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Meu Pai",
@@ -46775,9 +49035,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Apenas Diga Sim",
+    "t": "Apenas Diga Sim (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Apenas Diga Sim (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Alma de Cowboy",
@@ -46885,9 +49150,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Os Segredos de Madame Claude",
+    "t": "Os Segredos de Madame Claude (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Os Segredos de Madame Claude (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Os Segredos de Madame Claude (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "O Exorcista",
@@ -46920,9 +49195,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Deixe-o Partir",
+    "t": "Deixe-o Partir (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Deixe-o Partir (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Deixe-o Partir (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
   },
   {
     "t": "Agente Mirim",
@@ -46930,9 +49215,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "Na Mesma Onda",
+    "t": "Na Mesma Onda (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Na Mesma Onda (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "O Falcão Manteiga de Amendoim",
@@ -46960,7 +49250,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Bad Trip",
+    "t": "Bad Trip (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -47020,9 +49310,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "A Semana da Minha Vida",
+    "t": "A Semana da Minha Vida (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Semana da Minha Vida (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "A Semana da Minha Vida (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Ameaça no Espaço (2020)",
@@ -47080,7 +49380,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Sem Filhos",
+    "t": "Sem Filhos (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -47140,7 +49440,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Questão de Honra",
+    "t": "Questão de Honra (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -47390,9 +49690,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "O Apostador",
+    "t": "O Apostador (2014)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Apostador (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Apostador (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Fé Demais Não Cheira Bem",
@@ -47455,7 +49765,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Filhos de Istambul",
+    "t": "Filhos de Istambul (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -47575,9 +49885,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Romance"
   },
   {
-    "t": "Um Geek Encantador",
+    "t": "Um Geek Encantador (2011)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Um Geek Encantador (2011)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Um Geek Encantador (2011)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Mais Estranho que a Ficção",
@@ -47940,9 +50260,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Homem-Aranha: Longe de Casa",
+    "t": "Homem-Aranha: Longe de Casa (2019)",
     "cat": "FILMES",
-    "tp": "Coletânea | Homem Aranha"
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Homem-Aranha: Longe de Casa (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Minha Querida Nora",
@@ -48275,6 +50600,16 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
+    "t": "Convenção das Bruxas (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Convenção das Bruxas (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
     "t": "Independence Day: O Ressurgimento",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
@@ -48543,11 +50878,6 @@ const CATALOG_DATA = [
     "t": "Amor de Balada",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
-  },
-  {
-    "t": "Safety",
-    "cat": "FILMES",
-    "tp": "Filmes | Drama"
   },
   {
     "t": "O Natal do Zé Coleta",
@@ -49025,9 +51355,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Harry Potter e a Ordem da Fênix",
+    "t": "Harry Potter e a Ordem da Fênix (2007)",
     "cat": "FILMES",
-    "tp": "Coletânea | Harry Potter"
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Harry Potter e a Ordem da Fênix (2007)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "O Que Ficou para Trás",
@@ -49320,9 +51655,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Vampiros X The Bronx",
+    "t": "Vampiros X The Bronx (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Vampiros X The Bronx (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "GIMS: Ícone do Rap",
@@ -49345,9 +51685,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Teste de Paternidade",
+    "t": "Teste de Paternidade (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Teste de Paternidade (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "O Dilema das Redes",
@@ -49365,9 +51710,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "F20 - Jovens e Perigosos",
+    "t": "F20 - Jovens e Perigosos (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "F20 - Jovens e Perigosos (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "F20 - Jovens e Perigosos (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Como Cães e Gatos 3: Peludos Unidos!",
@@ -49440,9 +51795,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "A Negociadora",
+    "t": "A Negociadora (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Negociadora (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Negociadora (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Vestido Maldito",
@@ -49525,7 +51890,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Muito Amor Pra Dar",
+    "t": "Muito Amor Pra Dar (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -49550,7 +51915,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Missão Pijamas",
+    "t": "Missão Pijamas (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Missão Pijamas (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
@@ -49595,9 +51965,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Origens Secretas",
+    "t": "Origens Secretas (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Origens Secretas (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Diabo de Cada Dia",
@@ -49615,7 +51990,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Quase uma Rockstar",
+    "t": "Quase uma Rockstar (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -49650,9 +52025,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "Crimes de Família",
+    "t": "Crimes de Família (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Crimes de Família (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Crimes de Família (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Abaixo a Gravidade",
@@ -49965,9 +52350,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Desperados",
+    "t": "Desperados (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Desperados (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Miss Simpatia",
@@ -50035,9 +52425,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "O Sol de Riccione",
+    "t": "O Sol de Riccione (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Sol de Riccione (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Cinquenta Tons de Preto",
@@ -50075,7 +52470,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Festival Eurovision da Canção: A Saga de Sigrit e Lars",
+    "t": "Festival Eurovision da Canção: A Saga de Sigrit e Lars (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Festival Eurovision da Canção: A Saga de Sigrit e Lars (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -50115,9 +52515,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "The Last Days of American Crime",
+    "t": "The Last Days of American Crime (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "The Last Days of American Crime (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "The Last Days of American Crime (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Atrás da Estante",
@@ -50205,7 +52615,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "2 Minutos de Fama",
+    "t": "2 Minutos de Fama (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -50500,9 +52910,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Fim de Festa",
+    "t": "Fim de Festa (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Fim de Festa (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Dias Sem Fim",
@@ -50550,9 +52965,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Coffee & Kareem",
+    "t": "Coffee & Kareem (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Coffee & Kareem (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Coffee & Kareem (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Ruas em Guerra",
@@ -50630,9 +53055,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "A Terra e o Sangue",
+    "t": "A Terra e o Sangue (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Terra e o Sangue (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "1917",
@@ -50655,9 +53085,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "Altos Negócios",
+    "t": "Altos Negócios (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Altos Negócios (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Uma Esperança no Natal",
@@ -50720,9 +53155,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Legado nos Ossos",
+    "t": "Legado nos Ossos (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Legado nos Ossos (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Legado nos Ossos (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Plano Quase Perfeito",
@@ -50820,7 +53265,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "A Grande Luta",
+    "t": "A Grande Luta (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "A Grande Luta (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -51035,7 +53485,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "A Marca do Demônio",
+    "t": "A Marca do Demônio (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
@@ -51080,9 +53530,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Notas de Rebeldia",
+    "t": "Notas de Rebeldia (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Notas de Rebeldia (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Jumanji: Próxima Fase (2019)",
@@ -51240,11 +53695,6 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "O Caso Richard Jewell",
-    "cat": "FILMES",
-    "tp": "Filmes | Drama"
-  },
-  {
     "t": "Lucy in the Sky",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
@@ -51275,9 +53725,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "A Última Coisa que Ele Queria",
+    "t": "A Última Coisa que Ele Queria (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Última Coisa que Ele Queria (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Por Lugares Incríveis",
@@ -51295,9 +53750,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Isi & Ossi",
+    "t": "Isi & Ossi (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Isi & Ossi (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Um Romance nas Entrelinhas",
@@ -51545,9 +54005,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Vingança em Duas Rodas",
+    "t": "Vingança em Duas Rodas (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Vingança em Duas Rodas (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Black '47",
@@ -51710,14 +54175,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "O Aplicativo",
+    "t": "O Aplicativo (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Longe Deste Insensato Mundo",
+    "t": "Longe Deste Insensato Mundo (2015)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Longe Deste Insensato Mundo (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Natal na Realeza",
@@ -51760,9 +54230,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Resgate do Coração",
+    "t": "Resgate do Coração (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Resgate do Coração (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Os Aeronautas (2019)",
@@ -52140,9 +54615,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Um Passado de Presente",
+    "t": "Um Passado de Presente (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Um Passado de Presente (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "A Viúva",
@@ -52160,7 +54640,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Stalker: O Jogo da Morte",
+    "t": "Stalker: O Jogo da Morte (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
@@ -52385,9 +54865,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Romance"
   },
   {
-    "t": "American Son [L]",
+    "t": "American Son [L] (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Legendados"
   },
   {
     "t": "Missão Final",
@@ -52535,7 +55015,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "O Monstro que vive em Mim",
+    "t": "O Monstro que vive em Mim (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Monstro que vive em Mim (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
@@ -52560,9 +55045,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Upstarts",
+    "t": "Upstarts (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Upstarts (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Yesterday",
@@ -52800,7 +55290,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "A Última Gargalhada",
+    "t": "A Última Gargalhada (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -52890,9 +55380,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Destinos à Deriva",
+    "t": "Destinos à Deriva (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Destinos à Deriva (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Destinos à Deriva (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Última Parada 174",
@@ -52975,7 +55475,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "A Pequena Suíça",
+    "t": "A Pequena Suíça (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -53090,9 +55590,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Do Not Disturb",
+    "t": "Do Not Disturb (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Do Not Disturb (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Do Not Disturb (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Lembranças de um Verão (2001)",
@@ -53105,9 +55615,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Luta por Vingança",
+    "t": "Luta por Vingança (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Luta por Vingança (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Luta por Vingança (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "O Efeito Mandela",
@@ -53170,7 +55690,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "Mãe e Muito Mais",
+    "t": "Mãe e Muito Mais (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -53252,7 +55772,17 @@ const CATALOG_DATA = [
   {
     "t": "Cães de Guerra (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Cães de Guerra (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Cães de Guerra (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Invencível: Caminho da Redenção",
@@ -53310,9 +55840,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Outback",
+    "t": "Outback (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Outback (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
   },
   {
     "t": "Barbie Dreamtopia: Festival da Alegria",
@@ -53665,9 +56200,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Guerra"
   },
   {
-    "t": "Implacável",
+    "t": "Implacável (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Implacável (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Implacável (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Amor Sem Escalas",
@@ -53695,9 +56240,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Free Solo",
+    "t": "Free Solo (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Free Solo (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Amor à Primeira Vista [L] (2023)",
@@ -53855,7 +56405,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Entre Vinho e Vinagre",
+    "t": "Entre Vinho e Vinagre (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
@@ -54190,9 +56740,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Pedido de Amizade",
+    "t": "Pedido de Amizade (2013)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Pedido de Amizade (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Pedido de Amizade (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Os Escravos de Satanás",
@@ -54465,9 +57025,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "A Maldição de Chucky",
+    "t": "A Maldição de Chucky (2013)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Maldição de Chucky (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Freira",
@@ -54915,9 +57480,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Os Irmãos Aventura: O Filme",
+    "t": "Os Irmãos Aventura: O Filme (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Os Irmãos Aventura: O Filme (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Os Irmãos Aventura: O Filme (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Os Irmãos Aventura: O Filme (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Impuros: O Filme",
@@ -55225,9 +57805,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Romance"
   },
   {
-    "t": "Quase Morta",
+    "t": "Quase Morta (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Quase Morta (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Quase Morta (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "João e Maria: Caçadores de Bruxas",
@@ -55235,14 +57825,34 @@ const CATALOG_DATA = [
     "tp": "Filmes | Fantasia/Ficção"
   },
   {
-    "t": "O Falsificador",
+    "t": "O Falsificador (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
-    "t": "A Justiceira",
+    "t": "O Falsificador (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "A Justiceira (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Justiceira (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Justiceira (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "A Justiceira (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Rua dos Pecados",
@@ -55267,7 +57877,22 @@ const CATALOG_DATA = [
   {
     "t": "O Portal Secreto (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Portal Secreto (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "O Portal Secreto (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "O Portal Secreto (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Han Solo: Uma História Star Wars",
@@ -55650,9 +58275,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "A Médium",
+    "t": "A Médium (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Médium (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "A Cabana",
@@ -55880,9 +58510,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Brincando de Deus",
+    "t": "Brincando de Deus (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Brincando de Deus (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Um Salão do Barulho 3",
@@ -55930,14 +58565,34 @@ const CATALOG_DATA = [
     "tp": "Filmes | Romance"
   },
   {
-    "t": "Sierra Burgess é uma Loser",
+    "t": "Sierra Burgess é uma Loser (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Quando Nos Conhecemos",
+    "t": "Sierra Burgess é uma Loser (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Sierra Burgess é uma Loser (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Quando nos Conhecemos (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Quando nos Conhecemos (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Quando nos Conhecemos (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Ted 2",
@@ -57175,9 +59830,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "Snoopy Apresenta: A Inigualável Marcie",
+    "t": "Snoopy Apresenta: A Inigualável Marcie (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Snoopy Apresenta: A Inigualável Marcie (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Snoopy Apresenta: A Inigualável Marcie (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Snoopy Apresenta: A Inigualável Marcie (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Lino: Uma Aventura de Sete Vidas",
@@ -57270,9 +59940,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "LEGO Disney Princesa: Aventura no Castelo",
+    "t": "LEGO Disney Princesa: Aventura no Castelo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "LEGO Disney Princesa: Aventura no Castelo (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "LEGO Disney Princesa: Aventura no Castelo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "LEGO Disney Princesa: Aventura no Castelo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Lilo & Stitch",
@@ -57460,9 +60145,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "A Noite das Vampiras",
+    "t": "A Noite das Vampiras (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Noite das Vampiras (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Noite das Vampiras (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Mestre das Armas",
@@ -57480,7 +60175,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Não Descanse em Paz",
+    "t": "Não Descanse em Paz (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
@@ -57495,9 +60190,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Uma Noite Sem Limites",
+    "t": "Uma Noite Sem Limites (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Uma Noite Sem Limites (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Isabella: o Caso Nardoni",
@@ -57905,9 +60605,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "22 Milhas",
+    "t": "22 Milhas (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "22 Milhas (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "211: O Grande Assalto",
@@ -57925,7 +60630,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "A Última Sessão de Freud",
+    "t": "A Última Sessão de Freud (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Última Sessão de Freud (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -57945,12 +60655,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Megamente Vs. O Sindicato da Perdição",
+    "t": "Megamente Vs. O Sindicato da Perdição (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Megamente Vs. O Sindicato da Perdição [L]",
+    "t": "Megamente Vs. O Sindicato da Perdição (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Megamente Vs. O Sindicato da Perdição (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Megamente Vs. O Sindicato da Perdição [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -57965,12 +60685,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Fabricante de Lágrimas",
+    "t": "O Fabricante de Lágrimas (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "O Fabricante de Lágrimas [L]",
+    "t": "O Fabricante de Lágrimas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Fabricante de Lágrimas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Fabricante de Lágrimas [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58000,12 +60730,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "A Bruxa dos Mortos: Baghead",
+    "t": "A Bruxa dos Mortos: Baghead (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "A Bruxa dos Mortos: Baghead [L]",
+    "t": "A Bruxa dos Mortos: Baghead (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Bruxa dos Mortos: Baghead [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58025,27 +60760,62 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Pica-Pau: As Férias no Acampamento",
+    "t": "Pica-Pau: As Férias no Acampamento (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "O Que Jennifer Fez?",
+    "t": "Pica-Pau: As Férias no Acampamento (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Pica-Pau: As Férias no Acampamento (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Pica-Pau: As Férias no Acampamento (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "O Que Jennifer Fez? (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "O Que Jennifer Fez? [L]",
+    "t": "O Que Jennifer Fez? (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "O Que Jennifer Fez? (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Que Jennifer Fez? [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Mal que Nos Habita",
+    "t": "O Mal que Nos Habita (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Mal que Nos Habita [L]",
+    "t": "O Mal que Nos Habita (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Mal que Nos Habita (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Mal que Nos Habita [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58090,7 +60860,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Os Três Mosqueteiros: Milady [L]",
+    "t": "Os Três Mosqueteiros: Milady [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58100,12 +60870,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Sleep: O Mal Nunca Dorme",
+    "t": "Sleep: O Mal Nunca Dorme (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Sleep: O Mal Nunca Dorme [L]",
+    "t": "Sleep: O Mal Nunca Dorme (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Sleep: O Mal Nunca Dorme (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Sleep: O Mal Nunca Dorme (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sleep: O Mal Nunca Dorme [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58120,12 +60905,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Tequila Repasado",
+    "t": "Tequila Repasado (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Tequila Repasado [L]",
+    "t": "Tequila Repasado (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Tequila Repasado (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Tequila Repasado [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58145,12 +60940,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Agente X: A Última Missão",
+    "t": "Agente X: A Última Missão (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Agente X: A Última Missão [L]",
+    "t": "Agente X: A Última Missão (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Agente X: A Última Missão (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Agente X: A Última Missão [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58190,14 +60995,34 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Sombra do Mal",
+    "t": "A Sombra do Mal (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Estritamente Confidencial",
+    "t": "A Sombra do Mal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Sombra do Mal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Estritamente Confidencial (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Estritamente Confidencial (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Estritamente Confidencial (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Estritamente Confidencial [L]",
@@ -58220,12 +61045,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "O Jogo do Elevador",
+    "t": "O Jogo do Elevador (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Jogo do Elevador [L]",
+    "t": "O Jogo do Elevador (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Jogo do Elevador [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58235,12 +61065,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Plano de Aposentadoria",
+    "t": "Plano de Aposentadoria (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Plano de Aposentadoria [L]",
+    "t": "Plano de Aposentadoria (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Plano de Aposentadoria (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Plano de Aposentadoria (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Plano de Aposentadoria [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58250,22 +61095,42 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Macaco vs. Máquina",
+    "t": "Macaco vs. Máquina (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Macaco vs. Máquina [L]",
+    "t": "Macaco vs. Máquina (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Macaco vs. Máquina (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Macaco vs. Máquina [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Liga da Justiça: Crise nas Infinitas Terras - Parte Dois",
+    "t": "Liga da Justiça: Crise nas Infinitas Terras - Parte Dois (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Liga da Justiça: Crise nas Infinitas Terras - Parte Dois [L]",
+    "t": "Liga da Justiça: Crise nas Infinitas Terras - Parte Dois (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Liga da Justiça: Crise nas Infinitas Terras - Parte Dois (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Liga da Justiça: Crise nas Infinitas Terras - Parte Dois [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58280,12 +61145,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Resgate em Amsterdã",
+    "t": "Resgate em Amsterdã (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Resgate em Amsterdã [L]",
+    "t": "Resgate em Amsterdã (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Resgate em Amsterdã (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Resgate em Amsterdã (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Resgate em Amsterdã [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58325,27 +61205,37 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Sayen: A Caçadora [L]",
+    "t": "Sayen: A Caçadora [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Puan",
+    "t": "Puan (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Puan [L]",
+    "t": "Puan (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Puan [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Os Segredos da Alimentação",
+    "t": "Os Segredos da Alimentação (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Os Segredos da Alimentação [L]",
+    "t": "Os Segredos da Alimentação (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Os Segredos da Alimentação [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58490,12 +61380,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Capitão",
+    "t": "Capitão (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "Capitão [L]",
+    "t": "Capitão (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Capitão (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Capitão [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58510,12 +61410,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "Lua de Mel Inusitada",
+    "t": "Lua de Mel Inusitada (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Lua de Mel Inusitada [L]",
+    "t": "Lua de Mel Inusitada (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Lua de Mel Inusitada (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Lua de Mel Inusitada [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58545,6 +61455,21 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
+    "t": "Uma Ideia de Você (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Uma Ideia de Você (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Uma Ideia de Você (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
     "t": "Paulinho Gogó em Top Love - Só e Bem Acompanhado",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
@@ -58565,17 +61490,42 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Noite Em Que Voltaram Para Casa",
+    "t": "A Noite Em Que Voltaram Para Casa (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Tartarugas Até Lá Embaixo",
+    "t": "A Noite Em Que Voltaram Para Casa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
+  },
+  {
+    "t": "A Noite Em Que Voltaram Para Casa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Noite Em Que Voltaram Para Casa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Tartarugas Até Lá Embaixo (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Tartarugas Até Lá Embaixo [L]",
+    "t": "Tartarugas Até Lá Embaixo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Tartarugas Até Lá Embaixo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Tartarugas Até Lá Embaixo [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58640,14 +61590,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
-    "t": "Sentinel - QUALIDADE CINEMA",
+    "t": "Sentinel (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Paradise - QUALIDADE CINEMA",
+    "t": "Sentinel (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Paradise (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Paradise (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Instinto Materno (2026)",
@@ -58695,7 +61655,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "A Batalha do Biscoito Pop-Tart [L]",
+    "t": "A Batalha do Biscoito Pop-Tart [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58735,27 +61695,52 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Ghostbusters: Apocalipse de Gelo",
+    "t": "Ghostbusters: Apocalipse de Gelo (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Ghostbusters: Apocalipse de Gelo [L]",
+    "t": "Ghostbusters: Apocalipse de Gelo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Ghostbusters: Apocalipse de Gelo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Ghostbusters: Apocalipse de Gelo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Ghostbusters: Apocalipse de Gelo [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Jade: Guerreira Solitária",
+    "t": "Jade: Guerreira Solitária (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Jade: Guerreira Solitária [L]",
+    "t": "Jade: Guerreira Solitária (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Jade: Guerreira Solitária (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Jade: Guerreira Solitária [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Drift [L]",
+    "t": "Drift [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58780,7 +61765,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Exhuma [L]",
+    "t": "Exhuma [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58805,9 +61790,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Meninas Não Choram",
+    "t": "Meninas Não Choram (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Meninas Não Choram (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Meninas Não Choram (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
   },
   {
     "t": "Entre o Céu e o Inferno (2006)",
@@ -58875,17 +61870,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Triângulo da Morte",
+    "t": "O Triângulo da Morte (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Subterrâneo",
+    "t": "O Triângulo da Morte (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Subterrâneo (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Subterrâneo [L]",
+    "t": "Subterrâneo [L] (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58900,7 +61900,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Triângulo da Morte [L]",
+    "t": "O Triângulo da Morte [L] (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58935,12 +61935,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Wanted Man: Marcado Para Morrer",
+    "t": "Wanted Man: Marcado Para Morrer (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Wanted Man: Marcado Para Morrer [L]",
+    "t": "Wanted Man: Marcado Para Morrer (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Wanted Man: Marcado Para Morrer [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -58965,12 +61970,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Vida dos Leopardos",
+    "t": "A Vida dos Leopardos (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "A Vida dos Leopardos [L]",
+    "t": "A Vida dos Leopardos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Vida dos Leopardos [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -60755,12 +63765,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Pequena Sereia - Um Oceano de Aventuras",
+    "t": "A Pequena Sereia - Um Oceano de Aventuras (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "A Pequena Sereia - Um Oceano de Aventuras [L]",
+    "t": "A Pequena Sereia - Um Oceano de Aventuras (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "A Pequena Sereia - Um Oceano de Aventuras (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "A Pequena Sereia - Um Oceano de Aventuras (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "A Pequena Sereia - Um Oceano de Aventuras [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -61285,12 +64310,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Preço da Noiva",
+    "t": "O Preço da Noiva (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "O Preço da Noiva [L]",
+    "t": "O Preço da Noiva (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Preço da Noiva (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Preço da Noiva [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -61325,7 +64360,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Vivendo no Vermelho [L]",
+    "t": "Vivendo no Vermelho [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -61335,7 +64370,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Mínimo para Viver",
+    "t": "O Mínimo para Viver (2017)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
@@ -61355,9 +64390,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "John Wick 3: Parabellum",
+    "t": "John Wick 3: Parabellum (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "John Wick 3: Parabellum (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "John Wick 3: Parabellum (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Barbie: Lago dos Cisnes",
@@ -61415,7 +64460,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Maharaja [L]",
+    "t": "O Mistério da Lixeira [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -61940,9 +64985,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Animais Fantásticos: Os Segredos de Dumbledore",
+    "t": "Animais Fantásticos: Os Segredos de Dumbledore (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Animais Fantásticos: Os Segredos de Dumbledore (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Como Treinar o Seu Dragão: Volta ao Lar",
@@ -62015,7 +65065,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Aposta Perigosa [L]",
+    "t": "Aposta Perigosa [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -62150,12 +65200,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Planeta dos Macacos: O Reinado",
+    "t": "Planeta dos Macacos: O Reinado (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Planeta dos Macacos: O Reinado [L]",
+    "t": "Planeta dos Macacos: O Reinado (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Planeta dos Macacos: O Reinado (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Planeta dos Macacos: O Reinado [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -62175,22 +65235,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Rebel Moon - Parte 1: Corte do Diretor",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2023"
-  },
-  {
-    "t": "Rebel Moon - Parte 1:Corte do Diretor [L]",
-    "cat": "FILMES",
-    "tp": "Filmes | Legendados"
-  },
-  {
-    "t": "Rebel Moon - Parte 2: Corte do Diretor",
+    "t": "Rebel Moon - Parte 2: A Marcadora de Cicatrizes (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Rebel Moon - Parte 2: Corte do Diretor [L]",
+    "t": "Rebel Moon - Parte 2: A Marcadora de Cicatrizes (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Rebel Moon - Parte 2: A Marcadora de Cicatrizes (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Rebel Moon - Parte 2: A Marcadora de Cicatrizes [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -62330,12 +65390,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Beleza Avassaladora 2",
+    "t": "Beleza Avassaladora 2 (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Beleza Avassaladora 2 [L]",
+    "t": "Beleza Avassaladora 2 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Beleza Avassaladora 2 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Beleza Avassaladora 2 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Beleza Avassaladora 2 [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -62440,7 +65515,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Jornada de Srikanth [L]",
+    "t": "A Jornada de Srikanth [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -62545,9 +65620,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Era uma Vez no Oeste",
+    "t": "Era uma Vez no Oeste (1968)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Era uma Vez no Oeste (1968)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
   },
   {
     "t": "Beanie",
@@ -62700,12 +65780,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Planeta Janet",
+    "t": "Planeta Janet (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Planeta Janet [L]",
+    "t": "Planeta Janet (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Planeta Janet [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -62740,7 +65825,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Dandelion [L]",
+    "t": "Dandelion [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -62755,22 +65840,37 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Tòkunbò̩ [L]",
+    "t": "Tòkunbọ̀ [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Três Amigas: Todos os Domingos [L]",
+    "t": "Todos os Domingos [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "The Killer",
+    "t": "The Killer (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "The Killer [L]",
+    "t": "The Killer (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "The Killer (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "The Killer (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "The Killer [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -62805,7 +65905,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Família"
   },
   {
-    "t": "Tipos de Gentileza [L]",
+    "t": "Tipos de Gentileza [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -62985,17 +66085,32 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "O Quiosque [L]",
+    "t": "O Quiosque [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "YOLO: O Destino de Le Ying",
+    "t": "YOLO: O Destino de Le Ying (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "YOLO: O Destino de Le Ying [L]",
+    "t": "YOLO: O Destino de Le Ying (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "YOLO: O Destino de Le Ying (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "YOLO: O Destino de Le Ying (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "YOLO: O Destino de Le Ying [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63065,7 +66180,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Satyabhama [L]",
+    "t": "Satyabhama [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63105,7 +66220,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Mínimo para Viver [L]",
+    "t": "O Mínimo para Viver [L] (2017)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63125,12 +66240,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Rebel Ridge",
+    "t": "Rebel Ridge (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Rebel Ridge [L]",
+    "t": "Rebel Ridge (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Rebel Ridge (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Rebel Ridge (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Rebel Ridge [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63145,9 +66275,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Maldição de Savannah",
+    "t": "A Maldição de Savannah (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Maldição de Savannah (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Maldição de Savannah (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Amor e Preconceito",
@@ -63210,9 +66350,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Nightwatch: Demons Are Forever",
+    "t": "Vigia Noturno: O Legado (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Vigia Noturno: O Legado (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Vigia Noturno: O Legado (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Vigia Noturno: O Legado (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "O Fantástico Mundo de Blaze",
@@ -63255,12 +66410,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Um Homem Misterioso",
+    "t": "Um Homem Misterioso (2010)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Um Homem Misterioso (2010)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Um Homem Misterioso [L]",
+    "t": "Um Homem Misterioso (2010)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Um Homem Misterioso [L] (2010)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63285,7 +66450,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Firebrand [L]",
+    "t": "O Jogo da Rainha [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63305,12 +66470,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Herói do Holocausto",
+    "t": "O Herói do Holocausto (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Herói do Holocausto [L]",
+    "t": "O Herói do Holocausto (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "O Herói do Holocausto (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Herói do Holocausto (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "O Herói do Holocausto [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63330,7 +66510,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "The Lockdown [L]",
+    "t": "The Lockdown [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63340,17 +66520,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Nitram [L]",
+    "t": "Nitram [L] (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Boxer",
+    "t": "Boxer (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Boxer [L]",
+    "t": "Boxer (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Boxer [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63360,7 +66545,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Technoboys [L]",
+    "t": "Technoboys [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63395,12 +66580,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "50 Km Por Hora",
+    "t": "50 Km Por Hora (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "50 Km Por Hora [L]",
+    "t": "50 Km Por Hora (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "50 Km Por Hora [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63470,12 +66660,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Setor 36",
+    "t": "Setor 36 (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Setor 36 [L]",
+    "t": "Setor 36 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Setor 36 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Setor 36 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Setor 36 [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63525,12 +66730,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Garota Francesa",
+    "t": "A Garota Francesa (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "A Garota Francesa [L]",
+    "t": "A Garota Francesa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Garota Francesa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Garota Francesa [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63560,9 +66775,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Longing",
+    "t": "Longing (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Longing (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Longing (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Memórias Que Não Se Apagam",
@@ -63580,12 +66805,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Beijo do Demônio",
+    "t": "O Beijo do Demônio (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Beijo do Demônio [L]",
+    "t": "O Beijo do Demônio (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Beijo do Demônio (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Beijo do Demônio (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Beijo do Demônio [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63655,12 +66895,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "As Três Filhas",
+    "t": "As Três Filhas (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "As Três Filhas [L]",
+    "t": "As Três Filhas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "As Três Filhas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "As Três Filhas [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63705,12 +66955,22 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Sussurro",
+    "t": "Quando a Morte Sussurra (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Sussurro [L]",
+    "t": "Quando a Morte Sussurra (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Quando a Morte Sussurra (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sussurros do Coração [L] (1995)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63740,17 +67000,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Touch",
+    "t": "Touch (2002)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2024"
+    "tp": "Filmes | Drama"
   },
   {
-    "t": "Touch [L]",
+    "t": "The Touch of Satan [L] (1971)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Tuesday: O Último Abraço [L]",
+    "t": "Tuesday: O Último Abraço [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63765,9 +67025,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Greice",
+    "t": "Greice (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Greice (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Greice (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Greice (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Pés de Peixe",
@@ -63875,12 +67150,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Bangkok no Limite: Entre o Inferno e o Paraíso",
+    "t": "Bangkok no Limite: Entre o Inferno e o Paraíso (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Bangkok no Limite: Entre o Inferno e o Paraíso [L]",
+    "t": "Bangkok no Limite: Entre o Inferno e o Paraíso (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Bangkok no Limite: Entre o Inferno e o Paraíso (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Bangkok no Limite: Entre o Inferno e o Paraíso (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Bangkok no Limite: Entre o Inferno e o Paraíso [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63925,7 +67215,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Lobos [L]",
+    "t": "Lobos [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -63970,7 +67260,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Will & Harper [L]",
+    "t": "Will & Harper [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -64155,12 +67445,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Hora do Vampiro",
+    "t": "A Hora do Vampiro (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "A Hora do Vampiro [L]",
+    "t": "A Hora do Vampiro (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Hora do Vampiro [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -64195,7 +67490,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Cabrini [L]",
+    "t": "Cabrini [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -64265,12 +67560,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Fugindo da Terra do Nunca",
+    "t": "Fugindo da Terra do Nunca (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Fugindo da Terra do Nunca [L]",
+    "t": "Fugindo da Terra do Nunca (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Fugindo da Terra do Nunca [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -64310,12 +67610,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "O Caso dos Irmãos Menendez",
+    "t": "O Caso dos Irmãos Menendez (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "O Caso dos Irmãos Menendez [L]",
+    "t": "O Caso dos Irmãos Menendez (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "O Caso dos Irmãos Menendez [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -64330,9 +67635,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Motel Destino",
+    "t": "Motel Destino (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Motel Destino (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Motel Destino (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Motel Destino (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "O Melhor Torcedor do Mundo",
@@ -64340,7 +67660,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "O Melhor Torcedor do Mundo [L]",
+    "t": "O Melhor Torcedor do Mundo [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -64430,7 +67750,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Little Bites [L]",
+    "t": "Little Bites [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -64790,9 +68110,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Outra Chance para o Amor",
+    "t": "Outra Chance para o Amor (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Outra Chance para o Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Outra Chance para o Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Assalto Brutal",
@@ -65120,9 +68450,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Free Guy: Assumindo o Controle",
+    "t": "Free Guy: Assumindo o Controle (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Free Guy: Assumindo o Controle (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Free Guy: Assumindo o Controle (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Guerra ao Terror",
@@ -65270,12 +68610,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Pets em Ação!",
+    "t": "Pets em Ação! (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2024"
   },
   {
-    "t": "Pets em Ação! [L]",
+    "t": "Pets em Ação! (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Pets em Ação! (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Pets em Ação! (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Pets em Ação! [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -67000,9 +70355,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Fúria de Becky",
+    "t": "A Fúria de Becky (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Fúria de Becky (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Fúria de Becky (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Fúria de Becky (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Caça às Bruxas (2011)",
@@ -68155,12 +71525,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Força da Mulher",
+    "t": "A Força da Mulher (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2023"
   },
   {
-    "t": "A Força da Mulher [L]",
+    "t": "A Força da Mulher (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Força da Mulher (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Força da Mulher (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "A Força da Mulher [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -68810,9 +72195,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "Moxie: Quando as Garotas Vão À Luta",
+    "t": "Moxie: Quando as Garotas Vão À Luta (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Moxie: Quando as Garotas Vão À Luta (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Moxie: Quando as Garotas Vão À Luta (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
   },
   {
     "t": "Alice: Subservience",
@@ -72785,9 +76180,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "O Céu Não Pode Esperar",
+    "t": "O Céu Não Pode Esperar (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Céu Não Pode Esperar (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
   },
   {
     "t": "O Céu Não Pode Esperar [L]",
@@ -74385,12 +77785,27 @@ const CATALOG_DATA = [
     "tp": "Filmes | Animação / Infantil"
   },
   {
-    "t": "Jornada Para o Inferno",
+    "t": "Jornada Para o Inferno (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Jornada Para o Inferno (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Jornada Para o Inferno (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Jornada Para o Inferno (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Faroeste"
   },
   {
-    "t": "Jornada Para o Inferno [L]",
+    "t": "Jornada Para o Inferno [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -74805,9 +78220,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Suspense"
   },
   {
-    "t": "The Spirit: O Filme",
+    "t": "The Spirit: O Filme (2008)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "The Spirit: O Filme (2008)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "The Spirit: O Filme (2008)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "A Casa do Terror [L]",
@@ -75035,7 +78460,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Marcas do Passado [L]",
+    "t": "Marcas do Passado [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -75537,7 +78962,17 @@ const CATALOG_DATA = [
   {
     "t": "Operação Tempestade (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Operação Tempestade (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Operação Tempestade (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Operação Tempestade [L] (2023)",
@@ -78295,9 +81730,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Operação Resgate - QUALIDADE CINEMA (2024)",
+    "t": "Operação Resgate (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Operação Resgate (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Operação Resgate (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Operação Resgate (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Centopéia Humana 2 [L] (2011)",
@@ -78683,6 +82133,16 @@ const CATALOG_DATA = [
     "t": "Marmaduke (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Marmaduke (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Marmaduke (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Jogos Vorazes: Em Chamas (2013)",
@@ -79778,6 +83238,16 @@ const CATALOG_DATA = [
     "t": "Missão Extrema (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Missão Extrema (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Missão Extrema (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Grande Dragão Branco 2 (1996)",
@@ -81867,7 +85337,17 @@ const CATALOG_DATA = [
   {
     "t": "Vera e o Prazer dos Outros (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Vera e o Prazer dos Outros (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Vera e o Prazer dos Outros (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Kaiju No. 8: Missão de Reconhecimento (2025)",
@@ -85475,6 +88955,11 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
+    "t": "Sozinha Com Você (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
     "t": "Sozinha Com Você [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
@@ -86213,6 +89698,11 @@ const CATALOG_DATA = [
     "t": "Amizade Tóxica (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Amizade Tóxica (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Amizade Tóxica [L] (2025)",
@@ -93557,7 +97047,22 @@ const CATALOG_DATA = [
   {
     "t": "A Fuga das Galinhas - A Ameaça dos Nuggets (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Fuga das Galinhas - A Ameaça dos Nuggets (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "A Fuga das Galinhas - A Ameaça dos Nuggets (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "A Fuga das Galinhas - A Ameaça dos Nuggets (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "A Fuga das Galinhas - A Ameaça dos Nuggets [L] (2023)",
@@ -93925,14 +97430,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "A Mansão do Horror (2022)",
+    "t": "Segredos de Sangue (2013)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
   {
-    "t": "A Mansão do Horror [L] (2022)",
+    "t": "Segredos de Sangue (2013)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Vingança Ancestral (2023)",
@@ -94202,7 +97707,22 @@ const CATALOG_DATA = [
   {
     "t": "Leo (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Leo (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Leo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Leo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
   },
   {
     "t": "Barbie e a Magia de Aladus (2005)",
@@ -95157,7 +98677,12 @@ const CATALOG_DATA = [
   {
     "t": "Luccas e Gi em: Amor de Mãe (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Nacionais"
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Luccas e Gi em: Amor de Mãe (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
   },
   {
     "t": "Ne Zha 2: O Renascer da Alma (2025)",
@@ -97067,7 +100592,17 @@ const CATALOG_DATA = [
   {
     "t": "Controle (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Suspense"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Controle (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Controle (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Controle [L] (2023)",
@@ -97907,6 +101442,11 @@ const CATALOG_DATA = [
   {
     "t": "O Clube da Separação (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Clube da Separação (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
@@ -97922,7 +101462,12 @@ const CATALOG_DATA = [
   {
     "t": "Queime Todas Minhas Cartas (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Queime Todas Minhas Cartas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "Sexual Drive [L] (2021)",
@@ -99052,7 +102597,7 @@ const CATALOG_DATA = [
   {
     "t": "Cabrito (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Nacionais"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Caccia alla vedova (1991)",
@@ -99123,6 +102668,11 @@ const CATALOG_DATA = [
     "t": "O Melhor Fim de Semana de Todos [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Retorno do Morto-Vivo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "O Retorno do Morto-Vivo (2023)",
@@ -99312,7 +102862,17 @@ const CATALOG_DATA = [
   {
     "t": "Reforma e Amor (2022)",
     "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Reforma e Amor (2022)",
+    "cat": "FILMES",
     "tp": "Filmes | Família"
+  },
+  {
+    "t": "Reforma e Amor (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Reforma e Amor [L] (2022)",
@@ -100198,6 +103758,11 @@ const CATALOG_DATA = [
     "t": "Pai do Ano [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Síndrome (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "A Síndrome (2023)",
@@ -101172,7 +104737,17 @@ const CATALOG_DATA = [
   {
     "t": "O Assassino (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Assassino (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Assassino (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Memórias de um Assassino (2003)",
@@ -101962,7 +105537,17 @@ const CATALOG_DATA = [
   {
     "t": "A Nova Vida de Clemence (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Nova Vida de Clemence (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Nova Vida de Clemence (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "A Nova Vida de Clemence [L] (2023)",
@@ -102002,7 +105587,22 @@ const CATALOG_DATA = [
   {
     "t": "Vidas de Ponta-Cabeça (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Vidas de Ponta-Cabeça (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Vidas de Ponta-Cabeça (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Vidas de Ponta-Cabeça (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Vidas de Ponta-Cabeça [L] (2023)",
@@ -102067,7 +105667,17 @@ const CATALOG_DATA = [
   {
     "t": "Imperfeitamente Perfeita (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Imperfeitamente Perfeita (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Imperfeitamente Perfeita (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Hamnet: A Vida Antes de Hamlet [L] (2025)",
@@ -103292,7 +106902,17 @@ const CATALOG_DATA = [
   {
     "t": "Maria Montessori - Ensinando com Amor (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Maria Montessori - Ensinando com Amor (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Maria Montessori - Ensinando com Amor (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "Maria Montessori - Ensinando com Amor [L] (2023)",
@@ -103340,9 +106960,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Tom & Jerry: Uma Aventura no Museu - QUALIDADE CINEMA (2025)",
+    "t": "Tom & Jerry: Uma Aventura no Museu (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Tom & Jerry: Uma Aventura no Museu (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Tom & Jerry: Uma Aventura no Museu (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Tom & Jerry: Uma Aventura no Museu (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
   },
   {
     "t": "Negação (2016)",
@@ -104392,7 +108027,12 @@ const CATALOG_DATA = [
   {
     "t": "Mãe Fora da Caixa (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Nacionais"
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Mãe Fora da Caixa (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Me Chama Que Eu Vou (2020)",
@@ -104448,6 +108088,21 @@ const CATALOG_DATA = [
     "t": "O Tanque de Guerra (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "O Tanque de Guerra (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "O Tanque de Guerra (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Tanque de Guerra (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Meu Amigo (2026)",
@@ -106637,7 +110292,22 @@ const CATALOG_DATA = [
   {
     "t": "Anjos Caídos & Guerreiros da Paz (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Anjos Caídos & Guerreiros da Paz (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Anjos Caídos & Guerreiros da Paz (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Anjos Caídos & Guerreiros da Paz (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "#SalveRosa (2025)",
@@ -107620,9 +111290,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Eu Só Posso Imaginar 2 [L] - QUALIDADE CINEMA (2026)",
+    "t": "Eu Só Posso Imaginar 2 [L] (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Legendados"
   },
   {
     "t": "Midwinter Break [L] - QUALIDADE CINEMA (2026)",
@@ -107757,7 +111427,22 @@ const CATALOG_DATA = [
   {
     "t": "A Filha da Noite (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Filha da Noite (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Filha da Noite (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Filha da Noite (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "A Força da Natureza [L] (2020)",
@@ -107767,7 +111452,22 @@ const CATALOG_DATA = [
   {
     "t": "A Mão Esquerda do Diabo (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Mão Esquerda do Diabo (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Mão Esquerda do Diabo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "A Mão Esquerda do Diabo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Trilha Sonora dos Dezesseis (2020)",
@@ -107913,6 +111613,11 @@ const CATALOG_DATA = [
     "t": "Estação Polar Zebra [L] (1968)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Festival de Artes de Hazelton (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
   },
   {
     "t": "Festival de Artes de Hazelton (2024)",
@@ -108102,17 +111807,22 @@ const CATALOG_DATA = [
   {
     "t": "O Inferno Pode Esperar (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Inferno Pode Esperar (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Inferno Pode Esperar (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "O Inferno Pode Esperar (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
-  },
-  {
-    "t": "O Inferno Pode Esperar (2023)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Inferno Pode Esperar [L] (2023)",
@@ -108212,12 +111922,17 @@ const CATALOG_DATA = [
   {
     "t": "Párvulos: Filhos do Apocalipse (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Lançamentos 2024"
   },
   {
     "t": "Párvulos: Filhos do Apocalipse (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Párvulos: Filhos do Apocalipse (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Párvulos: Filhos do Apocalipse [L] (2024)",
@@ -108273,6 +111988,11 @@ const CATALOG_DATA = [
     "t": "Rocketman [L] (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Romance na Ficção (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "Romance na Ficção (2023)",
@@ -108335,14 +112055,14 @@ const CATALOG_DATA = [
     "tp": "Filmes | Crime"
   },
   {
-    "t": "Sombra da Morte [L] (2026)",
+    "t": "Na Frieza da Realidade [L] (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
     "t": "Song Sung Blue: Um Sonho a Dois (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Lançamentos 2025"
   },
   {
     "t": "Song Sung Blue: Um Sonho a Dois (2025)",
@@ -108353,6 +112073,11 @@ const CATALOG_DATA = [
     "t": "Song Sung Blue: Um Sonho a Dois (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Song Sung Blue: Um Sonho a Dois (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Song Sung Blue: Um Sonho a Dois [L] (2025)",
@@ -108433,6 +112158,11 @@ const CATALOG_DATA = [
     "t": "Um Casal: Sophia e Tolstói [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Novo Dia para Lutar (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
   },
   {
     "t": "Um Novo Dia para Lutar (2024)",
@@ -108542,12 +112272,12 @@ const CATALOG_DATA = [
   {
     "t": "A Bela e o Bilionário (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Romance"
   },
   {
     "t": "A Bela e o Bilionário (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Romance"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "A Canção do Amor (2023)",
@@ -109517,17 +113247,22 @@ const CATALOG_DATA = [
   {
     "t": "O Escolhido (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Escolhido (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
     "t": "O Escolhido (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "O Escolhido (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Grande Mestre 4 [L] (2019)",
@@ -109537,12 +113272,12 @@ const CATALOG_DATA = [
   {
     "t": "O Matador de Aluguel (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Matador de Aluguel (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Menino Golfinho (2022)",
@@ -110310,9 +114045,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
-    "t": "The Gates [L] - QUALIDADE CINEMA (2026)",
+    "t": "The Gates [L] (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Legendados"
   },
   {
     "t": "The Observance - QUALIDADE CINEMA (2026)",
@@ -111177,12 +114912,12 @@ const CATALOG_DATA = [
   {
     "t": "Desejos Proibidos (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Desejos Proibidos (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Desligue! (2026)",
@@ -111717,7 +115452,7 @@ const CATALOG_DATA = [
   {
     "t": "O TerrirVel (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Nacionais"
+    "tp": "Filmes | Documentários"
   },
   {
     "t": "Jane Não Está Bem (2023)",
@@ -111962,17 +115697,22 @@ const CATALOG_DATA = [
   {
     "t": "Meu Primeiro Amor de Verão (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Meu Primeiro Amor de Verão (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
     "t": "Meu Primeiro Amor de Verão (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Música"
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Meu Primeiro Amor de Verão (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Romance"
+    "tp": "Filmes | Música"
   },
   {
     "t": "Meu Primeiro Amor de Verão [L] (2024)",
@@ -112297,6 +116037,11 @@ const CATALOG_DATA = [
   {
     "t": "O Homem que Desafiou os Soviéticos (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Homem que Desafiou os Soviéticos (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
@@ -112555,9 +116300,9 @@ const CATALOG_DATA = [
     "tp": "Filmes | Nacionais"
   },
   {
-    "t": "Pushed Off a Plane and Survived [L] - QUALIDADE CINEMA (2026)",
+    "t": "Pushed Off a Plane and Survived [L] (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Legendados"
   },
   {
     "t": "Quem Tem Medo de Virginia Woolf? (1966)",
@@ -114192,7 +117937,12 @@ const CATALOG_DATA = [
   {
     "t": "Lonely People: Nunca Confie em Ninguém (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Nacionais"
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Lonely People: Nunca Confie em Ninguém (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Maale: Desejo de Paz [L] (2021)",
@@ -114462,12 +118212,12 @@ const CATALOG_DATA = [
   {
     "t": "Calor Mortal (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Calor Mortal (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Bang! Bang! - Vivendo sem Regras (2020)",
@@ -114737,17 +118487,17 @@ const CATALOG_DATA = [
   {
     "t": "13 Horas: Os Soldados Secretos de Benghazi (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
-  },
-  {
-    "t": "13 Horas: Os Soldados Secretos de Benghazi (2016)",
-    "cat": "FILMES",
     "tp": "Filmes | Guerra"
   },
   {
     "t": "13 Horas: Os Soldados Secretos de Benghazi (2016)",
     "cat": "FILMES",
     "tp": "Filmes | História"
+  },
+  {
+    "t": "13 Horas: Os Soldados Secretos de Benghazi (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Anjos de Aço (1987)",
@@ -115342,6 +119092,11 @@ const CATALOG_DATA = [
   {
     "t": "Mais Um Tiro Certo (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Mais Um Tiro Certo (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
@@ -115383,6 +119138,11 @@ const CATALOG_DATA = [
     "t": "Miyamoto Musashi e os 400 Samurais (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Mercy: Golpe de Misericórdia (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "Mercy: Golpe de Misericórdia (2023)",
@@ -116067,12 +119827,12 @@ const CATALOG_DATA = [
   {
     "t": "Tráfico de Orgãos (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Tráfico de Orgãos (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Treinamento Brutal (2022)",
@@ -116243,11 +120003,6 @@ const CATALOG_DATA = [
     "t": "Aqua Teen Forever: Plantasm (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
-  },
-  {
-    "t": "Aqua Teen Forever: Plantasm (2022)",
-    "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Billy e Mandy Salvam o Natal (2005)",
@@ -116457,12 +120212,12 @@ const CATALOG_DATA = [
   {
     "t": "Caçadores de Trolls: A Ascensão dos Titãs (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Família"
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Caçadores de Trolls: A Ascensão dos Titãs (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Família"
   },
   {
     "t": "Chef Jack: O Cozinheiro Aventureiro (2023)",
@@ -117357,17 +121112,22 @@ const CATALOG_DATA = [
   {
     "t": "Franklin! (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Franklin! (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
   },
   {
     "t": "Franklin! (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Família"
   },
   {
     "t": "Franklin! (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Família"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Scooby-Doo! e o Lobisomem (1988)",
@@ -117412,6 +121172,11 @@ const CATALOG_DATA = [
   {
     "t": "South Park: Entrando no Panderverso (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "South Park: Entrando no Panderverso (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
   },
   {
@@ -117420,11 +121185,6 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
-    "t": "South Park: Entrando no Panderverso (2023)",
-    "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
-  },
-  {
     "t": "Suzume (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
@@ -117432,12 +121192,12 @@ const CATALOG_DATA = [
   {
     "t": "Suzume (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Aventura"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Suzume (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Team Hot Wheels: A Mega Corrida (2015)",
@@ -117577,17 +121337,17 @@ const CATALOG_DATA = [
   {
     "t": "Águia e Jaguar: Os Guerreiros Lendários (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
-  },
-  {
-    "t": "Águia e Jaguar: Os Guerreiros Lendários (2022)",
-    "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
   },
   {
     "t": "Águia e Jaguar: Os Guerreiros Lendários (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Águia e Jaguar: Os Guerreiros Lendários (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Vic o Viking e a Espada Mágica (2019)",
@@ -118112,17 +121872,17 @@ const CATALOG_DATA = [
   {
     "t": "A Princesa e o Feitiço do Tempo (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
-  },
-  {
-    "t": "A Princesa e o Feitiço do Tempo (2022)",
-    "cat": "FILMES",
     "tp": "Filmes | Família"
   },
   {
     "t": "A Princesa e o Feitiço do Tempo (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "A Princesa e o Feitiço do Tempo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "A Disputa dos Sexos (1977)",
@@ -118148,6 +121908,16 @@ const CATALOG_DATA = [
     "t": "Irmã Morte (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Alerta Âmbar (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Alerta Âmbar (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Alerta Âmbar (2024)",
@@ -118233,6 +122003,11 @@ const CATALOG_DATA = [
     "t": "Como Ser Solteira (2016)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "As Ladras (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "As Ladras (2023)",
@@ -118353,6 +122128,11 @@ const CATALOG_DATA = [
     "t": "Cheios de Graça (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Família"
+  },
+  {
+    "t": "Crescendo Juntas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "Crescendo Juntas (2023)",
@@ -118718,6 +122498,11 @@ const CATALOG_DATA = [
     "t": "A Indefectível Missão de Renildo Salvador (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Downtown Owl: Uma Nova Vida (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "Downtown Owl: Uma Nova Vida (2023)",
@@ -119532,6 +123317,11 @@ const CATALOG_DATA = [
   {
     "t": "Quem Chamou o Charlie? (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Quem Chamou o Charlie? (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
@@ -119547,7 +123337,12 @@ const CATALOG_DATA = [
   {
     "t": "Um Dia Cinco Estrelas (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Nacionais"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Um Dia Cinco Estrelas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Mais Uma Vida (2022)",
@@ -121487,12 +125282,12 @@ const CATALOG_DATA = [
   {
     "t": "Tudo Que Você Desejou (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Tudo Que Você Desejou (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Maldição da Múmia (2026)",
@@ -123042,17 +126837,17 @@ const CATALOG_DATA = [
   {
     "t": "Propriedade Privada (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
-  },
-  {
-    "t": "Propriedade Privada (2022)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Propriedade Privada (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Propriedade Privada (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Ao Cair do Sol (2022)",
@@ -123062,7 +126857,12 @@ const CATALOG_DATA = [
   {
     "t": "O Pastor e o Guerrilheiro (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Nacionais"
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Pastor e o Guerrilheiro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Prazer Sem Limites (2023)",
@@ -123078,6 +126878,11 @@ const CATALOG_DATA = [
     "t": "Amor Profundo (2011)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "NYAD (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "NYAD (2023)",
@@ -123103,6 +126908,11 @@ const CATALOG_DATA = [
     "t": "Amargo Regresso (1978)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Os Reis de Queenstown (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "Os Reis de Queenstown (2023)",
@@ -123695,11 +127505,6 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "A Rebelião das Máquinas (2020)",
-    "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
-  },
-  {
     "t": "Mundo Cão (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
@@ -123842,7 +127647,7 @@ const CATALOG_DATA = [
   {
     "t": "Contaminados Pelo Medo (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "Contaminados Pelo Medo (2023)",
@@ -124120,11 +127925,6 @@ const CATALOG_DATA = [
     "tp": "Filmes | Ação"
   },
   {
-    "t": "Depois do Fim do Mundo (2022)",
-    "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
-  },
-  {
     "t": "A Face da Guerra (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Guerra"
@@ -124208,6 +128008,11 @@ const CATALOG_DATA = [
     "t": "Inverno em Chamas (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Caminhos da Sobrevivência (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "Caminhos da Sobrevivência (2023)",
@@ -124443,6 +128248,11 @@ const CATALOG_DATA = [
     "t": "Relatos de Guerra (2015)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Corte Marcial Da Nave Da Revolta (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "A Corte Marcial Da Nave Da Revolta (2023)",
@@ -126306,11 +130116,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Herança Roubada [L] (2024)",
-    "cat": "FILMES",
-    "tp": "Filmes | Legendados"
-  },
-  {
-    "t": "Obcecado por Cinema [L] (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -128655,21 +132460,6 @@ const CATALOG_DATA = [
     "tp": "Filmes | Família"
   },
   {
-    "t": "Vigia Noturno: O Legado (2023)",
-    "cat": "FILMES",
-    "tp": "Filmes | Mistério"
-  },
-  {
-    "t": "Vigia Noturno: O Legado (2023)",
-    "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Vigia Noturno: O Legado (2023)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
     "t": "Gary (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2026"
@@ -129108,6 +132898,11 @@ const CATALOG_DATA = [
     "t": "Star Wars: O Mandaloriano e Grogu (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Star Wars: O Mandaloriano e Grogu (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "O Tesouro de Sarah [L] (2025)",
@@ -130513,6 +134308,11 @@ const CATALOG_DATA = [
     "t": "Bleach (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Bleach (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Assombrada pelo Passado (2013)",
@@ -135350,9 +139150,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Família"
   },
   {
-    "t": "Toy Story 5 - QUALIDADE CINEMA (2026)",
+    "t": "Toy Story 5 (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Toy Story 5 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Toy Story 5 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Toy Story 5 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Finalmente 18 (2013)",
@@ -135502,7 +139317,17 @@ const CATALOG_DATA = [
   {
     "t": "Nos Vemos Em Vênus (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Nos Vemos Em Vênus (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Nos Vemos Em Vênus (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Sua Culpa: Londres [L] (2026)",
@@ -140765,14 +144590,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "O Fim da Rua [CINEMA] (2026)",
+    "t": "O Fim da Rua (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2026"
   },
   {
-    "t": "O Fim da Rua [CINEMA] (2026)",
+    "t": "O Fim da Rua (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "O Fim da Rua (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Os Heróis de Halyard (2023)",
@@ -141825,9 +145655,29 @@ const CATALOG_DATA = [
     "tp": "Filmes | Mistério"
   },
   {
-    "t": "Moana - QUALIDADE CINEMA (2026)",
+    "t": "Moana (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Moana (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Moana (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Moana (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Moana (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "King Kong (1976)",
@@ -144317,7 +148167,12 @@ const CATALOG_DATA = [
   {
     "t": "Fora de Controle (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Fora de Controle (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Elize: Sombras de uma Mulher (2026)",
@@ -144797,17 +148652,17 @@ const CATALOG_DATA = [
   {
     "t": "O Último Ronin (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Último Ronin (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "O Último Ronin (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
-  },
-  {
-    "t": "O Último Ronin (2024)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2024"
   },
   {
     "t": "O Último Ronin [L] (2024)",
@@ -144817,12 +148672,12 @@ const CATALOG_DATA = [
   {
     "t": "Vermiglio: A Noiva da Montanha (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Lançamentos 2024"
   },
   {
     "t": "Vermiglio: A Noiva da Montanha (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2024"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "A Viagem [L] (2012)",
@@ -144833,6 +148688,11 @@ const CATALOG_DATA = [
     "t": "Marguerite & Julien: Um Amor Proibido [L] (2015)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amor Apocalipse (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
   },
   {
     "t": "Amor Apocalipse (2025)",
@@ -144850,11 +148710,6 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Amor Apocalipse (2025)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2025"
-  },
-  {
     "t": "Amor Apocalipse [L] (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
@@ -144863,6 +148718,11 @@ const CATALOG_DATA = [
     "t": "Matrix Reloaded [L] (2003)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Sonho de Clarice (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "O Sonho de Clarice (2023)",
@@ -144878,11 +148738,6 @@ const CATALOG_DATA = [
     "t": "O Sonho de Clarice (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Aventura"
-  },
-  {
-    "t": "O Sonho de Clarice (2023)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "The Beach Bum: Levando a Vida Numa Boa [L] (2019)",
@@ -144925,24 +148780,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Apanhador de Almas (2025)",
+    "t": "O Apanhador de Almas (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "O Apanhador de Almas (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Apanhador de Almas (2025)",
+    "t": "O Apanhador de Almas (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
   },
   {
-    "t": "Apanhador de Almas (2025)",
+    "t": "O Apanhador de Almas (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
-  },
-  {
-    "t": "Apanhador de Almas (2025)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2025"
   },
   {
     "t": "With Child [L] (2014)",
@@ -145022,12 +148877,12 @@ const CATALOG_DATA = [
   {
     "t": "Do Outro Lado do Pavilhão (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Documentários"
+    "tp": "Filmes | Lançamentos 2025"
   },
   {
     "t": "Do Outro Lado do Pavilhão (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2025"
+    "tp": "Filmes | Documentários"
   },
   {
     "t": "Um Amor para Recordar [L] (2002)",
@@ -145232,6 +149087,11 @@ const CATALOG_DATA = [
   {
     "t": "Destruição Iminente (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Destruição Iminente (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
@@ -145240,19 +149100,29 @@ const CATALOG_DATA = [
     "tp": "Filmes | Aventura"
   },
   {
-    "t": "Destruição Iminente (2024)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2024"
-  },
-  {
     "t": "Destruição Iminente [L] (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Homem-Aranha: Um Novo Dia - QUALIDADE CINEMA (2026)",
+    "t": "Homem-Aranha: Um Novo Dia (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Homem-Aranha: Um Novo Dia (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Homem-Aranha: Um Novo Dia (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Homem-Aranha: Um Novo Dia (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Cenas de Natureza Sexual (2006)",
@@ -145357,17 +149227,17 @@ const CATALOG_DATA = [
   {
     "t": "A Vida Secreta de Kika (2025)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "A Vida Secreta de Kika (2025)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "A Vida Secreta de Kika (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
-  },
-  {
-    "t": "A Vida Secreta de Kika (2025)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2025"
   },
   {
     "t": "A Vida Secreta de Kika [L] (2025)",
@@ -145440,6 +149310,11 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
+    "t": "Uma Noite com a Família Blacks (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
     "t": "Uma Noite com a Família Blacks [L] (2016)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
@@ -145492,12 +149367,12 @@ const CATALOG_DATA = [
   {
     "t": "‎Um Grande Despertar (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | História"
   },
   {
     "t": "‎Um Grande Despertar (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | História"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "‎Um Grande Despertar [L] (2026)",
@@ -145687,17 +149562,17 @@ const CATALOG_DATA = [
   {
     "t": "Dentes de Leite (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Dentes de Leite (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Dentes de Leite (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Mistério"
-  },
-  {
-    "t": "Dentes de Leite (2024)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2024"
   },
   {
     "t": "Dentes de Leite [L] (2024)",
@@ -145752,17 +149627,17 @@ const CATALOG_DATA = [
   {
     "t": "Uma Carta de Natal (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Uma Carta de Natal (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
     "t": "Uma Carta de Natal (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Família"
-  },
-  {
-    "t": "Uma Carta de Natal (2024)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2024"
   },
   {
     "t": "Uma Carta de Natal [L] (2024)",
@@ -145850,12 +149725,12 @@ const CATALOG_DATA = [
     "tp": "Filmes | Drama"
   },
   {
-    "t": "Çilingir Sofrası [L] (2022)",
+    "t": "A Night in Four Parts [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Słoń [L] (2022)",
+    "t": "Elephant [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -145890,7 +149765,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Trois nuits par semaine [L] (2022)",
+    "t": "Three Nights a Week [L] (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -146040,7 +149915,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Romance"
   },
   {
-    "t": "Bendito corazón [L] (2026)",
+    "t": "Blessed Heart [L] (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -146052,17 +149927,17 @@ const CATALOG_DATA = [
   {
     "t": "A Última Cena (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Última Cena (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "A Última Cena (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
-  },
-  {
-    "t": "A Última Cena (2023)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "A Última Cena [L] (2023)",
@@ -146112,6 +149987,11 @@ const CATALOG_DATA = [
   {
     "t": "As Freiras Exorcistas (2025)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "As Freiras Exorcistas (2025)",
+    "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
   {
@@ -146123,11 +150003,6 @@ const CATALOG_DATA = [
     "t": "As Freiras Exorcistas (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "As Freiras Exorcistas (2025)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2025"
   },
   {
     "t": "As Freiras Exorcistas [L] (2025)",
@@ -146147,6 +150022,11 @@ const CATALOG_DATA = [
   {
     "t": "Capitão Hook: As Marés Malditas (2025)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Capitão Hook: As Marés Malditas (2025)",
+    "cat": "FILMES",
     "tp": "Filmes | Aventura"
   },
   {
@@ -146158,11 +150038,6 @@ const CATALOG_DATA = [
     "t": "Capitão Hook: As Marés Malditas (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Capitão Hook: As Marés Malditas (2025)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2025"
   },
   {
     "t": "Capitão Hook: As Marés Malditas [L] (2025)",
@@ -146252,12 +150127,12 @@ const CATALOG_DATA = [
   {
     "t": "1968 - Um Ano Na Vida (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Documentários"
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "1968 - Um Ano Na Vida (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2023"
+    "tp": "Filmes | Documentários"
   },
   {
     "t": "Tetris (2023)",
@@ -146335,7 +150210,7 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Always [L] (2026)",
+    "t": "Para Sempre [L] (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -146440,17 +150315,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "Rattle & Roll: As Origens do Mal (2026)",
+    "t": "Rattle & Roll: As Origens do Mal (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2026"
+    "tp": "Filmes | Lançamentos 2025"
   },
   {
-    "t": "Rattle & Roll: As Origens do Mal (2026)",
+    "t": "Rattle & Roll: As Origens do Mal (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Rattle & Roll: As Origens do Mal [L] (2026)",
+    "t": "Rattle & Roll: As Origens do Mal [L] (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -146522,7 +150397,7 @@ const CATALOG_DATA = [
   {
     "t": "Missão Majnu (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "Missão Majnu (2023)",
@@ -146532,12 +150407,7 @@ const CATALOG_DATA = [
   {
     "t": "Missão Majnu (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
-  },
-  {
-    "t": "Missão Majnu (2023)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2023"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Missão Majnu [L] (2023)",
@@ -148962,7 +152832,7 @@ const CATALOG_DATA = [
   {
     "t": "O Matador (2017)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Nacionais"
   },
   {
     "t": "A.S.I Babita Singh Reporting! [L] (2026)",
@@ -149395,14 +153265,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
-    "t": "Sobrenatural: Agora Entre Nós  [CINEMA] (2026)",
+    "t": "Sobrenatural: Agora Entre Nós (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2026"
   },
   {
-    "t": "Sobrenatural: Agora Entre Nós  [CINEMA] (2026)",
+    "t": "Sobrenatural: Agora Entre Nós (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Sobrenatural: Agora Entre Nós (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Sem Saída (1987)",
@@ -150257,7 +154132,17 @@ const CATALOG_DATA = [
   {
     "t": "Idiotas (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Idiotas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Idiotas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Broad Trip [L] (2026)",
@@ -152476,6 +156361,20256 @@ const CATALOG_DATA = [
   },
   {
     "t": "Bunny!! [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fittest on Earth: 2025 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Premarital [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Chum [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Seven Snipers [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tribeca 25 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "One Hour Girlfriend [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Meus Dias com Ela [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Meus Dias com Ela (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Meus Dias com Ela (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Sukhamano Sukhamann [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "You're All Doomed [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "House Sitter [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Last Apocalypse [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Rabisu: Curse of the Demon [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Long Time Listener [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bring the Law [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Summerween [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bare Skin [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pati Patni Aur Woh Do [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Outer Threat [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "She Cries Murder [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Newborn [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mrithyunjay [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "God & Beer [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Room Below [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sheng Wang: Roxo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Keeper of the Camphor Tree [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Whale Shark Jack [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Doctor Glas [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Day Diego Returned to the Azteca [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Girl in the River [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Corrida dos Bichos [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Villain of Villains [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Little Flowers [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Instinto Materno [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Kadhal Kadhai Sollava [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Four Birds [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dear Radhi [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dinogeist [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "SILA: The Life Within Everything [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Flowers of the Earth [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Maldição da Múmia [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Beyond the Game: Samurai 2026 WORLD BASEBALL CLASSIC [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Off We Go 2 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Arulvaan [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fukushima: Um Pesadelo Nuclear [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Caught by Love [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hands [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Broken Bonds [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Ground Beneath Our Feet [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Season to Blossom [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O'Romeo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sia: Nostalgic for the Present [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Within the Pines [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Trapped Outside [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Taylor Tomlinson: A Filha Pródiga [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Operation Taco Gary's [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Annihilator Unleashed [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ikkis [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Drive Through Fire [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ajuste de Contas [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "One Night Out with Alan Cumming [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sommore: Lustre Voador [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Royally Screwed [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Fim da Rua [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Masthishka Maranam [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Trick and Treats [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Watchdog [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Because of Cupid [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Accused: The Karen Read Story [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "S. Saraswathi [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pinecone [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Fairfield County Four [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sarpanch [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "My Mystery Romance [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Synthesized [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sampradayaini Suppini Suddapusaani [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Subedaar  [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Doctor Plague [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hidden Fixation [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Kadhal Reset Repeat [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Thaai Kizhavi [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dream Team [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Big Fat Quiz of Telly [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Naari Naari Naduma Murari [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Georgia Peach [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Romance at Hope Ranch [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Moment [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Infiltrate [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Chef’s Kiss [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Happy Patel: Khatarnak Jasoos [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bu İşin Şakası Yok [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Felicidade das Coisas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Couple Friendly [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Seetha Payanam [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Luben [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Valathu Vashathe Kallan [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Baleia [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Gandhi Talks [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Loving Highsmith [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Solidão dos Lagartos [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "My Lord [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Pequeno Mágico [L] (1987)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Garota que Chorava Pérolas [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Garota que Chorava Pérolas (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "A Garota que Chorava Pérolas (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "A Garota que Chorava Pérolas (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Garota que Chorava Pérolas (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Hell Hath No Fury [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Land Looters [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Missing the Boat [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Heartbreak Kid: Becoming Shawn Michaels [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Marriage Bites [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sympathy.for.the.Devil.2023.1080p.AMZN.WEB-DL.AAC2.0.H.265.DUAL-nitrato.DUBLADO.mp4",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Ligação Sombria [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amigas.Para.Sempre.2024.1080p.WEB-DL.DUAL.5.1.DUBLADO.mp4",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Kraken Terror no Mar.2025.1080p.WEB-DL.x264.DUAL.2.0.DUBLADO.mp4",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Oh Mom! [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bring Me The Horizon - L.I.V.E. in São Paulo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Huntsman [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Relação Mortal [L] (2011)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Reality+ [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Relação Mortal (2011)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Relação Mortal (2011)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Twin [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Be Happy [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Pai que Move Montanhas [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "ToxiCity [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "NFT: Cursed Images [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Connected [L] (2008)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Connected (2008)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Connected (2008)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "The Way to You [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lainey Wilson: O Espírito do Country [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "F Valentine's Day [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Aposta de Alto Risco [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Aposta de Alto Risco (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Aposta de Alto Risco (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Blood Witch [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Moses the Black [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Rajasaab [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Black Men Don't Cheat 3: Outplayed [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Repu Udayam 10 Gantalaku [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Game of Life [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Diary of a Weak Yogi [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Daughter She Left Behind [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Terry McMillan Presents: Tempted 2 Love [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "BTS THE COMEBACK LIVE | ARIRANG [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Wild London [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Who Could Kill a Sweet Old Lady [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Contrato Mortal [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fabian and the Deadly Wedding [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Kountry Wayne: Nostalgia [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Son of Revenge – The Story of Kalevala [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "I Killed Him in My Sleep [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "American Boy [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Two for Tee [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tyson Fury vs. Arslanbek Makhmudov [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Art of Telling Lies [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amaravathiki Aahvanam [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Chris Spencer: GOAT Adjacent [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Murder in the Highland Manor [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Our Dead Husband [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Trevor Noah: Alegria na Tristeza [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Brothers Under Fire [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Spring Wind - The Awakening [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bad Voodoo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Gator Face [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Terri Joe: Missionária em Miami [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Millwood Murders: Buried Truth [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bruce Bruce: I Ain't Playin' [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tony [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "In the Moment [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Kill Tony: Era Uma Vez no Texas [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Everything Is Fine [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vaa Vaathiyaar [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Match Made in Melbourne [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The House on Haunted Grounds [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Shadow Death [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Aaron Chen: Funny Garden [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Picture Perfect Sister-in-Law [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Flux [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Mosquito in the Ear [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Last Kiss [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Royal Setting [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Deb is Boss [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Harry Styles: Uma Noite em Manchester [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "la película [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Narcisa's Inheritance (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Narcisa's Inheritance (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Sultana (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Sultana (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Sultana (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Sultana [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Do Us Part [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Başıbozuklar [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Turn 2 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Wolf and the Lamb [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Devil Within [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Herança de Narcisa (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Herança de Narcisa (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Norton Creek Massacre [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Shark Frenzy [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Echoes from the Void [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Princess & The Dragon [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Céu em Fúria [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Céu em Fúria (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Céu em Fúria (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Céu em Fúria (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Firstborn [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Baby Fever [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Branco e Sangue Azul [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Apóstolo do Brasil - A Missão de São José de Anchieta (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "O Céu Não Sabe Meu Nome (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Céu Não Sabe Meu Nome (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Pilgrims [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Contornando a Morte [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ana Cecília (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "One Royal Holiday [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fairyland [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Stolen [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Deus tem AIDS (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Goodbye Happiness [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Minimalismo Já [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "26F Seeking Friend [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bones and Names [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Light [L] (2010)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amor para Sempre [L] (2004)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Shadows of Willow Cabin [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Seaspiracy: Mar Vermelho [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Frankenstein's Bride - Fürchte ihren Zorn [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Sombra do Meu Pai [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Notorious B.I.G. - A Lenda do Hip Hop (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Notorious B.I.G. - A Lenda do Hip Hop (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Notorious B.I.G. - A Lenda do Hip Hop [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Haunting of Julia Fields [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Jornada de Joy [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hancock Park [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Jornada de Joy (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Jornada de Joy (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Jornada de Joy (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Dois Chefs e um Bolo de Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Dois Chefs e um Bolo de Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Dois Chefs e um Bolo de Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Dois Chefs e um Bolo de Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Jeff Ross: Take a Banana for the Ride [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "RevPro New Year's Revolution [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Álbum de Família [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Cat Came Back [L] (1988)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Summer of the Colt [L] (1991)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bouchra [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Unaccustomed as We Are [L] (1929)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Life Hits [L] (2006)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Terror nas Profundezas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Terror nas Profundezas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Terror nas Profundezas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Terror nas Profundezas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "An Autumn Summer [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Do Deewane Seher Mein [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ghost School [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Best Boy [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Informant [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ligeiramente Grávidos [L] (2007)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Bandido (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Bandido (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Bandido [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "I'm Beginning To See the Light [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ricky [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Resultados (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Resultados [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Family Upside Down [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Conspiração Condor (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Conspiração Condor (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Conspiração Condor (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sarpatta Parambarai [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quiz Show: A Verdade dos Bastidores [L] (1994)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tempos Duros na Escola Douglass: Nenhuma Criança Fica de Fora (2008)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Tempos Duros na Escola Douglass: Nenhuma Criança Fica de Fora [L] (2008)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quiz Show: A Verdade dos Bastidores (1994)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Quiz Show: A Verdade dos Bastidores (1994)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Operação Valquíria [L] (2008)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tempos Difíceis: Perdido em Long Island [L] (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tenement [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Stroll: As Trabalhadoras da Rua 14 [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tempos Difíceis: Perdido em Long Island (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Expedição ao Delta do Okavango (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Expedição ao Delta do Okavango (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Expedição ao Delta do Okavango [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Peter Pan & Wendy [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Arma Perfeita (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Arma Perfeita (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "A Arma Perfeita [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Women of Troy [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Duas Semanas em Lagos [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Coreto (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "O Coreto (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Shadow Wolves [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Baleia Azul - Os desafios [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Baleia Azul - Os desafios (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Baleia Azul - Os desafios (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Baleia Azul - Os desafios (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Litefeet: Sound of the Subway [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "171 (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "171 (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Camocim (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "The Basement [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jovens e Perdidos [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jovens e Perdidos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Jovens e Perdidos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Jovens e Perdidos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Papatya ile Karabiber [L] (2004)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hive [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bamse and the Secret of the Sea [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Undeserving [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dancing in the Dust [L] (2004)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Norah Jones - Baloise Session 2023 [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Solarbabies - Guerreiros do Sol [L] (1986)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Os Rivais de Amziah King [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Delights of the Garden [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Acusado [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pistachio Wars [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "In Transit [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Duas Bruxas: A Herança Diabólica [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Emboscada Selvagem [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Barbie: O Quebra-Nozes [L] (2001)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Other People [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Emboscada Selvagem (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Emboscada Selvagem (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Emboscada Selvagem (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Emboscada Selvagem (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Angeliena [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Four Gates of Death [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Tartaruga e a Lebre: A Revanche do Século (2008)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "A Tartaruga e a Lebre: A Revanche do Século (2008)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "A Tartaruga e a Lebre: A Revanche do Século (2008)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Tartaruga e a Lebre: A Revanche do Século [L] (2008)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Uprising (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Um Esquadrão Muito Louco [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Esquadrão Muito Louco (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Um Esquadrão Muito Louco (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Um Esquadrão Muito Louco (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Tragédia de Armero [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Igor Guimarães: Benigno in Paradise (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Doctor-X - O Filme [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Conspiração Oficial: A Morte do Brigadeiro J [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Conforme a Música [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "There Is a Me [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Conforme a Música (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Conforme a Música (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Legado de Sidney Poitier [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Karmakhya [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Goody Goody [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Rubikon: Ponto Sem Retorno [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Iracema (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Iracema (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Iracema (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Iracema (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Barrio Boy [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Control Zeta [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sexo e Morte [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sexo e Morte (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Sexo e Morte (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Sexo e Morte (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Sexo e Morte (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Sem Perdão no Velho Oeste [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sem Perdão no Velho Oeste (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Sem Perdão no Velho Oeste (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
+  },
+  {
+    "t": "Sem Perdão no Velho Oeste (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Sem Perdão no Velho Oeste (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "The Fix (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Batman: A Queda do Morcego - Parte 1 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Batman: A Queda do Morcego - Parte 1 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Batman: A Queda do Morcego - Parte 1 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Batman: A Queda do Morcego - Parte 1 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Cartas na Mesa [L] (1998)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Massacre da Serra Elétrica [L] (2003)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Abaixo o Pano [L] (1955)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Casamento em Nova York [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Matança Necessária (2010)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Matança Necessária (2010)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "O Espetacular Homem-Aranha 2: A Ameaça de Electro [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Zelador de Condomínio [L] (1974)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Zelador de Condomínio (1974)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Zelador de Condomínio (1974)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Nada a Esconder [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Grande Hotel [L] (1944)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Give a Little Beat [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Grande Hotel (1944)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Você Não Está Sozinho [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Você Não Está Sozinho (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "The Rift [L] (1990)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Rain Man [L] (1988)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tubarão de Guerra [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tubarão de Guerra (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Tubarão de Guerra (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Tubarão de Guerra (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Tubarão de Guerra (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Darkgame: O Jogo Da Morte [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Darkgame: O Jogo Da Morte (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Darkgame: O Jogo Da Morte (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Darkgame: O Jogo Da Morte (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Restauração (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Restauração (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Restauração (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Restauração [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Última Noite em Boston [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mar Brasileiro (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Mar Brasileiro (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Você Acredita? [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alien Storm [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Eden's Choice [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tumba Maldita [L] (1964)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amigas Sem Filtro [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "King of Fighters: A Batalha Final [L] (2009)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "As Confissões de Félix Krull: Cavalheiro de Indústria [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Atiraram no Pianista [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "As Confissões de Félix Krull: Cavalheiro de Indústria (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "As Confissões de Félix Krull: Cavalheiro de Indústria (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "As Confissões de Félix Krull: Cavalheiro de Indústria (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "eu os Queimo [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quatro Histórias de Desejo 3 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Super Troopers 3 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quatro Histórias de Desejo 3 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Quatro Histórias de Desejo 3 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Quatro Histórias de Desejo 3 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Agente da Revolução [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Swimmers - Em Busca da Vitória [L] (2005)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Vingança dos Lutadores [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Long Life to Memories [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Thick Trip [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ontem Havia Coisas Estranhas no Céu (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Fragmentos [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "One Last Shot [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Almost Popular [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Plantação [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Romeo e Giulietta [L] (1964)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Right Where I Left You [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amigos Até a Morte (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Amigos Até a Morte (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Amigos Até a Morte (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Amigos Até a Morte (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Amigos Até a Morte [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Na Mira [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "G.I. Joe Origens: Snake Eyes [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pela Janela (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Israel Swings for Gold [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Esau McGraw Used to Was [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "STILLNESS IN WONDERLAND: THE FILM [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "STILLNESS IN WONDERLAND: THE FILM (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "STILLNESS IN WONDERLAND: THE FILM (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Home For Infinite Losers [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Caçando Ava Bravo [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Four Roads [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Eterno Primeiro Encontro [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "GWF Women's Wrestling Revolution 5 [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "GWF Women's Wrestling Revolution 5 (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "GWF Women's Wrestling Revolution 5 (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Frank & Penelope [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Idiotas [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quatro Histórias de Desejo 2 [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Reféns do Mal [L] (2007)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quatro Histórias de Desejo [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Reféns do Mal (2007)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Reféns do Mal (2007)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Limbo - Entre o Céu e o Inferno [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Limbo - Entre o Céu e o Inferno (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Limbo - Entre o Céu e o Inferno (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Divided Heaven [L] (1964)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Creatures of the Stars [L] (1959)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lágrimas Tardias [L] (1949)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Última Viagem [L] (2009)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Missionary [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Eu Danço 6 [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alsina's Trench [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Torcidas Violentas",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "A World Unseen: 'The Revenant' [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Última Vida de Simon [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "I Wanna Dance with Somebody: A História de Whitney Houston [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Winning Ticket (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Winning Ticket (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Winning Ticket [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "As Fantasias de Nicolás [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Legítima Defesa (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Karthik Calling Karthik [L] (2010)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Insubordinados (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Anything [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Brunello: The Gracious Visionary [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Jogo da Vida [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Jogo da Vida (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Left Behind [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jacked [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Before I Do [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Invisibles [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Resgate [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tekken 2: A Vingança de Kazuya (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Tekken 2: A Vingança de Kazuya [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Olhar Inquieto: O Cinema de Jorge Bodanzky (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Um Olhar Inquieto: O Cinema de Jorge Bodanzky (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Nossa Mãe era Atriz (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Nossa Mãe era Atriz (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Casa Fantastica (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "A Casa Fantastica (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Andrea [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Star Cash [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Thudakkam [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Baby Do Die Do [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Carry On Jatta 4 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Idaho College Murders: Catching Kohberger [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Resident Evil [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "House Arrest (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "House Arrest [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Virtual Assistant (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Virtual Assistant (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Virtual Assistant (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Virtual Assistant (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Virtual Assistant [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Na Onda da Maré (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Na Onda da Maré (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Si muore solo da vivi (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Si muore solo da vivi [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hadestown: O Musical (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Só Termina Quando Acaba (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Só Termina Quando Acaba (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Troll da Montanha [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Christmas Pact [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Christmas Pact (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "The Christmas Pact (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Tintoretto - Um Rebelde em Veneza [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Resgate 2 [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Carry On Jatta [L] (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Blue Film (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Blue Film (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Rifftrax Live: Samurai Cop [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Espírito Materno [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Now I Live Here [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Herbert Grönemeyer - Dauernd Jetzt [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Herbert Grönemeyer - Dauernd Jetzt (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "A Hora Mais Escura [L] (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Thou Shalt Kill [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Through Treasure's Door [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fwends [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Lobo Entre Nós [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "You're Dead to Me [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Carry On Jatta 2 [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Como Perder Sua Popularidade (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Como Perder Sua Popularidade (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Como Perder Sua Popularidade (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "CHAT [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Go Deep: The DeSean Jackson Story [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Unconditional [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "AntiDiva: The Carole Pope Confessions [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Unfinished Business [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Zero Sum [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Revanche (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Revanche (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Revanche [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Espiral [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Você+Eu - Contra o Mundo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Você+Eu - Contra o Mundo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Você+Eu - Contra o Mundo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Você+Eu - Contra o Mundo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Hipótese do Amor [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Hipótese do Amor (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Hipótese do Amor (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Hipótese do Amor (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Último Tiro Certo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "O Último Tiro Certo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Último Tiro Certo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Último Tiro Certo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Criadas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Criadas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Urban Priol - TILT! 2025 [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "System [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Conexão Perigosa (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Conexão Perigosa (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Conexão Perigosa (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Conexão Perigosa [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Instant [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Conspiração Oficial: A Morte do Brigadeiro J (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Conspiração Oficial: A Morte do Brigadeiro J (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Maldição do Tubarão [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Que Fica por Dizer [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Que Fica por Dizer (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "O Que Fica por Dizer (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Que Fica por Dizer (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Hit Para Dois (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Hit Para Dois (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Hit Para Dois (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Hit Para Dois (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Maldição do Tubarão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Maldição do Tubarão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Maldição do Tubarão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Aqui Não Entra Luz (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Aqui Não Entra Luz (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Copan (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Copan (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Learning How To Fly [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Príncipe Corajoso [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mysterious Origins: The World's First Humans [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Aliens Uncovered: The Golden Record [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alien Artifacts and the Nazi War Machine (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Alien Artifacts and the Nazi War Machine (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Alien Artifacts and the Nazi War Machine (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Alien Artifacts and the Nazi War Machine (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Mudança no Jogo [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bancários [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bancários (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Bancários (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "A Natureza do Amor [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amor na Quarentena [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Warcraft - O Primeiro Encontro de Dois Mundos [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Wanna Die Wanna Kill [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "My Everything [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Castanha (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "One Child Nation [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Parents Inc. [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ana by Day [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Eles Estão Vendo [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fale com as Abelhas [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Fantasma do Teatro (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Fantasma do Teatro (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Última Gravação (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "No Balanço das Coisas [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vingança [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Socorro! Minha Babá Tirou Férias! (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Socorro! Minha Babá Tirou Férias! (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Socorro! Minha Babá Tirou Férias! (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Socorro! Minha Babá Tirou Férias! (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Unabomber (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Unabomber (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Unabomber (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Unabomber (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Unabomber [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Carry On Jatta 3 [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Undercover Consequences [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Like Tears in Rain [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Unwitting Deceit [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Inferno na Torre [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Lock In [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Neil Peart: No One's Disciple [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Morran & Tobias: Godsend [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Through Sickness and Hell [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Don't Be Shy [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Corre (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Corre (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Corre [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "F20 - Jovens e Perigosos [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Os Filhos do Katrina [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pulp: What Do You Do for an Encore? [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Máfia S.A (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Máfia S.A (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Mirrors No. 3 [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Photographer [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Habeebi [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "That Time I Got Reincarnated as a Slime - Laços Escarlates (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "That Time I Got Reincarnated as a Slime - Laços Escarlates (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "That Time I Got Reincarnated as a Slime - Laços Escarlates (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "That Time I Got Reincarnated as a Slime - Laços Escarlates [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "My Brother's Keeper [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "My Brother's Keeper (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "My Brother's Keeper (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "G.D.N [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Vida em um Pote de Vidro [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Vida em um Pote de Vidro (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Vida em um Pote de Vidro (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Kanakaraju Coreano [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Outro Pai [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Outro Pai (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Perigo Bate à Porta (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Perigo Bate à Porta (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Perigo Bate à Porta [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Esta é a Sua Morte: O Show [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Aborto: Histórias Contadas por Mulheres [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "537 Votos [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "I Swiped the Wrong One [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Barry [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Very Murray Christmas [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Barry (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Pandora [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pandora (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Pandora (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Pandora (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Cerco de Jadotville [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Cerco de Jadotville (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "O Cerco de Jadotville (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Cerco de Jadotville (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Slam [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Meu Querido Supermercado (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Farol das Orcas [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Rodney King [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Slam (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Farol das Orcas (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Farol das Orcas (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Procura-se Gonker [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Rebirth [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Raiz do Problema [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Detetive Chinatown: O Mistério de 1900 [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Detetive Chinatown: O Mistério de 1900 (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Detetive Chinatown: O Mistério de 1900 (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Detetive Chinatown: O Mistério de 1900 (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Detetive Chinatown: O Mistério de 1900 (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Perfeita Pra Você [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Step Sisters (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Step Sisters [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Natal em El Camino (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Natal em El Camino (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Natal em El Camino (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Natal em El Camino [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Echoes of Deception [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Paper Trap [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fútil e Inútil [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Faithful Intentions [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fútil e Inútil (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Fútil e Inútil (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Rei da Polca [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Rei da Polca (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Fé de Etarras [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quando nos Conhecemos [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sonhos Lúcidos (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sonhos Lúcidos [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Incrível Jessica James [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Barbra: The Music ... The Mem'ries ... The Magic! [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Paradoxo Cloverfield [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sometimes [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amador [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fica Comigo [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amador (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Amor por Metro Quadrado [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Feliz Aniversário de Casamento (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Feliz Aniversário de Casamento (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Feliz Aniversário de Casamento [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Minha Primeira Luta [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fica Comigo (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Fica Comigo (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Fica Comigo (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Eu Não Sou um Homem Fácil [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Roxanne (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Roxanne [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Perda Total [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Chuva de Aço [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dívida Perigosa [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Vazio do Domingo [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Benji [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Vazio do Domingo (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Alex Strangelove [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alex Strangelove (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Alex Strangelove (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Perdoai as Nossas Dívidas [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Casamento de Ali [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Doce Argumento [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Psychokinesis [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ibiza: Tudo pelo DJ (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Ibiza: Tudo pelo DJ (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Ibiza: Tudo pelo DJ [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Psychokinesis (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Psychokinesis (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Psychokinesis (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Mudo [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lá Vem os Pais [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dude - A Vida É Assim [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lulk [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Notes from the Tilt-a-Whirl [L] (2011)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Boorman and the Devil [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Inteligência Hostil [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Inteligência Hostil (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Inteligência Hostil (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Inteligência Hostil (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Inteligência Hostil (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Morte às Seis da Tarde [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Trango [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Deputy [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "sua Namorada e Eu [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "sua Namorada e Eu (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "sua Namorada e Eu (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Triumph of the Heart [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Worth More Than Gold [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Heart of a Woman [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Drip Drop [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Angelina Ballerina : On With the Show [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "When Girls Ride [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Angelina Ballerina: Ballerina Princess [L] (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "What a day before Christmas [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Angelina Ballerina: Dance Around the World [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bad Apples (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Em Campo Minado (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Em Campo Minado (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Em Campo Minado (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Em Campo Minado [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Batman vs Superman: A Origem da Justiça [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quem Tem Carma Nunca Alcança [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Gostos e Cores (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Gostos e Cores (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Gostos e Cores [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Rajma Chawal [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "As Leis da Termodinâmica [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Mulher Mais Assassinada do Mundo (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "A Mulher Mais Assassinada do Mundo (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Mulher Mais Assassinada do Mundo [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The After Party [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sob a Pele do Lobo [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Desaparecida [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tal Filha [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lethal Warning: The Killing of Luai Kahil and Amir a-Nimrah [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pai do Ano (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Pai do Ano [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Natal 5 Estrelas [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lethal Warning: The Killing of Luai Kahil and Amir a-Nimrah (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Sabrina [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Autor (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Autor [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Mar de Esperança [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Felicidade por um Fio [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Chair of the Duwamish Tribe [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dumplin' (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Dumplin' (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Chair of the Duwamish Tribe (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Sierra Burgess é uma Loser [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "No Ritmo da Sedução [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Terceiro Olho [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Fotógrafo de Mauthausen [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Yucatán [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Professor de Música [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "High Flying Bird [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Até que a Gente te Separe [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Noite de Lobos (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Noite de Lobos (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Noite de Lobos (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Noite de Lobos [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Querido Ex [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hendrie [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Odd-Job Men [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Journey to Yourland [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Not a Word [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Kill. Bury. Print. [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Island of Lost Girls [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Close [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Soni [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bayonet (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Bayonet [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Paskal [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Andar Montar Rodeio: A Virada de Amberley [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Juanita [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Última Gargalhada [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alguém Especial [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quem Você Levaria para uma Ilha Deserta? [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Loja de Unicórnios [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lionheart [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Gente de Bem [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Operação Final [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Chopsticks [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Vingança de Maria [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dry Martina [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Resgate em Malibu (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Resgate em Malibu (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Nosso Último Verão [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Gente Se Vê Ontem [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Estranhos em Casa [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Seguindo o Coração [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Monstro do Monstro de Frankenstein [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Pequena Suíça [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sombra Lunar [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sombra Lunar (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Crush à Altura [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mãe e Muito Mais [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Morte de Robin Hood (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Morte de Robin Hood (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "A Morte de Robin Hood (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Morte de Robin Hood (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Bom Sam [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Entre Vinho e Vinagre [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Expire [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Back To School [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Nutty Network [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Back To School (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "The Jeffrey Dahmer Files [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hishkenstien: After Dark [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Boy Of Your Dreams 2 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Red Emanuelle [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Babysitters Vs. Vamps [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Angels of Tokyo Decadence [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Seventeen Girlfriends (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Seventeen Girlfriends [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cascavel [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Escola de Solteiras [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Floresta de Sangue [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Resgate do Coração [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Estou Sufocando. Este é Meu Último Filme Sobre Ti [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Eureka: Eureka Seven Hi-Evolution 3 [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Deixe-o Partir [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Longe Deste Insensato Mundo [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Banking on Africa: The Bitcoin Revolution [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Actual People [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "To Chiara [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "14 Days [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "14 Days (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "14 Days (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Salinha [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Terra Amarga [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Natureza do Tempo [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Passado de Presente [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Natal Está no Ar [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Natal Está no Ar (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Natal Está no Ar (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Natal Está no Ar (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Salto (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Salto (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Salto (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Um Sentimento Chamado Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Um Sentimento Chamado Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Um Sentimento Chamado Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Um Sentimento Chamado Amor [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mononoke - O Filme: Capítulo 3 - A Maldição da Serpente [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mononoke - O Filme: Capítulo 3 - A Maldição da Serpente (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Mononoke - O Filme: Capítulo 3 - A Maldição da Serpente (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Mononoke - O Filme: Capítulo 3 - A Maldição da Serpente (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Mononoke - O Filme: Capítulo 3 - A Maldição da Serpente (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Em Perigo [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Parte dos Anjos (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Parte dos Anjos (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Garota Final (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Garota Final (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Garota Final (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Dead Of Night [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Metanoia (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Blogueirinha Entrevista: O Documentário (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Blogueirinha Entrevista: O Documentário (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Blogueirinha Entrevista: O Documentário (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Blogueirinha Entrevista: O Documentário (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Capa Mágica [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Capa Mágica (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Capa Mágica (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "A Capa Mágica (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "A Capa Mágica (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "The Nice Ones [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Inside the Rage Machine [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Swan: Behind the Mirror [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Win [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Spidey e Os Vingadores: Equipe Halloween (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Spidey e Os Vingadores: Equipe Halloween (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Spidey e Os Vingadores: Equipe Halloween (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Spidey e Os Vingadores: Equipe Halloween (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "2DIE4: 24 Horas no Limite (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "2DIE4: 24 Horas no Limite (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "2DIE4: 24 Horas no Limite (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Huz: Drawn to Life [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Regras do Amor na Cidade Grande (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Regras do Amor na Cidade Grande (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Regras do Amor na Cidade Grande (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Minha Desconhecida Fama [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Criação de Um Mestre [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pasolini [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Widower: 'Til Death Do Us Part [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Two Friends [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Widower: 'Til Death Do Us Part (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "The Widower: 'Til Death Do Us Part (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "The Widower: 'Til Death Do Us Part (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Atriz (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Atriz (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Largou as Botas e Mergulhou no Céu (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "A Babá (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Babá (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Confronto com Desafios (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Confronto com Desafios (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Boonie Bears: Inverno Mágico (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Boonie Bears: Inverno Mágico (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Boonie Bears: Inverno Mágico (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Ma (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Ma (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Ma [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bios. Vidas Que Marcaram a Sua: Os Paralamas do Sucesso (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Bios. Vidas Que Marcaram a Sua: Os Paralamas do Sucesso (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Bios. Vidas Que Marcaram a Sua: Os Paralamas do Sucesso (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Aaron Carter: O Pequeno Príncipe do Pop [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Altered Carbon: Nova Capa [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Clínica Animal com o Dr. Pol: Especial 200 Episódios [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Altered Carbon: Nova Capa (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Maska [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Clínica Animal com o Dr. Pol: Especial 200 Episódios (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Clínica Animal com o Dr. Pol: Especial 200 Episódios (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Hot Gimmick: Girl Meets Boy [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Larva: Ilhados - O Filme [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Larva: Ilhados - O Filme (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Larva: Ilhados - O Filme (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Quatro Histórias de Fantasmas [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Aplicativo [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dead Kids [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Live dos Infernos (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Live dos Infernos (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Live dos Infernos (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Live dos Infernos [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Chamada Não Identificada [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Chamada Não Identificada (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Trilha de Vingança [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Trilha de Vingança (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
+  },
+  {
+    "t": "Teste de Paternidade [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "AA do Amor [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dolly Kitty e as Estrelas [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Boys in the Band: Um Olhar Pessoal (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "The Boys in the Band: Um Olhar Pessoal [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pets Unidos [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Golpe de Classe [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bad Girl Office [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Entre Penas e Bicadas [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Entre Penas e Bicadas (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Entre Penas e Bicadas (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Entre Penas e Bicadas (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "privilégio? É a Chelsea. [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "privilégio? É a Chelsea. (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Muito Amor Pra Dar [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "As Rainhas da Torcida [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Uma Tarefa Maluca [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Virginia Woolf's Night & Day [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Seymour: An Introduction [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Limite da Traição [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ultras [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Notas de Rebeldia [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Piaf: Um Hino ao Amor (2007)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Piaf: Um Hino ao Amor (2007)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Retrato do Mal (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Retrato do Mal (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Retrato do Mal [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hashtag Pedido de Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Hashtag Pedido de Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Hashtag Pedido de Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Hashtag Pedido de Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Sitara: Sonhando com as Estrelas [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dragon Quest: Sua História [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Casamento da Vovó (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Casamento da Vovó [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Isi & Ossi [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Entre Realidades (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Entre Realidades [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Kart Nervoso (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Kart Nervoso [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Marca do Demônio [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Sequestro Esquecido (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Um Sequestro Esquecido (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Um Estranho Acidente (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Um Estranho Acidente (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Vampiros X The Bronx [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alterity [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Chasing Home [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The House Call [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pizza Movies [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Viúvo: Até Que a Morte nos Separe (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "O Viúvo: Até Que a Morte nos Separe (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Resgate Final [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Resgate Final (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Resgate Final (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Resgate Final (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "National Theatre Live: All My Sons [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "In the Opinion of the Censor... [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Racewalkers [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ghost Light [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "I'm nobody (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "The Christmas Singer [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Altos Negócios [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Day in May [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mollywood Times [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Castro's Spies [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lokah Chapter 1: Chandra [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Terra e o Sangue [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tigertail [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vaazha II [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Grande Luta [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Coffee & Kareem [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fortuna Pelos Canos [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Legado nos Ossos [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Last Days of American Crime [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Amor Mata (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "O Amor Mata (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Amor Mata (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Vestido Pra Casar (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Social Media Killed the Movie Star [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ninja Wars: BlackFox vs Shogun's Ninja (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Ninja Wars: BlackFox vs Shogun's Ninja (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Ninja Wars: BlackFox vs Shogun's Ninja (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Vingança em Paris [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Outback Rabbis (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Outback Rabbis [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vingança em Paris (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Vingança em Paris (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Mutiny of the Worker Bees [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Justiceira [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Fiel Camareiro [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Desperados [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bulbbul [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Expresso do Destino [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Sol de Riccione [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "SONYEO [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Oferenda à Tempestade [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Feel the Beat [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "É o Bicho! [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Pergaminho Vermelho (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "The Jowa Collector [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sete Atiradores [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nightfall: A Paranormal Investigation [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Jowa Collector (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "The Jowa Collector (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Sete Atiradores (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Sete Atiradores (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Sete Atiradores (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Missão Pijamas [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Working in the Dark [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "When It Rains [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Berlin Alexander Platz [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Berlin Alexander Platz (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Berlin Alexander Platz (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Resgate em Malibu: A Próxima Onda [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Crimes de Família [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Viver Duas Vezes [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Silêncio da Cidade Branca (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Silêncio da Cidade Branca (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Silêncio da Cidade Branca [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Grande Passo [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Troco em Dobro [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ohh My Dog [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Origens Secretas [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Why Women Trip [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Matrix 5 [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Turma de 83 [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quase uma Rockstar [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ricos Sem Dinheiro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Ricos Sem Dinheiro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Ricos Sem Dinheiro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Ricos Sem Dinheiro [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Última Coisa que Ele Queria [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fogo Sombrio [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Não Olhe [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Etgar Keret: Based on a True Story (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Etgar Keret: Based on a True Story [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Time! Uma Nação! (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Saindo do Armário (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Saindo do Armário [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sem Cortes (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Sem Cortes (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Sem Cortes [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Coração Selvagem (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Coração Selvagem (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Coração Selvagem (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Filhos de Istambul [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Garota no Trem (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Garota no Trem (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Garota no Trem [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "10 Anos do Impeachment (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "10 Anos do Impeachment (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Lei da Noite (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "A Lei da Noite (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Lei da Noite (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "As Irmãs Vampiras 3: Viagem para a Transilvânia (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "As Irmãs Vampiras 3: Viagem para a Transilvânia (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "As Irmãs Vampiras 3: Viagem para a Transilvânia (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Dançando na TV [L] (1985)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Binding of Itzik (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Incidente [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Que Nos Mantém Vivos (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Que Nos Mantém Vivos (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "We Die Tonight (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "We Die Tonight (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "We Die Tonight (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sua Excelência (1967)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Sua Excelência (1967)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Moxie: Quando as Garotas Vão À Luta [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Espírito Materno (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Espírito Materno (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Espírito Materno (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Espírito Materno (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Dracula Revamped [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Festival Eurovision da Canção: A Saga de Sigrit e Lars [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Guruvayoor Ambalanadayil [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Traveller Family [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Abaixo o Pano (1955)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Hércules [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "After House - O Filme (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Aprendendo a Amar (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Aprendendo a Amar (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Aprendendo a Amar (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Aprendendo a Amar (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Free Solo [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Road Between Us: The Ultimate Rescue [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Daniel Blake (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Daniel Blake [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Missão no Mar Vermelho [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Resgate em Malibu [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "É Culpa da Alegria [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Suzzanna: Enterrada Viva [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Geek Encantador [L] (2011)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Desert Fiends 2 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Última Noite em Boston (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Bleach [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Yucatán (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Bloody Tennis [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Juventude Assassina [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Como Superar um Fora (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Como Superar um Fora [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Crossroads: One Two Jaga [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "500 Miles [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ramba Oorvasi Menaka [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Na Mesma Onda [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sentinelle: Desafinando em Dobro [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Contamination (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Contamination (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Contamination (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "I Was Nineteen [L] (1968)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Contos Paralelos [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mareld [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Foco no Casório [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Show Me The Picture: The Story of Jim Marshall [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "And Agnes Chose to Die [L] (1976)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "RiffTrax: The Shape of Things to Come [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "RiffTrax Live: House on Haunted Hill [L] (2010)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Príncipe Justiceiro [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Honey Lemon Soda [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mazzaropi (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Irumudi [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Matando Cabos 2 [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Spirit: O Filme [L] (2008)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Apenas Diga Sim [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Eterno 831 (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Eterno 831 (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Eterno 831 (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Eterno 831 [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alpinistas: Desastre no Everest [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Como Virei Super-Herói [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Plano Perfeito 2 [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tini: Depois de Violetta (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Tini: Depois de Violetta (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Tini: Depois de Violetta (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Todos a Bordo: Cruzeiro da Família Rosie (2006)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Todos a Bordo: Cruzeiro da Família Rosie [L] (2006)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Unmadham [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Jealous Son [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Something That Happened in a New Year [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sobrenatural: Agora Entre Nós [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Batalha de Shindisi [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Entre Lobos 2026 - Só o Crime Está Seguro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Entre Lobos 2026 - Só o Crime Está Seguro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Entre Lobos 2026 - Só o Crime Está Seguro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Garota Estranha (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Garota Estranha (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Garota Estranha [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Cerco (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Cerco (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Cerco (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Cerco [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vingança em Duas Rodas [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Na Batida do Coração (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Na Batida do Coração (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Na Batida do Coração [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pressão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Pressão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Pressão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Pressão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Os Segredos de Madame Claude [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Digger (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Dinheiro Sujo (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Dinheiro Sujo (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Dinheiro Sujo (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Dinheiro Sujo [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Semana da Minha Vida [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bad Trip [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sem Filhos [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Histórias Incomuns [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Artista Na Guerra (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Um Artista Na Guerra (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Um Artista Na Guerra (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Um Artista Na Guerra (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Um Artista Na Guerra [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Eu Sou Todas as Meninas [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Crime Não Descansa: A Vingança (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Crime Não Descansa: A Vingança (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Crime Não Descansa: A Vingança (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Crime Não Descansa: A Vingança (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Crime Não Descansa: A Vingança [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Beleza Avassaladora (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Beleza Avassaladora (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Beleza Avassaladora (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Beleza Avassaladora [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Big Love [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vozes e Vultos [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Babenco - Alguém Tem que Ouvir o Coração e Dizer: Parou [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "DSI: Departamento Secreto de Intervenção (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "DSI: Departamento Secreto de Intervenção (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Our Last Summer (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Dancing Queens [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pânico No Lago: O Legado (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Pânico No Lago: O Legado (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Pânico No Lago: O Legado [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "In Mamãe Não Vai Te Machucar (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "In Mamãe Não Vai Te Machucar (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Um Santo Plano [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Miracle at Manchester (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Miracle at Manchester [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Stutenmilch (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Stutenmilch [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Filha da Noite [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Mão Esquerda do Diabo [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Kidnapping of Arabella [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "De Gaulle: Résistance [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Divino Baggio [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sardar 2 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bethlehem Kudumba Unit [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Karl [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "... Y muere porque te toca [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Looking at Madness [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ghost Lab [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tom & Jerry: Uma Aventura no Museu [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cowboy Joe [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Último Desejo de Sardar [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jack Black: Tenacious Dude [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Taboo: Family Secrets [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Homecoming Ghost [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Clássico de Natal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Um Clássico de Natal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Um Clássico de Natal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Um Clássico de Natal [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Dog Bite Murders [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Gurov and Anna [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Milagre de Tyson [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Kandasamys: A Viagem [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Novo Dia para Lutar [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "LEGO Super-Heróis da Marvel: Sobrecarga Máxima (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "LEGO Super-Heróis da Marvel: Sobrecarga Máxima (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "LEGO Super-Heróis da Marvel: Sobrecarga Máxima (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Xtreme Fight Night 374 (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Xtreme Fight Night 374 [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Detective Dee and the Cult of Heaven [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Crocodilo Jurássico (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Crocodilo Jurássico (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Crocodilo Jurássico (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Crocodilo Jurássico (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Encontrando o Amor em Santa Lucia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Encontrando o Amor em Santa Lucia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Encontrando o Amor em Santa Lucia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Encontrando o Amor em Santa Lucia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Minha Amiga Amanda [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Último Guerrilheiro (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "O Último Guerrilheiro (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "O Último Guerrilheiro (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Último Guerrilheiro [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Maldição de Chucky [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "I'mPerfect [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Peppa Pig: The Golden Boots (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Peppa Pig: The Golden Boots (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "A Vingança de Lefty Brown (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
+  },
+  {
+    "t": "A Vingança de Lefty Brown [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Outlaw's Buckle (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Outlaw's Buckle (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Outlaw's Buckle [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amor a Prazo [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Linhas Opostas [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "APPortados [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Uma Skatista Radical [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Último Mercenário [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fugindo do Amor [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bartkowiak [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mickey e Seus Amigos: Gostosuras ou Travessuras (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Mickey e Seus Amigos: Gostosuras ou Travessuras (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Mickey e Seus Amigos: Gostosuras ou Travessuras (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Encaixe Perfeito [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Bebê Maldito (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "O Bebê Maldito (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Bebê Maldito [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Explorando o Desconhecido: Robôs Assassinos [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Peixonauta - Agente Secreto da O.S.T.R.A. (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Peixonauta - Agente Secreto da O.S.T.R.A. (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Peixonauta - Agente Secreto da O.S.T.R.A. (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Strange River [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Uma Emboscada para o Rei (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Uma Emboscada para o Rei [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Zonas Úmidas [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Caçadores de Trolls: A Ascensão dos Titãs [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ascensão do Cisne Negro [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ele é Demais [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Cavaleiro do Dragão [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "JJ+E (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "JJ+E (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "JJ+E [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Assalto ao Banco da Espanha [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Segredos da Rua Maple: Um Pesadelo em Família (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Segredos da Rua Maple: Um Pesadelo em Família (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Segredos da Rua Maple: Um Pesadelo em Família (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Segredos da Rua Maple: Um Pesadelo em Família (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Ilha de Segredos [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Monster Hunter: Legends of the Guild (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Monster Hunter: Legends of the Guild (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Monster Hunter: Legends of the Guild (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Roubo no Subúrbio (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Roubo no Subúrbio (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "The Loud House: O Filme [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Três Histórias de Amor [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Intrusion [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Instacrime (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Instacrime (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Noitários de Arrepiar [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Despertar do Mal (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Despertar do Mal (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "O Despertar do Mal [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Esticando a Festa [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ama-me [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Noivado em Machu Picchu (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Um Noivado em Machu Picchu (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Um Noivado em Machu Picchu (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Um Noivado em Machu Picchu (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Forever Rich [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "My Little Pony: Nova Geração [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Je Suis Karl [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Aqueles Que Me Desejam a Morte [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "White or Black [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fomos Canções (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Fomos Canções (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Fomos Canções [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ann Rule's Danger in the Dorm",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Ann Rule's Danger in the Dorm",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Ann Rule's Danger in the Dorm",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Um Mundo Encantado 2 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Um Mundo Encantado 2 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Um Mundo Encantado 2 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Um Mundo Encantado 2 [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Zoey 102: O Casamento [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Difícil de Engolir [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "America: The Motion Picture [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Protocolo de Extermínio [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Late Fame [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Borboletas em Chamas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Borboletas em Chamas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Borboletas em Chamas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Borboletas em Chamas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Borboletas em Chamas [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Minha Irmã [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alerta Máximo [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Para Sempre Felicidade [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Future of Climbing [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Chhota Bheem: Kung Fu Dhamaka (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Chhota Bheem: Kung Fu Dhamaka (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Chhota Bheem: Kung Fu Dhamaka (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Chhota Bheem: Kung Fu Dhamaka [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "É Proibido Amar [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Stuck Together (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Stuck Together [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sem Conexão 2 [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Minha Família Quer que Eu Case (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Minha Família Quer que Eu Case (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Minha Família Quer que Eu Case (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O 'W' da Questão [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bright: Alma de Samurai [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Escuridão Profunda (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Escuridão Profunda (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Escuridão Profunda (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Escuridão Profunda (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Batalha Esquecida [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pequeno Linguarudo [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Honor Society [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "No Jogo do Amor [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mamãe Querida (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Mamãe Querida (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Mamãe Querida (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Mamãe Querida (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Ouro do Mal (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Ouro do Mal (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
+  },
+  {
+    "t": "O Ouro do Mal [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Que Mãe Sou Eu? (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Que Mãe Sou Eu? (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Que Mãe Sou Eu? (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Que Mãe Sou Eu? [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "1798 - Revolta dos Búzios (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "1798 - Revolta dos Búzios (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Não Devíamos Ter Crescido [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Maldição de Cinderela (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Maldição de Cinderela (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Maldição de Cinderela (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "A Maldição de Cinderela [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Em Busca de Lélia (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Trago Notícias de Fernando (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Trago Notícias de Fernando (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Quase Uma Noiva (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Quase Uma Noiva (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Quase Uma Noiva (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Quase Uma Noiva (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Quase Uma Noiva [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Filhos da Noite (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Ainda escuto o céu embaixo d'água (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Ainda escuto o céu embaixo d'água (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Ainda escuto o céu embaixo d'água (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "O Homem que Desafiou os Soviéticos [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Escândalo Municipal (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Escândalo Municipal [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fresh Hell: Lobos Contra o Mundo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Fresh Hell: Lobos Contra o Mundo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Fresh Hell: Lobos Contra o Mundo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Fresh Hell: Lobos Contra o Mundo [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alternativos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Alternativos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "O Matador de Aluguel [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pedido em Paris (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Pedido em Paris (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Pedido em Paris (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Pedido em Paris (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Pedido em Paris [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Demônio que Habita em Mim (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "O Demônio que Habita em Mim (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Demônio que Habita em Mim (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Demônio que Habita em Mim [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Escolhido [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Ritual Sinistro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Ritual Sinistro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Ritual Sinistro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Ritual Sinistro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "O Ritual Sinistro [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Doce Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Doce Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Doce Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Perigo no Dormitório (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Perigo no Dormitório (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Perigo no Dormitório (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Perigo no Dormitório (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Memórias Roubadas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Memórias Roubadas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Memórias Roubadas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "o Dilúvio (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "o Dilúvio (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "o Dilúvio [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "De Repente Adolescente (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "De Repente Adolescente (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O.T.H.E.R - Presença Maligna (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "O.T.H.E.R - Presença Maligna (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O.T.H.E.R - Presença Maligna (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O.T.H.E.R - Presença Maligna [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Estrada Mortal (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Estrada Mortal [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Casa dos Mistérios [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ataques Psicotrônicos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Ataques Psicotrônicos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Ataques Psicotrônicos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Less of a Stranger (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Less of a Stranger (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Less of a Stranger (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Less of a Stranger [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Almofada de Penas (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Almofada de Penas (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Almofada de Penas (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Who Is Martin Mull? [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "King - Meu Melhor Amigo [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Retrato de um Campeão [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Não Tem Ninguém em Casa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Não Tem Ninguém em Casa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Não Tem Ninguém em Casa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Não Tem Ninguém em Casa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Não Tem Ninguém em Casa [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bogotá: A Cidade dos Sonhos Perdidos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Bogotá: A Cidade dos Sonhos Perdidos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Bogotá: A Cidade dos Sonhos Perdidos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Bogotá: A Cidade dos Sonhos Perdidos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Down Quixote (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Down Quixote (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Down Quixote (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "A Guerra do Amanhã [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Coração Separado (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Um Coração Separado (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Assimilados - Os Novos Invasores de Corpos (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Assimilados - Os Novos Invasores de Corpos (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Assimilados - Os Novos Invasores de Corpos [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Canção de Ninar de Katherine (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Canção de Ninar de Katherine (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Desejos Proibidos [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Começo da Vida (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Funcionária do Mês (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Funcionária do Mês (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Funcionária do Mês [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "As Mentiras do Meu Babá (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "As Mentiras do Meu Babá (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "As Mentiras do Meu Babá (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Você Não Dormirá Esta Noite (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Você Não Dormirá Esta Noite (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Você Não Dormirá Esta Noite (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Menino Golfinho [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Você Não Dormirá Esta Noite [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sinal de Morte (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Sinal de Morte (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Sinal de Morte (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sinal de Morte (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Sinal de Morte [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Preto do Meio-Dia Azul da Meia-Noite (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Preto do Meio-Dia Azul da Meia-Noite [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tarja Branca - A Revolução que Faltava (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Don Q - O Chefão do Crime (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Don Q - O Chefão do Crime (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Don Q - O Chefão do Crime (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Don Q - O Chefão do Crime (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Don Q - O Chefão do Crime [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cordilheira de Amora II (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Sombra (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Sombra (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "A Sombra (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Sombra (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Sombra [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Seita Virtual (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Seita Virtual (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Seita Virtual (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Soy una buena persona [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "After Impact [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Homem na Estrada (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Não Olhe Para Trás (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Não Olhe Para Trás (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Não Olhe Para Trás (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Tres extraños [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Sombra do Comandante (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Sombra do Comandante (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Sombra do Comandante (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "A Sombra do Comandante (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Muito Além do Peso (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "bloody Christmas [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ligação Assassina (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Ligação Assassina (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Ligação Assassina (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Ligação Assassina (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "No Silêncio da Floresta (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "No Silêncio da Floresta (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "No Silêncio da Floresta (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "No Silêncio da Floresta [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Filho do Confeiteiro (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "O Filho do Confeiteiro (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Black Zombie [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Supremacy (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Supremacy (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Homem-Aranha: Um Novo Dia [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Em Nome do Mal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Em Nome do Mal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Em Nome do Mal [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Eletronica: Mentes (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "As Correntes (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "As Correntes (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "As Correntes [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Feitiço de Aniversário (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Feitiço de Aniversário (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Feitiço de Aniversário [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Tanque de Guerra [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ricky Gervais: Mortalidade [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lampo: O Cão Viajante (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Lampo: O Cão Viajante (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Lampo: O Cão Viajante (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Lampo: O Cão Viajante [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Coward Love [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hammarskjöld: Luta pela Paz (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Hammarskjöld: Luta pela Paz (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Hammarskjöld: Luta pela Paz (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Hammarskjöld: Luta pela Paz (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Hammarskjöld: Luta pela Paz [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Librarians [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Morte de Dois Amantes [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bull Street [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Finch [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Wicked: Parte II (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Wicked: Parte II (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Wicked: Parte II (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Wicked: Parte II (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Wicked: Parte II [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Model House: A Morte Segue Você (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Model House: A Morte Segue Você (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Model House: A Morte Segue Você (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Model House: A Morte Segue Você [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Cross in the Desert [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amor tóxico [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Histórias Estranhas (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Mente Demôniaca (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Mente Demôniaca (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Mente Demôniaca (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Mente Demôniaca [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Meus Pais Foram Abduzidos (e Agora Me Sinto um Completo Estranho) (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Meus Pais Foram Abduzidos (e Agora Me Sinto um Completo Estranho) (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Meus Pais Foram Abduzidos (e Agora Me Sinto um Completo Estranho) (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Meus Pais Foram Abduzidos (e Agora Me Sinto um Completo Estranho) [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Queda 2: No Limite (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Queda 2: No Limite (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Queda 2: No Limite [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amor (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Amor (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Sonhos (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Sonhos (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Sonhos (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sonhos (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Sonhos [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Crônicas de Exorcismo: O Início [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Risqué: A Vingança (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Risqué: A Vingança (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Risqué: A Vingança (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Risqué: A Vingança (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Risqué: A Vingança [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Disputa Final (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Disputa Final (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Hell House: A Origem (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Hell House: A Origem (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Hell House: A Origem (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Hell House: A Origem [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Coração Partido (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Coração Partido (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Possessão: O Último Estágio (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Possessão: O Último Estágio (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Possessão: O Último Estágio [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Angry Bark (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Angry Bark (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Angry Bark [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Destinos à Deriva [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Concebido em Mentira (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Concebido em Mentira (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Concebido em Mentira (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Filha da Noiva [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "2 Minutos de Fama [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tão Bonito Quanto o Amor (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Tão Bonito Quanto o Amor (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Tão Bonito Quanto o Amor (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Tão Bonito Quanto o Amor (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Don't Let Alberto Fall Into Temptation [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Operação Panda: A Tribo Mágica (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Operação Panda: A Tribo Mágica (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Operação Panda: A Tribo Mágica (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Operação Panda: A Tribo Mágica (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Operação Panda: A Tribo Mágica [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Irmãos em Fuga (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Irmãos em Fuga (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Irmãos em Fuga (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Irmãos em Fuga (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Irmãos em Fuga [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sobreviva ou Morra Tentando [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Golpista Russo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "O Golpista Russo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Golpista Russo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Viagem do Divórcio (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Viagem do Divórcio (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Viagem do Divórcio (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Viagem do Divórcio (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Coração de Campeão [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Natureza Sombria (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Natureza Sombria (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Gangues de Los Angeles [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Megan Leavey [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pushpa 2 - The Rule (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Pushpa 2 - The Rule (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Pushpa 2 - The Rule (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Pushpa 2 - The Rule (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Ascensão dos Mortos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Ascensão dos Mortos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Fúria do Monstro (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Fúria do Monstro (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Fúria do Monstro [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ninguém Sabe Quem Eu Sou (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Ninguém Sabe Quem Eu Sou (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Ninguém Sabe Quem Eu Sou [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Guerreiras do Ar (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Guerreiras do Ar (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Guerreiras do Ar (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Guerreiras do Ar (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Guerreiras do Ar [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Lado Sombrio de Abi (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Lado Sombrio de Abi (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Lado Sombrio de Abi (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Não Apaguem as Luzes (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Não Apaguem as Luzes (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Não Apaguem as Luzes [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Morada dos Lobisomens (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Morada dos Lobisomens (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Morada dos Lobisomens (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Uma História de Vingança (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Uma História de Vingança (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Uma História de Vingança (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Um Desejo (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Um Desejo (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Um Desejo (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Um Desejo [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Minha Irmã Invisível (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Minha Irmã Invisível (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Minha Irmã Invisível (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Minha Irmã Invisível [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Como Impedir um Assalto [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Onda de Violência (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Onda de Violência (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Onda de Violência (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Onda de Violência (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Onda de Violência [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "V para Vingança [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tudo Vai dar Certo (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Tudo Vai dar Certo (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Tudo Vai dar Certo (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Tudo Vai dar Certo [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Manga (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Manga (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Manga (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Tumse Na Ho Payega [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Roteiro Assombrado (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Roteiro Assombrado (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Natureza Sombria [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Gangues de Los Angeles (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Gangues de Los Angeles (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Gangues de Los Angeles (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Rua do Medo: 1978 - Parte 2 [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Jardim da Fé [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Mal Que Não se Pode Ver [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Casa dos Mistérios (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Casa dos Mistérios (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Casa dos Mistérios (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Casa dos Mistérios (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Demais pra Mim [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Guia da Família Perfeita [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Blue Moon: Música e Solidão (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Blue Moon: Música e Solidão (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Blue Moon: Música e Solidão (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Blue Moon: Música e Solidão (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "bloody Christmas (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "bloody Christmas (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Our Last Summer [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Filho das Sombras (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Filho das Sombras (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Filho das Sombras (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "The Spirit Lock [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Crooked Miles [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Charlie Shaw's Revenge [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Haunted Universities 4 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sleep No More [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amigas Sem Filtro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Amigas Sem Filtro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "High Ground: Cerco Fechado (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "High Ground: Cerco Fechado (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "High Ground: Cerco Fechado (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "High Ground: Cerco Fechado (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "High Ground: Cerco Fechado [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "0187 UFO [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mistletoe Massacre [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nickels [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Oasis: Don't Look Back In Anger [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "108 Vidas [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Spinal Tap 2: O Último Ato (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Spinal Tap 2: O Último Ato (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Spinal Tap 2: O Último Ato (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Spinal Tap 2: O Último Ato [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Russian Winter [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Assim é a Vida (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Matchbox - O Filme (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Matchbox - O Filme (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Matchbox - O Filme (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Matchbox - O Filme (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Matchbox - O Filme [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pradhama Drishtiya Kuttakkar [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Biosfera (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Biosfera (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Biosfera (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Biosfera [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nós Somos Zumbis (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Nós Somos Zumbis (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Nós Somos Zumbis (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Nós Somos Zumbis (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Exterminador de Seitas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Exterminador de Seitas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Exterminador de Seitas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Cinema Mal-Assombrado (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Cinema Mal-Assombrado (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Cinema Mal-Assombrado [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Convite Perigoso (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Convite Perigoso (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "se Conseguir (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "se Conseguir (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "se Conseguir (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Fiança (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Fiança (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Fiança [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Você Só Precisa Matar (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Você Só Precisa Matar (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Você Só Precisa Matar (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Você Só Precisa Matar (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Lo único que te Pido",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Lo único que te Pido [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sobrevivência (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Sobrevivência (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Sobrevivência (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sobrevivência [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Reporting Live From Vilaspuri (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Reporting Live From Vilaspuri (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Reporting Live From Vilaspuri (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Reporting Live From Vilaspuri [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "V/H/S/Mixtape [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Khalifa: The Ruler [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Paris Cafe [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Violeta Rauch [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Infinite Icon: Uma Memória Visual [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nobody Else [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Notícias em Perigo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Notícias em Perigo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Notícias em Perigo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Notícias em Perigo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sisterhood (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Sisterhood [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Edição Teatral KAKUSHIGOTO [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Shine (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Shine (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Shine [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Tribe Called Love [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Rise [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Meu Lugar no Mundo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Meu Lugar no Mundo [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Boneca que Virou Gente 2 [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Broker - Uma Nova Chance [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Uma História de Amizade (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Uma História de Amizade [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Chacina de Sangue (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Chacina de Sangue (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Chacina de Sangue (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Chacina de Sangue (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Parker [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Luta Satânica (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Luta Satânica (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Luta Satânica (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Luta Satânica [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Amanhecer da Guerra (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Amanhecer da Guerra [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Passageiro [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Magnificent Sky [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Magic Laboratory [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mrs. Buică [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Gamble [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Touken Ranbu Kai Kyoden [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Legião de Heróis [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Até O Fundo [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "EAS: Esquadrão Antissequestro (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "EAS: Esquadrão Antissequestro (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "EAS: Esquadrão Antissequestro (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Velocidade Mortal [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "88 (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "88 (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Luta por Vingança [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Além da Escuridão [L] (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Escalada de Violência (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Escalada de Violência (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Escalada de Violência (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Escalada de Violência (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Escalada de Violência [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Coisas Que Fazemos Por Dinheiro (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Coisas Que Fazemos Por Dinheiro (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Coisas Que Fazemos Por Dinheiro (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Coisas Que Fazemos Por Dinheiro [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tribal: Caçada Feroz [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Trabalhamos para os Mortos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Trabalhamos para os Mortos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Trabalhamos para os Mortos [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Massacre 1976 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Massacre 1976 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Massacre 1976 [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jogos de Sedução (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Jogos de Sedução (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Jogos de Sedução (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Algo Sobre Harry [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jogos de Sedução [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sabotagem [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nêmesis - Acerto de Contas (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Nêmesis - Acerto de Contas [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Despertar dos Poderes (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "O Despertar dos Poderes (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "O Despertar dos Poderes (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Awarapan 2 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Blue Moon: Música e Solidão [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Violino do Meu Pai [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dude Bro Party Massacre III [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Munique: No Limite da Guerra [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Golpes de Vingança [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "ANNE+: O Filme [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Restless Lovers (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Restless Lovers (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Restless Lovers (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Restless Lovers [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Minha Vida Perfeita [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "UFO (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "UFO (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Laços de Afeto [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Contra o Gelo [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Não Me Mate [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Até a Próxima Vez [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Kalinda [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Naquele Fim de Semana [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Como Pétalas que Caem [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Furioza [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Batalhas: Freestyle [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Eternamente Demais pra Mim [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Azul Cobalto [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Inestimável [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "As Garotas de Cristal [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Thar (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
+  },
+  {
+    "t": "Thar (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Thar (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Thar [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Apollo 10 e Meio: Aventura na Era Espacial [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Herança Surpresa [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Colisão [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Noite Sem Fim [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Live Is Life [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Sol de Amalfi [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Adeus e Tudo Mais [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Raio-X Lula 3 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Raio-X Lula 3 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Código de Ética (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Código de Ética (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Lively vs Baldoni: Escândalo em Hollywood (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Lively vs Baldoni: Escândalo em Hollywood (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Lively vs Baldoni: Escândalo em Hollywood [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Era Uma Vez Na Minha Vida (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Era Uma Vez Na Minha Vida (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "1 Dead Party [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "La Luna [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lizzie Borden: The Hatchet House [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A cursed deep dive into Cursed [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Echoes of Tomorrow [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ed Gein: The House of Horrors [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jogi [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Essa Não É uma Comédia [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Grisalhos [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amandla [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Que Culpa Tem o Carma? [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cursed Waters: Creature of Lake Okanagan [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "o Curioso 3: De Volta para a Selva (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "o Curioso 3: De Volta para a Selva (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "o Curioso 3: De Volta para a Selva (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "o Curioso 3: De Volta para a Selva [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Adeus Christopher Robin (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Adeus Christopher Robin (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Adeus Christopher Robin (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Adeus Christopher Robin [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Pai da Rainha de Angola (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Homem de Ferro e Capitão América: Super-Heróis Unidos (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Homem de Ferro e Capitão América: Super-Heróis Unidos (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Homem de Ferro e Capitão América: Super-Heróis Unidos (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Homem de Ferro e Capitão América: Super-Heróis Unidos [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tubarões: Celebridades Carnívoras (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Tubarões: Celebridades Carnívoras (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Tubarões: Celebridades Carnívoras [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Naked Queen [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Magnifica Vida De Marcel Pagnol (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "A Magnifica Vida De Marcel Pagnol (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "A Magnifica Vida De Marcel Pagnol (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "A Magnifica Vida De Marcel Pagnol (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Megera Domada [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Homem de Deus [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Carlos Lacerda - A Voz que Abalou o Brasil (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Carlos Lacerda - A Voz que Abalou o Brasil (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Ponto de Inflexão [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Caminho do Verão [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Marmaduke [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "De Novo! [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lua de Mel com a Minha Mãe [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Honest Realtor [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bird vs. Plane: Miracle on the Hudson [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Claudio (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Claudio (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Claudio (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Nightalk [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "De Volta ao Baile [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Sonho em Pedaços (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Um Sonho em Pedaços [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Família Perfeita [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "GODSPEED (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "O Rei das Fugas [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "GODSPEED [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bela Luna (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Bela Luna (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Bela Luna [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Interceptor [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tudo por Jojo [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Under the Family Tree [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Território do Crime (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Território do Crime (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Ligações Perigosas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Ligações Perigosas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Ligações Perigosas [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Apocalipse do Amor [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Desfile de Corações [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Beauty [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amor & Gelato [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cartas na Manga+ [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Miracle of the Sargasso Sea [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Instadocs: AI Gone Wild (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Instadocs: AI Gone Wild (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Instadocs: AI Gone Wild [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Ira de Deus [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Violence Action [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Casa de Boneca [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Crônicas do Irã [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Meu Lugar [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Mistério do Vinhedo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "O Mistério do Vinhedo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Mistério do Vinhedo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "A Gestora [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Não Estamos Sós (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Não Estamos Sós (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Não Estamos Sós [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Como Seria se...? [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "De Férias da Família [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nosso Verão Daria um Filme [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Royalteen (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Royalteen (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Na Sinfonia do Coração [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fullmetal Alchemist: A Vingança de Scar [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "PVT Chat [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Yaksha: Operação Implacável [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "As Cores do Tempo [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Ilha dos Ilús (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Ilha dos Ilús (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "As Oito Montanhas [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Não Me Toque [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Her Way [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Esposa de Tchaikovsky [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "HollyBlood [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ela Perdeu o Controle [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sombras Sinistras (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Iris and the Men [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Criatura Misteriosa (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Criatura Misteriosa (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Criatura Misteriosa [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ivy e Bean [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Festival dos Trovadores [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Oitava Noite [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Divina Sarah Bernhardt [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Perto de Você (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Perto de Você (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Perto de Você (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Perto de Você [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Funny Money: The Dane Cook Story [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Justiceiras [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Gerontofilia [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Perfumista [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "In a Hail of Bullets [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amor em Verona [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Song of My Mother [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bem-Vindo a Nova York [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Da Magia à Sedução: Feitiço de Amor (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Da Magia à Sedução: Feitiço de Amor (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Da Magia à Sedução: Feitiço de Amor (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Da Magia à Sedução: Feitiço de Amor (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Da Magia à Sedução: Feitiço de Amor [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Blue My Mind [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ópera! Canção para um eclipse [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Fall of Singapore: The Great Betrayal [L] (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Garotos de Bem [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Traição [L] (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Diorama [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Homem do Jazz [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ivy e Bean Entram na Dança [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amor Entre os Juncos [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Não Me Ame [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Free the Nipple [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Charuto de Mel [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Love Express. The Disappearance of Walerian Borowczyk [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Suntan [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "De Longe Te Observo [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Clara Sola [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Blackout [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mirror Mirror (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Mirror Mirror (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Mirror Mirror [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Rainbow [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Vida de Togo [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Chalk Line (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "The Chalk Line (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "The Chalk Line [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nina Roza [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lar dos Esquecidos [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vento Selvagem [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Branca Como a Neve [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Cavaleiro do Rei [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Faca no Coração [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Dragão do Meu Pai [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Em Busca do Bilhete Premiado [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tainá e os Guardiões da Amazônia - Em Busca da Flecha Azul (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Tainá e os Guardiões da Amazônia - Em Busca da Flecha Azul (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Tainá e os Guardiões da Amazônia - Em Busca da Flecha Azul (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Tainá e os Guardiões da Amazônia - Em Busca da Flecha Azul (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Miyamoto Musashi e os 400 Samurais [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Exército do Amanhã [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Plano de Aula [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Submission (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O My Darling [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "As Quatro Estações do Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "As Quatro Estações do Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "As Quatro Estações do Amor (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Um Homem de Ação [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Uma Noite no Jardim de Infância [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Matrimilhas [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Feliz Ano Nosso [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Conselheira do Amor (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Conselheira do Amor (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Conselheira do Amor [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Os 4 Malfeitores [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "artiste absolu [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The We and the I [L] (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "#Homecoming [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Até o Cair da Noite [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "As Aventuras de Tadeo e a Lâmpada Mágica (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "As Aventuras de Tadeo e a Lâmpada Mágica (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "As Aventuras de Tadeo e a Lâmpada Mágica (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "As Aventuras de Tadeo e a Lâmpada Mágica (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "As Aventuras de Tadeo e a Lâmpada Mágica [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mãe D'água (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Mãe D'água (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Até que a Morte Nos Separe (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Até que a Morte Nos Separe (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Até que a Morte Nos Separe (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Até que a Morte Nos Separe (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Hora do Orvalho [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Silêncio de Julie [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "De Coração Aberto [L] (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Free Leonard Peltier [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Transação Perigosa 2 (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Transação Perigosa 2 (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Transação Perigosa 2 (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Transação Perigosa 2 (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "La Tierra de Amira [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Krystal (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Krystal (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Filho do Outro [L] (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "China Reverse [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vannin' [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alien: Rubicon (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Alien: Rubicon (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Alien: Rubicon (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "45 Anos [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Paradise: Faith [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Pedra de Paciência [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Caso 137 [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mercato: Os Donos da Bola (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "A Demora [L] (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "An Afghan Love Story [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lições de Harmonia [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Espadachim Invencível (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Espadachim Invencível (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Espadachim Invencível (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Beber e Cantar [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bright Days Ahead [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Kidnapping of Michel Houellebecq [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "My World [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Se Organizar Direitinho… (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Se Organizar Direitinho… (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Serpente Verde [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Garotas [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pearl: The Assassin [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Connection [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "In Another Life [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Refugiado [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Você Nunca Me Encontrará (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Você Nunca Me Encontrará (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Você Nunca Me Encontrará (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Você Nunca Me Encontrará [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Se Fosse Amor (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Se Fosse Amor (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "I ❤︎⁠ Willie (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "The White Goddess [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Manuscritos não Queimam [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Taxi [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "10 Regras Para Salvar um Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "10 Regras Para Salvar um Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "10 Regras Para Salvar um Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "10 Regras Para Salvar um Casamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "10 Regras Para Salvar um Casamento [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Terra Estranha [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bruxarias (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Bruxarias (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "The Eternal Return of Antonis Paraskevas [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Attila Marcel [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Festa de Despedida [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Fim da Lealdade (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Fim da Lealdade (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Fim da Lealdade (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Fim da Lealdade [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Timbuktu [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "25 to Life [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Procura-se: Lucy (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Procura-se: Lucy (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Procura-se: Lucy [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bela Maldição (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Bela Maldição (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "O Jovem Chefe Winnetou (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "O Jovem Chefe Winnetou (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "O Jovem Chefe Winnetou (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
+  },
+  {
+    "t": "O Jovem Chefe Winnetou [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Francofonia - Louvre Sob Ocupação [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Cut [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Santosh: Vozes da Hierarquia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Santosh: Vozes da Hierarquia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Santosh: Vozes da Hierarquia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Santosh: Vozes da Hierarquia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Santosh: Vozes da Hierarquia [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tropas Estelares: Invasores de Marte [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Barbie e Teresa: Receita para a Amizade (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Barbie e Teresa: Receita para a Amizade (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Barbie e Teresa: Receita para a Amizade (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Barbie e Teresa: Receita para a Amizade (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Barbie e Teresa: Receita para a Amizade [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Queimando o Filme [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Jogo da Garrafa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Jogo da Garrafa (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Carcaça (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Carcaça (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Carcaça (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Influencer Divina (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Influencer Divina (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Influencer Divina (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Influencer Divina [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fausto [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Shark Exorcist 2: Unholy Waters (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Shark Exorcist 2: Unholy Waters (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Shark Exorcist 2: Unholy Waters (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Shark Exorcist 2: Unholy Waters (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Finger Licking (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Finger Licking (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "La misión argentina [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pigsy e o Novo Mundo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Pigsy e o Novo Mundo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Pigsy e o Novo Mundo [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jogo de Sacrifício (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Jogo de Sacrifício (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Jogo de Sacrifício (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Grande Jornada (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Grande Jornada (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Grande Jornada [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cão de Briga (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Cão de Briga (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Cão de Briga (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Cão de Briga (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Corações Tóxicos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Corações Tóxicos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Corações Tóxicos [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bloody Mary [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alma Wants New Playmates [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cassino em Ísquia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Cassino em Ísquia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Cassino em Ísquia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Cassino em Ísquia [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Semente do Fruto Sagrado (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Semente do Fruto Sagrado (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Semente do Fruto Sagrado (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Semente do Fruto Sagrado (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "A Semente do Fruto Sagrado [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Todos Irão Morrer (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Todos Irão Morrer (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Todos Irão Morrer (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Todos Irão Morrer [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Comandante: Pânico nas Alturas (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "O Comandante: Pânico nas Alturas [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Mundo Selvagem (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Um Mundo Selvagem (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Uma Jornada na África (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Uma Jornada na África [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mountain Shark (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Mountain Shark (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Mountain Shark (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "The Reflected Self (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "The Reflected Self (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "The Reflected Self (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "The Reflected Self (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Agents (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Agents (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Agents (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Ordem (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Ordem (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "A Ordem (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Ordem (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Ordem [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sunny Dancer [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Nightingale [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Buddy [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hope: O Primeiro Impacto [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "When a Woman's Fed Up [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Luigi Mangione: O Assassino do CEO (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Luigi Mangione: O Assassino do CEO (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "O Amor Floresce (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Amor Floresce (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "O Amor Floresce [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Madre Superiora (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Madre Superiora (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Madre Superiora [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Criaturas do Farol (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Criaturas do Farol (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Maldição de Crom: A Lenda do Halloween (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Maldição de Crom: A Lenda do Halloween (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Red Planet Blue (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "A Bússola Mágica (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Bússola Mágica (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "A Bússola Mágica (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Imparável [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Massacre da Maré Vermelha (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "The Sun Never Sets [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Let's Have Kids! [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Don't Move [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Assassino Mora ao Lado (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Assassino Mora ao Lado (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Assassino Mora ao Lado [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fronteira de Ódio (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Fronteira de Ódio (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Jogo do Assassino [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vikings: Battle of Heirs (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Vikings: Battle of Heirs (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Verdade sobre Jussie Smollett? (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "A Verdade sobre Jussie Smollett? (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Verdade sobre Jussie Smollett? [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Open Body (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "The Open Body (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "The Open Body (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "A Um Passo da Guerra (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Um Passo da Guerra (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Um Passo da Guerra (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Death on the Brandywine [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "22 Milhas [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Operação Pizzagate (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Operação Pizzagate (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Operação Pizzagate (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Operação Pizzagate [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Uma Família em Pedaços (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Beauty from Surrender [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ponte dos Condenados (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Ponte dos Condenados (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Ponte dos Condenados [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Baba Parası [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Frio nos Ossos [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ghosts of Red Ridge (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Ghosts of Red Ridge (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
+  },
+  {
+    "t": "Ghosts of Red Ridge (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Corações Partidos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Corações Partidos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Corações Partidos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Corações Partidos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Uma e Haggen: Mitos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Uma e Haggen: Mitos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Uma e Haggen: Mitos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Uma e Haggen: Mitos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Wallace & Gromit - Avengança (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Wallace & Gromit - Avengança (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Wallace & Gromit - Avengança (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Wallace & Gromit - Avengança (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Apostador [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Última Vingança (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Última Vingança (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Última Vingança (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "A Última Vingança [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Paraíso: Esperança [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "One Piece Heroines (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "One Piece Heroines (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "One Piece Heroines (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "One Piece Heroines (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "One Piece Heroines [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Astragal [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nos Caminhos de Deus (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Nos Caminhos de Deus [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Espião de Deus (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Espião de Deus (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "O Espião de Deus (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Espião de Deus (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "O Espião de Deus [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Número 24 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Número 24 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Número 24 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Número 24 (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "I Am a Soldier [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Muito Amadas [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Lago do Silêncio (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Lago do Silêncio [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fatima [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Renato Albani: Zona de Conforto (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Renato Albani: Zona de Conforto (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "200% Wolf (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "200% Wolf (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "200% Wolf (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "200% Wolf (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "A Espera [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Caterpillar [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Murdaugh Murders [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Vale do Amor [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Sala da Frente (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Sala da Frente (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Sala da Frente [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ozzy Osbourne: The Final Encore [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Perigo das Profundezas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Perigo das Profundezas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Perigo das Profundezas [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Traumas Aterrorizantes (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Traumas Aterrorizantes (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Traumas Aterrorizantes (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "The Sintern [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sacramento (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Sacramento (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Sacramento (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Sacramento [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "WWE Wrestlepalooza 2025 (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "WWE Wrestlepalooza 2025 (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "WWE Wrestlepalooza 2025 (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "WWE Wrestlepalooza 2025 (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Gatilheiro (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Gatilheiro (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Gatilheiro (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Gatilheiro [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Confiança (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Confiança (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Confiança (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Confiança [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Elyse - A Coragem Vem do Coração [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Minta se For Capaz [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Crise de Identidade (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Crise de Identidade (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Crise de Identidade (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Crise de Identidade [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Retrato do Amor (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "O Retrato do Amor (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Retrato do Amor (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Indústria do Vício (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Indústria do Vício (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Indústria do Vício (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Indústria do Vício [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cosmion: A Guerra do Tempo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Cosmion: A Guerra do Tempo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Cosmion: A Guerra do Tempo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Cosmion: A Guerra do Tempo [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Zoológico Extraordinário (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Um Zoológico Extraordinário (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Alvo Secreto [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alvo Secreto (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Alvo Secreto (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Alvo Secreto (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sobreviventes do Pampa (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Sobreviventes do Pampa (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "La posada [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Love Will Tear Us Apart (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Love Will Tear Us Apart (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Love Will Tear Us Apart (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Última Invocação (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Última Invocação (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Última Invocação (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Mal Mora Aqui (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Mal Mora Aqui (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Mal Mora Aqui (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Mal Mora Aqui [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Homem de Branco [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Seven Cemeteries (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Seven Cemeteries (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Seven Cemeteries (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Seven Cemeteries (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Sumukhi Suresh: Hoemonal [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Amor de Sua Vida [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Impulso (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Impulso (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Impulso (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Impulso [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sede de Sangue (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Sede de Sangue (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Sede de Sangue (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sede de Sangue [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Missão Antena: Uma Aventura Intergaláctica [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Swoon [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Velvet Lounge: Noites de Caça (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Velvet Lounge: Noites de Caça (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Velvet Lounge: Noites de Caça (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Velvet Lounge: Noites de Caça [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Natal Volta para Casa (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Natal Volta para Casa (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Natal Volta para Casa (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Natal Volta para Casa (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "O Natal Volta para Casa [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Informante (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Informante (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Informante (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Car Wash: Onde Acontece de Tudo [L] (1976)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Suaves e Discretas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Suaves e Discretas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Instinto Materno [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Just Sing (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Just Sing (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Just Sing (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Just Sing [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Raven: O Nome da Vingança (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Raven: O Nome da Vingança (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Raven: O Nome da Vingança [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dois Amigos e uma Ameaça Alienígena [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Maria Callas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Maria Callas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Maria Callas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Maria Callas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Amor Entre Amigos: O Casamento [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hackers no Controle [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Paixões Entrelaçadas [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Kandisha: Invocação ao Demônio (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Quem Matou Narciso? (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Quem Matou Narciso? (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Quem Matou Narciso? (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Quem Matou Narciso? (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Broad Peak [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Il s’encule un cubi de blanc sec à 9h du matin en plan séquence ! (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Il s’encule un cubi de blanc sec à 9h du matin en plan séquence ! [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Batalha De Um Pai [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Em um Passe de Mágica [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Pálido Olho Azul [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "No Voltees (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "No Voltees (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Inherit the Witch (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Inherit the Witch (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Inherit the Witch (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Meu Amor Por Grace (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Meu Amor Por Grace (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Imprisoned II: There is No Escape from Fate (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Imprisoned II: There is No Escape from Fate (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Imprisoned II: There is No Escape from Fate (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Amor de Sua Vida (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "O Amor de Sua Vida (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Amor de Sua Vida (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Juventude Rebelde (2006)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Ainda Somos os Mesmos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Ainda Somos os Mesmos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Ainda Somos os Mesmos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Strawberry Cream [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Antes Que Eu Mude de Ideia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Antes Que Eu Mude de Ideia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Antes Que Eu Mude de Ideia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Antes Que Eu Mude de Ideia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Antes Que Eu Mude de Ideia [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nublado com uma Chance de Amor (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Nublado com uma Chance de Amor (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Nublado com uma Chance de Amor (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Conspiração Consumista (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Conspiração Consumista (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Conspiração Consumista [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Última Onça Negra (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Última Onça Negra (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "A Última Onça Negra (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "A Última Onça Negra [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "GTMAX (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "GTMAX (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "GTMAX (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "GTMAX [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Texas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Texas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Texas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Texas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Texas [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Engolidos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Engolidos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Grande Sertão (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Grande Sertão (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Grande Sertão (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Infestação [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fúria Sem Limites [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Apenas Amigos (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Apenas Amigos (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Apenas Amigos (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Retorno do Rei: Queda e Ascensão de Elvis Presley (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Retorno do Rei: Queda e Ascensão de Elvis Presley (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "O Retorno do Rei: Queda e Ascensão de Elvis Presley (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "O Retorno do Rei: Queda e Ascensão de Elvis Presley [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Feitos de Plástico (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Feitos de Plástico (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Feitos de Plástico [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Give Me an A [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Rise of the Footsoldier: Retribution [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Animales [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Uma Jornada de Bicicleta [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Unsafe at Work: Workplace Violence in NL [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "People Magazine: A Promessa da Cura (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "People Magazine: A Promessa da Cura [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "All I Need for Christmas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "All I Need for Christmas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "All I Need for Christmas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "All I Need for Christmas [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Apego [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Daaaaaalí! [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Fanfarra [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Os Bastidores do Amor [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Logo Existo [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Green Deal [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Nação que Não Esperou por Deus (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Wishlist (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Wishlist (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Wishlist [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ninguém Pode Provar Nada: A Inacreditável História de Ezequiel Neves (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Ninguém Pode Provar Nada: A Inacreditável História de Ezequiel Neves (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Ninguém Pode Provar Nada: A Inacreditável História de Ezequiel Neves (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Mega Cena [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alchemy of the Storm (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Alchemy of the Storm (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Alchemy of the Storm (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Alchemy of the Storm [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Charlie em Ação (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Charlie em Ação (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Charlie em Ação (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Charlie em Ação (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Charlie em Ação [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Conexões Perigosas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Conexões Perigosas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Conexões Perigosas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Conexões Perigosas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Conexões Perigosas [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Os Assassinatos de Buckingham (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Os Assassinatos de Buckingham (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Os Assassinatos de Buckingham (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Os Assassinatos de Buckingham (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Os Assassinatos de Buckingham [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bloody Trip: The Equinox Killer (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Bloody Trip: The Equinox Killer (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Amityville Turkey Day (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Amityville Turkey Day (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Frágil (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Frágil (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Frágil (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Frágil [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The House on Laura Anne Dr. (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "The House on Laura Anne Dr. (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Verity (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Verity (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Verity (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Black Cab (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Black Cab (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Black Cab (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sem Refúgio [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "HAIKYU!! The Dumpster Battle (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "HAIKYU!! The Dumpster Battle (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "HAIKYU!! The Dumpster Battle (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "HAIKYU!! The Dumpster Battle [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Falha (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Bad Candy (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Saideira (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Saideira (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Saideira (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Rádio Pesadelo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Rádio Pesadelo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Terror Online (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Terror Online (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Terror Online [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Assassinato por Coincidência (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Assassinato por Coincidência (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Assassinato por Coincidência (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Assassinato por Coincidência [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Do Rio ao Mar: A Guerra de Israel Contra o Terror (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Do Rio ao Mar: A Guerra de Israel Contra o Terror (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Do Rio ao Mar: A Guerra de Israel Contra o Terror (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Do Rio ao Mar: A Guerra de Israel Contra o Terror (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Através das Sombras [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Apocalipse Z: O Princípio do Fim [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nurse: Empathy Heals [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Estranho Mas Verdade [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Surrender To It [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dementium [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Força Letal (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Força Letal (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sentença de Morte [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Gênios da Trapaça (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Gênios da Trapaça (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Gênios da Trapaça (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Strangers (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Strangers (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Strangers (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Strangers (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Rei Perdido (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Rei Perdido (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Rei Perdido (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "O Rei Perdido [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Príncipe das Marés (1991)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Príncipe das Marés (1991)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Preço de Educar [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Calibre (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Calibre (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Cartas de Redenção (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Cartas de Redenção (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Cartas de Redenção (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Atraídos Pelo Destino (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Atraídos Pelo Destino (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Atraídos Pelo Destino (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Homens de Pele Dura [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "915: Hunting Hispanics [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Time do Coração [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Aïcha [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Milonga [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Caranguejo Negro [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Curse of the Seven Seas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Curse of the Seven Seas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Curse of the Seven Seas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Do Outro Lado do Jardim (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Do Outro Lado do Jardim (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Do Outro Lado do Jardim (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Trapped Inn (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Trapped Inn (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Trapped Inn (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Última Loucura de Claire Darling [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Último Judeu [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Apenas Alguns Dias [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Live It Up: The Mental As Anything Story [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Segredo das Meninas [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "No Dogs Allowed [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Garotas Só Querem Vingança (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Garotas Só Querem Vingança (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Garotas Só Querem Vingança (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Garotas Só Querem Vingança [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Maquinista [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Brasileira [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jovens Mães (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Jovens Mães (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Lady Scorpions (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Lady Scorpions (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Lady Scorpions (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Jester: Não Dá para Enganar A Morte Duas Vezes [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Offworld: Alien Planet (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Alerta Âmbar [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cheat (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Cheat (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Cheat (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Cheat (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "V/H/S – Além [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Criaturas Rastejantes (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Criaturas Rastejantes (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Blood Magick [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Memórias Ocultas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Memórias Ocultas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Memórias Ocultas (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "O Espírito das Trevas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Espírito das Trevas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Espírito das Trevas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Perdida no Ártico (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Perdida no Ártico (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Perdida no Ártico (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Perdida no Ártico [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Masterplan (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Masterplan (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Masterplan (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Masterplan (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Masterplan [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fragmentada (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Fragmentada (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Fragmentada (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Fragmentada [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Último Sacrifício [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Milícia (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Milícia (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Milícia (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Milícia [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "10 Out Of 10 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "10 Out Of 10 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Os Assassinatos de Amityville (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Os Assassinatos de Amityville [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bunker Heights [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "100 Beds [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Temporal [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Siccîn 9 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cruel Hands (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Cruel Hands (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Cruel Hands (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Tenzing (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Tenzing (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Tenzing (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Tenzing [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Medo S.A. [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Buscando um Velho Amor (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Buscando um Velho Amor [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Separação e Reencontro [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Uma Segunda Chance Para Amar [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Guardiões do Céu (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Guardiões do Céu [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "No Instructions (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "No Instructions (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "No Instructions (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Demência (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Demência (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Demência [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Trabalho Dela [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Local Area Network [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tolos são os Outros [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Working Girls (short) [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Confeiteiro [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Meu Anjo [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Beijo da Mulher Aranha (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "O Beijo da Mulher Aranha (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Beijo da Mulher Aranha (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Beijo da Mulher Aranha (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Dracula Eternal [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Portrait of Love [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tie Die [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mãos à Obra [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Castigo [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Adored [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Wingman [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "We the Wine People [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "É tempo de amar [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Invite the Devil to Come and Play [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Patinadora (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Patinadora (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Patinadora [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Temporal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "O Temporal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Temporal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "The Exotic Zoo Of Terror [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Stream of Terror [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Seriously Single Too (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Seriously Single Too (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Seriously Single Too (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Seriously Single Too [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Norm: The Tale of Norm Macdonald [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Enough to Fill Up an Eggcup [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ursinhos Assassinos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Ursinhos Assassinos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Ursinhos Assassinos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Preço Que Pagamos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Preço Que Pagamos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Preço Que Pagamos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Preço Que Pagamos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "O Imortal (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Imortal (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Imortal (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Imortal [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Disciple (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "The Disciple (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "The Disciple (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "The Disciple [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sugar Baby (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Batalha dos Zumbis (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Batalha dos Zumbis (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Batalha dos Zumbis (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Garota na Floresta (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Garota na Floresta (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Garota na Floresta [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Você Está Aí? (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Caso Susie (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Caso Susie (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Caso Susie (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Caso Susie (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "O Caso Susie [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Secrets in the Sisterhood [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lenda Maldita (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Couch [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "This Above All: The Theatrical Life of Antoni Cimolino [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Reality Experiment [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Stay Safe [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Orfeu (1999)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Orfeu (1999)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Orfeu (1999)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Clean Hands [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "McConadilla [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Minha Namorada Favorita (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Minha Namorada Favorita (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Possessão (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Não Fale com Estranhos (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Não Fale com Estranhos (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Não Fale com Estranhos (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Filipiñana [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "As Mortes de Hera [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mercato: Os Donos da Bola [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Luccas e Gi em: Dinossauros (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "The Devil You Become [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Borderline: Relação Obsessiva (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Borderline: Relação Obsessiva (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Borderline: Relação Obsessiva (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "She Did It [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Doll of Deceit [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Accursed [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Não Posso Viver Sem Você (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Não Posso Viver Sem Você (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Não Posso Viver Sem Você (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Não Posso Viver Sem Você [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jackie the Stripper [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Organização Monstro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Organização Monstro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Organização Monstro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Last Reckoning [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Death Orchard [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Top of the World [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Crown or Class [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tales from the Crescent [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Estados Unidos Pelo Amor [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Devour [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hallowarrior [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Super Icyclone (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Super Icyclone (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Guerreira Chinesa (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Guerreira Chinesa (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "A Guerreira Chinesa (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "The People I've Slept With [L] (2010)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "What We Dreamed Of Then [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Elyas [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Roland Doe: A Verdadeira História de O Exorcista (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "20 Dias em Mariupol (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "20 Dias em Mariupol (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "20 Dias em Mariupol (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "20 Dias em Mariupol [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Thor: Deus do Trovão [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Liga da Justiça: Crise nas Infinitas Terras - Parte Três (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Liga da Justiça: Crise nas Infinitas Terras - Parte Três (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Liga da Justiça: Crise nas Infinitas Terras - Parte Três (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Terapia Certa (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Terapia Certa (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Terapia Certa (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Terapia Certa [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Guerra dos Mundos - O Ataque (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Guerra dos Mundos - O Ataque (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "A Guerra dos Mundos - O Ataque (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Discípulo: A História de Cilvaringz (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Discípulo: A História de Cilvaringz (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Discípulo: A História de Cilvaringz (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Discípulo: A História de Cilvaringz [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Filha do Palhaço (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Filha do Palhaço (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Deathgasm 2: Goremageddon [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Último Paciente (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Último Paciente (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Solteiramente Juntas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Solteiramente Juntas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Solteiramente Juntas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Solteiramente Juntas [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sky Defenders [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sleepwalker [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "My Only Friend's a Corpse [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lenin Pandiyan [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Piscina [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Noite Antes do Natal [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Acusação [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lorne (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Lorne (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Lorne [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Observance [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Meu Nome é Maria [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Narvik [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Letting Go of Jack [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mermaid Beach [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Lobo Viking [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "LEGO Friends: Heartlake the Musical [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Amor para Duas [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Baile das Loucas [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jitters [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quarto 212 [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Infiesto (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Infiesto (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Infiesto [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Caçada Fantasma (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Caçada Fantasma (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Caçada Fantasma (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Caçada Fantasma (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Caçada Fantasma [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Estaremos Sempre Juntos [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Homem Imaginário (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "O Homem Imaginário (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "O Homem Imaginário (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Homem Imaginário [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lobos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Lobos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Lobos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "All The Places I Once Loved You (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "All The Places I Once Loved You (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "All The Places I Once Loved You (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "All The Places I Once Loved You (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "All The Places I Once Loved You [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Depois do Fim do Mundo [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ilha Fantasma (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Refém da Verdade [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Clube Zero [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alienoide: Corrida Para o Futuro (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Alienoide: Corrida Para o Futuro (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Alienoide: Corrida Para o Futuro (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Alienoide: Corrida Para o Futuro (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Cloudboy [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Winterland [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "This Mountain Life [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Reféns da Noite [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Emboscada [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Uma Janela Para o Mar [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Now Days [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "MR-9: Missão Mortal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "MR-9: Missão Mortal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "MR-9: Missão Mortal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "MR-9: Missão Mortal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "MR-9: Missão Mortal [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Os Impactados (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Os Impactados (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Os Impactados [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lutar ou Morrer [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fugindo da Morte (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Fugindo da Morte (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "49 Miles More [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Treinado Para Matar (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Treinado Para Matar (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Entre Dois Amores (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Entre Dois Amores (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Amor Verdadeiro (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Amor Verdadeiro (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Amor Verdadeiro (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Sex and the Friend Group [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Kali: Anjo Vingador [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Maniac Woman (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Maniac Woman (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Maniac Woman (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Echoes of Dread [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Die Ältern [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Finnegan's Foursome (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Finnegan's Foursome (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Finnegan's Foursome (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Dr. Jekyll and Mr. Shark (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Dr. Jekyll and Mr. Shark (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Exes (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Exes (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Exes (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Exes (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Amor de Cinema (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Amor de Cinema (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Amor de Cinema (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Shin Ultraman (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Shin Ultraman [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Digital Killer (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Digital Killer (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Vendedor de Ilusões: O Caso Geração Zoe (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "O Vendedor de Ilusões: O Caso Geração Zoe (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Quatro Cavaleiros do Apocalipse (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Quatro Cavaleiros do Apocalipse (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "A Garota de Miller (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Garota de Miller (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Garota de Miller (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Garota de Miller (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Garota de Miller [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Haunted Heist [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Soul Mates [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vicious Murder [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Three Floors [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bravetown (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Bravetown (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Bravetown [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pânico na Montanha (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Uma Vida Sem Ele [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Load [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Onoda - 10 Mil Noites Na Selva [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Amanda [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sombras da Noite [L] (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Noite Em Que Voltaram Para Casa [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Mutação (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Awakening the Last Dream [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Odyssey: The Real Story [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Senhor Diabo (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Senhor Diabo (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "In the Company of Wolves: An American Journey [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "On Our Own [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Exhuma (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Exhuma (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Exhuma (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Exhuma (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Golpe de Milhões (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Golpe de Milhões (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Entre Mentiras e Segredos (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Maldição de Hannah Stevenson (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "A Maldição de Hannah Stevenson (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Antologia da Pandemia (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Antologia da Pandemia (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Grande Fraude (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Pais de Pets (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Pais de Pets (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Pais de Pets (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Jonah (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Jonah (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Mãe em Fúria (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Mãe em Fúria (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Mãe em Fúria (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Herança Roubada (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Herança Roubada (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Herança Roubada (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Herança Roubada (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Pica-Pau: As Férias no Acampamento [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cedo Demais (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Cedo Demais (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Cedo Demais (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Gluten is a Joke [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Crude Awakenings [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Higher Calling [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cunhado Serial Killer (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Cunhado Serial Killer (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Cunhado Serial Killer (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Comprometido com a Morte (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Comprometido com a Morte (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Comprometido com a Morte (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "A Rede Antissocial: Dos Memes ao Caos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Rede Antissocial: Dos Memes ao Caos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Rede Antissocial: Dos Memes ao Caos [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "À Beira da Extinção [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Possessões [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "(Re)Nascer (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "(Re)Nascer (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "(Re)Nascer (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "(Re)Nascer (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Marsupilami: Confusão a Bordo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Marsupilami: Confusão a Bordo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Marsupilami: Confusão a Bordo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Marsupilami: Confusão a Bordo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Marsupilami: Confusão a Bordo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mutação (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Mutação (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Stalker: O Jogo da Morte [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Você Não Está Sozinha: A Luta Contra La Manada (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Você Não Está Sozinha: A Luta Contra La Manada (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Você Não Está Sozinha: A Luta Contra La Manada [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Deslembro (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Casa de Veraneio [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bernadette: A Mulher do Presidente [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tudo ou Nada (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Tudo ou Nada (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Tudo ou Nada (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Tudo ou Nada [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ela [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Violência Explícita (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Violência Explícita (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Procurando Emily (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Procurando Emily (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Procurando Emily (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Procurando Emily [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Anatomia de uma Queda (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Anatomia de uma Queda (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Anatomia de uma Queda (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Anatomia de uma Queda (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Um Estranho Entre Nós [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Goldmine (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Goldmine (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
+  },
+  {
+    "t": "Goldmine (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Gangster’s Daughter 5 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Gangster’s Daughter 5 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Gangster’s Daughter 5 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Killing Oswald [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "dile que no soy malo) (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "dile que no soy malo) (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Os Fantasmas de Ismael [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Paranormal Hollywood Haunting [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alma Viva (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Origin [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Its Presence Between Us [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Aliens Return [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Leaching [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Beast of Whisper ridge [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Aryabhatt Ka Zero [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pay to Die [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "dile que no soy malo) [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Jezebels (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "The Jezebels (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Land of Wolves [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nunca Mude! [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Belas Criaturas [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Black Tea - O Aroma do Amor [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Goldmine [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Life of Mike (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Life of Mike (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Life of Mike (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Life of Mike (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Kafir: The Spirit Gate [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Horrorcane [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Spidernado [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Voz na Escuridão (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Voz na Escuridão [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Informante (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Informante (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Informante (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Informante (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Magic Hour [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sri Asih [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "One Big Snake (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "One Big Snake (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "One Big Snake (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "One Big Snake (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Love Kills [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ninguém é de Ninguém (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Ninguém é de Ninguém (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Um Pesadelo De Vizinha (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Um Pesadelo De Vizinha (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Um Pesadelo De Vizinha (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "O Mestre da Fumaça (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Mestre da Fumaça (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Mestre da Fumaça (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Mestre da Fumaça (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Miss Merkel - Ein Kreuzfahrt-Krimi [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The American Dream [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jesus - A Luz do Mundo [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Maçã Podre (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Maçã Podre (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Maçã Podre (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Maçã Podre [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Através da Minha Janela 3: Olhos nos Olhos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Através da Minha Janela 3: Olhos nos Olhos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Através da Minha Janela 3: Olhos nos Olhos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Através da Minha Janela 3: Olhos nos Olhos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Através da Minha Janela 3: Olhos nos Olhos [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ephemera [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Adorable Humans [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Despedida [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Navalny [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Gangster’s Daughter 4 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Peer Pressure [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Última Linha de Defesa [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Substância Negra (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Code 8: Renegados - Parte II (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Code 8: Renegados - Parte II (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Code 8: Renegados - Parte II (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Code 8: Renegados - Parte II [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "By the Throat [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "John Crist: I Got Questions [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Diário Mágico (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "O Diário Mágico (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Diário Mágico (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Sob o Código da Honra [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Glenrothan [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Upgrade: As Cores do Amor [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dan Cummins: Don't Wake The Bear [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Baby Dolls Behind Bars [L] (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Silêncio [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Maldição do Queen Mary [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Último Moicano [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Criatura Maligna (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Criatura Maligna (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Perseguição Fatal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Perseguição Fatal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Perseguição Fatal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Lucky [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Escondido no Acampamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Escondido no Acampamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Escondido no Acampamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Escondido no Acampamento [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Última Rainha [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Line [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Coelho (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Coelho (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Coelho (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Coelho [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A fratura [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sem Ursos [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Energia Pura (1995)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Energia Pura (1995)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Your Letter [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "S.W.A.T.: Comando Especial (2003)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "S.W.A.T.: Comando Especial (2003)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "S.W.A.T.: Comando Especial (2003)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Milagre (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Milagre (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "O Sorveteiro [L] (1995)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lobo Guerreiro (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Lobo Guerreiro (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Uma Segunda Chance (1991)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Uma Segunda Chance (1991)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "E a Festa Continua [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Sociedade da Neve: Quem Fomos na Montanha (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "A Sociedade da Neve: Quem Fomos na Montanha (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Sociedade da Neve: Quem Fomos na Montanha [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "um Pouco de Nós (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "um Pouco de Nós (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Kde končí láska [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Desejo e Obsessão (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Desejo e Obsessão (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "A Criança do Lago (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "A Criança do Lago (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Criança do Lago (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Criança do Lago [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "EB (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "EB (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "EB [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Atração Proibida (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Atração Proibida (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Atração Proibida (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Atração Proibida [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jim & Andy [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "INTRUDER (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "INTRUDER (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "INTRUDER (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "INTRUDER [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sala de Matança (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Sala de Matança (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Sala de Matança (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Sala de Matança [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Incompatível com a Vida (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Incompatível com a Vida (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Outback [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hombres G: Os Melhores Anos de Nossas Vidas [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Charlie: Um Cachorro Especial (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Charlie: Um Cachorro Especial (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Charlie: Um Cachorro Especial (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "No Limite da Justiça [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Natal em Família (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Natal em Família (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Livro do Demônio (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Lenda da Serpente [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Não Abra! [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tração (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Tração (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Leo [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Missionário (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Missionário (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "o Filmis (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "o Filmis (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "o Filmis (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "o Filmis (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Sanctuary (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Sanctuary (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Sanctuary [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nefarious (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Nefarious (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Nefarious (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Nefarious [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Good Boy (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Good Boy (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Good Boy (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Maré Escura (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Maré Escura (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Maré Escura [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Kadina Kadoramee Andakadaham [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Elis & Tom: Só Tinha de Ser com Você (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Elis & Tom: Só Tinha de Ser com Você (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Elis & Tom: Só Tinha de Ser com Você (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Madhuram [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Puzhu [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Exorcists (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "The Exorcists (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "The Exorcists (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Meu Nome é Gal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Meu Nome é Gal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Meu Nome é Gal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Meu Nome é Gal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Arquivo 253 (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Arquivo 253 [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Natal no Cine Drive-In (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Natal no Cine Drive-In (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Natal no Cine Drive-In (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Integridade de Joseph Chambers [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Eesho [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "No Silêncio das Ondas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "No Silêncio das Ondas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "No Silêncio das Ondas [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Trocados (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Trocados (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Trocados (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Trocados (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "The Rhinegold - BOC [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Número Um [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Kaanekkaane [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "BlackBerry (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "BlackBerry (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "BlackBerry (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "BlackBerry (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Um Ano Polar [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Purusha Pretham [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hotel do Medo [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tire 5 Cartas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Tire 5 Cartas (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Segredos em família [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Frankenstein: Aula de Anatomia [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "BLUE FILM AND THE FISHES [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sem Ar (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Sem Ar (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sem Ar (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Os Caras Malvados: Um Natal do Mal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Os Caras Malvados: Um Natal do Mal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Os Caras Malvados: Um Natal do Mal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Os Caras Malvados: Um Natal do Mal (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "12 Vésperas de Natal (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "12 Vésperas de Natal (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "12 Vésperas de Natal (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Tudo ou Nada [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dark Parasite (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Dark Parasite (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Jogo do Poder [L] (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Prayer Box [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tem Algo de Errado com as Crianças (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Tem Algo de Errado com as Crianças (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Tem Algo de Errado com as Crianças (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Segredos de Sangue [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Luccas Neto em: Uma Aventura no Zoológico (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Luccas Neto em: Uma Aventura no Zoológico (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Luccas Neto em: Uma Aventura no Zoológico (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Um Divã na Tunísia [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Natal no Restaurante Chinês (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Natal no Restaurante Chinês (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Natal no Restaurante Chinês (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Fúria de Becky [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vera e o Prazer dos Outros [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Conexões Perdidas [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Rory Scovel Tries Stand-Up for the First Time [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Do Outro Lado do Espelho (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Do Outro Lado do Espelho (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Rampage 2 (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Rampage 2 (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Rampage 2 (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Rampage 2 [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jurassic Shark 3: Seavenge (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Jurassic Shark 3: Seavenge (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Assassino [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Maktub [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Criação dos Deuses I: Reino das Tempestades (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Criação dos Deuses I: Reino das Tempestades (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Criação dos Deuses I: Reino das Tempestades (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Criação dos Deuses I: Reino das Tempestades (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Respect: A História de Aretha Franklin [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Últimos Sobreviventes [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Girls Like Girls: Uma História de Amor Entre Garotas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Girls Like Girls: Uma História de Amor Entre Garotas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Girls Like Girls: Uma História de Amor Entre Garotas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Girls Like Girls: Uma História de Amor Entre Garotas [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Melhor. Natal. de Todos! (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Melhor. Natal. de Todos! (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Tiny Fugitives (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Tiny Fugitives (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Som da Liberdade [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "No Limite da Justiça (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "No Limite da Justiça (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "No Limite da Justiça (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "No Limite da Justiça (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Paralisia [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Attack on Titan: O Arco e Flecha Escarlate (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Attack on Titan: O Arco e Flecha Escarlate (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Attack on Titan: O Arco e Flecha Escarlate (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Attack on Titan: O Arco e Flecha Escarlate [L] (2014)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Kathal: O Caso das Jacas Perdidas [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Matchmaker [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Skinamarink: Canção de Ninar (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Skinamarink: Canção de Ninar (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Gangster’s Daughter 5 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Jezebels [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Red Days 2: Cecilia [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hanging by a Wire [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Musical (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "The Musical (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Life of Mike [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Noite das Vampiras [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Don't Leave the Kids Alone [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Madhuvidhu [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Velhas Chamas Nunca Morrem (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Velhas Chamas Nunca Morrem (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Velhas Chamas Nunca Morrem (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Wasteland Cop [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Uma História de Amor Americana (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Uma História de Amor Americana (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Uma História de Amor Americana [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "In a Cold Vein [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Bloodline of Bathory [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Swarm (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "The Swarm (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "The Swarm (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "The Swarm (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "7:11 PM (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "7:11 PM (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Don't F with Mary Jane [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Perfect Soul [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Blood of the Werewolf's Claw (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Blood of the Werewolf's Claw (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Por Thozhil [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quando os Sinos Tocam [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Diversa [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Thinkalazhcha Nishchayam [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "One Big Snake [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Billy Boy (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Billy Boy (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Billy Boy (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Billy Boy [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mexido (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Mexido (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Mexido [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Sins Beneath [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Como Matar seu Marido (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Como Matar seu Marido (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Como Matar seu Marido (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Como Matar seu Marido [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Game of Deceit (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Game of Deceit (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Game of Deceit (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Hole [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Homeward Bound: A Grammy Salute to the Songs of Paul Simon [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Amor Inesperado [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Consequências (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Consequências (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Consequências [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Psychic: Files [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tempos de Barbárie - Ato I: Terapia da Vingança (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Tempos de Barbárie - Ato I: Terapia da Vingança (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Tempos de Barbárie - Ato I: Terapia da Vingança (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Até o Limite da Honra [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Secrets of an Influencer [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Thingy [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Inkabi (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Inkabi (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Inkabi (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Amityville Death Toilet [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nuovo Olimpo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Nuovo Olimpo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Nuovo Olimpo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Marginalia [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Confessions in Static [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Thai Fighters [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "TIRESIAS [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Capturing Bigfoot [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Remembrance [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tiny Fugitives [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Wandering Creature (And Other Tales) [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tied Up (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Tied Up (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Tied Up (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Tied Up [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fogo no Mar [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Garota do Armário [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lumiere: A Aventura Começa [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cartas da Guerra (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Cartas da Guerra (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Queda Livre [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Guerreiros da Virtude (1997)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Guerreiros da Virtude (1997)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Guerreiros da Virtude (1997)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Kate Berlant: Parmesão [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Contra o Furacão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Contra o Furacão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Contra o Furacão [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Paralisada pela Esperança: A História de Maria Bamford [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Possession in Lincoln County [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Do Not Disturb [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Concerto de Quintal (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "ZombieSluts Stripclub Slaughterhouse [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cadê Edson? (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "rei da capoeira (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Street Fighter - QUALIDADE CINEMA (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Moonrise Kingdom (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Moonrise Kingdom (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Moonrise Kingdom (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Nobody's Son [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Perdão [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Portal Secreto [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Lei (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "A Lei (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Clube dos Anjos Caídos: Assassinatos Misteriosos [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Na Linha de Frente [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Man Across The Street [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Foreign Fish in the Tank (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "The Foreign Fish in the Tank (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "The Foreign Fish in the Tank [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Velha Louca (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Velha Louca (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Velha Louca (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Velha Louca (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Velha Louca [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Junk World [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dirty Feathers [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Pretendente (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Pretendente (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "O Pretendente (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "U311: Guerra em Alto Mar [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Fúria (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Fúria (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Fúria (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Morbius [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Hamilton: History Has Its Eyes On You [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Papagaios (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Papagaios (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Papagaios (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Heróis Nunca Morrem [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Falsificador [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Os Irmãos Aventura: O Filme [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Médium [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Butthole Surfers: The Hole Truth and Nothing Butt [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Brincando de Deus [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quase Morta [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Depois do Universo [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Rei Macaco [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Não Descanse em Paz [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Uma Noite Sem Limites [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "5000 Cobertas [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Snoopy Apresenta: A Inigualável Marcie [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "17 Days [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Policial Feroz (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Policial Feroz (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Policial Feroz [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sede Sem Fim [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Monstro que vive em Mim [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pânico VI [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Espíritos Obscuros (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Espíritos Obscuros (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Espíritos Obscuros (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Os 6 Ridículos (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Os 6 Ridículos (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Os 6 Ridículos (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
+  },
+  {
+    "t": "Army of the Dead: Invasão em Las Vegas [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Exorcista do Papa [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Para Sempre (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Para Sempre (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Heróis da Máscara Dourada [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Miraculous: As Aventuras de Ladybug - O Filme [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alcarràs [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Quando Você Terminar de Salvar o Mundo [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Verity [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Teacher: The Tradition Bearer [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "120 Batimentos Por Minuto [L] (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Loucas de Alegria [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Papi Ricky: La Película [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Universo Paralelo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Universo Paralelo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Universo Paralelo (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Universo Paralelo [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Killer Thong [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Natal dos Amigos Indiscretos (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Ogiva: O Mundo Não é Mais Nosso (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "2029 [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Banel & Adama [L] (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Broker 2 [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Black Goat [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Slackers [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Mother's Secret [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Canibais: A Selva Maldita (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Canibais: A Selva Maldita (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Canibais: A Selva Maldita (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Canibais: A Selva Maldita [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "As Herdeiras [L] (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Veins [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Más Notícias para o Sr. Mars [L] (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ponto Sem Retorno [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Medo da Escuridão [L] (2015)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Espermagedom (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Espermagedom (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Espermagedom (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Espermagedom (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Espermagedom [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Razão e Sensibilidade [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Lost Ones [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Para Sempre Minha Garota (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Para Sempre Minha Garota (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Para Sempre Minha Garota (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Ali G: Ken é Eu? (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Ali G: Ken é Eu? (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Company of Shadows [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Velocidade e Paixão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Velocidade e Paixão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Velocidade e Paixão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Velocidade e Paixão [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Engravidei de um Alien [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Stunt Driver [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Ilha Esquecida [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Ilha Esquecida (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Ilha Esquecida (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "A Ilha Esquecida (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "A Ilha Esquecida (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Ali G: Ken é Eu? [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "19 Hz [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Por Um Fio [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Shackled [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "World War Bigfoot [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Perfect Facade",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Rent Free [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Shackled (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Shackled (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Perfect Facade [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Luzes de Phoenix (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Luzes de Phoenix (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Luzes de Phoenix (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Satan - The Dark [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Caso 39 (2009)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Caso 39 (2009)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Caso 39 (2009)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Elvira: a Rainha das Trevas (1988)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Elvira: a Rainha das Trevas (1988)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Elvira: a Rainha das Trevas (1988)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Shardana [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Delírios do Passado (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Delírios do Passado (2018)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "8mm: Oito Milímetros (1999)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "8mm: Oito Milímetros (1999)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "8mm: Oito Milímetros (1999)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Jet [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Enterrado Vivo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Enterrado Vivo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Enterrado Vivo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Enterrado Vivo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Dead Place [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Southern Scares [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pickleball Pete [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Strung (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Strung (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Strung (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Maravilhosa Árvore Encantada (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Maravilhosa Árvore Encantada (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "A Maravilhosa Árvore Encantada (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "A Maravilhosa Árvore Encantada (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Apocalipse Z: Novo Mundo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Apocalipse Z: Novo Mundo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Apocalipse Z: Novo Mundo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Apocalipse Z: Novo Mundo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nós (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Nós (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Nós (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Nós [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Never After Dark [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Baththa [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Birthday Gift (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "The Birthday Gift (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "The Birthday Gift [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Jealous Bride [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Strung [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "SCTV: O Melhor Programa que Ninguém Viu [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Devorador (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Devorador (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Devorador [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Don't Trouble the Trouble [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "9/11: Reclaiming Ground Zero [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Dark Heaven [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Miss Mermaid [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Outro Lado das Redes (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Outra Mamãe [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Murder Mouse: Parque da Morte (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "Murder Mouse: Parque da Morte (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Murder Mouse: Parque da Morte [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Estranho no Lago [L] (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Cycle [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Possuídos (1998)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Possuídos (1998)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Possuídos (1998)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Vingador do Futuro (1990)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Vingador do Futuro (1990)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "O Vingador do Futuro (1990)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "O Outro Lado das Redes [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "A Wicked Muse [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Don't Trust the Couple Upstairs [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nunca Mude! (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Nunca Mude! (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Sigma Males [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Academia Sobrenatural: Nascimento da Marca do Dragão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Academia Sobrenatural: Nascimento da Marca do Dragão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Academia Sobrenatural: Nascimento da Marca do Dragão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Academia Sobrenatural: Nascimento da Marca do Dragão (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Academia Sobrenatural: Nascimento da Marca do Dragão [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Colisão Implacável (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Colisão Implacável (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Colisão Implacável (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Colisão Implacável (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Colisão Implacável [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Colisão Implacável [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Colisão Implacável [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Colisão Implacável [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Comrade Kalyan [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Mummy: Bride of the Dead [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Grimm Backward [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Wayward [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Outra Mamãe (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Becoming Zendaya [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lizzie Borden: The Case Reopened [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Night Terror [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Perto do Sol é Mais Claro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Perto do Sol é Mais Claro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "The Isolate Thief (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "The Isolate Thief (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
+  },
+  {
+    "t": "The Isolate Thief (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "The Isolate Thief (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Cuidado com o Que Deseja (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Cuidado com o Que Deseja (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Cuidado com o Que Deseja (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Cuidado com o Que Deseja [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Sorveteiro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "O Sorveteiro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Sorveteiro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Sorveteiro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Sorveteiro [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Siege of Paradise [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Betty's Revenge [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Killer Card [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pickleballers [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Morte e Vida Madalena (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Morte e Vida Madalena (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Morte e Vida Madalena (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "The Canvas [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Air Shift [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sakamoto Days [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "It Wants Nightmares [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Blood Totem [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Exit State [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Mummy: Reckoning [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Popeye 4 : Resurrection [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Awakening [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Written In Blood [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Clown Nightmare 2 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alien in the Heartland [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Ladra Solitária (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Ladra Solitária (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Ladra Solitária (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Ladra Solitária (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Faroeste"
+  },
+  {
+    "t": "A Ladra Solitária [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Beyond Top Secret: The Era of Disclosure [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mother Mary (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Mother Mary (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Mother Mary (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Mother Mary (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Grizzly Attack [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cara de Barro - QUALIDADE CINEMA (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Deool Band 2 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Bol Bol Rani [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Salbardi [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Class Clown [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Friends of Dorothy [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Athiradi [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fettered [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Hangar Vermelho [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Patagonian Chimeras [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Mephistophiliac [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Lycaon [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Peaky Blinders: The Real Story [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Cup Bashi [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Geo-Storm [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Cowboy Killer [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Noite Brutal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Noite Brutal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Noite Brutal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Noite Brutal [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Dhoomakethu [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mindshare: The Download [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Tony (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Tony (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Tony (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Final Orbit [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Reptilians: They Walk Among Us [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "o Carneiro: A Fera de Mossy Bottom [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Otherkind [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Rescued [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Barbie em O Qubera-Nozes (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Barbie em O Qubera-Nozes (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Barbie em O Qubera-Nozes (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Barbie em O Qubera-Nozes (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Barbie em O Qubera-Nozes [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Last Stream [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Epic - First Semester [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Minha Melhor Amiga (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Minha Melhor Amiga (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Instadocs: Jane Doe v. Cornell [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Shot Reverse Shot [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Satan's Peak [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Rom Coms Must Die [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Living Tree [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fear Anonymous [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Scorpion [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Third Degree [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The American Veteran Sleep Experiment: Test 2 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Resident Evil (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Resident Evil (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Resident Evil (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Jornada nas Estrelas: Primeiro Contato (1996)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Jornada nas Estrelas: Primeiro Contato (1996)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Jornada nas Estrelas: Primeiro Contato (1996)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Jornada nas Estrelas VI: A Terra Desconhecida (1991)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Jornada nas Estrelas VI: A Terra Desconhecida (1991)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Jornada nas Estrelas VI: A Terra Desconhecida (1991)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Barbie em O Quebra-Nozes (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Barbie em O Quebra-Nozes (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "Barbie em O Quebra-Nozes (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Barbie em O Quebra-Nozes (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Barbie em O Quebra-Nozes [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "What They Don't Know [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "François.e [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Bosque Selvagem (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Boiúna : Terror no Amazonas [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Who's Coming for Christmas? [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jornada nas Estrelas V: A Última Fronteira (1989)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Jornada nas Estrelas V: A Última Fronteira (1989)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Jornada nas Estrelas V: A Última Fronteira (1989)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Canastra Suja (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Redemptions [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Mike Tyson: Return of the Mike [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Love Language [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Deite Comigo (2005)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Natal Perfeito de um Cachorro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "O Natal Perfeito de um Cachorro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "O Natal Perfeito de um Cachorro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Natal Perfeito de um Cachorro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Natal Perfeito de um Cachorro [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Model Citizen [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fuga Mortal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Fuga Mortal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Fuga Mortal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Fuga Mortal [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "U.V.F: Underground Video Films [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "KATSEYE: Wild Hearts [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The End of Nowhere [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Stepfather [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "JOY - The Birth of IVF [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Thank You (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2024"
+  },
+  {
+    "t": "Thank You (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Sonic Sundays [L] (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Por Lugares Incríveis [L] (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Deserto de Sangue (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Deserto de Sangue (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "The Shift - O Deslocamento (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Amelia’s Children [L] (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Caçando Assassinos: Justiça Feita (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Caçando Assassinos: Justiça Feita (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Maldição do Titanic [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sex Drive (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Sex Drive (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Sex Drive (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sex Drive [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Maldição do Boneco Robert [L] (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Enigma do Medo (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Enigma do Medo (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Enigma do Medo (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "O Coletivo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Coletivo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "O Coletivo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Dia da Colheita (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Dia da Colheita (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "O Dia da Colheita (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "A Última Esperança Soviética [L] (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Primetime (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Primetime (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Primetime (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Your Mother Your Mother Your Mother (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Your Mother Your Mother Your Mother (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Your Mother Your Mother Your Mother (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Your Mother Your Mother Your Mother (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Boiúna : Terror no Amazonas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Boiúna : Terror no Amazonas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Boiúna : Terror no Amazonas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Boiúna : Terror no Amazonas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Frequency of Fear",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Frequency of Fear",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Frequency of Fear [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ninho: O Preço da Fama [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Finja-se de Morto (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Finja-se de Morto (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Finja-se de Morto (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Finja-se de Morto [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "El silencio de la Tierra [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Savage Prey [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Compre Um Homem (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Compre Um Homem (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Compre Um Homem (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Compre Um Homem [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Crime em Cena (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Crime em Cena (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Crime em Cena (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Crime em Cena (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Crime em Cena [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Frequência Explosiva (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Frequência Explosiva (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Frequência Explosiva (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Frequência Explosiva [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ninho: O Preço da Fama (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Ninho: O Preço da Fama (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Ninho: O Preço da Fama (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "A Ghost at Gilmore House [L] (2027)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Hunt1 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vanishing Point [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Werewolf: Blood Inheritance [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Coração Selvagem [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Terrell & T.O. [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Making Marie Antoinette [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Alta Gama: O Caso dos Relógios (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Alta Gama: O Caso dos Relógios (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Amor Possível (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Amor Possível (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Amor Possível [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Desprotegida: O Crime de Pazos (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Desprotegida: O Crime de Pazos (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Desprotegida: O Crime de Pazos (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Desprotegida: O Crime de Pazos [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Peixe Pout-Pout (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "O Peixe Pout-Pout (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "O Peixe Pout-Pout (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "O Peixe Pout-Pout (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "O Peixe Pout-Pout [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Savage Mountain [L] (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -157448,11 +181583,6 @@ const CATALOG_DATA = [
     "t": "Doctor Odyssey",
     "cat": "SÉRIES",
     "tp": "Séries | Diversas"
-  },
-  {
-    "t": "Família por Escolha",
-    "cat": "SÉRIES",
-    "tp": "Séries | Doramas"
   },
   {
     "t": "Ate Que o Design nos Separe",
@@ -214216,6 +238346,3886 @@ const CATALOG_DATA = [
   },
   {
     "t": "Os Jovens Titãs em Ação! [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Live From The Lycett Arms [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Back Roads [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Vídeos Paranormais [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Algo Horrível Vai Acontecer [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Great Celebrity Pottery Throw Down [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Apocalypse [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Marble Hall Murders [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Halloween: A Batalha [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Bodies on the Bridge [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "American Dad! [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Taskmaster NZ [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Utan filter – längdlandslaget mot OS [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Perfect Lie",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "The Plague",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "The Missing Piece (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Dogeza de Tanondemita (2020) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "South Park (1997) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Nina e os Guardiões (2019)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "O Truque de Black (2018)",
+    "cat": "SÉRIES",
+    "tp": "Series | Outras Produtoras"
+  },
+  {
+    "t": "Cidade de Sangue",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "A Batalha dos 100: México",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "The Doll",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Neagley: Detetive Particular",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Golden Axe",
+    "cat": "SÉRIES",
+    "tp": "Séries | Paramount"
+  },
+  {
+    "t": "Big Brother: The Group Chat [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "O Amor é Melhor na Segunda Vez [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Route 187",
+    "cat": "SÉRIES",
+    "tp": "Séries | Paramount"
+  },
+  {
+    "t": "High Value Target: The Hunt for Saddam [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Forsaken Saintess and Her Foodie Road Trip in Another World [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Police Interceptors [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Iain Stirling's Roast The Internet [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "999: What Happened Next [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Made in Chelsea [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Hot Ones: Pimenta Extra [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Geordie Coppers [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Vida a Bordo: Mediterrâneo [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Motorway Cops: Catching Britain's Speeders [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "70 Up [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Vinnie Jones in the Country [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Irmãos À Obra: Sob Pressão",
+    "cat": "SÉRIES",
+    "tp": "Séries | Reality Shows"
+  },
+  {
+    "t": "The Big Deal with Steph McGovern [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Parasite's Heart [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Beleza Plástica",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Dimension 20 [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Stranger Things: Histórias de 85 [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Conheço Você",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Cycle of Sin [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Roadkill Garage [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "S.O.S Carros [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Bodycam - Registros Criminosos [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Forever Home [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Star Trek: Prodigy [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Agentes da S.H.I.E.L.D. da Marvel [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "90 Day: The Last Resort Between the Sheets",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Mock the Week [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Steins;Gate (2011)",
+    "cat": "SÉRIES",
+    "tp": "Series | Outras Produtoras"
+  },
+  {
+    "t": "À Minha Ladra Querida (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Mestre em Tempo Integral (2016) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Mobile Suit Gundam: The Origin (2019) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Mobile Suit Gundam Unicorn RE:0096 (2016) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Vivendo com o Inimigo: Criando um Assassino (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Meu Nome é Farah (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Filtro (2025) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Minha Garota Unicórnio (2020) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Otto! (2025) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "I'd Do It All Over Again for You (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Route 187 (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Catedrais (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Boneca (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Neagley: Detetive Particular (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Cidade de Sangue (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "A Batalha dos 100: México (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Peter Frederiksen: Anatomia de um Monstro (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Escrava Sexual (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Beleza Plástica (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Conheço Você (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Golden Axe (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Monstro: A História de Lizzie Borden (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "The Fixers (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Cycle of Sin (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Comédia da Vida Privada (1994)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Cowboy Bebop (1998)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Fullmetal Alchemist (2003)",
+    "cat": "SÉRIES",
+    "tp": "Series | Outras Produtoras"
+  },
+  {
+    "t": "Escândalo e Intriga (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Mobile Suit Gundam: The Witch from Mercury (2022) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "O Crime do Século [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Monstros da Montanha: Em Volta da Fogueira",
+    "cat": "SÉRIES",
+    "tp": "Séries | Reality Shows"
+  },
+  {
+    "t": "Botched Homes [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Ritmo + Flow [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Crowd Control [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Desejo Proibido",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Crônicas de um Aristocrata em Outro Mundo [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "A Remarkable Place to Die [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Dark Matter [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "American Hostage",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "The Blame [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Star Blazers: Space Battleship Yamato 3199 [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "999: On the Front Line [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Youth [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Wargame [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Bob Esponja [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Last Week Tonight with John Oliver [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Tom Scott: England [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Game Changer [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Last Night Out [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Backstreet Rookie [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Escola Minerva [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Parasite's Heart (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "o Pimentinha (1985)",
+    "cat": "SÉRIES",
+    "tp": "Series | Outras Produtoras"
+  },
+  {
+    "t": "Lanterna Verde: A Série Animada (2011)",
+    "cat": "SÉRIES",
+    "tp": "Series | Outras Produtoras"
+  },
+  {
+    "t": "The Ancient Magus' Bride (2017)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "Oops! Mysterious Sounds (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Monstros da Montanha: Em Volta da Fogueira (2021)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "O Império dos Chimpanzés (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Śleboda (2024) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Crow Club (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "JAŸ-Z in 8 (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Captive: Histórias sobre Reféns (2016)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Sai (2025) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "American Hostage (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Arquivos do Inexplicável (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Sir Ranulph Fiennes: Volta à Natureza (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Youth (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "The Blame (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Hora de Se Apaixonar [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Pousada Bizarra do Kian84 [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Line of Fire [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Por que as Mulheres Amam [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Olive Kitteridge",
+    "cat": "SÉRIES",
+    "tp": "Séries | HBO Max"
+  },
+  {
+    "t": "The Traitors Canada [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "My Brilliant Friend [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "O Amor é Intenso [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Terrors of Jordan Mendoza [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Betting on Beloit [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Hora de Aventura: Terras Distantes [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "CoComelon: The Melon Patch [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Roupa Suja",
+    "cat": "SÉRIES",
+    "tp": "Séries | Funimation Now"
+  },
+  {
+    "t": "Payback Uncut [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Mrs. Fletcher (2019)",
+    "cat": "SÉRIES",
+    "tp": "Series | Outras Produtoras"
+  },
+  {
+    "t": "Escola Minerva (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Shinya! Tensai Bakabon (2018) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Bernard-jou Iwaku. (2016) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Voice [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Família de Heróis [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Scotland's Golden Coast [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Not Going Out [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "DIY SOS [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Saman: The Hidden Truth [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Top Of The Block [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Blossoms Shanghai [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Histórias Maravilhosas [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Small Town Escapes with Colin & Justin [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "In the Eye of the Storm: Chasers",
+    "cat": "SÉRIES",
+    "tp": "Séries | Discovery Plus"
+  },
+  {
+    "t": "Gêmeos Tuttle",
+    "cat": "SÉRIES",
+    "tp": "Séries | Infantil / Desenho"
+  },
+  {
+    "t": "Brothers",
+    "cat": "SÉRIES",
+    "tp": "Séries | Apple TV Plus"
+  },
+  {
+    "t": "Shakespeare & Hathaway - Private Investigators [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Rainha do Bisturi com a Dra. Carol Brandão",
+    "cat": "SÉRIES",
+    "tp": "Séries | Reality Shows"
+  },
+  {
+    "t": "Um Mundo Diferente",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Dinastia [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Beorne Show",
+    "cat": "SÉRIES",
+    "tp": "Séries | Infantil / Desenho"
+  },
+  {
+    "t": "The Great British Bake Off",
+    "cat": "SÉRIES",
+    "tp": "Séries | Reality Shows"
+  },
+  {
+    "t": "Habeas Corpus",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "As Mães do Time: Beisebol",
+    "cat": "SÉRIES",
+    "tp": "Séries | Paramount"
+  },
+  {
+    "t": "Turkiye’s Astonishing Antiquities [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Maya: The War of Five Kingdoms [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Fired Up [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Viral Delusion",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "House of Villains",
+    "cat": "SÉRIES",
+    "tp": "Séries | Reality Shows"
+  },
+  {
+    "t": "Herança em Jogo",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "O Problema Final",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "O Bom Espírito: Por Trás das Portas da Opus Dei [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Scooby-Doo e Convidados",
+    "cat": "SÉRIES",
+    "tp": "Séries | HBO Max"
+  },
+  {
+    "t": "Taskmaster [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "I Survived a Serial Killer [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Brothers (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Apple TV Plus"
+  },
+  {
+    "t": "Wonka: O Bilhete Dourado (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Habeas Corpus (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Roupa Suja (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Turcas"
+  },
+  {
+    "t": "Beorne Show (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Brasil Paralelo"
+  },
+  {
+    "t": "Meus Mortos Tristes (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Um Mundo Diferente (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Instinto de Mãe (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Ilusão Mortal (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "No Olho da Tempestade: Caçadores de Tornados (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "A Arte do Crime (2015)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Herança em Jogo (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "O Problema Final (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Paolo (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "4 Blocks Zero [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Primavera da Lâmina",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "De volta para você [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Not Yours [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Fena: Pirate Princess [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Que Monstro Te Mordeu?",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Building Ireland [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Australian Crime Stories: The Investigators [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Snoopy no Espaço: À Procura de Vida",
+    "cat": "SÉRIES",
+    "tp": "Séries | Apple TV Plus"
+  },
+  {
+    "t": "Amor à Primeira Garfada (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "4 Blocks Zero (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Line of Fire (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "O Bom Espírito: Por Trás das Portas da Opus Dei (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Olive Kitteridge (2014)",
+    "cat": "SÉRIES",
+    "tp": "Series | Max"
+  },
+  {
+    "t": "Your Sky: Hare Nochi Koi [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Condor [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Paolo [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Sommerdahl Murders [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Scariest House in America [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Our Great Yorkshire Life [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Put a Ring on It: Cheathab [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Prue Leith's Cotswold Kitchen [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Space Race in Colour [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Masters: Keepers of Tradition [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Great Australian Bake Off [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Chilean Mine Rescue: Race Against Time [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Overgeared",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Saturday Night Live [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Happy Marriage [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Legend of Troy: The Epic Rise and Fall [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Who Do You Think You Are? [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Chilean Mine Rescue: Race Against Time (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Luta pela Glória - World Series 2024 (2025) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "De volta para você (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Not Yours (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Your Sky: Hare Nochi Koi (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Confinada (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Overgeared (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "Women Locked Up: Inside The Dóchas",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "CLASS:y's World",
+    "cat": "SÉRIES",
+    "tp": "Séries | Reality Shows"
+  },
+  {
+    "t": "A Origem do Sabor [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Shiyan Pin Jiating [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "O Monstro ao Lado",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Miracle Workers",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Rilakkuma e Kaoru",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "LEGO ONE PIECE: A Série",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Outside [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Por Dentro do Mossad",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Vikings [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Disputa dos Confeiteiros - Halloween [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Rich and Sinful: The Lost Pleasure Palace of Pompeii [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Cook's Country [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Name That Tune [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Tyler Perry's Ruthless",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Sydney Harbour Cops [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Marvel: Homem-Aranha",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Jamie's 20 Minute Meals [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Ao Norte do Norte [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "This Hour Has 22 Minutes [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Son of a Critch [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Don't F**k with Cats: Uma Caçada Online",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Sinatra: All or Nothing at All [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Uma Família de Peso",
+    "cat": "SÉRIES",
+    "tp": "Séries | Reality Shows"
+  },
+  {
+    "t": "Grandes Demais",
+    "cat": "SÉRIES",
+    "tp": "Séries | Discovery Plus"
+  },
+  {
+    "t": "Casamento às Cegas: Países Baixos",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Sacrifício",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Animal Control",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Survivor [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Killing Eve: Dupla Obsessão [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Rolf Harris: Primetime Predator [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life! (2021)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "Insubstituível (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Outside (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Tyler Perry's Ruthless (2020)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "A Arena (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Pega-Pega Mortal (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Sacrifício (2021)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Food Wars! Shokugeki no Soma [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Big Brother [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Diário de Horrores",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Hilda",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Amores Tóxicos [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Crossing Jordan",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Sinais de um Psicopata [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Bordertown",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Winter [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Rotten",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "The Incident Room [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Food Samurai [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Reincarnated as a Sword [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Martin Compston: Living Las Vegas [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "FreakAngels [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Ultimate Homem-Aranha",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Invenc vel",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "COMANDO TO - The Walking Dead World Beyond",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Apollo Has Fallenn [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Alice in Borderlands",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Saikojiman Gwaenchanha [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "COMANDO TO - The Undoing",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "sas aus v eng [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "breith beatha bas [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Y Sheldon",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "deadliest dinners australia [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "catching the tinder predator [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "(AnimesTotais) Love Death and Robots",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "The Bassquatch Hunter Fish Out of Water",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "A Leste do Éden",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Destino Paranormal [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Mestres do Universo: Histórias de Eternia",
+    "cat": "SÉRIES",
+    "tp": "Séries | Infantil / Desenho"
+  },
+  {
+    "t": "22 Kids and Counting [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Conforme Programado [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Victoria Silvsted: My Perfect Life",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "The Rebuild: Inside the Montreal Canadiens [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "GET JIRO",
+    "cat": "SÉRIES",
+    "tp": "Séries | Infantil / Desenho"
+  },
+  {
+    "t": "Wilderness with Simon Reeve [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "TANK CHAIR",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Mark Moriarty: Cook Like a Chef [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Hora de Aventura: Missões Secundárias",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "As Crianças Estão Bem",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Jet Lag: The Game [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Os Anarquistas [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Um Anjo Caiu do Céu",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Entre os Nossos Passos",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Casamento às Cegas: Países Baixos (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Desmascarando um Monstro: Aileen Wuornos (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "A Leste do Éden (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "The Wayfinders: Os Exploradores (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "FX Fighter Kurumi-chan (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Guerra (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Good Cop/Bad Cop (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Prefiro a Morte (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Coven Academy (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "O Tormento",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Servant (2019)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Apple TV Plus"
+  },
+  {
+    "t": "Quatro Historias de Desejo (Telugu) (2021) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "GANBARE DOUKICHAN (2021) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Estranho: Contos de Junji Ito para Noites Intranquilas (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Gal to Kyouryuu (2020) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "I'll Cash In With a Cute Support Fairy to Become the Strongest! (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Império da Fé: Abusos e Segredos (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "#I'm Looking for a Zombie (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Dance Dance Danseur (2022)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "Vertex Force (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "Private Eyes West Coast (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Uncle's Obsession with Cute Things (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Electric Dreams [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Estranho: Contos de Junji Ito para Noites Intranquilas [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Buckingham Palace A Year in the Life [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Nosso Planeta",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Live To Farm [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Aoashi [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Depois do Terremoto [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "I Accepted the Bet from My Cunning Fiancé [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "1st Look [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "I'm Dating a Dark Summoner [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Sol da Minha Vida",
+    "cat": "SÉRIES",
+    "tp": "Séries | Turcas"
+  },
+  {
+    "t": "Mega Med",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Small Prophets",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "S.W.A.T. Exiles (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Magical Explorer (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "GET JIRO (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Mestres do Universo: Histórias de Eternia (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "A Tale of the Secret Saint (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Romelia War Chronicle (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "So What's Wrong with Getting Reborn as a Goblin? (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "TANK CHAIR (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "From Far Away (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Depois do Terremoto (2025) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "I Accepted the Bet from My Cunning Fiancé (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "I am a Witch and my Crush Wants me to Make a Love Potion! (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Era Uma Vez Amor (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Maria Mercedes (1992)",
+    "cat": "SÉRIES",
+    "tp": "Novelas"
+  },
+  {
+    "t": "O Exterminador do Futuro Zero (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "O Segredo de Widow's Bay (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Dinastias",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Fix It [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Split Up [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Antiques Road Trip [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Real Men",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "The Repair Shop: Beyond The Barn [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Celebrity Traitors [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Dentro do Círculo",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "The Celebrity Traitors: Uncloaked [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Celebrity Inner Circle [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Universal Basic Guys [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Casei com um Serial Killer",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Amor Doce Amor",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Profundezas",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "a Estranha",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Antiques Roadshow [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Graham Norton Show [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Strictly Come Dancing [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Grimsburg [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "America's Test Kitchen From Cook's Illustrated [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "4 Mulheres e 1 Marido [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Ice Airport Alaska [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Pete Wicks: For Dogs’ Sake [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Late Night Law [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Michael Palin in the Philippines [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Pierre [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Clive and Kids [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Traffic Cops: Pursuit Squad One [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Avatar: Os Sete Refúgios",
+    "cat": "SÉRIES",
+    "tp": "Séries | Paramount"
+  },
+  {
+    "t": "Super Psychic Policeman Chojo (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Hora de Aventura: Missões Secundárias (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Entre os Nossos Passos (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "PSYREN (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Cold Sato-san is Only Sweet to Me (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The World's Strongest Witch (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Pequenos Profetas (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Apple TV Plus"
+  },
+  {
+    "t": "a Estranha (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Dentro do Círculo (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "THE LEVELING OF SOLO LEVELING (2024) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Um Choque de Amor",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Lanternas [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Doctor X: Mafia in White",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Eu Sou Aquele",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Make Some Noise [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Celebrity Weakest Link [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Still Flipping Out [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Harlan Coben's Final Twist [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Reluctant Vampire [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Irmãos À Obra: Sob Pressão (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Twisted Tie (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Amor Doce Amor (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Dinastias (2018)",
+    "cat": "SÉRIES",
+    "tp": "Series | Max"
+  },
+  {
+    "t": "O Melhor de Tudo (2025)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Profundezas (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Avatar: Os Sete Refúgios (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Doctor X: Mafia in White (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "100 Dias de Mentiras",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Uma Família da Pesada [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Um Choque de Amor (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Guraburu! (2020) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Certain Dark Item (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Firefly Wedding (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Pierre (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Eu Sou Aquele (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Ben-Hur: A Série",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "O Show de Varnell Hill [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "All Creatures Great & Small [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "120 Hours Behind Bars [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Nia Liston: The Merciless Maiden [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Hudson & Rex [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Great British Bake Off [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Battle Spirits [Re] ZEKKAI NO KU [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Sweet Deceit [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Blue Lights [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Dragons' Den [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Sobrevivendo às Tentações [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Desaparecida [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Cemitério de Animais: Assassinatos e Assombração [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Deha: Entre o Bem e o Mal",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Os Simpsons [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Dragon Ball Super: Beerus [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "The Great British Bake Off: Second Helpings [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Ilha do Tesouro",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Austin City Limits [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Destiladores [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "NCIS: Investigação Naval [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Portrait Artist of the Year [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Clientes Em Guerra [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "a Estranha [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The UnXplained Special Presentation [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Cocktail Wars [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Gnomes [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Deha: Entre o Bem e o Mal (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Ben-Hur: A Série (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Univer"
+  },
+  {
+    "t": "NCIS: New York [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Secret Life of a Vegas Casino [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Detective Is Already Dead [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Celebrity Wheel of Fortune [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "El Masida",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "The Price is Right Tonight [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Prosecuting Evil with Kelly Siegler [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Tom Green Farm [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Prince of Tennis II U-17 World Cup [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Outback Truckers [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "TYSON",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Dandivine [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "MasterChef Canada [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Snooki: The Paranormal Rookie [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Nosso Hakone Ekiden [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Guerra no Trânsito [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "VisionQuest",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "The Drop: Uma Saga Snowfall [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Irmãos Coragem",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Two Guys Garage [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Hundred with Andy Lee [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Archive X: Unexplained Phenomena [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Armadilha",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "The Derbyshire Auction House [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Cause of Death [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Night Logan Woke Up [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Corregidora: The Darkest Night in Mexican Soccer [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Hollywood Arts",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "100 Dias de Mentiras (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "A Armadilha (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "A Ilha do Tesouro (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "TYSON (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Battle Spirits [Re] ZEKKAI NO KU (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Blossoms Shanghai (2023) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Cemitério de Animais: Assassinatos e Assombração (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Dandivine (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Dragon Ball Super: Beerus (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Full Clearing Another World under a Goddess with Zero Believers (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "HORROR COLLECTOR (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "In Flight (2025) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Magic Knight Rayearth (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "NCIS: New York (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Paw & Palaces (2025) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Vermilion Mask (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Cousins",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Cozinha de Alto Nível",
+    "cat": "SÉRIES",
+    "tp": "Séries | Reality Shows"
+  },
+  {
+    "t": "O Caso Gabriel Fernandez",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Sin City Rehab [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Crossing Lines",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Kill Jackie",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Amigos Sexo e Jogos",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Homens da Montanha [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Floor [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "99 to Beat [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "NOVA [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Real Housewives of Salt Lake City [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Chicago Med: Atendimento de Emergência [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Chicago Fire: Heróis Contra o Fogo [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Chicago P.D.: Distrito 21 [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Marília Mendonça: Sentimento Louco",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "A Lenda do Soldado Cozinheiro [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "American Horror Story [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Parede de Gelo [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Phineas e Ferb [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Ligadas por um Serial Killer [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Iceblade Sorcerer Shall Rule the World [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Sam & Ade Go Birding [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Corpos no Porão [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Zmora (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "O Vigarista",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Crystal Lake",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Where the Mask Ends",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Tip Toe",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Taskmaster Norway [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Georgie e Mandy: Seu Primeiro Casamento [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Slo Pitch [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Hell's Kitchen [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Special Forces: World's Toughest Test [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Cupertino [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Bridge of Lies [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Trivial Pursuit [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Guerra [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Drowning Sorrows in Raging Fire [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The One I Love [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Cozinha de Alto Nível (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Hollywood Arts (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Kill Jackie: Acerto de Contas (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Amigos Sexo e Jogos (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "A Lenda do Soldado Cozinheiro (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Marília Mendonça: Sentimento Louco (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Tip Toe (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Crystal Lake (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Estado de Fúria [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Apothecary Diaries [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Ashita no Joe [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Dreamland [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Great Canadian Baking Show [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Traitors [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "JoJo's Bizarre Adventure [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Viagem Escolar: Fui parar num Grupo que Não sou Próximo [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Scrabble [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Álbuns de Fadas [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Detour with David Chang [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Celebrity Gogglebox [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Be My Guest with Ina Garten [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Blue Ridge: A Série [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Apenas um Show: As Fitas Perdidas [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "This Old House [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Echo of a Letter [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Casamento às Cegas: Países Baixos [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Dustfall [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Inacreditável com Dan Aykroyd [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Babylon Berlin [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Ready to Love [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Amor Disfarçado",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Extraordinary Attorney Minami",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Impact x Nightline [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Doctor X: A Máfia do Jaleco Branco [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Febre do Ouro [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "American Masters [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Fingida",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Ranma1/2 [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Os Sete Cavaleiros do Reino Marronnier [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "O Vigarista (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Smoking Behind the Supermarket with You (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "Panchayat (2020) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Noiva da Presilha Dourada (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Nosso Hakone Ekiden (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Dreamland (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Álbuns de Fadas (2020) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Mestres do Terror (2005)",
+    "cat": "SÉRIES",
+    "tp": "Series | Outras Produtoras"
+  },
+  {
+    "t": "Amor Disfarçado (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "I Think You're Overthinking It [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Vilarejo do Amor [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "África: O Lar da Vida Selvagem",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "A Ilha do Tesouro [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Rocky Mountain Wreckers [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "You Should Be The One To Come Kiss Me [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "O Novo Experimento de Aprisionamento de Stanford",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "American Hostage [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Shadow Punisher",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "The Party [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Light the Dark [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Alguém Falou de Mim? [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "O Massacre de Flores [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Um Date com o Diabo [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Verônica com K",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Small Town Remedy [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "O Aristocrata Decadente",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Museum of Me [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Killer Clues: Forensics [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Honor Thy Mother [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Travel Guides [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Mesa Final",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Political Lupin",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "TANK CHAIR [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "LOST10 [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Os Dez Bravos de Sanada - Shadows of the Ten Ninja [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Case I Can't Forget [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Cooking with the Stars [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Shadows and Dust [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Tamed [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Mandou Bem",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Extraordinary Attorney Minami (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Echo of a Letter (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Fingida (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "VisionQuest (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "O Novo Experimento de Aprisionamento de Stanford (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Verônica com K (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "You Should Be The One To Come Kiss Me (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Alguém Falou de Mim? (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Um Date com o Diabo (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Possession (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "O Aristocrata Decadente (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "As Primas (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Socorro (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Salário Mínimo",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Requentados Repaginados",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Snack vs Chef",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "The Real Housewives of Potomac [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Halloween Bakeshop [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Great Performances [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Máfia: O Reality [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "De Menor: A Série",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Shadows of the Ten Ninja (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "LOST10 (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Mesa Final (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "A Rainha do Bisturi com a Dra. Carol Brandão (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "TAMED (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Uncle's Obsession with Cute Things (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "Os Sete Cavaleiros do Reino Marronnier (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Belzebubs [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Chocolate (2019) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Avós de Primeira Viagem (2017)",
+    "cat": "SÉRIES",
+    "tp": "Series | Max"
+  },
+  {
+    "t": "Mickey Mouse (2013)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "The K2 (2016) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "PSYREN (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "Aquele Sobre Matthew Perry (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Mistérios de um Dentista (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Dom de Iludir (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Blue Lights (2023) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Máfia: O Reality (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Salário Mínimo (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "The Fall of El Mayo (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Ex-Arm (2021) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Balaraw: A Ilha de Sangue (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Poeta Caníbal (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "As Meninas da Garagem Secreta (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Princesa e Estrategista (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "High Country [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Akka [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Fletchers' Family Farm [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Forsytes [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Real Housewives of New York City [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Heartland [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "House Shock [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Bobby Flay’s The Line [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Challenge [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Narco Hack [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Delegado",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Pego no Pulo: Infiel [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Beavis e Butt-Head [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "NCIS: New York",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Rob & Romesh Vs [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Very Haunted Renovation [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Luxury Escapes: The World's Best Holidays [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Independent Lens [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Celebrity Catchphrase [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "O Colombiano de Keko [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Doula: A True Crime [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Search for Leah Croucher: A Parent's Nightmare [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Ask This Old House [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "DARK MACHINE THE ANIMATION [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Patrulha Canina [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Family Feud Canada [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Assembly [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Arquivos do Céu",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Below Deck [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Um Trabalho do Inferno",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Sonho Perfeito [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Obsess",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Matt Baker: Our Barn in the Dales [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Noturno",
+    "cat": "SÉRIES",
+    "tp": "Séries | Apple TV Plus"
+  },
+  {
+    "t": "Troca Suspeita",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Como Acabar com o Diwali",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Class Clowns [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Noturno (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Apple TV Plus"
+  },
+  {
+    "t": "NOUR (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Tomo-chan Is a Girl! (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "Paulo Gustavo em 3 Atos",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Troca Suspeita (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Um Trabalho do Inferno (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Firefly Wedding (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "Delegado (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Reincarnated as a Sword (2022) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Later... with Jools Holland [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "GET JIRO [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Blue Paw Print [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Overgeared [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "A Diplomata [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Bangers & Cash: Restoring Classics [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Way Out [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Blue Murder Motel [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Secrets of the Dead [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "My Rival and Me [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Tetsuryo! meet with Tetsudou Musume [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Double Decker! Doug & Kirill [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Eternally Yours",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Tommy & Tuppence [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "My Rival and Me (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "A Mentira Perfeita (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Maysa: Quando Fala o Coração",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "A Imperatriz Se Casou Novamente",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Bass ex Machina",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Salário Mínimo [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Segredos e Mentiras",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Muhammad Ali: O Maior",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Sealook",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Vida Interrompida: O Caso Natalee Holloway",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Anestesia",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "It's Just Business [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "9-1-1: Nashville [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Amigos Sexo e Jogos [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The RVers",
+    "cat": "SÉRIES",
+    "tp": "Séries | Discovery Plus"
+  },
+  {
+    "t": "Two Guys Garage",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Harry Potter: Bruxos da Confeitaria [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Os Dez Bravos de Sanada (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Terror (2018)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Obsess (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Akka (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Dr. Ramune -Mysterious Disease Specialist- (2021) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Narco Hack (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Bass ex Machina (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "A Imperatriz Se Casou Novamente (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "O Colombiano de Keko (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Quem Matou María Marta? (2020)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Power Book IV: Force (2022) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Westworld (2016) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Halt and Catch Fire (2014)",
+    "cat": "SÉRIES",
+    "tp": "Series | Outras Produtoras"
+  },
+  {
+    "t": "Maniac (2018)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Necrópolis (2019)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Anestesia (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Muhammad Ali: O Maior (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "So We Split 50/50 [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Tempestade de Emoções [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Crime Night! [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Campus Drivers",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Taskmaster Sweden",
+    "cat": "SÉRIES",
+    "tp": "Séries | Reality Shows"
+  },
+  {
+    "t": "Awkwafina - A Cozinheira Improvável [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Sunshine Through the Rain",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Punkin Chunkin [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Os Vizinhos Green (2018)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Divisão Criminal (2005)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "De Mal a Pior",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Melania Rea [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Blogueirinha Entrevista",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Love After Lockup: Relationship Rehab [L]",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   }
