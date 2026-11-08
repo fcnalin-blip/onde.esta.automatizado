@@ -1,19 +1,9 @@
-const CATALOG_UPDATED = "07/11/2026";
+const CATALOG_UPDATED = "08/11/2026";
 const CATALOG_DATA = [
   {
     "t": "(Des)encanto",
     "cat": "CANAIS",
     "tp": "24H INFANTIS/DESENHOS"
-  },
-  {
-    "t": "09:30 - LEEDS UNITED X TOTTENHAM [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "09:30 - LEEDS UNITED X TOTTENHAM [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
   },
   {
     "t": "100 Coisas para Fazer Antes de Virar Zumbi",
@@ -24,226 +14,6 @@ const CATALOG_DATA = [
     "t": "100 Lobo A Lenda da Pedra da Lua",
     "cat": "CANAIS",
     "tp": "24H INFANTIS/DESENHOS"
-  },
-  {
-    "t": "11:00 - TORINO X LECCE [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "11:00 - TORINO X LECCE [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "11:30 - BORUSSIA DORTMUND X SV 07 ELVERSBERG [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "11:30 - BORUSSIA DORTMUND X SV 07 ELVERSBERG [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "11:30 - FSV MAINZ 05 X BAYERN [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "11:30 - FSV MAINZ 05 X BAYERN [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "12:00 - ARSENAL X HULL CITY [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "12:00 - ARSENAL X HULL CITY [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "12:00 - FULHAM X NEWCASTLE UNITED [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "12:00 - FULHAM X NEWCASTLE UNITED [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "12:15 - ESPANYOL X DEPORTIVO LA CORUNA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "12:15 - ESPANYOL X DEPORTIVO LA CORUNA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "13:00 - GALATASARAY X AMED [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "13:00 - GALATASARAY X AMED [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "13:30 - KRASNODAR X CSKA MOSCOW [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "13:30 - KRASNODAR X CSKA MOSCOW [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "14:30 - NOTTINGHAM FOREST X MANCHESTER CITY [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "14:30 - NOTTINGHAM FOREST X MANCHESTER CITY [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "14:30 - VFB STUTTGART X WERDER BREMEN [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "14:30 - VFB STUTTGART X WERDER BREMEN [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "15:00 - AUXERRE X PARIS FC [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "15:00 - AUXERRE X PARIS FC [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "15:00 - TALLERES CORDOBA X ESTUDIANTES [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "15:00 - TALLERES CORDOBA X ESTUDIANTES [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "16:00 - AVAI X SÃO BERNARDO [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "16:00 - AVAI X SÃO BERNARDO [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "16:10 - NOVORIZONTINO X FORTALEZA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "16:10 - NOVORIZONTINO X FORTALEZA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "16:45 - ROMA X SASSUOLO [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "16:45 - ROMA X SASSUOLO [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "17:00 - VALENCIA X REAL MADRID [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "17:00 - VALENCIA X REAL MADRID [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "17:05 - PSG X ESTAC TROYES [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "17:05 - PSG X ESTAC TROYES [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "17:30 - BOCA JUNIORS X DEFENSA Y JUSTICIA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "17:30 - BOCA JUNIORS X DEFENSA Y JUSTICIA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "18:00 - ATLÉTICO-MG X GRÊMIO [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "18:00 - ATLÉTICO-MG X GRÊMIO [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "20:00 - CUIABÁ X JUVENTUDE [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "20:00 - CUIABÁ X JUVENTUDE [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "20:00 - VILA NOVA X CRICIÚMA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "20:00 - VILA NOVA X CRICIÚMA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "21:30 - NÁUTICO X CRB [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
-  },
-  {
-    "t": "21:30 - NÁUTICO X CRB [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (07/11)"
   },
   {
     "t": "3 Palavrinhas",
@@ -9139,6 +8909,236 @@ const CATALOG_DATA = [
     "t": "Zé Coleta",
     "cat": "CANAIS",
     "tp": "24H INFANTIS/DESENHOS"
+  },
+  {
+    "t": "11:00 - MONZA X ATALANTA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "11:00 - MONZA X ATALANTA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "11:00 - GENOA X AC MILAN [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "11:00 - GENOA X AC MILAN [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "11:00 - RENNES X LILLE [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "11:00 - RENNES X LILLE [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "11:00 - SUNDERLAND X CHELSEA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "11:00 - SUNDERLAND X CHELSEA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "11:00 - IPSWICH X BOURNEMOUTH [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "11:00 - IPSWICH X BOURNEMOUTH [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "11:00 - CRYSTAL PALACE X LIVERPOOL [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "11:00 - CRYSTAL PALACE X LIVERPOOL [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "11:00 - BRIGHTON X BRENTFORD [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "11:00 - BRIGHTON X BRENTFORD [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "12:15 - REAL SOCIEDAD X RAYO VALLECANO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "12:15 - REAL SOCIEDAD X RAYO VALLECANO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "13:15 - LE MANS X MONACO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "13:15 - LE MANS X MONACO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "13:30 - MANCHESTER UNITED X ASTON VILLA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "13:30 - MANCHESTER UNITED X ASTON VILLA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "14:00 - INTER DE MILÃO X COMO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "14:00 - INTER DE MILÃO X COMO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "14:30 - VILLARREAL X GETAFE [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "14:30 - VILLARREAL X GETAFE [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "14:30 - CELTA VIGO X LEVANTE [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "14:30 - CELTA VIGO X LEVANTE [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "16:00 - ATHLETIC CLUB X ATLÉTICO-GO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "16:00 - ATHLETIC CLUB X ATLÉTICO-GO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "16:45 - FIORENTINA X JUVENTUS [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "16:45 - FIORENTINA X JUVENTUS [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "17:00 - ATLÉTICO DE MADRID X FC BARCELONA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "17:00 - ATLÉTICO DE MADRID X FC BARCELONA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "17:00 - VASCO DA GAMA X PALMEIRAS [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "17:00 - VASCO DA GAMA X PALMEIRAS [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "19:15 - CEARÁ X AMÉRICA-MG [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "19:15 - CEARÁ X AMÉRICA-MG [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "19:15 - GOIÁS X PONTE PRETA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "19:15 - GOIÁS X PONTE PRETA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "13:15 - ANGERS X NICE [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "13:15 - ANGERS X NICE [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "15:00 - GUIMARAES X FC PORTO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "15:00 - GUIMARAES X FC PORTO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "15:30 - 1899 HOFFENHEIM X FC SCHALKE 04 [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "15:30 - 1899 HOFFENHEIM X FC SCHALKE 04 [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "16:45 - LENS X MARSEILLE [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
+  },
+  {
+    "t": "16:45 - LENS X MARSEILLE [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (08/11)"
   },
   {
     "t": "Depravação [L]",
@@ -23026,9 +23026,19 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "A Princesa Encantada",
+    "t": "A Princesa Encantada (1994)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "A Princesa Encantada (1994)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "A Princesa Encantada (1994)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "D.U.F.F.",
@@ -147598,7 +147608,22 @@ const CATALOG_DATA = [
   {
     "t": "A Odisseia (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Odisseia (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "A Odisseia (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Odisseia (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "99 Luas de Paixão [L] (2023)",
@@ -176787,6 +176812,116 @@ const CATALOG_DATA = [
   },
   {
     "t": "Alta Gama: O Caso dos Relógios [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Godzilla Minus Zero (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "The 12 Dates of Christmas [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Faixa Preta (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Natal em Evergreen (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Natal em Evergreen (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Natal em Evergreen (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "como Hugo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Pequenas Criaturas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Pequenas Criaturas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Três Horas Para Viver (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Três Horas Para Viver (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Três Horas Para Viver (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "I Don't Think This is a Threesome [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Coyote vs. Acme (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Coyote vs. Acme (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Coyote vs. Acme (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Coyote vs. Acme (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Três Horas Para Viver [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Clube do Pé Esquerdo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "O Clube do Pé Esquerdo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Clube do Pé Esquerdo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Testamento [L] (2007)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
   },
@@ -242439,5 +242574,80 @@ const CATALOG_DATA = [
     "t": "The Last Leg [L]",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Hometown Giants [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Mistérios Revelados [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Grand Designs [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Vida Interrompida: O Caso Natalee Holloway (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "It's Just Business (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Line of Fire (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Campus Drivers (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Devils' Crest (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Blogueirinha Entrevista (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "De Mal a Pior (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Palace (2011)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Tempestade de Emoções (2025) [L]",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Awkwafina - A Cozinheira Improvável (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Honor Thy Mother (2026) [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Quando Eu Encontrar a Lua (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
   }
 ];
