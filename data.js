@@ -1,4 +1,4 @@
-const CATALOG_UPDATED = "09/11/2026";
+const CATALOG_UPDATED = "10/11/2026";
 const CATALOG_DATA = [
   {
     "t": "(Des)encanto",
@@ -53146,9 +53146,24 @@ const CATALOG_DATA = [
     "tp": "Filmes | Terror"
   },
   {
-    "t": "Ajuste de Contas",
+    "t": "Ajuste de Contas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Ajuste de Contas (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Ajuste de Contas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Ajuste de Contas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Patch Adams: O Amor é Contagioso",
@@ -176836,6 +176851,21 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
+    "t": "The Oldest Person in the World [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "l'onde mystérieuse [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ignition [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
     "t": "Tetra: Acreditar de Novo (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
@@ -242612,6 +242642,16 @@ const CATALOG_DATA = [
   },
   {
     "t": "Colourblocks [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Chasing Coffee [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Espadas em Arados [L]",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   }
