@@ -176866,6 +176866,26 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
+    "t": "Nas Mãos de Dante (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Nas Mãos de Dante (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Nas Mãos de Dante (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Nas Mãos de Dante (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
     "t": "Tetra: Acreditar de Novo (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
