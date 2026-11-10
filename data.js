@@ -242654,5 +242654,15 @@ const CATALOG_DATA = [
     "t": "Espadas em Arados [L]",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Seria Cômico Se Não Fosse Trágico [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Get Huge: Looksmaxxing to Death [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
   }
 ];
