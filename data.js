@@ -1,4 +1,4 @@
-const CATALOG_UPDATED = "10/11/2026";
+const CATALOG_UPDATED = "11/11/2026";
 const CATALOG_DATA = [
   {
     "t": "(Des)encanto",
@@ -175273,7 +175273,7 @@ const CATALOG_DATA = [
   {
     "t": "Outra Mamãe [L] (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Legendados"
   },
   {
     "t": "Murder Mouse: Parque da Morte (2025)",
@@ -175448,7 +175448,12 @@ const CATALOG_DATA = [
   {
     "t": "Outra Mamãe (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema/Baixa qualidade"
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Outra Mamãe (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Becoming Zendaya [L] (2026)",
@@ -176884,6 +176889,61 @@ const CATALOG_DATA = [
     "t": "Nas Mãos de Dante (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "The Sheriffs of Savage Wells (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "The Sheriffs of Savage Wells (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "The Sheriffs of Savage Wells (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Portrait of an Artist: Stephen Curry [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Wishing Well Road [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Atonement [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Shake Your Booty! [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Avedon [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Suzane von Richthofen: O que o Tempo Não Apaga (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Suzane von Richthofen: O que o Tempo Não Apaga (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Suzane von Richthofen: O que o Tempo Não Apaga (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
   },
   {
     "t": "Tetra: Acreditar de Novo (2026)",
@@ -242682,6 +242742,26 @@ const CATALOG_DATA = [
   },
   {
     "t": "Get Huge: Looksmaxxing to Death [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Diários de Armário: Zombies [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Ace of the Diamond [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "48 Hours [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Style Wars [L]",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   }
