@@ -8911,6 +8911,26 @@ const CATALOG_DATA = [
     "tp": "24H INFANTIS/DESENHOS"
   },
   {
+    "t": "17:00 - JUVENTUS (F) X LYON (F) [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (11/11)"
+  },
+  {
+    "t": "17:00 - JUVENTUS (F) X LYON (F) [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (11/11)"
+  },
+  {
+    "t": "19:00 - LONDRINA X NÁUTICO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (11/11)"
+  },
+  {
+    "t": "19:00 - LONDRINA X NÁUTICO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (11/11)"
+  },
+  {
     "t": "Depravação [L]",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
@@ -176946,6 +176966,26 @@ const CATALOG_DATA = [
     "tp": "Filmes | Documentários"
   },
   {
+    "t": "Gospel de Natal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Gospel de Natal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Gospel de Natal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Gospel de Natal [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
     "t": "Tetra: Acreditar de Novo (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
@@ -242764,5 +242804,15 @@ const CATALOG_DATA = [
     "t": "Style Wars [L]",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Lei de Alicia",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "ChiaroScuro",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
   }
 ];
