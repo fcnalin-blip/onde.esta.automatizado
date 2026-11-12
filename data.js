@@ -8931,12 +8931,42 @@ const CATALOG_DATA = [
     "tp": "JOGOS DO DIA (12/11)"
   },
   {
+    "t": "14:00 - TURQUIA X BÉLGICA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "14:00 - TURQUIA X BÉLGICA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "14:45 - BARCELONA (F) X ARSENAL (F) [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "14:45 - BARCELONA (F) X ARSENAL (F) [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
     "t": "15:00 - RB BRAGANTINO JÚNIOR X CORINTHIANS JÚNIOR [1]",
     "cat": "CANAIS",
     "tp": "JOGOS DO DIA (12/11)"
   },
   {
     "t": "15:00 - RB BRAGANTINO JÚNIOR X CORINTHIANS JÚNIOR [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "16:45 - ALBÂNIA X FINLÂNDIA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "16:45 - ALBÂNIA X FINLÂNDIA [2]",
     "cat": "CANAIS",
     "tp": "JOGOS DO DIA (12/11)"
   },
@@ -8961,32 +8991,12 @@ const CATALOG_DATA = [
     "tp": "JOGOS DO DIA (12/11)"
   },
   {
-    "t": "16:45 - ALBÂNIA X FINLÂNDIA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
-  },
-  {
-    "t": "16:45 - ALBÂNIA X FINLÂNDIA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
-  },
-  {
     "t": "16:45 - MONTENEGRO X LETÔNIA [1]",
     "cat": "CANAIS",
     "tp": "JOGOS DO DIA (12/11)"
   },
   {
     "t": "16:45 - MONTENEGRO X LETÔNIA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
-  },
-  {
-    "t": "14:45 - BARCELONA (F) X ARSENAL (F) [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
-  },
-  {
-    "t": "14:45 - BARCELONA (F) X ARSENAL (F) [2]",
     "cat": "CANAIS",
     "tp": "JOGOS DO DIA (12/11)"
   },
@@ -243049,5 +243059,10 @@ const CATALOG_DATA = [
     "t": "Quebra-Cabeça Mortal",
     "cat": "SÉRIES",
     "tp": "Séries | Paramount"
+  },
+  {
+    "t": "Milagres da Sala de Emergência [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
   }
 ];
