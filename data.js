@@ -1,4 +1,4 @@
-const CATALOG_UPDATED = "11/11/2026";
+const CATALOG_UPDATED = "12/11/2026";
 const CATALOG_DATA = [
   {
     "t": "(Des)encanto",
@@ -8911,24 +8911,114 @@ const CATALOG_DATA = [
     "tp": "24H INFANTIS/DESENHOS"
   },
   {
-    "t": "17:00 - JUVENTUS (F) X LYON (F) [1]",
+    "t": "14:00 - ARMÊNIA X CHIPRE [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (11/11)"
+    "tp": "JOGOS DO DIA (12/11)"
   },
   {
-    "t": "17:00 - JUVENTUS (F) X LYON (F) [2]",
+    "t": "14:00 - ARMÊNIA X CHIPRE [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (11/11)"
+    "tp": "JOGOS DO DIA (12/11)"
   },
   {
-    "t": "19:00 - LONDRINA X NÁUTICO [1]",
+    "t": "14:00 - LITUÂNIA X SURINAME [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (11/11)"
+    "tp": "JOGOS DO DIA (12/11)"
   },
   {
-    "t": "19:00 - LONDRINA X NÁUTICO [2]",
+    "t": "14:00 - LITUÂNIA X SURINAME [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (11/11)"
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "15:00 - RB BRAGANTINO JÚNIOR X CORINTHIANS JÚNIOR [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "15:00 - RB BRAGANTINO JÚNIOR X CORINTHIANS JÚNIOR [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "16:45 - INGLATERRA X CROÁCIA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "16:45 - INGLATERRA X CROÁCIA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "16:45 - ITÁLIA X FRANÇA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "16:45 - ITÁLIA X FRANÇA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "16:45 - ALBÂNIA X FINLÂNDIA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "16:45 - ALBÂNIA X FINLÂNDIA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "16:45 - MONTENEGRO X LETÔNIA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "16:45 - MONTENEGRO X LETÔNIA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "14:45 - BARCELONA (F) X ARSENAL (F) [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "14:45 - BARCELONA (F) X ARSENAL (F) [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "16:45 - REPÚBLICA TCHECA X ESPANHA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "16:45 - REPÚBLICA TCHECA X ESPANHA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "17:00 - SL BENFICA X AUSTRIA (F)IEN (F) [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "17:00 - SL BENFICA X AUSTRIA (F)IEN (F) [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "20:00 - SÃO BERNARDO X ATHLETIC CLUB [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
+  },
+  {
+    "t": "20:00 - SÃO BERNARDO X ATHLETIC CLUB [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (12/11)"
   },
   {
     "t": "Depravação [L]",
@@ -176986,6 +177076,116 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
+    "t": "Um Toque de Outro Mundo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Um Toque de Outro Mundo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Um Toque de Outro Mundo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Um Toque de Outro Mundo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Last Temptation of Becky (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Cavalo Selvagem Nove (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Cavalo Selvagem Nove [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "The Last Temptation of Becky [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "O Peso da Liberdade (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "O Peso da Liberdade (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Peso da Liberdade (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Peso da Liberdade [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Ralph's Perfekt Christmas [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "I'm Game [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Jailer 2 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Allen (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Allen [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Sem Desistir (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Sem Desistir (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Sem Desistir (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Sem Desistir (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sem Desistir [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
     "t": "Tetra: Acreditar de Novo (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
@@ -242814,5 +243014,40 @@ const CATALOG_DATA = [
     "t": "ChiaroScuro",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
+  },
+  {
+    "t": "O Corpo",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "The Good Daughter",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Dream Car Fixers [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Great Hotels Through Time [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Kevin McCloud's Classic Car Road Trips [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Animal Control [L]",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Quebra-Cabeça Mortal",
+    "cat": "SÉRIES",
+    "tp": "Séries | Paramount"
   }
 ];
