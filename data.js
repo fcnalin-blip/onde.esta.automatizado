@@ -168451,9 +168451,179 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
+    "t": "Girl in the Coffin (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Girl in the Coffin (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Girl in the Coffin (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Girl in the Coffin (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Harbinger (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Harbinger (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Fire Tornado (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Fire Tornado (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Heart of the Sea 2 [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Como Roubar um Banco (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Friday the 69th (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Friday the 69th (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Friday the 69th (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Do Not Open (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Do Not Open (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Do Not Open (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Extra Geography [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
     "t": "Tetra: Acreditar de Novo (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Traffic Cops: Pursuit Squad One [L] (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Trap Called Desire (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Top Models [L] (1987)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Made in Chelsea [L] (2011)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Our Farm Next Door: Amanda, Clive and Kids [L] (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Quando Eu Encontrar a Lua (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Os Dez Bravos de Sanada - Shadows of the Ten Ninja [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Crow Club (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "60 Minutes [L] (1968)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Oops! Mysterious Sounds (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Help! We Bought A Village [L] (2022)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Political Lupin (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Doctor X: Mafia in White (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "4 Blocks Zero [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "My Rival and Me [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Echo of a Letter [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Stars and Vows: Anele & Buzza (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
   },
   {
     "t": "Chef de Alto Nivel (2025)",
@@ -168522,11 +168692,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "The Real Housewives of Potomac [L] (2016)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "4 Blocks Zero [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -168671,11 +168836,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Quando Eu Encontrar a Lua (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
-  },
-  {
     "t": "The Secret Lives of Mormon Wives: Orange County [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -168802,11 +168962,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Strictly Come Dancing [L] (2004)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Top Models [L] (1987)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -169012,11 +169167,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Cook's Country [L] (2008)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Help! We Bought A Village [L] (2022)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -169651,11 +169801,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Amazon Prime Vídeo"
   },
   {
-    "t": "The Crow Club (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
-  },
-  {
     "t": "A Produtora (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Series | Dorama"
@@ -169846,11 +169991,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Diversas"
   },
   {
-    "t": "Doctor X: Mafia in White (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Diversas"
-  },
-  {
     "t": "Delegado (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Diversas"
@@ -169976,11 +170116,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Oops! Mysterious Sounds (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
-  },
-  {
     "t": "A Tale of the Secret Saint (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -170031,22 +170166,7 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Political Lupin (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Diversas"
-  },
-  {
     "t": "Love After Lockup: Relationship Rehab [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Echo of a Letter [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "My Rival and Me [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -170936,11 +171056,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Netflix"
   },
   {
-    "t": "Our Farm Next Door: Amanda, Clive and Kids [L] (2024)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Blue Murder Motel [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -170952,11 +171067,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Youth [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "60 Minutes [L] (1968)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -171257,11 +171367,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "South Park (1997) [L] (1997)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Os Dez Bravos de Sanada - Shadows of the Ten Ninja [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -173381,17 +173486,7 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Traffic Cops: Pursuit Squad One [L] (2025)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Iain Stirling's Roast The Internet [L] (2025)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Made in Chelsea [L] (2011)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -176534,11 +176629,6 @@ const CATALOG_DATA = [
     "t": "As Filhas da Senhora Garcia (2024) (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Globoplay"
-  },
-  {
-    "t": "A Trap Called Desire (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
   },
   {
     "t": "Plantão de Polícia (1979) (1979)",
@@ -243246,123 +243336,103 @@ const CATALOG_DATA = [
     "tp": "24H INFANTIS/DESENHOS"
   },
   {
-    "t": "14:00 - ARMÊNIA X CHIPRE [1]",
+    "t": "15:00 - SANTOS JÚNIOR X PALMEIRAS JÚNIOR [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "14:00 - ARMÊNIA X CHIPRE [2]",
+    "t": "15:00 - SANTOS JÚNIOR X PALMEIRAS JÚNIOR [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "14:00 - LITUÂNIA X SURINAME [1]",
+    "t": "16:45 - ANDORRA X GIBRALTAR [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "14:00 - LITUÂNIA X SURINAME [2]",
+    "t": "16:45 - ANDORRA X GIBRALTAR [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "14:00 - TURQUIA X BÉLGICA [1]",
+    "t": "16:45 - BULGÁRIA X ISLÂNDIA [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "14:00 - TURQUIA X BÉLGICA [2]",
+    "t": "16:45 - BULGÁRIA X ISLÂNDIA [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "14:45 - BARCELONA (F) X ARSENAL (F) [1]",
+    "t": "16:45 - ESCÓCIA X MACEDÔNIA DO NORTE [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "14:45 - BARCELONA (F) X ARSENAL (F) [2]",
+    "t": "16:45 - ESCÓCIA X MACEDÔNIA DO NORTE [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "15:00 - RB BRAGANTINO JÚNIOR X CORINTHIANS JÚNIOR [1]",
+    "t": "16:45 - ESLOVÊNIA X SUÍÇA [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "15:00 - RB BRAGANTINO JÚNIOR X CORINTHIANS JÚNIOR [2]",
+    "t": "16:45 - ESLOVÊNIA X SUÍÇA [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "16:45 - ALBÂNIA X FINLÂNDIA [1]",
+    "t": "16:45 - HOLANDA X GRÉCIA [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "16:45 - ALBÂNIA X FINLÂNDIA [2]",
+    "t": "16:45 - HOLANDA X GRÉCIA [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "16:45 - INGLATERRA X CROÁCIA [1]",
+    "t": "16:45 - LIECHTENSTEIN X AZERBAIJÃO [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "16:45 - INGLATERRA X CROÁCIA [2]",
+    "t": "16:45 - LIECHTENSTEIN X AZERBAIJÃO [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "16:45 - ITÁLIA X FRANÇA [1]",
+    "t": "16:45 - SÉRVIA X ALEMANHA [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "16:45 - ITÁLIA X FRANÇA [2]",
+    "t": "16:45 - SÉRVIA X ALEMANHA [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "16:45 - MONTENEGRO X LETÔNIA [1]",
+    "t": "17:00 - ATLETICO TORQUE X RACING MONTEVIDEO [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "16:45 - MONTENEGRO X LETÔNIA [2]",
+    "t": "17:00 - ATLETICO TORQUE X RACING MONTEVIDEO [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "16:45 - REPÚBLICA TCHECA X ESPANHA [1]",
+    "t": "20:00 - ARGENTINA X URUGUAI [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   },
   {
-    "t": "16:45 - REPÚBLICA TCHECA X ESPANHA [2]",
+    "t": "20:00 - ARGENTINA X URUGUAI [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
-  },
-  {
-    "t": "17:00 - SL BENFICA X AUSTRIA (F)IEN (F) [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
-  },
-  {
-    "t": "17:00 - SL BENFICA X AUSTRIA (F)IEN (F) [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
-  },
-  {
-    "t": "20:00 - SÃO BERNARDO X ATHLETIC CLUB [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
-  },
-  {
-    "t": "20:00 - SÃO BERNARDO X ATHLETIC CLUB [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (12/11)"
+    "tp": "JOGOS DO DIA (13/11)"
   }
 ];
