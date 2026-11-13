@@ -6,9 +6,11 @@ jobs:
     steps:
       - name: Testar
         run: |
-          H="http://hightech.webplayer.one"
-          echo "== pagina inicial =="
-          curl -s -o /tmp/a.txt -m 30 -A "Mozilla/5.0" -w "HTTP %{http_code} bytes %{size_download} tipo %{content_type}\n" "$H/" || true
-          echo "== bootstrap (sem login) =="
-          curl -s -o /tmp/b.txt -m 30 -A "Mozilla/5.0" -w "HTTP %{http_code} bytes %{size_download} tipo %{content_type}\n" "$H/api/v1/bootstrap" || true
-          head -c 200 /tmp/b.txt; echo
+          B="https://hightechtvr1.online"
+          U="username=97533635&password=57989443"
+          echo "== https player_api =="
+          curl -s -o /dev/null -m 60 -A "Mozilla/5.0" -w "HTTP %{http_code} bytes %{size_download}\n" "$B/player_api.php?$U" || true
+          echo "== https categorias =="
+          curl -s -o /dev/null -m 60 -A "Mozilla/5.0" -w "HTTP %{http_code} bytes %{size_download}\n" "$B/player_api.php?$U&action=get_vod_categories" || true
+          echo "== https m3u =="
+          curl -s -o /dev/null -m 20 -A "Mozilla/5.0" -w "HTTP %{http_code}\n" "$B/get.php?$U&type=m3u_plus&output=ts" || true
