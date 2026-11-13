@@ -1,0 +1,16 @@
+name: Teste API
+on: workflow_dispatch
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Testar
+        run: |
+          B="http://hightechtvr1.online"
+          U="username=97533635&password=57989443"
+          echo "== info do usuario =="
+          curl -s -o /dev/null -m 60 -A "Mozilla/5.0" -w "HTTP %{http_code} bytes %{size_download}\n" "$B/player_api.php?$U" || true
+          echo "== categorias de filmes =="
+          curl -s -o /dev/null -m 60 -A "Mozilla/5.0" -w "HTTP %{http_code} bytes %{size_download}\n" "$B/player_api.php?$U&action=get_vod_categories" || true
+          echo "== m3u =="
+          curl -s -o /dev/null -m 20 -A "Mozilla/5.0" -w "HTTP %{http_code}\n" "$B/get.php?$U&type=m3u_plus&output=ts" || true
