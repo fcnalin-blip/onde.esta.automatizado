@@ -1,4 +1,4 @@
-const CATALOG_UPDATED = "14/11/2026";
+const CATALOG_UPDATED = "15/11/2026";
 const CATALOG_DATA = [
   {
     "t": "Depravação [L]",
@@ -168551,9 +168551,699 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
+    "t": "Ebenezer e os Fantasmas do Natal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Padrões de Morte (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Padrões de Morte (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Padrões de Morte (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Padrões de Morte [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Vingadores: Ultimato Encore (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Vingadores: Ultimato Encore (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Vingadores: Ultimato Encore (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Aventura"
+  },
+  {
+    "t": "Vingadores: Ultimato Encore [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Insidious Possession [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Beast [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Parivarik ManuRanjan [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Fire Tornado [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Daayra [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "An Unknown Substance [L]",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Shakira Live from Madrid [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Expedition: Saving Our Seas [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
     "t": "Tetra: Acreditar de Novo (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "O Show do Patrick Estrela (2021)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Paramount"
+  },
+  {
+    "t": "A Mesa Final (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "100 Dias de Mentiras (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "9-1-1 [L] (2018)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Largados e Pelados Brasil (2021)",
+    "cat": "SÉRIES",
+    "tp": "Séries | HBO Max"
+  },
+  {
+    "t": "Quem Ama Cuida (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Novelas | Gerais"
+  },
+  {
+    "t": "Amigos de Longa Data (2024) (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Quebra-Cabeça Mortal (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "O Assassinato do Galo do Ouro (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Dragon Ball Super: Beerus (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "Milagres da Sala de Emergência (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "The Secret Lives of Mormon Wives: Orange County (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Good Daughter (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Style Wars (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "O Corpo (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "ChiaroScuro (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "A Lei de Alicia (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "A Família do Big John (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "A Clínica (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Get Huge: Looksmaxxing to Death (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Lá na Minha Terra (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Isolados no Alasca (2015) (2015)",
+    "cat": "SÉRIES",
+    "tp": "Series | Max"
+  },
+  {
+    "t": "West Wing: Nos Bastidores do Poder (1999) (1999)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "A Life In Pieces (1990) (1990)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Ted Lasso (2020) [L] (2020)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Magnatas do Crime (2024) [L] (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Ace of the Diamond (2013) [L] (2013)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Omegahorn (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Tempestade de Emoções (2025) [L] (2025)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Blogueirinha Entrevista (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Line of Fire (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "O Colombiano de Keko (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Imperatriz Se Casou Novamente (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Delegado (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Máfia: O Reality (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "PSYREN (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "TAMED (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "A Mesa Final (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "VisionQuest (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Fingida (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Extraordinary Attorney Minami (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Amor Disfarçado (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Magic Knight Rayearth (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Full Clearing Another World under a Goddess with Zero Believers (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Dragon Ball Super: Beerus (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Ilha do Tesouro (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "100 Dias de Mentiras (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Deha: Entre o Bem e o Mal (2024) (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Amor Doce Amor (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The World's Strongest Witch (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Cold Sato-san is Only Sweet to Me (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "PSYREN (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Entre os Nossos Passos (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Super Psychic Policeman Chojo (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion! (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "From Far Away (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "Sacrifício (2021) (2021)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Overgeared (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "Line of Fire (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Produtora (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Murder in a Small Town (2024) (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Red River (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Exiled Heavy Knight Knows How to Game the System (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Parede de Gelo (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Scrubs (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "RJ Decker Investigador Privado (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "CIA [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Lei e Ordem Toronto Intencao Criminal (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Greys Anatomy [L] (2005)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Promessa (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Lei e Ordem Unidade de Vitimas Especiais",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Lei e Ordem",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Georgie e Mandy Seu Primeiro Casamento (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | HBO Max"
+  },
+  {
+    "t": "Onde Esta a Wanda (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Apple TV Plus"
+  },
+  {
+    "t": "O Jogo do Diabo (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Minha Vida Nada Ortodoxa (2021)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Bob's Burgers (2011)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "The Voice Brasil (2012)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Chicago Med: Atendimento de Emergência (2015)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "So What's Wrong with Getting Reborn as a Goblin? (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Celebrity Big Brother [L] (2018)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Paris Has Fallen [L] (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Os Vizinhos Green [L] (2018)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Young and the Restless [L] (1973)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Salário Mínimo [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "DARK MACHINE THE ANIMATION [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Nia Liston: The Merciless Maiden [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Battle Spirits [Re] ZEKKAI NO KU [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Cidade de Deus: A Luta Não Para",
+    "cat": "SÉRIES",
+    "tp": "Séries | HBO Max"
+  },
+  {
+    "t": "The Traitors Canada [L] (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "GET JIRO (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Infantil / Desenho"
+  },
+  {
+    "t": "O Instituto (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "The Voice [L] (2011)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Block [L] (2003)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "I'm Dating a Dark Summoner [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "The Terrors of Jordan Mendoza [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Ilha do Tesouro (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "America's Test Kitchen From Cook's Illustrated [L] (2001)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Sunshine Through the Rain (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Fightland [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Still Flipping Out [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Below Deck [L] (2013)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "90 Dias: Tô na Caça! [L] (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Hudson & Rex [L] (2019)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Sweet Deceit [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Faces Reborn [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Por Você (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Doramas"
+  },
+  {
+    "t": "A Noiva da Presilha Dourada [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Lá na Minha Terra (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Judy Justice [L] (2021)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Trap Called Desire (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Quando Eu Encontrar a Lua (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Viagem Escolar: Fui parar num Grupo que Não sou Próximo [L] (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Dreamland [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Not Yours [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Delegado (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Miraculous: As Aventuras de LadyBug (2015)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Doctor X: Mafia in White (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Presente (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
   },
   {
     "t": "Tougen Anki (2025)",
@@ -168591,17 +169281,7 @@ const CATALOG_DATA = [
     "tp": "Séries | HBO Max"
   },
   {
-    "t": "A Trap Called Desire (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
-  },
-  {
     "t": "Celebrity Weakest Link [L] (2025)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "America's Test Kitchen From Cook's Illustrated [L] (2001)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -168614,11 +169294,6 @@ const CATALOG_DATA = [
     "t": "Harlan Coben's Final Twist [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Sunshine Through the Rain (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Diversas"
   },
   {
     "t": "South Park (1997) [L] (1997)",
@@ -168651,11 +169326,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Quem Ama Cuida (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Novelas | Gerais"
-  },
-  {
     "t": "Top Models [L] (1987)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -168671,24 +169341,9 @@ const CATALOG_DATA = [
     "tp": "Séries | Diversas"
   },
   {
-    "t": "Por Você (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Doramas"
-  },
-  {
-    "t": "Os Vizinhos Green [L] (2018)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Bleach [L] (2004)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Lá na Minha Terra (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Globoplay"
   },
   {
     "t": "Traffic Cops: Pursuit Squad One [L] (2025)",
@@ -168704,11 +169359,6 @@ const CATALOG_DATA = [
     "t": "Our Farm Next Door: Amanda, Clive and Kids [L] (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Quando Eu Encontrar a Lua (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
   },
   {
     "t": "Os Dez Bravos de Sanada - Shadows of the Ten Ninja [L] (2026)",
@@ -168737,11 +169387,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Political Lupin (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Diversas"
-  },
-  {
-    "t": "Doctor X: Mafia in White (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Diversas"
   },
@@ -168841,22 +169486,12 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "A Noiva da Presilha Dourada [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Shadows and Dust [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
   {
     "t": "Crossroad Springs [L] (2025)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "The Block [L] (2003)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -168894,11 +169529,6 @@ const CATALOG_DATA = [
     "t": "12 12 12 (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Apple TV Plus"
-  },
-  {
-    "t": "Judy Justice [L] (2021)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
   },
   {
     "t": "22 Kids and Counting [L] (2021)",
@@ -169086,17 +169716,7 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "I'm Dating a Dark Summoner [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Animes"
-  },
-  {
     "t": "Dream Car Fixers [L] (2024)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Celebrity Big Brother [L] (2018)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -169324,11 +169944,6 @@ const CATALOG_DATA = [
     "t": "Have I Got News for You [L] (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "O Jogo do Diabo (2023)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Netflix"
   },
   {
     "t": "48 Hours [L] (1988)",
@@ -169561,11 +170176,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Salário Mínimo [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Extraordinary Attorney Minami (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Diversas"
@@ -169599,11 +170209,6 @@ const CATALOG_DATA = [
     "t": "HORROR COLLECTOR (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "100 Dias de Mentiras (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
   },
   {
     "t": "Doctor X: Mafia in White (2026) (2026)",
@@ -169711,11 +170316,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "100 Dias de Mentiras (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Diversas"
-  },
-  {
     "t": "A Família do Big John (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Diversas"
@@ -169751,11 +170351,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Netflix"
   },
   {
-    "t": "A Mesa Final (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Diversas"
-  },
-  {
     "t": "Honor Thy Mother (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -169764,11 +170359,6 @@ const CATALOG_DATA = [
     "t": "Awkwafina - A Cozinheira Improvável (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Tempestade de Emoções (2025) [L] (2025)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
   },
   {
     "t": "Palace (2011)",
@@ -169781,22 +170371,12 @@ const CATALOG_DATA = [
     "tp": "Séries | Amazon Prime Vídeo"
   },
   {
-    "t": "Blogueirinha Entrevista (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Globoplay"
-  },
-  {
     "t": "Devils' Crest (2026) (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Amazon Prime Vídeo"
   },
   {
     "t": "Campus Drivers (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
-    "t": "Line of Fire (2026) (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Amazon Prime Vídeo"
   },
@@ -169841,11 +170421,6 @@ const CATALOG_DATA = [
     "tp": "Series | Dorama"
   },
   {
-    "t": "Magic Knight Rayearth (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Dandivine (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -169866,11 +170441,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "The World's Strongest Witch (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Estranho: Contos de Junji Ito para Noites Intranquilas (2026) (2026)",
     "cat": "SÉRIES",
     "tp": "Series | Dorama"
@@ -169881,12 +170451,12 @@ const CATALOG_DATA = [
     "tp": "Séries | Amazon Prime Vídeo"
   },
   {
-    "t": "FX Fighter Kurumi-chan (2026) [L] (2026)",
+    "t": "S.W.A.T. Exiles (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "S.W.A.T. Exiles (2026) [L] (2026)",
+    "t": "FX Fighter Kurumi-chan (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -169906,11 +170476,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Amazon Prime Vídeo"
   },
   {
-    "t": "A Produtora (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
-  },
-  {
     "t": "Oriental Martial Academy (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -169921,22 +170486,7 @@ const CATALOG_DATA = [
     "tp": "Séries | Doramas"
   },
   {
-    "t": "The Exiled Heavy Knight Knows How to Game the System (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Parede de Gelo (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Netflix"
-  },
-  {
     "t": "Royal Pains (2009)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
-    "t": "Lei e Ordem Toronto Intencao Criminal (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Amazon Prime Vídeo"
   },
@@ -169944,11 +170494,6 @@ const CATALOG_DATA = [
     "t": "Hana Kimi (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Crunchyroll"
-  },
-  {
-    "t": "Greys Anatomy [L] (2005)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
   },
   {
     "t": "Outlander Blood of My Blood (2025)",
@@ -169979,11 +170524,6 @@ const CATALOG_DATA = [
     "t": "Cemiterio (2022)",
     "cat": "SÉRIES",
     "tp": "Séries | Turcas"
-  },
-  {
-    "t": "Georgie e Mandy Seu Primeiro Casamento (2024)",
-    "cat": "SÉRIES",
-    "tp": "Séries | HBO Max"
   },
   {
     "t": "Diários de uma Apotecária (2023)",
@@ -170021,31 +170561,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Netflix"
   },
   {
-    "t": "Largados e Pelados Brasil (2021)",
-    "cat": "SÉRIES",
-    "tp": "Séries | HBO Max"
-  },
-  {
-    "t": "Cidade de Deus: A Luta Não Para",
-    "cat": "SÉRIES",
-    "tp": "Séries | HBO Max"
-  },
-  {
-    "t": "O Instituto (2025)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
-    "t": "A Ilha do Tesouro (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Diversas"
-  },
-  {
-    "t": "GET JIRO (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Infantil / Desenho"
-  },
-  {
     "t": "Grand Designs [L] (1999)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -170076,27 +170591,7 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Viagem Escolar: Fui parar num Grupo que Não sou Próximo [L] (2025)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Not Yours [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Dreamland [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "The Perfect Lie (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Diversas"
-  },
-  {
-    "t": "Delegado (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Diversas"
   },
@@ -170164,11 +170659,6 @@ const CATALOG_DATA = [
     "t": "Outlander: Blood of My Blood (2025)",
     "cat": "SÉRIES",
     "tp": "Séries | Disney Plus"
-  },
-  {
-    "t": "Miraculous: As Aventuras de LadyBug (2015)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Globoplay"
   },
   {
     "t": "The Celebrity Traitors [L] (2025)",
@@ -170326,21 +170816,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Amor Doce Amor (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
-  },
-  {
-    "t": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Sacrifício (2021) (2021)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
     "t": "De volta para você (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Series | Dorama"
@@ -170376,11 +170851,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Paramount"
   },
   {
-    "t": "Chicago Med: Atendimento de Emergência (2015)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
     "t": "Altered Carbon (2018)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
@@ -170394,11 +170864,6 @@ const CATALOG_DATA = [
     "t": "Bake Off Brasil: Mão na Massa (2015)",
     "cat": "SÉRIES",
     "tp": "Séries | HBO Max"
-  },
-  {
-    "t": "The Young and the Restless [L] (1973)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
   },
   {
     "t": "The Traitors [L] (2023)",
@@ -170486,16 +170951,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Netflix"
   },
   {
-    "t": "O Colombiano de Keko (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "A Imperatriz Se Casou Novamente (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
-  },
-  {
     "t": "Bass ex Machina (2026) (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
@@ -170526,49 +170981,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Amazon Prime Vídeo"
   },
   {
-    "t": "Máfia: O Reality (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "PSYREN (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Crunchyroll"
-  },
-  {
     "t": "Avós de Primeira Viagem (2017) (2017)",
     "cat": "SÉRIES",
     "tp": "Series | Max"
   },
   {
-    "t": "A Mesa Final (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
-  },
-  {
     "t": "Shadows of the Ten Ninja (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "VisionQuest (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Disney Plus"
-  },
-  {
-    "t": "Fingida (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Disney Plus"
-  },
-  {
-    "t": "Extraordinary Attorney Minami (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
-  },
-  {
-    "t": "Amor Disfarçado (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
   },
   {
     "t": "Nosso Hakone Ekiden (2026) [L] (2026)",
@@ -170581,44 +171001,9 @@ const CATALOG_DATA = [
     "tp": "Séries | Globoplay"
   },
   {
-    "t": "A Ilha do Tesouro (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
-    "t": "Deha: Entre o Bem e o Mal (2024) (2024)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Globoplay"
-  },
-  {
     "t": "Pequenos Profetas (2026) (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Apple TV Plus"
-  },
-  {
-    "t": "The Cold Sato-san is Only Sweet to Me (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Entre os Nossos Passos (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
-  },
-  {
-    "t": "Super Psychic Policeman Chojo (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion! (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "From Far Away (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
   },
   {
     "t": "Brothers (2026) (2026)",
@@ -170636,11 +171021,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Discovery Plus"
   },
   {
-    "t": "Murder in a Small Town (2024) (2024)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
     "t": "Jaadugar: A Witch in Mongolia (2026) (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Crunchyroll"
@@ -170656,17 +171036,7 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Red River (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Blue Skies (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "CIA [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -170686,16 +171056,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Lei e Ordem Unidade de Vitimas Especiais",
-    "cat": "SÉRIES",
-    "tp": "Séries | Globoplay"
-  },
-  {
-    "t": "Lei e Ordem",
-    "cat": "SÉRIES",
-    "tp": "Séries | Globoplay"
-  },
-  {
     "t": "Febre do Ouro Freddy Dodge ao Resgate (2021)",
     "cat": "SÉRIES",
     "tp": "Séries | Discovery Plus"
@@ -170704,11 +171064,6 @@ const CATALOG_DATA = [
     "t": "NCIS Origins [L] (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Onde Esta a Wanda (2024)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Apple TV Plus"
   },
   {
     "t": "Cozinhando com Paris Hilton (2021)",
@@ -170946,11 +171301,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "The Terrors of Jordan Mendoza [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Taskmaster [L] (2015)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -170996,31 +171346,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Amazon Prime Vídeo"
   },
   {
-    "t": "TAMED (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
-  },
-  {
-    "t": "Full Clearing Another World under a Goddess with Zero Believers (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Dragon Ball Super: Beerus (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Crunchyroll"
-  },
-  {
-    "t": "Overgeared (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Crunchyroll"
-  },
-  {
     "t": "Youth (2026) (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Amazon Prime Vídeo"
@@ -171041,11 +171366,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Paramount"
   },
   {
-    "t": "A Promessa (2023)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Diversas"
-  },
-  {
     "t": "Hotel Inhumans [L] (2025)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -171064,11 +171384,6 @@ const CATALOG_DATA = [
     "t": "Penso em Ti (2023)",
     "cat": "SÉRIES",
     "tp": "Séries | Globoplay"
-  },
-  {
-    "t": "The Voice Brasil (2012)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Disney Plus"
   },
   {
     "t": "Cozinha de Alto Nível (2025)",
@@ -171171,11 +171486,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "So What's Wrong with Getting Reborn as a Goblin? (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Marble Hall Murders [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -171259,11 +171569,6 @@ const CATALOG_DATA = [
     "t": "Familia por Escolha [L] (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Doramas"
-  },
-  {
-    "t": "Delegado (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Globoplay"
   },
   {
     "t": "Firefly Wedding (2026) (2026)",
@@ -171441,24 +171746,9 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Hudson & Rex [L] (2019)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Battle Spirits [Re] ZEKKAI NO KU [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Animes"
-  },
-  {
     "t": "Um Trabalho do Inferno (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
-  },
-  {
-    "t": "Below Deck [L] (2013)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
   },
   {
     "t": "Amy e Tammy: Irmãs Contra o Peso [L] (2020)",
@@ -171467,11 +171757,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Belzebubs [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "The Voice [L] (2011)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -171501,19 +171786,9 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "DARK MACHINE THE ANIMATION [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Animes"
-  },
-  {
     "t": "The Search for Leah Croucher: A Parent's Nightmare [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Nia Liston: The Merciless Maiden [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Animes"
   },
   {
     "t": "R.J. Decker: Investigador Privado (2026)",
@@ -171666,11 +171941,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "The Traitors Canada [L] (2023)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "In the Eye of the Storm: Chasers (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Discovery Plus"
@@ -171702,11 +171972,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "High Country [L] (2024)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Paris Has Fallen [L] (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -171791,19 +172056,9 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "PSYREN (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Hora de Aventura: Missões Secundárias (2026) (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
-    "t": "Line of Fire (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
   },
   {
     "t": "No Olho da Tempestade: Caçadores de Tornados (2026) (2026)",
@@ -171842,16 +172097,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Match Point [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Still Flipping Out [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Sweet Deceit [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -176396,11 +176641,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Fightland [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Project Runway [L] (2004)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -179086,11 +179326,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Netflix"
   },
   {
-    "t": "Bob's Burgers (2011)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Disney Plus"
-  },
-  {
     "t": "Depois da Festa (2022)",
     "cat": "SÉRIES",
     "tp": "Séries | Apple TV Plus"
@@ -181061,11 +181296,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Discovery Plus"
   },
   {
-    "t": "O Show do Patrick Estrela (2021)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Paramount"
-  },
-  {
     "t": "Império da Dor (2023)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
@@ -181171,12 +181401,12 @@ const CATALOG_DATA = [
     "tp": "Séries | Doramas"
   },
   {
-    "t": "O Menino que nao vai para o Ceu (2026) [L] (2026)",
+    "t": "Lost To You (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Doramas"
   },
   {
-    "t": "Lost To You (2026) [L] (2026)",
+    "t": "O Menino que nao vai para o Ceu (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Doramas"
   },
@@ -183251,11 +183481,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Apple TV Plus"
   },
   {
-    "t": "Scrubs (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Disney Plus"
-  },
-  {
     "t": "Receita de Amor [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Doramas"
@@ -183617,11 +183842,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "De Ferias com Travis Japan (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "RJ Decker Investigador Privado (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -186916,14 +187136,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Amazon Prime Vídeo"
   },
   {
-    "t": "Chapolin e Os Colorados (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
     "t": "Barbapapa Uma Grande Familia (2020)",
     "cat": "SÉRIES",
     "tp": "Séries | Outros Streams"
+  },
+  {
+    "t": "Chapolin e Os Colorados (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
   },
   {
     "t": "Manto e Adaga (2018)",
@@ -187506,12 +187726,12 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Os Segredos da Igreja Hillsong [L] (2023)",
+    "t": "OSHI NO KO [L] (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "OSHI NO KO [L] (2024)",
+    "t": "Os Segredos da Igreja Hillsong [L] (2023)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -188356,14 +188576,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Doramas"
   },
   {
-    "t": "Ao no Orchestra [L] (2023)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Arquivos Desclassificados com David Duchovny (2025)",
     "cat": "SÉRIES",
     "tp": "Séries | Diversas"
+  },
+  {
+    "t": "Ao no Orchestra [L] (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
   },
   {
     "t": "Amor ao Luar [L] (2025)",
@@ -190411,14 +190631,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Amazon Prime Vídeo"
   },
   {
-    "t": "Fala Dercy",
-    "cat": "SÉRIES",
-    "tp": "Séries | +SBT"
-  },
-  {
     "t": "Gatos Selvagens da India (2020)",
     "cat": "SÉRIES",
     "tp": "Séries | Outros Streams"
+  },
+  {
+    "t": "Fala Dercy",
+    "cat": "SÉRIES",
+    "tp": "Séries | +SBT"
   },
   {
     "t": "Bravos Guerreiros (2012)",
@@ -190981,14 +191201,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Um Amor no Paraiso (2025)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Doramas"
-  },
-  {
     "t": "The Mystery of Dragon Town [L] (2025)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Um Amor no Paraiso (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Doramas"
   },
   {
     "t": "Sherlock e Daughter [L]",
@@ -192591,14 +192811,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Doramas"
   },
   {
-    "t": "SAKAMOTO DAYS (2025)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Netflix"
-  },
-  {
     "t": "Tsurune [L] (2018)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "SAKAMOTO DAYS (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
   },
   {
     "t": "Tower of God [L] (2020)",
@@ -193866,11 +194086,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Amazon Prime Vídeo"
   },
   {
-    "t": "Garota Invencivel (2024)",
-    "cat": "SÉRIES",
-    "tp": "Séries | HBO Max"
-  },
-  {
     "t": "Landman (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Paramount"
@@ -193879,6 +194094,11 @@ const CATALOG_DATA = [
     "t": "Contagem Regressiva Jake Paul vs Mike Tyson (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Garota Invencivel (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | HBO Max"
   },
   {
     "t": "Febre do Ouro Corredeiras do Alasca (2018)",
@@ -195426,12 +195646,12 @@ const CATALOG_DATA = [
     "tp": "Séries | HBO Max"
   },
   {
-    "t": "Missao Aviao (2010)",
+    "t": "Os Quebradores da Banca (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Discovery Plus"
   },
   {
-    "t": "Os Quebradores da Banca (2024)",
+    "t": "Missao Aviao (2010)",
     "cat": "SÉRIES",
     "tp": "Séries | Discovery Plus"
   },
@@ -195731,12 +195951,12 @@ const CATALOG_DATA = [
     "tp": "Séries | Doramas"
   },
   {
-    "t": "Homem Pipa Ja E (2024)",
+    "t": "No Olho da Tempestade (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | HBO Max"
   },
   {
-    "t": "No Olho da Tempestade (2024)",
+    "t": "Homem Pipa Ja E (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | HBO Max"
   },
@@ -196381,14 +196601,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Disney Plus"
   },
   {
-    "t": "Uma Familia Inusitada (2024)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Netflix"
-  },
-  {
     "t": "Suzhal Vortice (2022)",
     "cat": "SÉRIES",
     "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Uma Familia Inusitada (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
   },
   {
     "t": "Riquezas Insanas da Antiguidade (2022)",
@@ -199376,14 +199596,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Netflix"
   },
   {
-    "t": "Sobrevivendo as Tentacoes (2023)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Outros Streams"
-  },
-  {
     "t": "Pequeno Principe e Seus Amigos (2023)",
     "cat": "SÉRIES",
     "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Sobrevivendo as Tentacoes (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Outros Streams"
   },
   {
     "t": "Vivant [L] (2023)",
@@ -199841,14 +200061,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Outros Streams"
   },
   {
-    "t": "Livre Para Voar (1984)",
-    "cat": "SÉRIES",
-    "tp": "Novelas | Gerais"
-  },
-  {
     "t": "Rocket Power (1999)",
     "cat": "SÉRIES",
     "tp": "Séries | Paramount"
+  },
+  {
+    "t": "Livre Para Voar (1984)",
+    "cat": "SÉRIES",
+    "tp": "Novelas | Gerais"
   },
   {
     "t": "Codename Annika [L] (2023)",
@@ -201956,14 +202176,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Doramas"
   },
   {
-    "t": "Planeta Estranho (2023)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Apple TV Plus"
-  },
-  {
     "t": "Our Dating Sim [L] (2023)",
     "cat": "SÉRIES",
     "tp": "Séries | Doramas"
+  },
+  {
+    "t": "Planeta Estranho (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Apple TV Plus"
   },
   {
     "t": "O Fim do Mundo Com Você [L] (2023)",
@@ -202596,14 +202816,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Apple TV Plus"
   },
   {
-    "t": "The Ark (2023)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
     "t": "Como Raeliana Foi Parar na Mansão do Duque (2023)",
     "cat": "SÉRIES",
     "tp": "Séries | Crunchyroll"
+  },
+  {
+    "t": "The Ark (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
   },
   {
     "t": "Horóscopo do Amor (2022)",
@@ -204106,14 +204326,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Disney Plus"
   },
   {
-    "t": "Family Law (2021)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Globoplay"
-  },
-  {
     "t": "Mike Judge's Beavis and Butt-Head (2022)",
     "cat": "SÉRIES",
     "tp": "Séries | Paramount"
+  },
+  {
+    "t": "Family Law (2021)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
   },
   {
     "t": "Vale dos Reis: Tesouros do Egito (2019)",
@@ -205196,12 +205416,12 @@ const CATALOG_DATA = [
     "tp": "Séries | Outros Streams"
   },
   {
-    "t": "Os Top Dez dos Anos 80 (2022)",
+    "t": "Sem Limites (2022)",
     "cat": "SÉRIES",
     "tp": "Séries | Outros Streams"
   },
   {
-    "t": "Sem Limites (2022)",
+    "t": "Os Top Dez dos Anos 80 (2022)",
     "cat": "SÉRIES",
     "tp": "Séries | Outros Streams"
   },
@@ -205341,14 +205561,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Disney Plus"
   },
   {
-    "t": "Planeta Pré-Histórico (2022)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Apple TV Plus"
-  },
-  {
     "t": "PCC: Poder Secreto (2022)",
     "cat": "SÉRIES",
     "tp": "Séries | HBO Max"
+  },
+  {
+    "t": "Planeta Pré-Histórico (2022)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Apple TV Plus"
   },
   {
     "t": "O Que Você Não Sabia Sobre o Humor Brasileiro (2022)",
@@ -206406,14 +206626,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Apple TV Plus"
   },
   {
-    "t": "A Lenda de Sleepy Hollow (2013)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Apple TV Plus"
-  },
-  {
     "t": "A Vida Sexual das Universitárias (2021)",
     "cat": "SÉRIES",
     "tp": "Séries | HBO Max"
+  },
+  {
+    "t": "A Lenda de Sleepy Hollow (2013)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Apple TV Plus"
   },
   {
     "t": "A Lenda de Lady Ferrari",
@@ -207511,14 +207731,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Globoplay"
   },
   {
-    "t": "Hora do Recreio (1997)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Outros Streams"
-  },
-  {
     "t": "Os Jetsons (1962)",
     "cat": "SÉRIES",
     "tp": "Séries | HBO Max"
+  },
+  {
+    "t": "Hora do Recreio (1997)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Outros Streams"
   },
   {
     "t": "Geração 30 e Poucos (2021)",
@@ -208491,14 +208711,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Globoplay"
   },
   {
-    "t": "Hora de Aventura (2010)",
-    "cat": "SÉRIES",
-    "tp": "Séries | HBO Max"
-  },
-  {
     "t": "4X4 Sob Medida",
     "cat": "SÉRIES",
     "tp": "Séries | Discovery Plus"
+  },
+  {
+    "t": "Hora de Aventura (2010)",
+    "cat": "SÉRIES",
+    "tp": "Séries | HBO Max"
   },
   {
     "t": "Two Weeks to Live (2020)",
@@ -209856,14 +210076,14 @@ const CATALOG_DATA = [
     "tp": "Novelas | Gerais"
   },
   {
-    "t": "Da Cor do Pecado (2004)",
-    "cat": "SÉRIES",
-    "tp": "Novelas | Globo"
-  },
-  {
     "t": "Brega & Chique (1987)",
     "cat": "SÉRIES",
     "tp": "Novelas | Gerais"
+  },
+  {
+    "t": "Da Cor do Pecado (2004)",
+    "cat": "SÉRIES",
+    "tp": "Novelas | Globo"
   },
   {
     "t": "Agora é Que São Elas (2003)",
@@ -210481,14 +210701,14 @@ const CATALOG_DATA = [
     "tp": "Novelas | Gerais"
   },
   {
-    "t": "False Flag (2015)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Outros Streams"
-  },
-  {
     "t": "O Cravo e a Rosa (2000)",
     "cat": "SÉRIES",
     "tp": "Novelas | Brasileiras"
+  },
+  {
+    "t": "False Flag (2015)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Outros Streams"
   },
   {
     "t": "Vampiros (2020)",
@@ -210571,14 +210791,14 @@ const CATALOG_DATA = [
     "tp": "Novelas | Gerais"
   },
   {
-    "t": "Esquadrão Relâmpago Changeman (1985)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Tokusatsu"
-  },
-  {
     "t": "Power Rangers Beast Morphers",
     "cat": "SÉRIES",
     "tp": "Séries | Outros Streams"
+  },
+  {
+    "t": "Esquadrão Relâmpago Changeman (1985)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Tokusatsu"
   },
   {
     "t": "Histórias Maravilhosas (2020)",
@@ -210921,14 +211141,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Outros Streams"
   },
   {
-    "t": "Irmãos Freitas (2019)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
     "t": "Holiday Secrets (2019)",
     "cat": "SÉRIES",
     "tp": "Séries | Outros Streams"
+  },
+  {
+    "t": "Irmãos Freitas (2019)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
   },
   {
     "t": "His Dark Materials (2019)",
@@ -211391,14 +211611,14 @@ const CATALOG_DATA = [
     "tp": "Séries | DirecTV"
   },
   {
-    "t": "Sons Of Anarchy (2008)",
-    "cat": "SÉRIES",
-    "tp": "Séries | DirecTV"
-  },
-  {
     "t": "Spartacus (2010)",
     "cat": "SÉRIES",
     "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Sons Of Anarchy (2008)",
+    "cat": "SÉRIES",
+    "tp": "Séries | DirecTV"
   },
   {
     "t": "Sob Pressão (2017)",
@@ -211611,14 +211831,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Disney Plus"
   },
   {
-    "t": "Eu Tu E Ela (2016)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
     "t": "Friends (1994)",
     "cat": "SÉRIES",
     "tp": "Séries | Star Plus"
+  },
+  {
+    "t": "Eu Tu E Ela (2016)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
   },
   {
     "t": "Eu A Patroa E As Criancas (2001)",
@@ -222897,11 +223117,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Longmire: O Xerife (2012)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Netflix"
-  },
-  {
-    "t": "Minha Vida Nada Ortodoxa (2021)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
   },
@@ -243351,173 +243566,53 @@ const CATALOG_DATA = [
     "tp": "24H INFANTIS/DESENHOS"
   },
   {
-    "t": "07:15 - JAPÃO X BRASIL [1]",
+    "t": "14:00 - BIELORRÚSSIA X ALBÂNIA [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
+    "tp": "JOGOS DO DIA (15/11)"
   },
   {
-    "t": "07:15 - JAPÃO X BRASIL [2]",
+    "t": "14:00 - BIELORRÚSSIA X ALBÂNIA [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
+    "tp": "JOGOS DO DIA (15/11)"
   },
   {
-    "t": "11:00 - KOSOVO X ISRAEL [1]",
+    "t": "14:00 - FINLÂNDIA X SAN MARINO [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
+    "tp": "JOGOS DO DIA (15/11)"
   },
   {
-    "t": "11:00 - KOSOVO X ISRAEL [2]",
+    "t": "14:00 - FINLÂNDIA X SAN MARINO [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
+    "tp": "JOGOS DO DIA (15/11)"
   },
   {
-    "t": "14:00 - GEÓRGIA X HUNGRIA [1]",
+    "t": "16:45 - BÉLGICA X ITÁLIA [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
+    "tp": "JOGOS DO DIA (15/11)"
   },
   {
-    "t": "14:00 - GEÓRGIA X HUNGRIA [2]",
+    "t": "16:45 - BÉLGICA X ITÁLIA [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
+    "tp": "JOGOS DO DIA (15/11)"
   },
   {
-    "t": "14:00 - NORUEGA X PAÍS DE GALES [1]",
+    "t": "16:45 - ESPANHA X INGLATERRA [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
+    "tp": "JOGOS DO DIA (15/11)"
   },
   {
-    "t": "14:00 - NORUEGA X PAÍS DE GALES [2]",
+    "t": "16:45 - ESPANHA X INGLATERRA [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
+    "tp": "JOGOS DO DIA (15/11)"
   },
   {
-    "t": "16:30 - AMÉRICA-MG X AVAÍ [1]",
+    "t": "16:45 - FRANÇA X TURQUIA [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
+    "tp": "JOGOS DO DIA (15/11)"
   },
   {
-    "t": "16:30 - AMÉRICA-MG X AVAÍ [2]",
+    "t": "16:45 - FRANÇA X TURQUIA [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:30 - ATLÉTICO-GO X CUIABÁ [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:30 - ATLÉTICO-GO X CUIABÁ [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:30 - CRB X CEARÁ [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:30 - CRB X CEARÁ [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:30 - CRICIÚMA X NOVORIZONTINO [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:30 - CRICIÚMA X NOVORIZONTINO [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:30 - JUVENTUDE X BOTAFOGO-SP [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:30 - JUVENTUDE X BOTAFOGO-SP [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:30 - SPORT RECIFE X GOIÁS [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:30 - SPORT RECIFE X GOIÁS [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:45 - IRLANDA DO NORTE X UCRÂNIA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:45 - IRLANDA DO NORTE X UCRÂNIA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:45 - PORTUGAL X DINAMARCA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:45 - PORTUGAL X DINAMARCA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:45 - ROMÊNIA X POLÔNIA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:45 - ROMÊNIA X POLÔNIA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:45 - SUÉCIA X BÓSNIA E HERZEGOVINA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "16:45 - SUÉCIA X BÓSNIA E HERZEGOVINA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "18:30 - MIRASSOL X ATLÉTICO-MG [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "18:30 - MIRASSOL X ATLÉTICO-MG [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "19:00 - BANFIELD X BOCA JUNIORS [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "19:00 - BANFIELD X BOCA JUNIORS [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "20:30 - CHAPECOENSE X VASCO DA GAMA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
-  },
-  {
-    "t": "20:30 - CHAPECOENSE X VASCO DA GAMA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (14/11)"
+    "tp": "JOGOS DO DIA (15/11)"
   }
 ];
