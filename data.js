@@ -1,4 +1,4 @@
-const CATALOG_UPDATED = "15/11/2026";
+const CATALOG_UPDATED = "16/11/2026";
 const CATALOG_DATA = [
   {
     "t": "Depravação [L]",
@@ -168636,9 +168636,499 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
+    "t": "Backrooms: Um Não-Lugar [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Proud Family Wizmas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Proud Family Wizmas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "A Proud Family Wizmas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Proud Family Wizmas (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Suzane von Richthofen: O Que o Tempo Não Apaga [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Família Radical em Clima de Natal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Família Radical em Clima de Natal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "A Família Radical em Clima de Natal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "A Família Radical em Clima de Natal (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "A Família Radical em Clima de Natal [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Russell Brand: Um Segredo Nada Secreto (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Russell Brand: Um Segredo Nada Secreto (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Russell Brand: Um Segredo Nada Secreto [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Mosquito Bowl (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "Terror na Casa da Colina (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Terror na Casa da Colina (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Terror na Casa da Colina (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "It Steals Your Skin (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "It Steals Your Skin (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Informal Crooks (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Informal Crooks (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "If I Can't Have You (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "If I Can't Have You (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "It Hunts (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "It Hunts (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "It Hunts (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "It Hunts (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Death Knight [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Scent Of Pho [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Assassin Within [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Rules of the Game [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Looping (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Looping (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Informal Crooks [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "The Mosquito Bowl [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "It Steals Your Skin [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Terror na Casa da Colina [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "A Noite de Alaíde (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "A Noite de Alaíde (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "A Noite de Alaíde (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Música"
+  },
+  {
+    "t": "Jackie the Stripper (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Jackie the Stripper (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Jackie the Stripper (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "If I Can't Have You [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Um Touchdown de Natal (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Um Touchdown de Natal (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Um Touchdown de Natal (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Twitches: As Bruxinhas Gêmeas 2 (2007)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Twitches: As Bruxinhas Gêmeas 2 (2007)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Twitches: As Bruxinhas Gêmeas 2 (2007)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Twitches: As Bruxinhas Gêmeas (2005)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "Twitches: As Bruxinhas Gêmeas (2005)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Twitches: As Bruxinhas Gêmeas (2005)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
     "t": "Tetra: Acreditar de Novo (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Celebrity Big Brother [L] (2018)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Chefs de Alto Nível com Gordon Ramsay (2022)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "Amy e Tammy: Irmãs Contra o Peso [L] (2020)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Grimsburg [L] (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Adultery [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "NCIS: Investigação Naval (2003)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Paramount"
+  },
+  {
+    "t": "The Young and the Restless [L] (1973)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Antiques Roadshow [L] (1979)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Mistérios do Detetive Murdoch [L] (2008)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Beyond the Gates [L] (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Top Models [L] (1987)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Uncle's Obsession with Cute Things (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Jonestown: Terror in the Jungle [L] (2018)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Big Brother: The Group Chat [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Cops [L] (1989)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "I Think You're Overthinking It [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Shortland Street [L] (1992)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Last Night Out [L] (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Blue Paw Print [L] (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Very Haunted Renovation [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Salário Mínimo [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Heartland [L] (2007)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Ask This Old House [L] (2002)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Bobby Flay: Ameaça Tripla [L] (2022)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Great Canadian Baking Show [L] (2017)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Quando Eu Encontrar a Lua (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Dragon Ball Super: Beerus [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Animes"
+  },
+  {
+    "t": "Son of a Critch [L] (2022)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "The Great British Bake Off [L] (2017)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Universal Basic Guys [L] (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Sunshine Through the Rain (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "The Great British Bake Off: Second Helpings [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Sobrevivendo às Tentações [L] (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "This Old House [L] (1979)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Sydney Harbour Cops [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Noiva da Presilha Dourada [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Motorway Cops: Catching Britain's Speeders [L] (2021)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Um Romance Sem Igual [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Idade Dourada (2022)",
+    "cat": "SÉRIES",
+    "tp": "Séries | HBO Max"
+  },
+  {
+    "t": "The Chosen: Os Escolhidos (2019)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Espada e Silêncio [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Hudson & Rex (2019)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "O Cinema por Philomena Cunk [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Tamed [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
   },
   {
     "t": "O Show do Patrick Estrela (2021)",
@@ -169051,27 +169541,12 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Celebrity Big Brother [L] (2018)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Paris Has Fallen [L] (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
   {
     "t": "Os Vizinhos Green [L] (2018)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "The Young and the Restless [L] (1973)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Salário Mínimo [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -169141,11 +169616,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Sunshine Through the Rain (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Diversas"
-  },
-  {
     "t": "Fightland [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -169186,11 +169656,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Doramas"
   },
   {
-    "t": "A Noiva da Presilha Dourada [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Lá na Minha Terra (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Globoplay"
@@ -169202,11 +169667,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "A Trap Called Desire (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
-  },
-  {
-    "t": "Quando Eu Encontrar a Lua (2026) (2026)",
     "cat": "SÉRIES",
     "tp": "Series | Dorama"
   },
@@ -169322,11 +169782,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Make Some Noise [L] (2022)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Top Models [L] (1987)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -169661,11 +170116,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Paramount"
   },
   {
-    "t": "Big Brother: The Group Chat [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Late Night Law [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -169879,11 +170329,6 @@ const CATALOG_DATA = [
     "t": "Tudo e Justo (2025)",
     "cat": "SÉRIES",
     "tp": "Séries | Disney Plus"
-  },
-  {
-    "t": "I Think You're Overthinking It [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
   },
   {
     "t": "Overgeared [L] (2026)",
@@ -170286,11 +170731,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Netflix"
   },
   {
-    "t": "Chefs de Alto Nível com Gordon Ramsay (2022)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
     "t": "O Lamento de Outono [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -170301,29 +170741,14 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Grimsburg [L] (2024)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Os Sete Cavaleiros do Reino Marronnier [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Animes"
   },
   {
-    "t": "Shortland Street [L] (1992)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "A Família do Big John (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Diversas"
-  },
-  {
-    "t": "Dragon Ball Super: Beerus [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Animes"
   },
   {
     "t": "Casamento às Cegas [L] (2020)",
@@ -170334,16 +170759,6 @@ const CATALOG_DATA = [
     "t": "Clube Winx: A Magia está de volta (2025)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
-  },
-  {
-    "t": "Tamed [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "A Idade Dourada (2022)",
-    "cat": "SÉRIES",
-    "tp": "Séries | HBO Max"
   },
   {
     "t": "A Casa Mágica da Gabby (2021)",
@@ -170601,11 +171016,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Ask This Old House [L] (2002)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Lanchonetes Clássicas com Guy Fieri [L] (2007)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -170672,16 +171082,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Downhill Skiers - Rausch der Geschwindigkeit [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Blue Paw Print [L] (2023)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Jonestown: Terror in the Jungle [L] (2018)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -171181,11 +171581,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Animes"
   },
   {
-    "t": "Bobby Flay: Ameaça Tripla [L] (2022)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Portrait Artist of the Year [L] (2025)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -171226,11 +171621,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Disney Plus"
   },
   {
-    "t": "Beyond the Gates [L] (2025)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "9-1-1 (2018)",
     "cat": "SÉRIES",
     "tp": "Séries | Star Plus"
@@ -171267,11 +171657,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Slo Pitch [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Universal Basic Guys [L] (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -171731,11 +172116,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "This Old House [L] (1979)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Obsess (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
@@ -171749,11 +172129,6 @@ const CATALOG_DATA = [
     "t": "Um Trabalho do Inferno (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
-  },
-  {
-    "t": "Amy e Tammy: Irmãs Contra o Peso [L] (2020)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
   },
   {
     "t": "Belzebubs [L] (2026)",
@@ -171801,16 +172176,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Last Night Out [L] (2025)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Motorway Cops: Catching Britain's Speeders [L] (2021)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Clientes Em Guerra [L] (2022)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -171841,17 +172206,7 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "The Great British Bake Off [L] (2017)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "120 Hours Behind Bars [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "A Very Haunted Renovation [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -171869,11 +172224,6 @@ const CATALOG_DATA = [
     "t": "NCIS: New York (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Diversas"
-  },
-  {
-    "t": "Sydney Harbour Cops [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
   },
   {
     "t": "Beavis e Butt-Head [L] (2022)",
@@ -171899,11 +172249,6 @@ const CATALOG_DATA = [
     "t": "Snooki: The Paranormal Rookie [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "NCIS: Investigação Naval (2003)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Paramount"
   },
   {
     "t": "The Narco Hack [L]",
@@ -171946,11 +172291,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Discovery Plus"
   },
   {
-    "t": "Heartland [L] (2007)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "The Real Housewives of New York City [L] (2008)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -171962,11 +172302,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Akka [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "The Great British Bake Off: Second Helpings [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -172089,11 +172424,6 @@ const CATALOG_DATA = [
     "t": "The Paper (2025)",
     "cat": "SÉRIES",
     "tp": "Séries | Diversas"
-  },
-  {
-    "t": "Sobrevivendo às Tentações [L] (2023)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
   },
   {
     "t": "Match Point [L] (2026)",
@@ -172372,11 +172702,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Cemitério de Animais: Assassinatos e Assombração [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Antiques Roadshow [L] (1979)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -172797,11 +173122,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Dragons' Den [L] (2005)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "The Great Canadian Baking Show [L] (2017)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -173269,11 +173589,6 @@ const CATALOG_DATA = [
     "t": "Armadilha (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
-  },
-  {
-    "t": "Son of a Critch [L] (2022)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
   },
   {
     "t": "The Hundred with Andy Lee [L] (2021)",
@@ -174042,11 +174357,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Roast My Rental [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Uncle's Obsession with Cute Things (2026) [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -177259,11 +177569,6 @@ const CATALOG_DATA = [
     "t": "The Jury: Murder Trial [L] (2024)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "The Chosen: Os Escolhidos (2019)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Netflix"
   },
   {
     "t": "Sheriff Country (2025)",
@@ -213149,11 +213454,6 @@ const CATALOG_DATA = [
     "t": "Gostinho de Amor (2025)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
-  },
-  {
-    "t": "Hudson & Rex (2019)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Diversas"
   },
   {
     "t": "Gypsy (2017)",
