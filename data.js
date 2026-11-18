@@ -155831,12 +155831,17 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
-    "t": "A Queda 2: No Limite (2026)",
+    "t": "A Queda 2: No Limite - QUALIDADE CINEMA (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2026"
   },
   {
-    "t": "A Queda 2: No Limite (2026)",
+    "t": "A Queda 2: No Limite - QUALIDADE CINEMA (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
+  },
+  {
+    "t": "A Queda 2: No Limite - QUALIDADE CINEMA (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
   },
@@ -169071,9 +169076,104 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
+    "t": "A Colônia (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Colônia (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "A Colônia (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Presidente Improvável (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "José do Egito - O Filme (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Jeitosinha (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Nacionais"
+  },
+  {
+    "t": "Purgatório (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Purgatório (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "10 Regras Para Um Relacionamento Aberto (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "10 Regras Para Um Relacionamento Aberto (2013)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Uma Mulher Fatal (2016)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
     "t": "Tetra: Acreditar de Novo (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Gordon (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Style Wars [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Imperatriz Se Casou Novamente (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Rivais (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "All the Queen's Men (2021) (2021)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "A Lei dos Monstros (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Netflix"
+  },
+  {
+    "t": "Aeroporto: Área Restrita (2017)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
+  },
+  {
+    "t": "O Senhor dos Anéis: Os Anéis de Poder (2022)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Amazon Prime Vídeo"
   },
   {
     "t": "Sacrifício (2021)",
@@ -170566,16 +170666,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Diversas"
   },
   {
-    "t": "Rivais (2024)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Diversas"
-  },
-  {
-    "t": "All the Queen's Men (2021) (2021)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
-  },
-  {
     "t": "ChiaroScuro (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
@@ -170584,16 +170674,6 @@ const CATALOG_DATA = [
     "t": "A Lei de Alicia (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
-  },
-  {
-    "t": "Style Wars [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "O Senhor dos Anéis: Os Anéis de Poder (2022)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
   },
   {
     "t": "Celestial Above All [L] (2025)",
@@ -170616,11 +170696,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Amazon Prime Vídeo"
   },
   {
-    "t": "A Imperatriz Se Casou Novamente (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Disney Plus"
-  },
-  {
     "t": "Força Danger (2020)",
     "cat": "SÉRIES",
     "tp": "Séries | Paramount"
@@ -170634,11 +170709,6 @@ const CATALOG_DATA = [
     "t": "O Ultimo Dragão (2019)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
-  },
-  {
-    "t": "Aeroporto: Área Restrita (2017)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Amazon Prime Vídeo"
   },
   {
     "t": "Overgeared [L] (2026)",
@@ -235161,6 +235231,86 @@ const CATALOG_DATA = [
     "tp": "24H INFANTIS/DESENHOS"
   },
   {
+    "t": "14:45 - REAL MADRID (F) X INTER DE MILÃO (F) [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "14:45 - REAL MADRID (F) X INTER DE MILÃO (F) [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "17:00 - JUVENTUS (F) X OUD-HEVERLEE LEUVEN (F) [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "17:00 - JUVENTUS (F) X OUD-HEVERLEE LEUVEN (F) [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "19:30 - CORITIBA X SANTOS [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "19:30 - CORITIBA X SANTOS [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "20:00 - REMO X CHAPECOENSE [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "20:00 - REMO X CHAPECOENSE [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "20:30 - CRUZEIRO X PALMEIRAS [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "20:30 - CRUZEIRO X PALMEIRAS [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "20:30 - FLAMENGO X ATHLETICO-PR [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "20:30 - FLAMENGO X ATHLETICO-PR [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "21:30 - CORINTHIANS X BOTAFOGO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "21:30 - CORINTHIANS X BOTAFOGO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "21:30 - GRÊMIO X BAHIA [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
+    "t": "21:30 - GRÊMIO X BAHIA [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (18/11)"
+  },
+  {
     "t": "3 Palavrinhas",
     "cat": "CANAIS",
     "tp": "24H INFANTIS/DESENHOS"
@@ -238081,6 +238231,21 @@ const CATALOG_DATA = [
     "tp": "GLOBO NORDESTE"
   },
   {
+    "t": "GLOBO CENTRO AMERICA CUIABA MT FHD",
+    "cat": "CANAIS",
+    "tp": "GLOBO CENTRO-OESTE"
+  },
+  {
+    "t": "GLOBO CENTRO AMERICA CUIABA MT HD",
+    "cat": "CANAIS",
+    "tp": "GLOBO CENTRO-OESTE"
+  },
+  {
+    "t": "GLOBO CENTRO AMERICA CUIABA MT SD",
+    "cat": "CANAIS",
+    "tp": "GLOBO CENTRO-OESTE"
+  },
+  {
     "t": "GLOBO CENTRO AMÉRICA FHD",
     "cat": "CANAIS",
     "tp": "GLOBO CENTRO-OESTE"
@@ -238101,7 +238266,17 @@ const CATALOG_DATA = [
     "tp": "GLOBO CENTRO-OESTE"
   },
   {
+    "t": "GLOBO CENTRO AMÉRICA RONDONOPOLIS MT HD",
+    "cat": "CANAIS",
+    "tp": "GLOBO CENTRO-OESTE"
+  },
+  {
     "t": "GLOBO CENTRO AMÉRICA SD²",
+    "cat": "CANAIS",
+    "tp": "GLOBO CENTRO-OESTE"
+  },
+  {
+    "t": "GLOBO CENTRO AMÉRICA SINOP MT HD",
     "cat": "CANAIS",
     "tp": "GLOBO CENTRO-OESTE"
   },
@@ -239126,17 +239301,17 @@ const CATALOG_DATA = [
     "tp": "GLOBO SUDESTE"
   },
   {
-    "t": "GLOBO TV GRANDE RIO FHD",
+    "t": "GLOBO TV GRANDE RIO PETROLINA FHD",
     "cat": "CANAIS",
     "tp": "GLOBO NORDESTE"
   },
   {
-    "t": "GLOBO TV GRANDE RIO HD",
+    "t": "GLOBO TV GRANDE RIO PETROLINA HD",
     "cat": "CANAIS",
     "tp": "GLOBO NORDESTE"
   },
   {
-    "t": "GLOBO TV GRANDE RIO SD",
+    "t": "GLOBO TV GRANDE RIO PETROLINA SD",
     "cat": "CANAIS",
     "tp": "GLOBO NORDESTE"
   },
@@ -244054,85 +244229,5 @@ const CATALOG_DATA = [
     "t": "Zé Coleta",
     "cat": "CANAIS",
     "tp": "24H INFANTIS/DESENHOS"
-  },
-  {
-    "t": "14:45 - REAL MADRID (F) X INTER DE MILÃO (F) [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "14:45 - REAL MADRID (F) X INTER DE MILÃO (F) [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "17:00 - JUVENTUS (F) X OUD-HEVERLEE LEUVEN (F) [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "17:00 - JUVENTUS (F) X OUD-HEVERLEE LEUVEN (F) [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "19:30 - CORITIBA X SANTOS [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "19:30 - CORITIBA X SANTOS [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "20:00 - REMO X CHAPECOENSE [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "20:00 - REMO X CHAPECOENSE [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "20:30 - CRUZEIRO X PALMEIRAS [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "20:30 - CRUZEIRO X PALMEIRAS [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "20:30 - FLAMENGO X ATHLETICO-PR [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "20:30 - FLAMENGO X ATHLETICO-PR [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "21:30 - CORINTHIANS X BOTAFOGO [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "21:30 - CORINTHIANS X BOTAFOGO [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "21:30 - GRÊMIO X BAHIA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
-  },
-  {
-    "t": "21:30 - GRÊMIO X BAHIA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (18/11)"
   }
 ];
