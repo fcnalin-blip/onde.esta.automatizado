@@ -1,4 +1,4 @@
-const CATALOG_UPDATED = "17/11/2026";
+const CATALOG_UPDATED = "18/11/2026";
 const CATALOG_DATA = [
   {
     "t": "Depravação [L]",
@@ -169016,9 +169016,154 @@ const CATALOG_DATA = [
     "tp": "Filmes | Comédia"
   },
   {
+    "t": "Maltratada [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Premada Oorali [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Aladdin's Revenge [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Minnie’s Midnight Massacre [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Nunca Depois do Anoitecer [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "When a Witness Recants [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "10 Good Men [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "Madden: O Homem e o Jogo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Madden: O Homem e o Jogo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Madden: O Homem e o Jogo (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
+  },
+  {
+    "t": "Madden: O Homem e o Jogo [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
     "t": "Tetra: Acreditar de Novo (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Sacrifício (2021)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "The UnXplained Special Presentation [L] (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Tudo e Justo (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Disney Plus"
+  },
+  {
+    "t": "Onde Está a Wanda?",
+    "cat": "SÉRIES",
+    "tp": "Séries | Apple TV Plus"
+  },
+  {
+    "t": "Belzebubs [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Sasaki and Peeps [L] (2024)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Avisa Lá Que Eu Vou (2022)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Por Você (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Doramas"
+  },
+  {
+    "t": "A Trap Called Desire (2026) [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Series | Dorama"
+  },
+  {
+    "t": "Lá na Minha Terra (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Globoplay"
+  },
+  {
+    "t": "Quem Ama Cuida (2026) (2026)",
+    "cat": "SÉRIES",
+    "tp": "Novelas | Gerais"
+  },
+  {
+    "t": "Stick (2025)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Apple TV Plus"
+  },
+  {
+    "t": "Alls Fair 2026",
+    "cat": "SÉRIES",
+    "tp": "Séries | Diversas"
+  },
+  {
+    "t": "America's Test Kitchen From Cook's Illustrated [L] (2001)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Cook's Country [L] (2008)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "A Lista Terminal [L] (2022)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Blue Paw Print [L] (2023)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Faces Reborn [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
   },
   {
     "t": "Amor Disfarçado (2026)",
@@ -169029,11 +169174,6 @@ const CATALOG_DATA = [
     "t": "Até que se Prove o Contrário [L] (2022)",
     "cat": "SÉRIES",
     "tp": "Séries | Disney Plus"
-  },
-  {
-    "t": "Quem Ama Cuida (2026) (2026)",
-    "cat": "SÉRIES",
-    "tp": "Novelas | Gerais"
   },
   {
     "t": "Lei & Ordem: Unidade de Vítimas Especiais (1999)",
@@ -169062,11 +169202,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Top Models [L] (1987)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "A Lista Terminal [L] (2022)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -169134,16 +169269,6 @@ const CATALOG_DATA = [
     "t": "O Corpo (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
-  },
-  {
-    "t": "Lá na Minha Terra (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Globoplay"
-  },
-  {
-    "t": "Por Você (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Doramas"
   },
   {
     "t": "Os Simpsons [L] (1989)",
@@ -169257,11 +169382,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Last Night Out [L] (2025)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Blue Paw Print [L] (2023)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -169851,11 +169971,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Diversas"
   },
   {
-    "t": "America's Test Kitchen From Cook's Illustrated [L] (2001)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Fightland [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -169886,19 +170001,9 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Faces Reborn [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Judy Justice [L] (2021)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "A Trap Called Desire (2026) [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Series | Dorama"
   },
   {
     "t": "Viagem Escolar: Fui parar num Grupo que Não sou Próximo [L] (2025)",
@@ -170226,11 +170331,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Legendadas"
   },
   {
-    "t": "Avisa Lá Que Eu Vou (2022)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Globoplay"
-  },
-  {
     "t": "Awkwafina - A Cozinheira Improvável [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -170506,11 +170606,6 @@ const CATALOG_DATA = [
     "tp": "Séries | +SBT"
   },
   {
-    "t": "Sacrifício (2021)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Diversas"
-  },
-  {
     "t": "Red Rose (2022)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
@@ -170546,11 +170641,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Amazon Prime Vídeo"
   },
   {
-    "t": "Tudo e Justo (2025)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Disney Plus"
-  },
-  {
     "t": "Overgeared [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Animes"
@@ -170562,11 +170652,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Bridge of Lies [L] (2022)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Cook's Country [L] (2008)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -170589,11 +170674,6 @@ const CATALOG_DATA = [
     "t": "The Celebrity Inner Circle [L] (2025)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "Stick (2025)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Apple TV Plus"
   },
   {
     "t": "Chasing Coffee [L] (2023)",
@@ -170624,11 +170704,6 @@ const CATALOG_DATA = [
     "t": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet from My Cunning Fiancé [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Animes"
-  },
-  {
-    "t": "Onde Está a Wanda?",
-    "cat": "SÉRIES",
-    "tp": "Séries | Apple TV Plus"
   },
   {
     "t": "Be My Guest with Ina Garten [L] (2022)",
@@ -172266,11 +172341,6 @@ const CATALOG_DATA = [
     "tp": "Séries | Outros Streams"
   },
   {
-    "t": "Sasaki and Peeps [L] (2024)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Matt Baker: Our Barn in the Dales [L] (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
@@ -172289,11 +172359,6 @@ const CATALOG_DATA = [
     "t": "Um Trabalho do Inferno (2026)",
     "cat": "SÉRIES",
     "tp": "Séries | Netflix"
-  },
-  {
-    "t": "Belzebubs [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
   },
   {
     "t": "Arquivos do Céu (2026)",
@@ -172397,11 +172462,6 @@ const CATALOG_DATA = [
   },
   {
     "t": "Prosecuting Evil with Kelly Siegler [L] (2023)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
-    "t": "The UnXplained Special Presentation [L] (2023)",
     "cat": "SÉRIES",
     "tp": "Séries | Legendadas"
   },
@@ -243996,93 +244056,83 @@ const CATALOG_DATA = [
     "tp": "24H INFANTIS/DESENHOS"
   },
   {
-    "t": "16:45 - BÓSNIA E HERZEGOVINA X ROMÊNIA [1]",
+    "t": "14:45 - REAL MADRID (F) X INTER DE MILÃO (F) [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - BÓSNIA E HERZEGOVINA X ROMÊNIA [2]",
+    "t": "14:45 - REAL MADRID (F) X INTER DE MILÃO (F) [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - DINAMARCA X NORUEGA [1]",
+    "t": "17:00 - JUVENTUS (F) X OUD-HEVERLEE LEUVEN (F) [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - DINAMARCA X NORUEGA [2]",
+    "t": "17:00 - JUVENTUS (F) X OUD-HEVERLEE LEUVEN (F) [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - GALES X PORTUGAL [1]",
+    "t": "19:30 - CORITIBA X SANTOS [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - GALES X PORTUGAL [2]",
+    "t": "19:30 - CORITIBA X SANTOS [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - HUNGRIA X IRLANDA DO NORTE [1]",
+    "t": "20:00 - REMO X CHAPECOENSE [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - HUNGRIA X IRLANDA DO NORTE [2]",
+    "t": "20:00 - REMO X CHAPECOENSE [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - IRLANDA X KOSOVO [1]",
+    "t": "20:30 - CRUZEIRO X PALMEIRAS [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - IRLANDA X KOSOVO [2]",
+    "t": "20:30 - CRUZEIRO X PALMEIRAS [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - ISRAEL X ÁUSTRIA [1]",
+    "t": "20:30 - FLAMENGO X ATHLETICO-PR [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - ISRAEL X ÁUSTRIA [2]",
+    "t": "20:30 - FLAMENGO X ATHLETICO-PR [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - POLÔNIA X SUÉCIA [1]",
+    "t": "21:30 - CORINTHIANS X BOTAFOGO [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - POLÔNIA X SUÉCIA [2]",
+    "t": "21:30 - CORINTHIANS X BOTAFOGO [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - UCRÂNIA X GEÓRGIA [1]",
+    "t": "21:30 - GRÊMIO X BAHIA [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   },
   {
-    "t": "16:45 - UCRÂNIA X GEÓRGIA [2]",
+    "t": "21:30 - GRÊMIO X BAHIA [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
-  },
-  {
-    "t": "20:00 - ARGENTINA X COSTA RICA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
-  },
-  {
-    "t": "20:00 - ARGENTINA X COSTA RICA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (17/11)"
+    "tp": "JOGOS DO DIA (18/11)"
   }
 ];
