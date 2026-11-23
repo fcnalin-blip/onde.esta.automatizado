@@ -1,4 +1,4 @@
-const CATALOG_UPDATED = "22/11/2026";
+const CATALOG_UPDATED = "23/11/2026";
 const CATALOG_DATA = [
   {
     "t": "Depravação [L]",
@@ -608,12 +608,12 @@ const CATALOG_DATA = [
   {
     "t": "Jester: A Morte Sorri (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Jester: A Morte Sorri (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Jester: A Morte Sorri [L] (2023)",
@@ -628,12 +628,12 @@ const CATALOG_DATA = [
   {
     "t": "Não Abra! (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Não Abra! (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Risco Absoluto",
@@ -708,17 +708,17 @@ const CATALOG_DATA = [
   {
     "t": "Há Algo no Celeiro (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Há Algo no Celeiro (2023)",
-    "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
     "t": "Há Algo no Celeiro (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Há Algo no Celeiro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Sob a Luz da Fama: O Poder da Paixão",
@@ -1143,12 +1143,12 @@ const CATALOG_DATA = [
   {
     "t": "Saltburn (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Saltburn (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Saltburn (2023)",
@@ -1313,17 +1313,17 @@ const CATALOG_DATA = [
   {
     "t": "O Mistério da Floresta (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
-  },
-  {
-    "t": "O Mistério da Floresta (2022)",
-    "cat": "FILMES",
     "tp": "Filmes | Thriller"
   },
   {
     "t": "O Mistério da Floresta (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Mistério da Floresta (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "O Mistério da Floresta [L] (2022)",
@@ -2173,12 +2173,12 @@ const CATALOG_DATA = [
   {
     "t": "57 Segundos (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "57 Segundos (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "57 Segundos [L] (2023)",
@@ -2203,12 +2203,12 @@ const CATALOG_DATA = [
   {
     "t": "O Jogo da Invocação (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Jogo da Invocação (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Jogo da Invocação [L] (2023)",
@@ -2278,12 +2278,12 @@ const CATALOG_DATA = [
   {
     "t": "The Kitchen (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "The Kitchen (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "The Kitchen [L] (2023)",
@@ -2648,7 +2648,7 @@ const CATALOG_DATA = [
   {
     "t": "A Maldição do Queen Mary (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "A Maldição do Queen Mary (2023)",
@@ -2658,7 +2658,7 @@ const CATALOG_DATA = [
   {
     "t": "A Maldição do Queen Mary (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Indestrutível Tatiana Suarez [L]",
@@ -2743,12 +2743,12 @@ const CATALOG_DATA = [
   {
     "t": "Feed: O Terror está Online (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Feed: O Terror está Online (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Feed: O Terror está Online [L] (2022)",
@@ -2808,12 +2808,12 @@ const CATALOG_DATA = [
   {
     "t": "O Sequestro do Voo 375 (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Sequestro do Voo 375 (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Segredos de Família",
@@ -3128,17 +3128,17 @@ const CATALOG_DATA = [
   {
     "t": "O Senhor do Caos (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "O Senhor do Caos (2023)",
-    "cat": "FILMES",
     "tp": "Filmes | Mistério"
   },
   {
     "t": "O Senhor do Caos (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Senhor do Caos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Senhor do Caos [L] (2023)",
@@ -3473,12 +3473,12 @@ const CATALOG_DATA = [
   {
     "t": "Mea Culpa (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Mea Culpa (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Mea Culpa (2024)",
@@ -3518,17 +3518,17 @@ const CATALOG_DATA = [
   {
     "t": "Manodrome (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Manodrome (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Mistério"
   },
   {
     "t": "Manodrome (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Manodrome (2023)",
-    "cat": "FILMES",
-    "tp": "Filmes | Drama"
   },
   {
     "t": "Manodrome [L] (2023)",
@@ -3828,12 +3828,12 @@ const CATALOG_DATA = [
   {
     "t": "Sobreviventes - Depois do Terremoto (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Sobreviventes - Depois do Terremoto (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Sobreviventes - Depois do Terremoto [L] (2023)",
@@ -4783,12 +4783,12 @@ const CATALOG_DATA = [
   {
     "t": "Matador de Aluguel (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Matador de Aluguel (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Matador de Aluguel [L] (1989)",
@@ -8228,12 +8228,12 @@ const CATALOG_DATA = [
   {
     "t": "Sentença de Morte (2017)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Sentença de Morte (2017)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Sem Escalas",
@@ -9533,7 +9533,7 @@ const CATALOG_DATA = [
   {
     "t": "Troco em Dobro (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Troco em Dobro (2020)",
@@ -9543,7 +9543,7 @@ const CATALOG_DATA = [
   {
     "t": "Troco em Dobro (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Axel e os Meninos do Espaço",
@@ -9553,12 +9553,12 @@ const CATALOG_DATA = [
   {
     "t": "O Limite da Traição (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Limite da Traição (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Limite da Traição (2020)",
@@ -9658,12 +9658,12 @@ const CATALOG_DATA = [
   {
     "t": "Missão no Mar Vermelho (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Missão no Mar Vermelho (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Missão no Mar Vermelho (2019)",
@@ -14443,17 +14443,17 @@ const CATALOG_DATA = [
   {
     "t": "Velocidade Mortal (2018)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Velocidade Mortal (2018)",
+    "cat": "FILMES",
     "tp": "Filmes | Crime"
   },
   {
     "t": "Velocidade Mortal (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
-  },
-  {
-    "t": "Velocidade Mortal (2018)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Nadando pelo Ouro",
@@ -14643,12 +14643,12 @@ const CATALOG_DATA = [
   {
     "t": "Oferenda à Tempestade (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Oferenda à Tempestade (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Oferenda à Tempestade (2020)",
@@ -15843,17 +15843,17 @@ const CATALOG_DATA = [
   {
     "t": "Operação Final (2018)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Operação Final (2018)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Operação Final (2018)",
     "cat": "FILMES",
     "tp": "Filmes | História"
-  },
-  {
-    "t": "Operação Final (2018)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Olga",
@@ -16518,7 +16518,7 @@ const CATALOG_DATA = [
   {
     "t": "Ascensão do Cisne Negro (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Ascensão do Cisne Negro (2021)",
@@ -16528,7 +16528,7 @@ const CATALOG_DATA = [
   {
     "t": "Ascensão do Cisne Negro (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Os Donos da Rua",
@@ -17018,17 +17018,17 @@ const CATALOG_DATA = [
   {
     "t": "Fora da Trilha (2016)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Fora da Trilha (2016)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Fora da Trilha (2016)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
-  },
-  {
-    "t": "Fora da Trilha (2016)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Anna Karenina",
@@ -17408,17 +17408,17 @@ const CATALOG_DATA = [
   {
     "t": "Vingança (2016)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Vingança (2016)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Vingança (2016)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
-  },
-  {
-    "t": "Vingança (2016)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Coisa",
@@ -17993,12 +17993,12 @@ const CATALOG_DATA = [
   {
     "t": "O Alvo 2 (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Alvo 2 (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "O Alvo (1993)",
@@ -19908,12 +19908,12 @@ const CATALOG_DATA = [
   {
     "t": "Através da Sombra (2015)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Através da Sombra (2015)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Céu Vermelho-Sangue",
@@ -20313,17 +20313,17 @@ const CATALOG_DATA = [
   {
     "t": "Sobreviva ou Morra Tentando (2021)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sobreviva ou Morra Tentando (2021)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Sobreviva ou Morra Tentando (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
-  },
-  {
-    "t": "Sobreviva ou Morra Tentando (2021)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Os Dois Super-Tiras em Miami",
@@ -21063,17 +21063,17 @@ const CATALOG_DATA = [
   {
     "t": "Noitários de Arrepiar (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
-  },
-  {
-    "t": "Noitários de Arrepiar (2021)",
-    "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
   {
     "t": "Noitários de Arrepiar (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Família"
+  },
+  {
+    "t": "Noitários de Arrepiar (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Amor, Casamentos e Outros Desastres",
@@ -21208,17 +21208,17 @@ const CATALOG_DATA = [
   {
     "t": "Refém Rebelde (2021)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Refém Rebelde (2021)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Refém Rebelde (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Aventura"
-  },
-  {
-    "t": "Refém Rebelde (2021)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Deu a Louca nos Nazis 2",
@@ -21858,17 +21858,17 @@ const CATALOG_DATA = [
   {
     "t": "É Proibido Amar (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
-  },
-  {
-    "t": "É Proibido Amar (2021)",
-    "cat": "FILMES",
     "tp": "Filmes | Thriller"
   },
   {
     "t": "É Proibido Amar (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "É Proibido Amar (2021)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Risco Duplo",
@@ -22273,12 +22273,12 @@ const CATALOG_DATA = [
   {
     "t": "Sem Conexão 2 (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Sem Conexão 2 (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Only Mine",
@@ -23853,17 +23853,17 @@ const CATALOG_DATA = [
   {
     "t": "Yaksha: Operação Implacável (2022)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Yaksha: Operação Implacável (2022)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Yaksha: Operação Implacável (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
-  },
-  {
-    "t": "Yaksha: Operação Implacável (2022)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Jovem Viking",
@@ -24413,12 +24413,12 @@ const CATALOG_DATA = [
   {
     "t": "Interceptor (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Interceptor (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Interceptor (2022)",
@@ -25758,12 +25758,12 @@ const CATALOG_DATA = [
   {
     "t": "Justiceiras (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Justiceiras (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Justiceiras (2022)",
@@ -26193,17 +26193,17 @@ const CATALOG_DATA = [
   {
     "t": "Blackout (2022)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Blackout (2022)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Blackout (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Aventura"
-  },
-  {
-    "t": "Blackout (2022)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Maldição de Bridge Hollow",
@@ -26393,17 +26393,17 @@ const CATALOG_DATA = [
   {
     "t": "Hackers no Controle (2022)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Hackers no Controle (2022)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Hackers no Controle (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
-  },
-  {
-    "t": "Hackers no Controle (2022)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Jaula",
@@ -27913,12 +27913,12 @@ const CATALOG_DATA = [
   {
     "t": "O Exorcista do Papa (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Exorcista do Papa (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Grande Mauricinho",
@@ -28558,17 +28558,17 @@ const CATALOG_DATA = [
   {
     "t": "Minta se For Capaz (2020)",
     "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Minta se For Capaz (2020)",
+    "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
     "t": "Minta se For Capaz (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Minta se For Capaz (2020)",
-    "cat": "FILMES",
-    "tp": "Filmes | Terror"
   },
   {
     "t": "Mixed by Erry",
@@ -29218,17 +29218,17 @@ const CATALOG_DATA = [
   {
     "t": "Além da Escuridão (2012)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Além da Escuridão (2012)",
-    "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
   {
     "t": "Além da Escuridão (2012)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Além da Escuridão (2012)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Alerta de Spoiler",
@@ -29508,17 +29508,17 @@ const CATALOG_DATA = [
   {
     "t": "Sede Sem Fim (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Sede Sem Fim (2023)",
-    "cat": "FILMES",
     "tp": "Filmes | Mistério"
   },
   {
     "t": "Sede Sem Fim (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sede Sem Fim (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Sinal Divino",
@@ -29823,12 +29823,12 @@ const CATALOG_DATA = [
   {
     "t": "O Refém - Atentado em Madri (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "O Refém - Atentado em Madri (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Refém - Atentado em Madri (2023)",
@@ -30498,17 +30498,17 @@ const CATALOG_DATA = [
   {
     "t": "Clube dos Anjos Caídos: Assassinatos Misteriosos (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
-  },
-  {
-    "t": "Clube dos Anjos Caídos: Assassinatos Misteriosos (2022)",
-    "cat": "FILMES",
     "tp": "Filmes | Thriller"
   },
   {
     "t": "Clube dos Anjos Caídos: Assassinatos Misteriosos (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Clube dos Anjos Caídos: Assassinatos Misteriosos (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Pânico Americano",
@@ -30748,12 +30748,12 @@ const CATALOG_DATA = [
   {
     "t": "Tribal: Caçada Feroz (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Tribal: Caçada Feroz (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Tribal: Caçada Feroz (2020)",
@@ -30888,17 +30888,17 @@ const CATALOG_DATA = [
   {
     "t": "Frio nos Ossos (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Frio nos Ossos (2023)",
-    "cat": "FILMES",
     "tp": "Filmes | Crime"
   },
   {
     "t": "Frio nos Ossos (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Frio nos Ossos (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Complexo de Deus: Os Bebês do Dr. Quincy Fortier",
@@ -31263,12 +31263,12 @@ const CATALOG_DATA = [
   {
     "t": "A Piscina (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Piscina (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Air: A História Por Trás do Logo",
@@ -31463,7 +31463,7 @@ const CATALOG_DATA = [
   {
     "t": "Pânico VI (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Pânico VI (2023)",
@@ -31473,7 +31473,7 @@ const CATALOG_DATA = [
   {
     "t": "Pânico VI (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "De Repente o Amor Acontece",
@@ -31948,7 +31948,7 @@ const CATALOG_DATA = [
   {
     "t": "Abismos (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Abismos (2024)",
@@ -31958,7 +31958,7 @@ const CATALOG_DATA = [
   {
     "t": "Abismos (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Deslizando pela Vida (2022)",
@@ -32313,12 +32313,12 @@ const CATALOG_DATA = [
   {
     "t": "O Lobo Viking (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "O Lobo Viking (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Suplente",
@@ -32583,7 +32583,7 @@ const CATALOG_DATA = [
   {
     "t": "O Pálido Olho Azul (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Pálido Olho Azul (2022)",
@@ -32593,7 +32593,7 @@ const CATALOG_DATA = [
   {
     "t": "O Pálido Olho Azul (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Missão Baile de Natal",
@@ -33843,7 +33843,7 @@ const CATALOG_DATA = [
   {
     "t": "O Perfumista (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "O Perfumista (2022)",
@@ -33853,12 +33853,17 @@ const CATALOG_DATA = [
   {
     "t": "O Perfumista (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Mortal Kombat Legends: Cegueira Glacial",
     "cat": "FILMES",
     "tp": "Filmes | Animação / Infantil"
+  },
+  {
+    "t": "O Homem do Jazz (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "O Homem do Jazz (2022)",
@@ -33869,11 +33874,6 @@ const CATALOG_DATA = [
     "t": "O Homem do Jazz (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
-  },
-  {
-    "t": "O Homem do Jazz (2022)",
-    "cat": "FILMES",
-    "tp": "Filmes | Mistério"
   },
   {
     "t": "Gran Torino",
@@ -33913,12 +33913,12 @@ const CATALOG_DATA = [
   {
     "t": "Garotos de Bem (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Garotos de Bem (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Garotos de Bem (2021)",
@@ -35488,12 +35488,12 @@ const CATALOG_DATA = [
   {
     "t": "Caranguejo Negro (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Caranguejo Negro (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Uma Família Feliz 2",
@@ -35753,17 +35753,17 @@ const CATALOG_DATA = [
   {
     "t": "Golpes de Vingança (2022)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Golpes de Vingança (2022)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Golpes de Vingança (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
-  },
-  {
-    "t": "Golpes de Vingança (2022)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Blaze",
@@ -37493,17 +37493,17 @@ const CATALOG_DATA = [
   {
     "t": "Difícil de Engolir (2021)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Difícil de Engolir (2021)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Difícil de Engolir (2021)",
     "cat": "FILMES",
     "tp": "Filmes | História"
-  },
-  {
-    "t": "Difícil de Engolir (2021)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Auto da Boa Mentira",
@@ -37623,12 +37623,12 @@ const CATALOG_DATA = [
   {
     "t": "Je Suis Karl (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Je Suis Karl (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Natal Shrektacular do Burro",
@@ -37683,17 +37683,17 @@ const CATALOG_DATA = [
   {
     "t": "Intrusion (2021)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Intrusion (2021)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Intrusion (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Mistério"
-  },
-  {
-    "t": "Intrusion (2021)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Um Ninho para Dois",
@@ -38388,12 +38388,12 @@ const CATALOG_DATA = [
   {
     "t": "Bartkowiak (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Bartkowiak (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Os Irmãos Cara de Pau",
@@ -38533,17 +38533,17 @@ const CATALOG_DATA = [
   {
     "t": "A Oitava Noite (2021)",
     "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "A Oitava Noite (2021)",
+    "cat": "FILMES",
     "tp": "Filmes | Mistério"
   },
   {
     "t": "A Oitava Noite (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "A Oitava Noite (2021)",
-    "cat": "FILMES",
-    "tp": "Filmes | Terror"
   },
   {
     "t": "Stardust",
@@ -39043,12 +39043,12 @@ const CATALOG_DATA = [
   {
     "t": "Ghost Lab (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Ghost Lab (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Milagre Azul (2021)",
@@ -39253,7 +39253,7 @@ const CATALOG_DATA = [
   {
     "t": "Army of the Dead: Invasão em Las Vegas (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Army of the Dead: Invasão em Las Vegas (2021)",
@@ -39263,7 +39263,7 @@ const CATALOG_DATA = [
   {
     "t": "Army of the Dead: Invasão em Las Vegas (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Sequestro Internacional",
@@ -39408,17 +39408,17 @@ const CATALOG_DATA = [
   {
     "t": "Eu Sou Todas as Meninas (2021)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Eu Sou Todas as Meninas (2021)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Eu Sou Todas as Meninas (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Mistério"
-  },
-  {
-    "t": "Eu Sou Todas as Meninas (2021)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Pedra da Serpente (2019)",
@@ -40003,7 +40003,7 @@ const CATALOG_DATA = [
   {
     "t": "Assalto ao Banco da Espanha (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Assalto ao Banco da Espanha (2021)",
@@ -40013,7 +40013,7 @@ const CATALOG_DATA = [
   {
     "t": "Assalto ao Banco da Espanha (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Meu Pai",
@@ -42173,7 +42173,7 @@ const CATALOG_DATA = [
   {
     "t": "Matrix Reloaded (2003)",
     "cat": "FILMES",
-    "tp": "Filmes | Aventura"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Matrix Reloaded (2003)",
@@ -42183,7 +42183,7 @@ const CATALOG_DATA = [
   {
     "t": "Matrix Reloaded (2003)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "40 Dias - O Milagre da Vida",
@@ -42678,12 +42678,12 @@ const CATALOG_DATA = [
   {
     "t": "Vampiros X The Bronx (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Vampiros X The Bronx (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "GIMS: Ícone do Rap",
@@ -42738,12 +42738,12 @@ const CATALOG_DATA = [
   {
     "t": "F20 - Jovens e Perigosos (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "F20 - Jovens e Perigosos (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Como Cães e Gatos 3: Peludos Unidos!",
@@ -42818,12 +42818,12 @@ const CATALOG_DATA = [
   {
     "t": "A Negociadora (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Negociadora (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "A Negociadora (2022)",
@@ -42988,12 +42988,12 @@ const CATALOG_DATA = [
   {
     "t": "Origens Secretas (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Origens Secretas (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Diabo de Cada Dia",
@@ -43538,17 +43538,17 @@ const CATALOG_DATA = [
   {
     "t": "The Last Days of American Crime (2020)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "The Last Days of American Crime (2020)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "The Last Days of American Crime (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
-  },
-  {
-    "t": "The Last Days of American Crime (2020)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Atrás da Estante",
@@ -44078,12 +44078,12 @@ const CATALOG_DATA = [
   {
     "t": "A Terra e o Sangue (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Terra e o Sangue (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "1917",
@@ -44763,12 +44763,12 @@ const CATALOG_DATA = [
   {
     "t": "A Última Coisa que Ele Queria (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Última Coisa que Ele Queria (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Por Lugares Incríveis",
@@ -46428,12 +46428,12 @@ const CATALOG_DATA = [
   {
     "t": "Destinos à Deriva (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Destinos à Deriva (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Última Parada 174",
@@ -46658,12 +46658,12 @@ const CATALOG_DATA = [
   {
     "t": "Luta por Vingança (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Luta por Vingança (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Luta por Vingança (2020)",
@@ -47243,7 +47243,7 @@ const CATALOG_DATA = [
   {
     "t": "Implacável (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Implacável (2019)",
@@ -47253,7 +47253,7 @@ const CATALOG_DATA = [
   {
     "t": "Implacável (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Amor Sem Escalas",
@@ -51653,12 +51653,12 @@ const CATALOG_DATA = [
   {
     "t": "22 Milhas (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "22 Milhas (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "211: O Grande Assalto",
@@ -51853,12 +51853,12 @@ const CATALOG_DATA = [
   {
     "t": "O Mal que Nos Habita (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Mal que Nos Habita (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Mal que Nos Habita [L] (2023)",
@@ -51923,17 +51923,17 @@ const CATALOG_DATA = [
   {
     "t": "Sleep: O Mal Nunca Dorme (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Sleep: O Mal Nunca Dorme (2023)",
-    "cat": "FILMES",
     "tp": "Filmes | Mistério"
   },
   {
     "t": "Sleep: O Mal Nunca Dorme (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sleep: O Mal Nunca Dorme (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Sleep: O Mal Nunca Dorme [L] (2023)",
@@ -52543,17 +52543,17 @@ const CATALOG_DATA = [
   {
     "t": "A Noite Em Que Voltaram Para Casa (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "A Noite Em Que Voltaram Para Casa (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Faroeste"
   },
   {
     "t": "A Noite Em Que Voltaram Para Casa (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "A Noite Em Que Voltaram Para Casa (2024)",
-    "cat": "FILMES",
-    "tp": "Filmes | Ação"
   },
   {
     "t": "Tartarugas Até Lá Embaixo (2024)",
@@ -55438,12 +55438,12 @@ const CATALOG_DATA = [
   {
     "t": "John Wick 3: Parabellum (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "John Wick 3: Parabellum (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "John Wick 3: Parabellum (2019)",
@@ -56448,12 +56448,12 @@ const CATALOG_DATA = [
   {
     "t": "Beleza Avassaladora 2 (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Beleza Avassaladora 2 (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Romance"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Beleza Avassaladora 2 [L] (2024)",
@@ -56908,12 +56908,12 @@ const CATALOG_DATA = [
   {
     "t": "The Killer (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "The Killer (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "The Killer [L] (2024)",
@@ -57293,12 +57293,12 @@ const CATALOG_DATA = [
   {
     "t": "Rebel Ridge (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Rebel Ridge (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Rebel Ridge (2024)",
@@ -57403,7 +57403,7 @@ const CATALOG_DATA = [
   {
     "t": "Vigia Noturno: O Legado (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Vigia Noturno: O Legado (2023)",
@@ -57413,7 +57413,7 @@ const CATALOG_DATA = [
   {
     "t": "Vigia Noturno: O Legado (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Fantástico Mundo de Blaze",
@@ -57458,17 +57458,17 @@ const CATALOG_DATA = [
   {
     "t": "Um Homem Misterioso (2010)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Um Homem Misterioso (2010)",
+    "cat": "FILMES",
     "tp": "Filmes | Crime"
   },
   {
     "t": "Um Homem Misterioso (2010)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
-  },
-  {
-    "t": "Um Homem Misterioso (2010)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Um Homem Misterioso [L] (2010)",
@@ -57718,12 +57718,12 @@ const CATALOG_DATA = [
   {
     "t": "Setor 36 (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Setor 36 (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Setor 36 [L] (2024)",
@@ -57858,17 +57858,17 @@ const CATALOG_DATA = [
   {
     "t": "O Beijo do Demônio (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "O Beijo do Demônio (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Romance"
   },
   {
     "t": "O Beijo do Demônio (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
-  },
-  {
-    "t": "O Beijo do Demônio (2023)",
-    "cat": "FILMES",
-    "tp": "Filmes | Drama"
   },
   {
     "t": "O Beijo do Demônio [L] (2023)",
@@ -58008,12 +58008,12 @@ const CATALOG_DATA = [
   {
     "t": "Quando a Morte Sussurra (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Quando a Morte Sussurra (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Sussurros do Coração [L] (1995)",
@@ -58688,17 +58688,17 @@ const CATALOG_DATA = [
   {
     "t": "Motel Destino (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Motel Destino (2024)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Motel Destino (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Motel Destino (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Melhor Torcedor do Mundo",
@@ -61418,12 +61418,12 @@ const CATALOG_DATA = [
   {
     "t": "A Fúria de Becky (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Fúria de Becky (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Caça às Bruxas (2011)",
@@ -88503,12 +88503,12 @@ const CATALOG_DATA = [
   {
     "t": "Segredos de Sangue (2013)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Segredos de Sangue (2013)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Segredos de Sangue (2013)",
@@ -91673,12 +91673,12 @@ const CATALOG_DATA = [
   {
     "t": "Controle (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Controle (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Controle [L] (2023)",
@@ -98848,12 +98848,12 @@ const CATALOG_DATA = [
   {
     "t": "Dinheiro Suspeito (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Dinheiro Suspeito (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Dinheiro Suspeito [L] (2026)",
@@ -98918,12 +98918,12 @@ const CATALOG_DATA = [
   {
     "t": "Extermínio: O Templo dos Ossos (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Extermínio: O Templo dos Ossos (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Grand Ole Opry Christmas [L] (2025)",
@@ -99618,12 +99618,12 @@ const CATALOG_DATA = [
   {
     "t": "Alarme de Incêndio: Abaixo da Terra (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Alarme de Incêndio: Abaixo da Terra (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Alarme de Incêndio: Abaixo da Terra [L] (2026)",
@@ -101098,7 +101098,7 @@ const CATALOG_DATA = [
   {
     "t": "Socorro! (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Socorro! (2026)",
@@ -101108,7 +101108,7 @@ const CATALOG_DATA = [
   {
     "t": "Socorro! (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Chasse gardée 2 - QUALIDADE CINEMA (2025)",
@@ -101143,12 +101143,12 @@ const CATALOG_DATA = [
   {
     "t": "O Som da Morte (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "O Som da Morte (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Cela dos Milagres (2025)",
@@ -101323,12 +101323,12 @@ const CATALOG_DATA = [
   {
     "t": "Salve Geral: Irmandade (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Salve Geral: Irmandade (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Se Eu Tivesse Pernas, Eu Te Chutaria (2025)",
@@ -101618,12 +101618,12 @@ const CATALOG_DATA = [
   {
     "t": "Corta-fogo (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Corta-fogo (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Corta-fogo [L] (2026)",
@@ -102203,12 +102203,12 @@ const CATALOG_DATA = [
   {
     "t": "O Refúgio (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "O Refúgio (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Refúgio (2026)",
@@ -102283,12 +102283,12 @@ const CATALOG_DATA = [
   {
     "t": "Terror em Silent Hill: Regresso Para o Inferno (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Terror em Silent Hill: Regresso Para o Inferno (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Tom e Jerry: Uma Aventura no Museu (2025)",
@@ -102418,12 +102418,12 @@ const CATALOG_DATA = [
   {
     "t": "O Primata (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Primata (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Serpentes a Bordo (2006)",
@@ -102468,7 +102468,7 @@ const CATALOG_DATA = [
   {
     "t": "A Acusada (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "A Acusada (2026)",
@@ -102478,7 +102478,7 @@ const CATALOG_DATA = [
   {
     "t": "A Acusada (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Acusada [L] (2026)",
@@ -102508,7 +102508,7 @@ const CATALOG_DATA = [
   {
     "t": "A Filha da Noite (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "A Filha da Noite (2023)",
@@ -102518,7 +102518,7 @@ const CATALOG_DATA = [
   {
     "t": "A Filha da Noite (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Força da Natureza [L] (2020)",
@@ -102533,17 +102533,17 @@ const CATALOG_DATA = [
   {
     "t": "A Mão Esquerda do Diabo (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "A Mão Esquerda do Diabo (2023)",
-    "cat": "FILMES",
     "tp": "Filmes | Mistério"
   },
   {
     "t": "A Mão Esquerda do Diabo (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Mão Esquerda do Diabo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Trilha Sonora dos Dezesseis (2020)",
@@ -102888,17 +102888,17 @@ const CATALOG_DATA = [
   {
     "t": "O Inferno Pode Esperar (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "O Inferno Pode Esperar (2023)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "O Inferno Pode Esperar (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "O Inferno Pode Esperar (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Inferno Pode Esperar [L] (2023)",
@@ -103003,12 +103003,12 @@ const CATALOG_DATA = [
   {
     "t": "Párvulos: Filhos do Apocalipse (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Párvulos: Filhos do Apocalipse (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Párvulos: Filhos do Apocalipse [L] (2024)",
@@ -103123,12 +103123,12 @@ const CATALOG_DATA = [
   {
     "t": "Na Frieza da Realidade (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Na Frieza da Realidade (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Na Frieza da Realidade [L] (2026)",
@@ -103453,12 +103453,12 @@ const CATALOG_DATA = [
   {
     "t": "A Noiva! (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "A Noiva! (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Peaky Blinders: O Homem Imortal (2026)",
@@ -104823,12 +104823,12 @@ const CATALOG_DATA = [
   {
     "t": "Patrulha Noturna (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Patrulha Noturna (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Patrulha Noturna [L] (2026)",
@@ -104923,7 +104923,7 @@ const CATALOG_DATA = [
   {
     "t": "Pânico 7 (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Pânico 7 (2026)",
@@ -104933,7 +104933,7 @@ const CATALOG_DATA = [
   {
     "t": "Pânico 7 (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Pânico 7 [L] (2026)",
@@ -106003,17 +106003,17 @@ const CATALOG_DATA = [
   {
     "t": "Desligue! (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Desligue! (2026)",
-    "cat": "FILMES",
     "tp": "Filmes | Crime"
   },
   {
     "t": "Desligue! (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Desligue! (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Desligue! [L] (2026)",
@@ -106493,17 +106493,17 @@ const CATALOG_DATA = [
   {
     "t": "Inteligência Humana (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Inteligência Humana (2026)",
-    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Inteligência Humana (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Inteligência Humana (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Inteligência Humana [L] (2026)",
@@ -106693,12 +106693,12 @@ const CATALOG_DATA = [
   {
     "t": "Ato Noturno (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Ato Noturno (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Romance"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "18 Rosas [L] (2026)",
@@ -108728,17 +108728,17 @@ const CATALOG_DATA = [
   {
     "t": "180 (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "180 (2026)",
-    "cat": "FILMES",
     "tp": "Filmes | Crime"
   },
   {
     "t": "180 (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "180 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Caixa Azul (2026)",
@@ -109138,12 +109138,12 @@ const CATALOG_DATA = [
   {
     "t": "Verdade e Traição (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | História"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Verdade e Traição (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | História"
   },
   {
     "t": "Verdade e Traição (2025)",
@@ -109283,12 +109283,12 @@ const CATALOG_DATA = [
   {
     "t": "Calor Mortal (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Calor Mortal (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Calor Mortal (2022)",
@@ -109323,17 +109323,17 @@ const CATALOG_DATA = [
   {
     "t": "Crimes em Hollywood (2022)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Crimes em Hollywood (2022)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Crimes em Hollywood (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
-  },
-  {
-    "t": "Crimes em Hollywood (2022)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Bad Ass: Acima da Lei (2012)",
@@ -110043,17 +110043,17 @@ const CATALOG_DATA = [
   {
     "t": "Jogando Sujo (2020)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Jogando Sujo (2020)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Jogando Sujo (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
-  },
-  {
-    "t": "Jogando Sujo (2020)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Vingança de um Kickboxer 6: O Desafio Final (1995)",
@@ -110143,12 +110143,12 @@ const CATALOG_DATA = [
   {
     "t": "Luta Por Sobrevivência (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Luta Por Sobrevivência (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Man Down: O Terror da Guerra (2015)",
@@ -110718,17 +110718,17 @@ const CATALOG_DATA = [
   {
     "t": "Sem Suspeitas (2021)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Sem Suspeitas (2021)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Sem Suspeitas (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
-  },
-  {
-    "t": "Sem Suspeitas (2021)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Senhor do Crime (2014)",
@@ -112998,12 +112998,12 @@ const CATALOG_DATA = [
   {
     "t": "Alerta Âmbar (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Alerta Âmbar (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Menores Desacompanhados (2006)",
@@ -115188,17 +115188,17 @@ const CATALOG_DATA = [
   {
     "t": "Laços do Crime (2021)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Laços do Crime (2021)",
+    "cat": "FILMES",
     "tp": "Filmes | Crime"
   },
   {
     "t": "Laços do Crime (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
-  },
-  {
-    "t": "Laços do Crime (2021)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Circuito Fechado (2013)",
@@ -116383,12 +116383,12 @@ const CATALOG_DATA = [
   {
     "t": "Maldição da Múmia (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Maldição da Múmia (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Casa dos Espíritos",
@@ -117348,12 +117348,12 @@ const CATALOG_DATA = [
   {
     "t": "Os Estranhos: Capítulo Final (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Os Estranhos: Capítulo Final (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Luck (2022)",
@@ -117923,17 +117923,17 @@ const CATALOG_DATA = [
   {
     "t": "Propriedade Privada (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
-  },
-  {
-    "t": "Propriedade Privada (2022)",
-    "cat": "FILMES",
     "tp": "Filmes | Thriller"
   },
   {
     "t": "Propriedade Privada (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Propriedade Privada (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Ao Cair do Sol (2022)",
@@ -119663,12 +119663,12 @@ const CATALOG_DATA = [
   {
     "t": "Ataque Brutal (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Ataque Brutal (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Ghostbusters: Mais Além (2021)",
@@ -123068,7 +123068,7 @@ const CATALOG_DATA = [
   {
     "t": "Rob1n: Inteligência Assassina (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Rob1n: Inteligência Assassina (2025)",
@@ -123078,7 +123078,7 @@ const CATALOG_DATA = [
   {
     "t": "Rob1n: Inteligência Assassina (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Icefall: Saque no Gelo (2025)",
@@ -127008,7 +127008,7 @@ const CATALOG_DATA = [
   {
     "t": "Urso Sangrento: A Noite do Terror (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Urso Sangrento: A Noite do Terror (2026)",
@@ -127018,7 +127018,7 @@ const CATALOG_DATA = [
   {
     "t": "Urso Sangrento: A Noite do Terror (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Cor Púrpura (1985)",
@@ -129388,17 +129388,22 @@ const CATALOG_DATA = [
   {
     "t": "A Desconhecida (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "A Desconhecida (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Rio de Sangue (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "Rio de Sangue (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Rio de Sangue (2026)",
@@ -129409,11 +129414,6 @@ const CATALOG_DATA = [
     "t": "Rio de Sangue (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Rio de Sangue (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Ação"
   },
   {
     "t": "A Desconhecida [L] (2026)",
@@ -129473,12 +129473,12 @@ const CATALOG_DATA = [
   {
     "t": "Obsessão (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Obsessão (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Família Lero-Lero (1953)",
@@ -129933,7 +129933,7 @@ const CATALOG_DATA = [
   {
     "t": "As Cores do Mal: Preto (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "As Cores do Mal: Preto (2026)",
@@ -129943,7 +129943,7 @@ const CATALOG_DATA = [
   {
     "t": "As Cores do Mal: Preto (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "As Cores do Mal: Preto [L] (2026)",
@@ -130443,12 +130443,12 @@ const CATALOG_DATA = [
   {
     "t": "Passageiro do Mal (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Passageiro do Mal (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Caso Perigoso [L] (2022)",
@@ -130618,12 +130618,12 @@ const CATALOG_DATA = [
   {
     "t": "Covil (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Covil (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Crianças da Noite (2016)",
@@ -130968,12 +130968,12 @@ const CATALOG_DATA = [
   {
     "t": "Enterrando os Mortos (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Enterrando os Mortos (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Enterrando os Mortos [L] (2026)",
@@ -131093,12 +131093,12 @@ const CATALOG_DATA = [
   {
     "t": "Filhas, Deu Ruim! (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Filhas, Deu Ruim! (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Filhas, Deu Ruim! [L] (2026)",
@@ -132053,12 +132053,12 @@ const CATALOG_DATA = [
   {
     "t": "Na Rota do Crime (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Faroeste"
   },
   {
     "t": "Na Rota do Crime (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Faroeste"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Na Senda do Crime (1954)",
@@ -133263,12 +133263,12 @@ const CATALOG_DATA = [
   {
     "t": "Perturbado Pelo Passado (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Guerra"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Perturbado Pelo Passado (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Guerra"
   },
   {
     "t": "Perturbado Pelo Passado (2026)",
@@ -134483,12 +134483,12 @@ const CATALOG_DATA = [
   {
     "t": "Balística (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Balística (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Casamento Sangrento: A Viúva [L] (2026)",
@@ -134623,12 +134623,12 @@ const CATALOG_DATA = [
   {
     "t": "A Maldição do Casamento (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "A Maldição do Casamento (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Maldição do Casamento [L] (2026)",
@@ -134958,17 +134958,17 @@ const CATALOG_DATA = [
   {
     "t": "Citizen Vigilante (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Citizen Vigilante (2026)",
-    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Citizen Vigilante (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Citizen Vigilante (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Cloud 9: Desafio Final [L] (2014)",
@@ -136588,12 +136588,12 @@ const CATALOG_DATA = [
   {
     "t": "Frutas Proibidas (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Frutas Proibidas (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Luz Del Fuego (1982)",
@@ -136858,7 +136858,7 @@ const CATALOG_DATA = [
   {
     "t": "O Falcão Maltês (1941)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Falcão Maltês (1941)",
@@ -136868,7 +136868,7 @@ const CATALOG_DATA = [
   {
     "t": "O Falcão Maltês (1941)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Franz [L] (2025)",
@@ -137223,7 +137223,7 @@ const CATALOG_DATA = [
   {
     "t": "Além dos Limites da Morte (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Lançamentos 2024"
   },
   {
     "t": "Além dos Limites da Morte (2024)",
@@ -137233,7 +137233,7 @@ const CATALOG_DATA = [
   {
     "t": "Além dos Limites da Morte (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2024"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Mendarat Darurat [L] (2022)",
@@ -137428,7 +137428,7 @@ const CATALOG_DATA = [
   {
     "t": "Obra 67 (2014)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Obra 67 (2014)",
@@ -137438,7 +137438,7 @@ const CATALOG_DATA = [
   {
     "t": "Obra 67 (2014)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Junior [L] (1994)",
@@ -137563,6 +137563,11 @@ const CATALOG_DATA = [
   {
     "t": "King Ivory: Vício das Ruas (2025)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2025"
+  },
+  {
+    "t": "King Ivory: Vício das Ruas (2025)",
+    "cat": "FILMES",
     "tp": "Filmes | Crime"
   },
   {
@@ -137574,11 +137579,6 @@ const CATALOG_DATA = [
     "t": "King Ivory: Vício das Ruas (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "King Ivory: Vício das Ruas (2025)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2025"
   },
   {
     "t": "Herói do Submundo [L] (2016)",
@@ -137628,12 +137628,12 @@ const CATALOG_DATA = [
   {
     "t": "Armadilha Mortal (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Lançamentos 2025"
   },
   {
     "t": "Armadilha Mortal (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Armadilha Mortal (2025)",
@@ -137643,7 +137643,7 @@ const CATALOG_DATA = [
   {
     "t": "Armadilha Mortal (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2025"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Armadilha Mortal [L] (2025)",
@@ -137748,12 +137748,12 @@ const CATALOG_DATA = [
   {
     "t": "Perdido no Everest (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Documentários"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Perdido no Everest (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Documentários"
   },
   {
     "t": "Chopin, Uma Sonata em Paris [L] (2025)",
@@ -137788,7 +137788,7 @@ const CATALOG_DATA = [
   {
     "t": "O Aniversário (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Lançamentos 2025"
   },
   {
     "t": "O Aniversário (2025)",
@@ -137798,7 +137798,7 @@ const CATALOG_DATA = [
   {
     "t": "O Aniversário (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2025"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Carta Selvagem (2015)",
@@ -137933,12 +137933,12 @@ const CATALOG_DATA = [
   {
     "t": "Desejo (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Desejo (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "23.000 Vidas [L] (2026)",
@@ -137978,12 +137978,12 @@ const CATALOG_DATA = [
   {
     "t": "Backrooms: Um Não-Lugar (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Backrooms: Um Não-Lugar (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Heartstopper Para Sempre [L] (2026)",
@@ -138133,17 +138133,17 @@ const CATALOG_DATA = [
   {
     "t": "O Desafio de Marguerite (2023)",
     "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "O Desafio de Marguerite (2023)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "O Desafio de Marguerite (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Mistério"
-  },
-  {
-    "t": "O Desafio de Marguerite (2023)",
-    "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2023"
   },
   {
     "t": "O Desafio de Marguerite [L] (2023)",
@@ -138553,22 +138553,7 @@ const CATALOG_DATA = [
   {
     "t": "A Odisseia (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2026"
-  },
-  {
-    "t": "A Odisseia (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Aventura"
-  },
-  {
-    "t": "A Odisseia (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Ação"
-  },
-  {
-    "t": "A Odisseia (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "99 Luas de Paixão [L] (2023)",
@@ -138598,12 +138583,12 @@ const CATALOG_DATA = [
   {
     "t": "The Woman Before Me (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "The Woman Before Me (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema TV"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Filhos [L] (2024)",
@@ -138658,7 +138643,7 @@ const CATALOG_DATA = [
   {
     "t": "Believer (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Believer (2018)",
@@ -138668,7 +138653,7 @@ const CATALOG_DATA = [
   {
     "t": "Believer (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Coração de Corredor [L] (2017)",
@@ -139293,17 +139278,17 @@ const CATALOG_DATA = [
   {
     "t": "Elize: Sombras de uma Mulher (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Elize: Sombras de uma Mulher (2026)",
-    "cat": "FILMES",
     "tp": "Filmes | Crime"
   },
   {
     "t": "Elize: Sombras de uma Mulher (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Elize: Sombras de uma Mulher (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Paixão Fora da Lei (2025)",
@@ -139473,17 +139458,17 @@ const CATALOG_DATA = [
   {
     "t": "Conspiradores (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Conspiradores (2026)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Conspiradores (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Conspiradores (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Conspiradores [L] (2026)",
@@ -139528,12 +139513,12 @@ const CATALOG_DATA = [
   {
     "t": "Os Caminhos do Terror (2015)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Os Caminhos do Terror (2015)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Os Caminhos do Terror [L] (2015)",
@@ -139643,17 +139628,17 @@ const CATALOG_DATA = [
   {
     "t": "Por Trás dos Seus Olhos (2017)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
-  },
-  {
-    "t": "Por Trás dos Seus Olhos (2017)",
-    "cat": "FILMES",
     "tp": "Filmes | Thriller"
   },
   {
     "t": "Por Trás dos Seus Olhos (2017)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Por Trás dos Seus Olhos (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Por Trás dos Seus Olhos [L] (2017)",
@@ -139898,7 +139883,7 @@ const CATALOG_DATA = [
   {
     "t": "O Apanhador de Almas (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "O Apanhador de Almas (2025)",
@@ -139908,7 +139893,7 @@ const CATALOG_DATA = [
   {
     "t": "O Apanhador de Almas (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "With Child [L] (2014)",
@@ -140073,12 +140058,12 @@ const CATALOG_DATA = [
   {
     "t": "Psycho Killer: Em Busca do Assassino (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Psycho Killer: Em Busca do Assassino (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Psycho Killer: Em Busca do Assassino [L] (2026)",
@@ -140183,12 +140168,12 @@ const CATALOG_DATA = [
   {
     "t": "A Boca do Diabo (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Boca do Diabo (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Boca do Diabo [L] (2026)",
@@ -140288,12 +140273,12 @@ const CATALOG_DATA = [
   {
     "t": "O Cobrador de Dívidas (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "O Cobrador de Dívidas (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Fera do Pântano (2026)",
@@ -140418,12 +140403,12 @@ const CATALOG_DATA = [
   {
     "t": "Uma Noite com a Família Blacks (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Uma Noite com a Família Blacks (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Uma Noite com a Família Blacks [L] (2016)",
@@ -140703,12 +140688,12 @@ const CATALOG_DATA = [
   {
     "t": "Ninho de Cobras (1994)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "Ninho de Cobras (1994)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema TV"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Ninho de Cobras [L] (1994)",
@@ -140763,17 +140748,17 @@ const CATALOG_DATA = [
   {
     "t": "Terror no Oceano (2022)",
     "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Terror no Oceano (2022)",
+    "cat": "FILMES",
     "tp": "Filmes | Mistério"
   },
   {
     "t": "Terror no Oceano (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Terror no Oceano (2022)",
-    "cat": "FILMES",
-    "tp": "Filmes | Terror"
   },
   {
     "t": "Terror no Oceano [L] (2022)",
@@ -140893,17 +140878,17 @@ const CATALOG_DATA = [
   {
     "t": "Projeto Caça ao Lobo (2022)",
     "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Projeto Caça ao Lobo (2022)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Projeto Caça ao Lobo (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Projeto Caça ao Lobo (2022)",
-    "cat": "FILMES",
-    "tp": "Filmes | Terror"
   },
   {
     "t": "Projeto Caça ao Lobo [L] (2022)",
@@ -140948,17 +140933,17 @@ const CATALOG_DATA = [
   {
     "t": "Drive (2011)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
-  },
-  {
-    "t": "Drive (2011)",
-    "cat": "FILMES",
     "tp": "Filmes | Thriller"
   },
   {
     "t": "Drive (2011)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Drive (2011)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Drive [L] (2011)",
@@ -141103,17 +141088,17 @@ const CATALOG_DATA = [
   {
     "t": "As Freiras Exorcistas (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "As Freiras Exorcistas (2025)",
-    "cat": "FILMES",
     "tp": "Filmes | Mistério"
   },
   {
     "t": "As Freiras Exorcistas (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "As Freiras Exorcistas (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "As Freiras Exorcistas [L] (2025)",
@@ -141138,12 +141123,12 @@ const CATALOG_DATA = [
   {
     "t": "Capitão Hook: As Marés Malditas (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Aventura"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Capitão Hook: As Marés Malditas (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Capitão Hook: As Marés Malditas (2025)",
@@ -141628,17 +141613,17 @@ const CATALOG_DATA = [
   {
     "t": "Bom Garoto (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Bom Garoto (2026)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Bom Garoto (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Bom Garoto (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Sem Pena (2014)",
@@ -141648,12 +141633,12 @@ const CATALOG_DATA = [
   {
     "t": "Resgate nas Profundezas (2000)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Resgate nas Profundezas (2000)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Resgate nas Profundezas [L] (2000)",
@@ -141718,12 +141703,12 @@ const CATALOG_DATA = [
   {
     "t": "Incursão (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Incursão (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Jovens Águias (2022)",
@@ -141758,12 +141743,12 @@ const CATALOG_DATA = [
   {
     "t": "Efeito Blackout (1998)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Efeito Blackout (1998)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Efeito Blackout [L] (1998)",
@@ -141818,17 +141803,17 @@ const CATALOG_DATA = [
   {
     "t": "Mensageiro da Morte (1988)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Mensageiro da Morte (1988)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Mensageiro da Morte (1988)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
-  },
-  {
-    "t": "Mensageiro da Morte (1988)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Mensageiro da Morte [L] (1988)",
@@ -141838,12 +141823,12 @@ const CATALOG_DATA = [
   {
     "t": "Raqqa: Spy vs. Spy (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Lançamentos 2024"
   },
   {
     "t": "Raqqa: Spy vs. Spy (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2024"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Raqqa: Spy vs. Spy [L] (2024)",
@@ -141868,12 +141853,12 @@ const CATALOG_DATA = [
   {
     "t": "A Última Casa (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Última Casa (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Última Casa [L] (2026)",
@@ -141888,7 +141873,7 @@ const CATALOG_DATA = [
   {
     "t": "Vida Privada (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Lançamentos 2025"
   },
   {
     "t": "Vida Privada (2025)",
@@ -141903,7 +141888,7 @@ const CATALOG_DATA = [
   {
     "t": "Vida Privada (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2025"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Vida Privada [L] (2025)",
@@ -142048,12 +142033,12 @@ const CATALOG_DATA = [
   {
     "t": "Money (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Money (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Money [L] (2016)",
@@ -142153,12 +142138,12 @@ const CATALOG_DATA = [
   {
     "t": "Dragões de Komodo (1999)",
     "cat": "FILMES",
-    "tp": "Filmes | Aventura"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Dragões de Komodo (1999)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Dragões de Komodo (1999)",
@@ -142273,12 +142258,12 @@ const CATALOG_DATA = [
   {
     "t": "O Soldado Desaparecido (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Guerra"
   },
   {
     "t": "O Soldado Desaparecido (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Guerra"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Sombra Ardente [L] (2018)",
@@ -142828,12 +142813,12 @@ const CATALOG_DATA = [
   {
     "t": "A Estação do Terror (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "A Estação do Terror (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Estação do Terror [L] (2025)",
@@ -142848,17 +142833,17 @@ const CATALOG_DATA = [
   {
     "t": "Tatame (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Tatame (2024)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Tatame (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Tatame (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Tatame [L] (2024)",
@@ -143023,12 +143008,12 @@ const CATALOG_DATA = [
   {
     "t": "New Life S.A. (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "New Life S.A. (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Weird: The Al Yankovic Story [L] (2022)",
@@ -143188,12 +143173,12 @@ const CATALOG_DATA = [
   {
     "t": "La Captura (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "La Captura (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "La Captura (2026)",
@@ -143523,12 +143508,12 @@ const CATALOG_DATA = [
   {
     "t": "O Momento (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Música"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "O Momento (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Música"
   },
   {
     "t": "O Momento (2026)",
@@ -143898,12 +143883,12 @@ const CATALOG_DATA = [
   {
     "t": "The Mortuary Assistant (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "The Mortuary Assistant (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Isto Não é um Teste (2026)",
@@ -143988,12 +143973,12 @@ const CATALOG_DATA = [
   {
     "t": "Den hemmelige kvinde (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Den hemmelige kvinde (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Den hemmelige kvinde [L] (2026)",
@@ -144298,17 +144283,17 @@ const CATALOG_DATA = [
   {
     "t": "Segredo Obscuro (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Segredo Obscuro (2025)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Segredo Obscuro (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Segredo Obscuro (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Segredo Obscuro [L] (2025)",
@@ -144323,12 +144308,12 @@ const CATALOG_DATA = [
   {
     "t": "Beyond Sasquatch (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Beyond Sasquatch (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Backwoods Blood Feud (2025)",
@@ -144343,12 +144328,12 @@ const CATALOG_DATA = [
   {
     "t": "Backwoods Blood Feud (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Backwoods Blood Feud (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Meu Nome é Enéas: Muito Além dos 15 Segundos (2026)",
@@ -144383,12 +144368,12 @@ const CATALOG_DATA = [
   {
     "t": "Sobrenatural: Agora Entre Nós (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Sobrenatural: Agora Entre Nós (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Sem Saída (1987)",
@@ -144603,12 +144588,12 @@ const CATALOG_DATA = [
   {
     "t": "Possuída no Deserto (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Faroeste"
   },
   {
     "t": "Possuída no Deserto (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Faroeste"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Meu Amigo Dino [L] (2023)",
@@ -144703,12 +144688,12 @@ const CATALOG_DATA = [
   {
     "t": "Corrida Contra o Tempo (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Corrida Contra o Tempo (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Femme De La Lune [L] (2025)",
@@ -144768,17 +144753,17 @@ const CATALOG_DATA = [
   {
     "t": "Acerto de Sangue (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Acerto de Sangue (2025)",
-    "cat": "FILMES",
     "tp": "Filmes | Crime"
   },
   {
     "t": "Acerto de Sangue (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Acerto de Sangue (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Acerto de Sangue [L] (2025)",
@@ -144913,17 +144898,17 @@ const CATALOG_DATA = [
   {
     "t": "Friends Until the End (2026)",
     "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Friends Until the End (2026)",
+    "cat": "FILMES",
     "tp": "Filmes | Mistério"
   },
   {
     "t": "Friends Until the End (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Friends Until the End (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "James Baldwin Abroad [L] (2023)",
@@ -145028,12 +145013,12 @@ const CATALOG_DATA = [
   {
     "t": "O Chef (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Chef (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Chef [L] (2021)",
@@ -145183,12 +145168,7 @@ const CATALOG_DATA = [
   {
     "t": "Landship (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2026"
-  },
-  {
-    "t": "Landship (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Guerra"
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "Landship [L] (2026)",
@@ -145203,12 +145183,12 @@ const CATALOG_DATA = [
   {
     "t": "The Yeti (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "The Yeti (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Mulher Secreta [L] (2026)",
@@ -145313,7 +145293,7 @@ const CATALOG_DATA = [
   {
     "t": "The People in the Walls (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "The People in the Walls (2024)",
@@ -145323,7 +145303,7 @@ const CATALOG_DATA = [
   {
     "t": "The People in the Walls (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "La bataille de Gaulle : L'âge de fer (2026)",
@@ -145343,7 +145323,7 @@ const CATALOG_DATA = [
   {
     "t": "Deadlocked: Dad of the Dead (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Deadlocked: Dad of the Dead (2026)",
@@ -145353,7 +145333,7 @@ const CATALOG_DATA = [
   {
     "t": "Deadlocked: Dad of the Dead (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "The People in the Walls [L] (2024)",
@@ -145508,17 +145488,17 @@ const CATALOG_DATA = [
   {
     "t": "No Caminho (2026)",
     "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "No Caminho (2026)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "No Caminho (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "No Caminho (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Crime"
   },
   {
     "t": "Threshold [L] (2026)",
@@ -145533,12 +145513,12 @@ const CATALOG_DATA = [
   {
     "t": "Duas Irmãs (2003)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Duas Irmãs (2003)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Duas Irmãs (2003)",
@@ -145618,12 +145598,12 @@ const CATALOG_DATA = [
   {
     "t": "The Weight of Eyes",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "The Weight of Eyes",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "The Weight of Eyes",
@@ -145638,12 +145618,12 @@ const CATALOG_DATA = [
   {
     "t": "The Summoning of Chloe Kane (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "The Summoning of Chloe Kane (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Squatch (2026)",
@@ -145743,12 +145723,12 @@ const CATALOG_DATA = [
   {
     "t": "Sasquatch Within (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Sasquatch Within (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Sasquatch Within (2026)",
@@ -145778,12 +145758,12 @@ const CATALOG_DATA = [
   {
     "t": "Murder at the Merriweather (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "Murder at the Merriweather (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema TV"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Só por Uma Noite (2026)",
@@ -145838,22 +145818,7 @@ const CATALOG_DATA = [
   {
     "t": "Patrulha Canina: Uma Aventura Dino (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2026"
-  },
-  {
-    "t": "Patrulha Canina: Uma Aventura Dino (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Animação / Infantil"
-  },
-  {
-    "t": "Patrulha Canina: Uma Aventura Dino (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Aventura"
-  },
-  {
-    "t": "Patrulha Canina: Uma Aventura Dino (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Família"
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "Por Que Eu Me Casei de Novo? (2026)",
@@ -145918,12 +145883,12 @@ const CATALOG_DATA = [
   {
     "t": "Mecânica das Sombras (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Mecânica das Sombras (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Larva: O Pingente Mágico (2022)",
@@ -146463,17 +146428,17 @@ const CATALOG_DATA = [
   {
     "t": "Baleia Assassina (2026)",
     "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Baleia Assassina (2026)",
+    "cat": "FILMES",
     "tp": "Filmes | Thriller"
   },
   {
     "t": "Baleia Assassina (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Baleia Assassina (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Ação"
   },
   {
     "t": "Speed Faster: Velocidade Sem Limites [L] (2026)",
@@ -146488,12 +146453,12 @@ const CATALOG_DATA = [
   {
     "t": "Águas Mortais (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Águas Mortais (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Speed Faster: Velocidade Sem Limites (2026)",
@@ -146708,12 +146673,12 @@ const CATALOG_DATA = [
   {
     "t": "A Captura (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "A Captura (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "A Captura (2026)",
@@ -148748,7 +148713,7 @@ const CATALOG_DATA = [
   {
     "t": "Terror nas Profundezas (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Terror nas Profundezas (2023)",
@@ -148758,7 +148723,7 @@ const CATALOG_DATA = [
   {
     "t": "Terror nas Profundezas (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "An Autumn Summer [L] (2026)",
@@ -149018,12 +148983,12 @@ const CATALOG_DATA = [
   {
     "t": "Jovens e Perdidos (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Jovens e Perdidos (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Romance"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Papatya ile Karabiber [L] (2004)",
@@ -149118,12 +149083,12 @@ const CATALOG_DATA = [
   {
     "t": "Emboscada Selvagem (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Guerra"
   },
   {
     "t": "Emboscada Selvagem (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Guerra"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Angeliena [L] (2021)",
@@ -149248,17 +149213,17 @@ const CATALOG_DATA = [
   {
     "t": "Iracema (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Iracema (2024)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Iracema (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "Iracema (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Barrio Boy [L] (2022)",
@@ -149288,12 +149253,12 @@ const CATALOG_DATA = [
   {
     "t": "Acampamento Miasma: Adolescência, Sexo e Morte (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Acampamento Miasma: Adolescência, Sexo e Morte (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Romance"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Sem Perdão no Velho Oeste [L] (2026)",
@@ -149308,12 +149273,12 @@ const CATALOG_DATA = [
   {
     "t": "Sem Perdão no Velho Oeste (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Faroeste"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Sem Perdão no Velho Oeste (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Faroeste"
   },
   {
     "t": "Sem Perdão no Velho Oeste (2026)",
@@ -149448,17 +149413,17 @@ const CATALOG_DATA = [
   {
     "t": "Tubarão de Guerra (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Tubarão de Guerra (2025)",
-    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Tubarão de Guerra (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "Tubarão de Guerra (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Darkgame: O Jogo Da Morte [L] (2024)",
@@ -149473,12 +149438,12 @@ const CATALOG_DATA = [
   {
     "t": "Darkgame: O Jogo Da Morte (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Darkgame: O Jogo Da Morte (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Restauração (2024)",
@@ -149803,12 +149768,12 @@ const CATALOG_DATA = [
   {
     "t": "Limbo - Entre o Céu e o Inferno (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Limbo - Entre o Céu e o Inferno (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Divided Heaven [L] (1964)",
@@ -150018,7 +149983,7 @@ const CATALOG_DATA = [
   {
     "t": "Resident Evil [L] (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "House Arrest (2021)",
@@ -150038,12 +150003,12 @@ const CATALOG_DATA = [
   {
     "t": "Virtual Assistant (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Virtual Assistant (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Virtual Assistant (2025)",
@@ -150348,12 +150313,12 @@ const CATALOG_DATA = [
   {
     "t": "Conexão Perigosa (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Conexão Perigosa (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Conexão Perigosa [L] (2026)",
@@ -150428,12 +150393,12 @@ const CATALOG_DATA = [
   {
     "t": "A Maldição do Tubarão (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Maldição do Tubarão (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Aqui Não Entra Luz (2026)",
@@ -150573,12 +150538,12 @@ const CATALOG_DATA = [
   {
     "t": "O Fantasma do Teatro (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Fantasma do Teatro (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Última Gravação (2019)",
@@ -150623,12 +150588,12 @@ const CATALOG_DATA = [
   {
     "t": "Unabomber (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Unabomber (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Unabomber (2026)",
@@ -150878,12 +150843,12 @@ const CATALOG_DATA = [
   {
     "t": "Pandora (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Pandora (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Cerco de Jadotville [L] (2016)",
@@ -150893,7 +150858,7 @@ const CATALOG_DATA = [
   {
     "t": "O Cerco de Jadotville (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Guerra"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Cerco de Jadotville (2016)",
@@ -150903,7 +150868,7 @@ const CATALOG_DATA = [
   {
     "t": "O Cerco de Jadotville (2016)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Guerra"
   },
   {
     "t": "Slam [L] (2016)",
@@ -150968,17 +150933,17 @@ const CATALOG_DATA = [
   {
     "t": "Detetive Chinatown: O Mistério de 1900 (2025)",
     "cat": "FILMES",
+    "tp": "Filmes | Ação"
+  },
+  {
+    "t": "Detetive Chinatown: O Mistério de 1900 (2025)",
+    "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
     "t": "Detetive Chinatown: O Mistério de 1900 (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Mistério"
-  },
-  {
-    "t": "Detetive Chinatown: O Mistério de 1900 (2025)",
-    "cat": "FILMES",
-    "tp": "Filmes | Ação"
   },
   {
     "t": "Perfeita Pra Você [L] (2018)",
@@ -151143,12 +151108,12 @@ const CATALOG_DATA = [
   {
     "t": "Fica Comigo (2017)",
     "cat": "FILMES",
-    "tp": "Filmes | Romance"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Fica Comigo (2017)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Eu Não Sou um Homem Fácil [L] (2018)",
@@ -151303,12 +151268,12 @@ const CATALOG_DATA = [
   {
     "t": "Inteligência Hostil (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Inteligência Hostil (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Inteligência Hostil (2025)",
@@ -151403,12 +151368,12 @@ const CATALOG_DATA = [
   {
     "t": "Em Campo Minado (2014)",
     "cat": "FILMES",
-    "tp": "Filmes | Guerra"
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Em Campo Minado (2014)",
     "cat": "FILMES",
-    "tp": "Filmes | Aventura"
+    "tp": "Filmes | Guerra"
   },
   {
     "t": "Em Campo Minado [L] (2014)",
@@ -151453,12 +151418,12 @@ const CATALOG_DATA = [
   {
     "t": "A Mulher Mais Assassinada do Mundo (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Mulher Mais Assassinada do Mundo (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "A Mulher Mais Assassinada do Mundo [L] (2018)",
@@ -151603,12 +151568,12 @@ const CATALOG_DATA = [
   {
     "t": "Noite de Lobos (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Noite de Lobos (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Noite de Lobos [L] (2018)",
@@ -152073,17 +152038,17 @@ const CATALOG_DATA = [
   {
     "t": "A Garota Final (2015)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Garota Final (2015)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "A Garota Final (2015)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
-  },
-  {
-    "t": "A Garota Final (2015)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Dead Of Night [L] (2024)",
@@ -152718,12 +152683,12 @@ const CATALOG_DATA = [
   {
     "t": "Resgate Final (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Resgate Final (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "National Theatre Live: All My Sons [L] (2026)",
@@ -152828,12 +152793,12 @@ const CATALOG_DATA = [
   {
     "t": "O Amor Mata (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Romance"
   },
   {
     "t": "O Amor Mata (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Romance"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Vestido Pra Casar (2014)",
@@ -153033,12 +152998,12 @@ const CATALOG_DATA = [
   {
     "t": "O Silêncio da Cidade Branca (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Silêncio da Cidade Branca (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Silêncio da Cidade Branca [L] (2019)",
@@ -153163,17 +153128,7 @@ const CATALOG_DATA = [
   {
     "t": "Coração Selvagem (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2026"
-  },
-  {
-    "t": "Coração Selvagem (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Aventura"
-  },
-  {
-    "t": "Coração Selvagem (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "Filhos de Istambul [L] (2021)",
@@ -153183,12 +153138,12 @@ const CATALOG_DATA = [
   {
     "t": "A Garota no Trem (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Garota no Trem (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "A Garota no Trem [L] (2021)",
@@ -153298,7 +153253,7 @@ const CATALOG_DATA = [
   {
     "t": "Espírito Materno (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Espírito Materno (2025)",
@@ -153308,7 +153263,7 @@ const CATALOG_DATA = [
   {
     "t": "Espírito Materno (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Dracula Revamped [L] (2025)",
@@ -153728,7 +153683,7 @@ const CATALOG_DATA = [
   {
     "t": "Pressão (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Guerra"
   },
   {
     "t": "Pressão (2026)",
@@ -153738,7 +153693,7 @@ const CATALOG_DATA = [
   {
     "t": "Pressão (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Guerra"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Os Segredos de Madame Claude [L] (2021)",
@@ -153753,17 +153708,17 @@ const CATALOG_DATA = [
   {
     "t": "Dinheiro Sujo (2013)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Dinheiro Sujo (2013)",
+    "cat": "FILMES",
     "tp": "Filmes | Crime"
   },
   {
     "t": "Dinheiro Sujo (2013)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
-  },
-  {
-    "t": "Dinheiro Sujo (2013)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Dinheiro Sujo [L] (2013)",
@@ -153848,7 +153803,7 @@ const CATALOG_DATA = [
   {
     "t": "Beleza Avassaladora (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Romance"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Beleza Avassaladora (2021)",
@@ -153858,7 +153813,7 @@ const CATALOG_DATA = [
   {
     "t": "Beleza Avassaladora (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Beleza Avassaladora [L] (2021)",
@@ -154383,12 +154338,12 @@ const CATALOG_DATA = [
   {
     "t": "Segredos da Rua Maple: Um Pesadelo em Família (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Segredos da Rua Maple: Um Pesadelo em Família (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Ilha de Segredos [L] (2021)",
@@ -154538,12 +154493,12 @@ const CATALOG_DATA = [
   {
     "t": "Ann Rule's Danger in the Dorm",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema TV"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Ann Rule's Danger in the Dorm",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "Ann Rule's Danger in the Dorm",
@@ -154603,7 +154558,7 @@ const CATALOG_DATA = [
   {
     "t": "Borboletas em Chamas (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Borboletas em Chamas (2024)",
@@ -154613,7 +154568,7 @@ const CATALOG_DATA = [
   {
     "t": "Borboletas em Chamas (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Borboletas em Chamas [L] (2024)",
@@ -154718,12 +154673,12 @@ const CATALOG_DATA = [
   {
     "t": "Escuridão Profunda (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Escuridão Profunda (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Batalha Esquecida [L] (2021)",
@@ -154753,7 +154708,7 @@ const CATALOG_DATA = [
   {
     "t": "Mamãe Querida (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Mamãe Querida (2023)",
@@ -154763,7 +154718,7 @@ const CATALOG_DATA = [
   {
     "t": "Mamãe Querida (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Ouro do Mal (2024)",
@@ -154788,12 +154743,12 @@ const CATALOG_DATA = [
   {
     "t": "Que Mãe Sou Eu? (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Que Mãe Sou Eu? (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Que Mãe Sou Eu? [L] (2025)",
@@ -154823,12 +154778,12 @@ const CATALOG_DATA = [
   {
     "t": "A Maldição de Cinderela (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "A Maldição de Cinderela (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Maldição de Cinderela [L] (2024)",
@@ -154918,12 +154873,12 @@ const CATALOG_DATA = [
   {
     "t": "Fresh Hell: Lobos Contra o Mundo (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Fresh Hell: Lobos Contra o Mundo (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Fresh Hell: Lobos Contra o Mundo [L] (2024)",
@@ -154978,12 +154933,12 @@ const CATALOG_DATA = [
   {
     "t": "O Demônio que Habita em Mim (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Demônio que Habita em Mim (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Demônio que Habita em Mim [L] (2025)",
@@ -155003,17 +154958,17 @@ const CATALOG_DATA = [
   {
     "t": "O Ritual Sinistro (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "O Ritual Sinistro (2023)",
-    "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
     "t": "O Ritual Sinistro (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Música"
+  },
+  {
+    "t": "O Ritual Sinistro (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Ritual Sinistro [L] (2023)",
@@ -155043,12 +154998,12 @@ const CATALOG_DATA = [
   {
     "t": "Perigo no Dormitório (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Perigo no Dormitório (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Perigo no Dormitório (2024)",
@@ -155063,12 +155018,12 @@ const CATALOG_DATA = [
   {
     "t": "Memórias Roubadas (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "Memórias Roubadas (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema TV"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Depois de Nós, o Dilúvio (2024)",
@@ -155103,12 +155058,12 @@ const CATALOG_DATA = [
   {
     "t": "O.T.H.E.R - Presença Maligna (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O.T.H.E.R - Presença Maligna (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O.T.H.E.R - Presença Maligna [L] (2025)",
@@ -155138,12 +155093,12 @@ const CATALOG_DATA = [
   {
     "t": "Ataques Psicotrônicos (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Ataques Psicotrônicos (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Less of a Stranger (2026)",
@@ -155168,7 +155123,7 @@ const CATALOG_DATA = [
   {
     "t": "Almofada de Penas (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Almofada de Penas (2018)",
@@ -155178,7 +155133,7 @@ const CATALOG_DATA = [
   {
     "t": "Almofada de Penas (2018)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Who Is Martin Mull? [L] (2026)",
@@ -155203,7 +155158,7 @@ const CATALOG_DATA = [
   {
     "t": "Não Tem Ninguém em Casa (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Não Tem Ninguém em Casa (2024)",
@@ -155213,7 +155168,7 @@ const CATALOG_DATA = [
   {
     "t": "Não Tem Ninguém em Casa (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Não Tem Ninguém em Casa [L] (2024)",
@@ -155228,17 +155183,17 @@ const CATALOG_DATA = [
   {
     "t": "Bogotá: A Cidade dos Sonhos Perdidos (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Bogotá: A Cidade dos Sonhos Perdidos (2024)",
-    "cat": "FILMES",
     "tp": "Filmes | Crime"
   },
   {
     "t": "Bogotá: A Cidade dos Sonhos Perdidos (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Bogotá: A Cidade dos Sonhos Perdidos (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Down Quixote (2022)",
@@ -155288,12 +155243,12 @@ const CATALOG_DATA = [
   {
     "t": "A Canção de Ninar de Katherine (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Canção de Ninar de Katherine (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Desejos Proibidos [L] (2018)",
@@ -155308,12 +155263,12 @@ const CATALOG_DATA = [
   {
     "t": "A Funcionária do Mês (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Funcionária do Mês (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "A Funcionária do Mês [L] (2022)",
@@ -155343,12 +155298,12 @@ const CATALOG_DATA = [
   {
     "t": "Você Não Dormirá Esta Noite (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Você Não Dormirá Esta Noite (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Menino Golfinho [L] (2022)",
@@ -155368,7 +155323,7 @@ const CATALOG_DATA = [
   {
     "t": "Sinal de Morte (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Sinal de Morte (2024)",
@@ -155378,7 +155333,7 @@ const CATALOG_DATA = [
   {
     "t": "Sinal de Morte (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Sinal de Morte [L] (2024)",
@@ -155548,12 +155503,12 @@ const CATALOG_DATA = [
   {
     "t": "Ligação Assassina (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Ligação Assassina (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "No Silêncio da Floresta (2024)",
@@ -155698,17 +155653,17 @@ const CATALOG_DATA = [
   {
     "t": "Hammarskjöld: Luta pela Paz (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Hammarskjöld: Luta pela Paz (2023)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Hammarskjöld: Luta pela Paz (2023)",
     "cat": "FILMES",
     "tp": "Filmes | História"
+  },
+  {
+    "t": "Hammarskjöld: Luta pela Paz (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Hammarskjöld: Luta pela Paz [L] (2023)",
@@ -155768,12 +155723,12 @@ const CATALOG_DATA = [
   {
     "t": "Model House: A Morte Segue Você (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Model House: A Morte Segue Você (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Model House: A Morte Segue Você [L] (2024)",
@@ -155803,12 +155758,12 @@ const CATALOG_DATA = [
   {
     "t": "Mente Demôniaca (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Mente Demôniaca (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Mente Demôniaca [L] (2024)",
@@ -155873,17 +155828,17 @@ const CATALOG_DATA = [
   {
     "t": "Sonhos (2025)",
     "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Sonhos (2025)",
+    "cat": "FILMES",
     "tp": "Filmes | Romance"
   },
   {
     "t": "Sonhos (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Sonhos (2025)",
-    "cat": "FILMES",
-    "tp": "Filmes | Drama"
   },
   {
     "t": "Sonhos [L] (2025)",
@@ -155938,12 +155893,12 @@ const CATALOG_DATA = [
   {
     "t": "Hell House: A Origem (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Hell House: A Origem (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Hell House: A Origem [L] (2023)",
@@ -156253,12 +156208,12 @@ const CATALOG_DATA = [
   {
     "t": "O Lado Sombrio de Abi (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Lado Sombrio de Abi (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Não Apaguem as Luzes (2024)",
@@ -156283,12 +156238,17 @@ const CATALOG_DATA = [
   {
     "t": "A Morada dos Lobisomens (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "A Morada dos Lobisomens (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Uma História de Vingança (2017)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Uma História de Vingança (2017)",
@@ -156299,11 +156259,6 @@ const CATALOG_DATA = [
     "t": "Uma História de Vingança (2017)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
-  },
-  {
-    "t": "Uma História de Vingança (2017)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Dois Mundos, Um Desejo (2025)",
@@ -156438,17 +156393,17 @@ const CATALOG_DATA = [
   {
     "t": "Gangues de Los Angeles (2020)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Gangues de Los Angeles (2020)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Gangues de Los Angeles (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
-  },
-  {
-    "t": "Gangues de Los Angeles (2020)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Rua do Medo: 1978 - Parte 2 [L] (2021)",
@@ -156473,17 +156428,17 @@ const CATALOG_DATA = [
   {
     "t": "A Casa dos Mistérios (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "A Casa dos Mistérios (2024)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "A Casa dos Mistérios (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "A Casa dos Mistérios (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Demais pra Mim [L] (2020)",
@@ -156533,12 +156488,12 @@ const CATALOG_DATA = [
   {
     "t": "Filho das Sombras (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Filho das Sombras (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Filho das Sombras (2019)",
@@ -156588,7 +156543,7 @@ const CATALOG_DATA = [
   {
     "t": "High Ground: Cerco Fechado (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "High Ground: Cerco Fechado (2025)",
@@ -156598,7 +156553,7 @@ const CATALOG_DATA = [
   {
     "t": "High Ground: Cerco Fechado (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "High Ground: Cerco Fechado [L] (2025)",
@@ -156718,17 +156673,22 @@ const CATALOG_DATA = [
   {
     "t": "Nós Somos Zumbis (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Nós Somos Zumbis (2024)",
-    "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
     "t": "Nós Somos Zumbis (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Nós Somos Zumbis (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "O Exterminador de Seitas (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Exterminador de Seitas (2022)",
@@ -156739,11 +156699,6 @@ const CATALOG_DATA = [
     "t": "O Exterminador de Seitas (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Comédia"
-  },
-  {
-    "t": "O Exterminador de Seitas (2022)",
-    "cat": "FILMES",
-    "tp": "Filmes | Terror"
   },
   {
     "t": "O Cinema Mal-Assombrado (2023)",
@@ -156778,12 +156733,12 @@ const CATALOG_DATA = [
   {
     "t": "Mate-a, se Conseguir (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Mate-a, se Conseguir (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Fiança (2024)",
@@ -156808,12 +156763,12 @@ const CATALOG_DATA = [
   {
     "t": "Você Só Precisa Matar (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Animação / Infantil"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Você Só Precisa Matar (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Animação / Infantil"
   },
   {
     "t": "Você Só Precisa Matar (2026)",
@@ -157138,12 +157093,12 @@ const CATALOG_DATA = [
   {
     "t": "Escalada de Violência (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Escalada de Violência (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Escalada de Violência [L] (2023)",
@@ -157213,12 +157168,12 @@ const CATALOG_DATA = [
   {
     "t": "Jogos de Sedução (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Jogos de Sedução (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Algo Sobre Harry [L] (2020)",
@@ -157398,7 +157353,7 @@ const CATALOG_DATA = [
   {
     "t": "Thar (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Faroeste"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Thar (2022)",
@@ -157408,7 +157363,7 @@ const CATALOG_DATA = [
   {
     "t": "Thar (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Faroeste"
   },
   {
     "t": "Thar [L] (2022)",
@@ -157898,17 +157853,17 @@ const CATALOG_DATA = [
   {
     "t": "O Mistério do Vinhedo (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
-  },
-  {
-    "t": "O Mistério do Vinhedo (2022)",
-    "cat": "FILMES",
     "tp": "Filmes | Thriller"
   },
   {
     "t": "O Mistério do Vinhedo (2022)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
+  },
+  {
+    "t": "O Mistério do Vinhedo (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "A Gestora [L] (2022)",
@@ -158033,12 +157988,12 @@ const CATALOG_DATA = [
   {
     "t": "Criatura Misteriosa (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Criatura Misteriosa (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Criatura Misteriosa [L] (2020)",
@@ -158128,27 +158083,12 @@ const CATALOG_DATA = [
   {
     "t": "Da Magia à Sedução: Feitiço de Amor (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2026"
-  },
-  {
-    "t": "Da Magia à Sedução: Feitiço de Amor (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Romance"
-  },
-  {
-    "t": "Da Magia à Sedução: Feitiço de Amor (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
-  },
-  {
-    "t": "Da Magia à Sedução: Feitiço de Amor (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "Da Magia à Sedução: Feitiço de Amor [L] (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "Blue My Mind [L] (2017)",
@@ -158438,22 +158378,7 @@ const CATALOG_DATA = [
   {
     "t": "As Aventuras de Tadeo e a Lâmpada Mágica (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2026"
-  },
-  {
-    "t": "As Aventuras de Tadeo e a Lâmpada Mágica (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Animação / Infantil"
-  },
-  {
-    "t": "As Aventuras de Tadeo e a Lâmpada Mágica (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Comédia"
-  },
-  {
-    "t": "As Aventuras de Tadeo e a Lâmpada Mágica (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Família"
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "As Aventuras de Tadeo e a Lâmpada Mágica [L] (2026)",
@@ -158478,7 +158403,7 @@ const CATALOG_DATA = [
   {
     "t": "Até que a Morte Nos Separe (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Até que a Morte Nos Separe (2023)",
@@ -158488,7 +158413,7 @@ const CATALOG_DATA = [
   {
     "t": "Até que a Morte Nos Separe (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Hora do Orvalho [L] (2024)",
@@ -158698,12 +158623,12 @@ const CATALOG_DATA = [
   {
     "t": "Você Nunca Me Encontrará (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Você Nunca Me Encontrará (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Você Nunca Me Encontrará [L] (2024)",
@@ -158888,17 +158813,17 @@ const CATALOG_DATA = [
   {
     "t": "Santosh: Vozes da Hierarquia (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Santosh: Vozes da Hierarquia (2024)",
-    "cat": "FILMES",
     "tp": "Filmes | Crime"
   },
   {
     "t": "Santosh: Vozes da Hierarquia (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Santosh: Vozes da Hierarquia (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Santosh: Vozes da Hierarquia [L] (2024)",
@@ -158958,12 +158883,12 @@ const CATALOG_DATA = [
   {
     "t": "Carcaça (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Carcaça (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Influencer Divina (2023)",
@@ -159048,12 +158973,12 @@ const CATALOG_DATA = [
   {
     "t": "Jogo de Sacrifício (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Jogo de Sacrifício (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Grande Jornada (2024)",
@@ -159093,12 +159018,12 @@ const CATALOG_DATA = [
   {
     "t": "Corações Tóxicos (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Corações Tóxicos (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Corações Tóxicos [L] (2022)",
@@ -159143,17 +159068,17 @@ const CATALOG_DATA = [
   {
     "t": "A Semente do Fruto Sagrado (2024)",
     "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "A Semente do Fruto Sagrado (2024)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "A Semente do Fruto Sagrado (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "A Semente do Fruto Sagrado (2024)",
-    "cat": "FILMES",
-    "tp": "Filmes | Crime"
   },
   {
     "t": "A Semente do Fruto Sagrado [L] (2024)",
@@ -159168,12 +159093,12 @@ const CATALOG_DATA = [
   {
     "t": "Todos Irão Morrer (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Todos Irão Morrer (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Todos Irão Morrer [L] (2023)",
@@ -159193,12 +159118,12 @@ const CATALOG_DATA = [
   {
     "t": "Um Mundo Selvagem (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Um Mundo Selvagem (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Uma Jornada na África (2022)",
@@ -159233,17 +159158,17 @@ const CATALOG_DATA = [
   {
     "t": "The Reflected Self (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "The Reflected Self (2024)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "The Reflected Self (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "The Reflected Self (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Agents (2024)",
@@ -159363,12 +159288,12 @@ const CATALOG_DATA = [
   {
     "t": "Maldição de Crom: A Lenda do Halloween (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Maldição de Crom: A Lenda do Halloween (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Red Planet Blue (2024)",
@@ -159653,12 +159578,12 @@ const CATALOG_DATA = [
   {
     "t": "A Última Vingança (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "A Última Vingança (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Última Vingança [L] (2024)",
@@ -159933,12 +159858,12 @@ const CATALOG_DATA = [
   {
     "t": "Gatilheiro (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Gatilheiro (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Gatilheiro [L] (2025)",
@@ -160103,12 +160028,12 @@ const CATALOG_DATA = [
   {
     "t": "Love Will Tear Us Apart (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Love Will Tear Us Apart (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Romance"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Última Invocação (2023)",
@@ -160118,12 +160043,12 @@ const CATALOG_DATA = [
   {
     "t": "A Última Invocação (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Última Invocação (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Mal Mora Aqui (2024)",
@@ -160133,12 +160058,12 @@ const CATALOG_DATA = [
   {
     "t": "O Mal Mora Aqui (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Mal Mora Aqui (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Mal Mora Aqui [L] (2024)",
@@ -160158,17 +160083,17 @@ const CATALOG_DATA = [
   {
     "t": "Seven Cemeteries (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Seven Cemeteries (2024)",
-    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Seven Cemeteries (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Seven Cemeteries (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Sumukhi Suresh: Hoemonal [L] (2026)",
@@ -160188,12 +160113,12 @@ const CATALOG_DATA = [
   {
     "t": "Impulso (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Impulso (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Impulso [L] (2023)",
@@ -160208,12 +160133,12 @@ const CATALOG_DATA = [
   {
     "t": "Sede de Sangue (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Sede de Sangue (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Sede de Sangue [L] (2023)",
@@ -160333,12 +160258,12 @@ const CATALOG_DATA = [
   {
     "t": "Raven: O Nome da Vingança (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Raven: O Nome da Vingança (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Raven: O Nome da Vingança [L] (2022)",
@@ -160398,17 +160323,17 @@ const CATALOG_DATA = [
   {
     "t": "Quem Matou Narciso? (2026)",
     "cat": "FILMES",
+    "tp": "Filmes | Crime"
+  },
+  {
+    "t": "Quem Matou Narciso? (2026)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Quem Matou Narciso? (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Mistério"
-  },
-  {
-    "t": "Quem Matou Narciso? (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Crime"
   },
   {
     "t": "Broad Peak [L] (2022)",
@@ -160458,12 +160383,12 @@ const CATALOG_DATA = [
   {
     "t": "Inherit the Witch (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Inherit the Witch (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Meu Amor Por Grace (2018)",
@@ -160633,12 +160558,12 @@ const CATALOG_DATA = [
   {
     "t": "Morte em LaRoy, Texas (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Morte em LaRoy, Texas (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Morte em LaRoy, Texas (2024)",
@@ -160653,12 +160578,12 @@ const CATALOG_DATA = [
   {
     "t": "Engolidos (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Engolidos (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Grande Sertão (2024)",
@@ -160913,12 +160838,12 @@ const CATALOG_DATA = [
   {
     "t": "Conexões Perigosas (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Romance"
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Conexões Perigosas (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Aventura"
+    "tp": "Filmes | Romance"
   },
   {
     "t": "Conexões Perigosas (2023)",
@@ -160983,12 +160908,12 @@ const CATALOG_DATA = [
   {
     "t": "Frágil (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Frágil (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Frágil [L] (2023)",
@@ -161028,12 +160953,12 @@ const CATALOG_DATA = [
   {
     "t": "Black Cab (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Black Cab (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Sem Refúgio [L] (2024)",
@@ -161068,7 +160993,7 @@ const CATALOG_DATA = [
   {
     "t": "Bad Candy (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Geral"
   },
   {
     "t": "Saideira (2024)",
@@ -161098,12 +161023,12 @@ const CATALOG_DATA = [
   {
     "t": "Terror Online (2017)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Terror Online (2017)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Terror Online [L] (2017)",
@@ -161118,12 +161043,12 @@ const CATALOG_DATA = [
   {
     "t": "Assassinato por Coincidência (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Assassinato por Coincidência (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Assassinato por Coincidência [L] (2023)",
@@ -161183,12 +161108,12 @@ const CATALOG_DATA = [
   {
     "t": "Força Letal (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Força Letal (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Sentença de Morte [L] (2017)",
@@ -161203,12 +161128,12 @@ const CATALOG_DATA = [
   {
     "t": "Gênios da Trapaça (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Gênios da Trapaça (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Strangers (2024)",
@@ -161223,12 +161148,12 @@ const CATALOG_DATA = [
   {
     "t": "Strangers (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Strangers (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Rei Perdido (2022)",
@@ -161343,12 +161268,12 @@ const CATALOG_DATA = [
   {
     "t": "Curse of the Seven Seas (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Curse of the Seven Seas (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Do Outro Lado do Jardim (2024)",
@@ -161418,12 +161343,12 @@ const CATALOG_DATA = [
   {
     "t": "Garotas Só Querem Vingança (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Garotas Só Querem Vingança (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Garotas Só Querem Vingança [L] (2026)",
@@ -161818,12 +161743,12 @@ const CATALOG_DATA = [
   {
     "t": "O Beijo da Mulher Aranha (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Romance"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Beijo da Mulher Aranha (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Romance"
   },
   {
     "t": "O Beijo da Mulher Aranha (2025)",
@@ -161953,7 +161878,7 @@ const CATALOG_DATA = [
   {
     "t": "Ursinhos Assassinos (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Ursinhos Assassinos (2022)",
@@ -161963,7 +161888,7 @@ const CATALOG_DATA = [
   {
     "t": "Ursinhos Assassinos (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Preço Que Pagamos (2023)",
@@ -161978,12 +161903,17 @@ const CATALOG_DATA = [
   {
     "t": "O Preço Que Pagamos (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "O Preço Que Pagamos (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Imortal (2019)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Imortal (2019)",
@@ -161994,11 +161924,6 @@ const CATALOG_DATA = [
     "t": "O Imortal (2019)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
-  },
-  {
-    "t": "O Imortal (2019)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Imortal [L] (2019)",
@@ -162033,7 +161958,7 @@ const CATALOG_DATA = [
   {
     "t": "Batalha dos Zumbis (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Batalha dos Zumbis (2019)",
@@ -162043,7 +161968,7 @@ const CATALOG_DATA = [
   {
     "t": "Batalha dos Zumbis (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "A Garota na Floresta (2022)",
@@ -162078,12 +162003,12 @@ const CATALOG_DATA = [
   {
     "t": "O Caso Susie (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "O Caso Susie (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Caso Susie [L] (2023)",
@@ -162628,12 +162553,12 @@ const CATALOG_DATA = [
   {
     "t": "Caçada Fantasma (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Caçada Fantasma (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Caçada Fantasma [L] (2023)",
@@ -162653,12 +162578,12 @@ const CATALOG_DATA = [
   {
     "t": "O Homem Imaginário (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Homem Imaginário (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "O Homem Imaginário [L] (2025)",
@@ -162673,12 +162598,12 @@ const CATALOG_DATA = [
   {
     "t": "Lobos (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Lobos (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "All The Places I Once Loved You (2023)",
@@ -162868,12 +162793,12 @@ const CATALOG_DATA = [
   {
     "t": "Amor Verdadeiro (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Amor Verdadeiro (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Sex and the Friend Group [L] (2026)",
@@ -162893,12 +162818,12 @@ const CATALOG_DATA = [
   {
     "t": "Frankie, Maniac Woman (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Frankie, Maniac Woman (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Echoes of Dread [L] (2026)",
@@ -162948,12 +162873,12 @@ const CATALOG_DATA = [
   {
     "t": "Exes (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Exes (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Amor de Cinema (2021)",
@@ -163018,17 +162943,17 @@ const CATALOG_DATA = [
   {
     "t": "A Garota de Miller (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "A Garota de Miller (2024)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "A Garota de Miller (2024)",
     "cat": "FILMES",
     "tp": "Filmes | Romance"
+  },
+  {
+    "t": "A Garota de Miller (2024)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Garota de Miller [L] (2024)",
@@ -163153,12 +163078,12 @@ const CATALOG_DATA = [
   {
     "t": "Exhuma (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Exhuma (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Golpe de Milhões (2022)",
@@ -163178,10 +163103,15 @@ const CATALOG_DATA = [
   {
     "t": "A Maldição de Hannah Stevenson (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Maldição de Hannah Stevenson (2022)",
+    "cat": "FILMES",
+    "tp": "Filmes | Fantasia/Ficção"
+  },
+  {
+    "t": "Antologia da Pandemia (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
@@ -163189,11 +163119,6 @@ const CATALOG_DATA = [
     "t": "Antologia da Pandemia (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
-  },
-  {
-    "t": "Antologia da Pandemia (2020)",
-    "cat": "FILMES",
-    "tp": "Filmes | Terror"
   },
   {
     "t": "A Grande Fraude (2021)",
@@ -163228,17 +163153,17 @@ const CATALOG_DATA = [
   {
     "t": "Mãe em Fúria (2021)",
     "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Mãe em Fúria (2021)",
+    "cat": "FILMES",
     "tp": "Filmes | Mistério"
   },
   {
     "t": "Mãe em Fúria (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Mãe em Fúria (2021)",
-    "cat": "FILMES",
-    "tp": "Filmes | Terror"
   },
   {
     "t": "Herança Roubada (2024)",
@@ -163248,12 +163173,12 @@ const CATALOG_DATA = [
   {
     "t": "Herança Roubada (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Herança Roubada (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Herança Roubada (2024)",
@@ -163303,12 +163228,12 @@ const CATALOG_DATA = [
   {
     "t": "Cunhado Serial Killer (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "Cunhado Serial Killer (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema TV"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Comprometido com a Morte (2023)",
@@ -163318,12 +163243,12 @@ const CATALOG_DATA = [
   {
     "t": "Comprometido com a Morte (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "Comprometido com a Morte (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema TV"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "A Rede Antissocial: Dos Memes ao Caos (2024)",
@@ -163363,12 +163288,12 @@ const CATALOG_DATA = [
   {
     "t": "(Re)Nascer (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "(Re)Nascer (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Marsupilami: Confusão a Bordo (2026)",
@@ -163443,17 +163368,17 @@ const CATALOG_DATA = [
   {
     "t": "Tudo ou Nada (2021)",
     "cat": "FILMES",
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Tudo ou Nada (2021)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Tudo ou Nada (2021)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Tudo ou Nada (2021)",
-    "cat": "FILMES",
-    "tp": "Filmes | Terror"
   },
   {
     "t": "Tudo ou Nada [L] (2021)",
@@ -163468,12 +163393,12 @@ const CATALOG_DATA = [
   {
     "t": "Violência Explícita (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Violência Explícita (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Procurando Emily (2026)",
@@ -163503,7 +163428,7 @@ const CATALOG_DATA = [
   {
     "t": "Anatomia de uma Queda (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Anatomia de uma Queda (2023)",
@@ -163513,7 +163438,7 @@ const CATALOG_DATA = [
   {
     "t": "Anatomia de uma Queda (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Um Estranho Entre Nós [L] (2023)",
@@ -163708,17 +163633,17 @@ const CATALOG_DATA = [
   {
     "t": "Informante (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Informante (2023)",
-    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Informante (2023)",
     "cat": "FILMES",
     "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "Informante (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Magic Hour [L] (2026)",
@@ -163738,17 +163663,17 @@ const CATALOG_DATA = [
   {
     "t": "One Big Snake (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "One Big Snake (2025)",
-    "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
     "t": "One Big Snake (2025)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "One Big Snake (2025)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Love Kills [L] (2024)",
@@ -163773,12 +163698,12 @@ const CATALOG_DATA = [
   {
     "t": "Um Pesadelo De Vizinha (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "Um Pesadelo De Vizinha (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema TV"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Mestre da Fumaça (2023)",
@@ -163818,17 +163743,7 @@ const CATALOG_DATA = [
   {
     "t": "Maçã Podre (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2026"
-  },
-  {
-    "t": "Maçã Podre (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Comédia"
-  },
-  {
-    "t": "Maçã Podre (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "Maçã Podre [L] (2026)",
@@ -164003,12 +163918,12 @@ const CATALOG_DATA = [
   {
     "t": "Perseguição Fatal (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Perseguição Fatal (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Lucky [L] (2017)",
@@ -164053,12 +163968,12 @@ const CATALOG_DATA = [
   {
     "t": "Foge, Coelho (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Foge, Coelho (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Foge, Coelho [L] (2024)",
@@ -164193,12 +164108,12 @@ const CATALOG_DATA = [
   {
     "t": "A Criança do Lago (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "A Criança do Lago (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "A Criança do Lago [L] (2025)",
@@ -164253,12 +164168,12 @@ const CATALOG_DATA = [
   {
     "t": "INTRUDER (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "INTRUDER (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "INTRUDER [L] (2024)",
@@ -164418,12 +164333,12 @@ const CATALOG_DATA = [
   {
     "t": "Nefarious (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Nefarious (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Nefarious [L] (2023)",
@@ -164498,12 +164413,12 @@ const CATALOG_DATA = [
   {
     "t": "The Exorcists (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "The Exorcists (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Meu Nome é Gal (2023)",
@@ -164678,12 +164593,12 @@ const CATALOG_DATA = [
   {
     "t": "Sem Ar (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Aventura"
   },
   {
     "t": "Sem Ar (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Aventura"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Os Caras Malvados: Um Natal do Mal (2023)",
@@ -164753,12 +164668,12 @@ const CATALOG_DATA = [
   {
     "t": "Tem Algo de Errado com as Crianças (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Tem Algo de Errado com as Crianças (2023)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Segredos de Sangue [L] (2013)",
@@ -164833,17 +164748,17 @@ const CATALOG_DATA = [
   {
     "t": "Rampage 2 (2014)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Rampage 2 (2014)",
+    "cat": "FILMES",
     "tp": "Filmes | Ação"
   },
   {
     "t": "Rampage 2 (2014)",
     "cat": "FILMES",
     "tp": "Filmes | Crime"
-  },
-  {
-    "t": "Rampage 2 (2014)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Rampage 2 [L] (2014)",
@@ -165063,12 +164978,12 @@ const CATALOG_DATA = [
   {
     "t": "Velhas Chamas Nunca Morrem (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Cinema TV"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Velhas Chamas Nunca Morrem (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "Velhas Chamas Nunca Morrem (2022)",
@@ -165183,17 +165098,17 @@ const CATALOG_DATA = [
   {
     "t": "Billy Boy (2018)",
     "cat": "FILMES",
+    "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "Billy Boy (2018)",
+    "cat": "FILMES",
     "tp": "Filmes | Crime"
   },
   {
     "t": "Billy Boy (2018)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
-  },
-  {
-    "t": "Billy Boy (2018)",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Billy Boy [L] (2018)",
@@ -165273,12 +165188,12 @@ const CATALOG_DATA = [
   {
     "t": "Consequências (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Consequências (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Consequências [L] (2021)",
@@ -165598,7 +165513,7 @@ const CATALOG_DATA = [
   {
     "t": "Velha Louca (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Velha Louca (2025)",
@@ -165608,7 +165523,7 @@ const CATALOG_DATA = [
   {
     "t": "Velha Louca (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Velha Louca [L] (2025)",
@@ -165678,12 +165593,12 @@ const CATALOG_DATA = [
   {
     "t": "Papagaios (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Papagaios (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Heróis Nunca Morrem [L] (2020)",
@@ -165788,12 +165703,12 @@ const CATALOG_DATA = [
   {
     "t": "Espíritos Obscuros (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Espíritos Obscuros (2021)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Espíritos Obscuros (2021)",
@@ -165953,12 +165868,12 @@ const CATALOG_DATA = [
   {
     "t": "Canibais: A Selva Maldita (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Canibais: A Selva Maldita (2024)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Canibais: A Selva Maldita [L] (2024)",
@@ -166323,12 +166238,12 @@ const CATALOG_DATA = [
   {
     "t": "Apocalipse Z: Novo Mundo (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Apocalipse Z: Novo Mundo (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Apocalipse Z: Novo Mundo [L] (2026)",
@@ -166693,17 +166608,17 @@ const CATALOG_DATA = [
   {
     "t": "O Sorveteiro (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "O Sorveteiro (2026)",
-    "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
     "t": "O Sorveteiro (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "O Sorveteiro (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Sorveteiro [L] (2026)",
@@ -166948,12 +166863,12 @@ const CATALOG_DATA = [
   {
     "t": "Noite Brutal (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Noite Brutal (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Noite Brutal [L] (2026)",
@@ -167103,17 +167018,7 @@ const CATALOG_DATA = [
   {
     "t": "Resident Evil (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2026"
-  },
-  {
-    "t": "Resident Evil (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Resident Evil (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Aventura"
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "Jornada nas Estrelas: Primeiro Contato (1996)",
@@ -167333,12 +167238,12 @@ const CATALOG_DATA = [
   {
     "t": "Deserto de Sangue (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Deserto de Sangue (2019)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "The Shift - O Deslocamento (2023)",
@@ -167393,17 +167298,17 @@ const CATALOG_DATA = [
   {
     "t": "O Enigma do Medo (2020)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "O Enigma do Medo (2020)",
-    "cat": "FILMES",
     "tp": "Filmes | Terror"
   },
   {
     "t": "O Enigma do Medo (2020)",
     "cat": "FILMES",
     "tp": "Filmes | Mistério"
+  },
+  {
+    "t": "O Enigma do Medo (2020)",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "O Coletivo (2023)",
@@ -167428,12 +167333,12 @@ const CATALOG_DATA = [
   {
     "t": "O Dia da Colheita (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "O Dia da Colheita (2022)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "A Última Esperança Soviética [L] (2021)",
@@ -167448,22 +167353,17 @@ const CATALOG_DATA = [
   {
     "t": "Primetime (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Primetime (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Your Mother Your Mother Your Mother (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Lançamentos 2026"
-  },
-  {
-    "t": "Your Mother Your Mother Your Mother (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Drama"
   },
   {
     "t": "Your Mother Your Mother Your Mother (2026)",
@@ -167473,6 +167373,11 @@ const CATALOG_DATA = [
   {
     "t": "Your Mother Your Mother Your Mother (2026)",
     "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Your Mother Your Mother Your Mother (2026)",
+    "cat": "FILMES",
     "tp": "Filmes | Thriller"
   },
   {
@@ -167483,7 +167388,7 @@ const CATALOG_DATA = [
   {
     "t": "Boiúna : Terror no Amazonas (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Boiúna : Terror no Amazonas (2026)",
@@ -167493,17 +167398,17 @@ const CATALOG_DATA = [
   {
     "t": "Boiúna : Terror no Amazonas (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Terror"
+  },
+  {
+    "t": "Frequency of Fear",
+    "cat": "FILMES",
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Frequency of Fear",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
-  },
-  {
-    "t": "Frequency of Fear",
-    "cat": "FILMES",
-    "tp": "Filmes | Thriller"
   },
   {
     "t": "Frequency of Fear [L]",
@@ -167523,12 +167428,12 @@ const CATALOG_DATA = [
   {
     "t": "Finja-se de Morto (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Finja-se de Morto (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Finja-se de Morto [L] (2026)",
@@ -167648,7 +167553,7 @@ const CATALOG_DATA = [
   {
     "t": "Coração Selvagem [L] (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Legendados"
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "Terrell & T.O. [L] (2026)",
@@ -167963,22 +167868,7 @@ const CATALOG_DATA = [
   {
     "t": "Angel and the Badman (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2026"
-  },
-  {
-    "t": "Angel and the Badman (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Faroeste"
-  },
-  {
-    "t": "Angel and the Badman (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Ação"
-  },
-  {
-    "t": "Angel and the Badman (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Aventura"
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "You Will Be Free [L] (2026)",
@@ -168043,12 +167933,12 @@ const CATALOG_DATA = [
   {
     "t": "Nas Mãos de Dante (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Drama"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Nas Mãos de Dante (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Drama"
   },
   {
     "t": "Nas Mãos de Dante (2026)",
@@ -168378,12 +168268,12 @@ const CATALOG_DATA = [
   {
     "t": "Blood & Rust (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Ação"
   },
   {
     "t": "Blood & Rust (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Ação"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "O Degelo [L] (2026)",
@@ -168473,17 +168363,17 @@ const CATALOG_DATA = [
   {
     "t": "Girl in the Coffin (2026)",
     "cat": "FILMES",
+    "tp": "Filmes | Cinema TV"
+  },
+  {
+    "t": "Girl in the Coffin (2026)",
+    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "Girl in the Coffin (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
-  },
-  {
-    "t": "Girl in the Coffin (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Cinema TV"
   },
   {
     "t": "Harbinger (2026)",
@@ -168518,17 +168408,7 @@ const CATALOG_DATA = [
   {
     "t": "Friday the 69th (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2026"
-  },
-  {
-    "t": "Friday the 69th (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "Friday the 69th (2026)",
-    "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "Do Not Open (2026)",
@@ -168578,12 +168458,12 @@ const CATALOG_DATA = [
   {
     "t": "Padrões de Morte (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Padrões de Morte (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "Padrões de Morte [L] (2026)",
@@ -168733,12 +168613,12 @@ const CATALOG_DATA = [
   {
     "t": "Terror na Casa da Colina (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
+    "tp": "Filmes | Mistério"
   },
   {
     "t": "Terror na Casa da Colina (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Mistério"
+    "tp": "Filmes | Terror"
   },
   {
     "t": "It Steals Your Skin (2026)",
@@ -168778,17 +168658,17 @@ const CATALOG_DATA = [
   {
     "t": "It Hunts (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Terror"
-  },
-  {
-    "t": "It Hunts (2026)",
-    "cat": "FILMES",
     "tp": "Filmes | Mistério"
   },
   {
     "t": "It Hunts (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Thriller"
+  },
+  {
+    "t": "It Hunts (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Terror"
   },
   {
     "t": "Death Knight [L] (2026)",
@@ -169158,17 +169038,17 @@ const CATALOG_DATA = [
   {
     "t": "De Gaulle: A França Livre - Parte 2 (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | História"
-  },
-  {
-    "t": "De Gaulle: A França Livre - Parte 2 (2026)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "De Gaulle: A França Livre - Parte 2 (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "De Gaulle: A França Livre - Parte 2 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "De Gaulle: A França Livre - Parte 2 [L] (2026)",
@@ -169198,17 +169078,17 @@ const CATALOG_DATA = [
   {
     "t": "De Gaulle: A França Livre - Parte 1 (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | História"
-  },
-  {
-    "t": "De Gaulle: A França Livre - Parte 1 (2026)",
-    "cat": "FILMES",
     "tp": "Filmes | Drama"
   },
   {
     "t": "De Gaulle: A França Livre - Parte 1 (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Guerra"
+  },
+  {
+    "t": "De Gaulle: A França Livre - Parte 1 (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "De Gaulle: A França Livre - Parte 1 [L] (2026)",
@@ -169443,12 +169323,12 @@ const CATALOG_DATA = [
   {
     "t": "Tipo Irmãs (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Fantasia/Ficção"
+    "tp": "Filmes | Comédia"
   },
   {
     "t": "Tipo Irmãs (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Comédia"
+    "tp": "Filmes | Fantasia/Ficção"
   },
   {
     "t": "Tipo Irmãs [L] (2026)",
@@ -169508,12 +169388,12 @@ const CATALOG_DATA = [
   {
     "t": "Love, Ted Bundy (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Documentários"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Love, Ted Bundy (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Documentários"
   },
   {
     "t": "Love, Ted Bundy [L] (2026)",
@@ -169563,17 +169443,17 @@ const CATALOG_DATA = [
   {
     "t": "Madfabulous (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | História"
-  },
-  {
-    "t": "Madfabulous (2026)",
-    "cat": "FILMES",
     "tp": "Filmes | Comédia"
   },
   {
     "t": "Madfabulous (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Madfabulous (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | História"
   },
   {
     "t": "Luv from the Trenches",
@@ -169593,12 +169473,12 @@ const CATALOG_DATA = [
   {
     "t": "What Would You Kill For? (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Lançamentos 2025"
+    "tp": "Filmes | Thriller"
   },
   {
     "t": "What Would You Kill For? (2025)",
     "cat": "FILMES",
-    "tp": "Filmes | Thriller"
+    "tp": "Filmes | Lançamentos 2025"
   },
   {
     "t": "What Would You Kill For? (2025)",
@@ -169613,12 +169493,12 @@ const CATALOG_DATA = [
   {
     "t": "Com Amor, Ted Bundy (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Documentários"
+    "tp": "Filmes | Crime"
   },
   {
     "t": "Com Amor, Ted Bundy (2026)",
     "cat": "FILMES",
-    "tp": "Filmes | Crime"
+    "tp": "Filmes | Documentários"
   },
   {
     "t": "Com Amor, Ted Bundy [L] (2026)",
@@ -169654,6 +169534,36 @@ const CATALOG_DATA = [
     "t": "Louco México Mágico [L] (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Legendados"
+  },
+  {
+    "t": "O Zelador Animal (2011)",
+    "cat": "FILMES",
+    "tp": "Filmes | Comédia"
+  },
+  {
+    "t": "O Zelador Animal (2011)",
+    "cat": "FILMES",
+    "tp": "Filmes | Romance"
+  },
+  {
+    "t": "O Zelador Animal (2011)",
+    "cat": "FILMES",
+    "tp": "Filmes | Família"
+  },
+  {
+    "t": "Corpo e Desejo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2023"
+  },
+  {
+    "t": "Corpo e Desejo (2023)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "Hope: O Primeiro Impacto - QUALIDADE CINEMA (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Cinema/Baixa qualidade"
   },
   {
     "t": "Tetra: Acreditar de Novo (2026)",
@@ -244891,233 +244801,63 @@ const CATALOG_DATA = [
     "tp": "24H INFANTIS/DESENHOS"
   },
   {
-    "t": "08:00 - DINAMO MOSCOW X KRASNODAR [1]",
+    "t": "10:45 - NEFTCHI FARGONA X AL-HILAL [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
+    "tp": "JOGOS DO DIA (23/11)"
   },
   {
-    "t": "08:00 - DINAMO MOSCOW X KRASNODAR [2]",
+    "t": "10:45 - NEFTCHI FARGONA X AL-HILAL [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
+    "tp": "JOGOS DO DIA (23/11)"
   },
   {
-    "t": "08:30 - JUVENTUS X VENEZIA [1]",
+    "t": "17:00 - BRENTFORD X EVERTON [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
+    "tp": "JOGOS DO DIA (23/11)"
   },
   {
-    "t": "08:30 - JUVENTUS X VENEZIA [2]",
+    "t": "17:00 - BRENTFORD X EVERTON [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
+    "tp": "JOGOS DO DIA (23/11)"
   },
   {
-    "t": "09:00 - BURNLEY X BLACKBURN [1]",
+    "t": "17:00 - GIMNASIA LA PLATA X NEWELLS OLD BOYS [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
+    "tp": "JOGOS DO DIA (23/11)"
   },
   {
-    "t": "09:00 - BURNLEY X BLACKBURN [2]",
+    "t": "17:00 - GIMNASIA LA PLATA X NEWELLS OLD BOYS [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
+    "tp": "JOGOS DO DIA (23/11)"
   },
   {
-    "t": "10:00 - FC BARCELONA X VILLARREAL [1]",
+    "t": "19:30 - INTERNACIONAL X VITÓRIA [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
+    "tp": "JOGOS DO DIA (23/11)"
   },
   {
-    "t": "10:00 - FC BARCELONA X VILLARREAL [2]",
+    "t": "19:30 - INTERNACIONAL X VITÓRIA [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
+    "tp": "JOGOS DO DIA (23/11)"
   },
   {
-    "t": "10:30 - AJAX X ADO DEN HAAG [1]",
+    "t": "20:00 - BOTAFOGO X SÃO PAULO [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
+    "tp": "JOGOS DO DIA (23/11)"
   },
   {
-    "t": "10:30 - AJAX X ADO DEN HAAG [2]",
+    "t": "20:00 - BOTAFOGO X SÃO PAULO [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
+    "tp": "JOGOS DO DIA (23/11)"
   },
   {
-    "t": "10:30 - MAKHACHKALA X SPARTAK MOSCOW [1]",
+    "t": "21:00 - SANTOS X GRÊMIO [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
+    "tp": "JOGOS DO DIA (23/11)"
   },
   {
-    "t": "10:30 - MAKHACHKALA X SPARTAK MOSCOW [2]",
+    "t": "21:00 - SANTOS X GRÊMIO [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "11:00 - HULL CITY X BRIGHTON [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "11:00 - HULL CITY X BRIGHTON [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "11:00 - PARIS FC X ANGERS [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "11:00 - PARIS FC X ANGERS [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "13:00 - TRABZONSPOR X EYUPSPOR [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "13:00 - TRABZONSPOR X EYUPSPOR [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "13:30 - LIVERPOOL X MANCHESTER UNITED [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "13:30 - LIVERPOOL X MANCHESTER UNITED [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "13:30 - WERDER BREMEN X HAMBURGER SV [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "13:30 - WERDER BREMEN X HAMBURGER SV [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "14:00 - AC MILAN X FROSINONE [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "14:00 - AC MILAN X FROSINONE [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "14:30 - OSASUNA X MÁLAGA FC [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "14:30 - OSASUNA X MÁLAGA FC [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "16:00 - ATHLETICO-PR X REMO [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "16:00 - ATHLETICO-PR X REMO [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "16:00 - CRICIÚMA X FORTALEZA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "16:00 - CRICIÚMA X FORTALEZA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "16:00 - PALMEIRAS JÚNIOR X CORINTHIANS JÚNIOR [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "16:00 - PALMEIRAS JÚNIOR X CORINTHIANS JÚNIOR [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "16:45 - ATALANTA X INTER DE MILÃO [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "16:45 - ATALANTA X INTER DE MILÃO [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "16:45 - OLYMPIQUE DE MARSEILLE X LE MANS [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "16:45 - OLYMPIQUE DE MARSEILLE X LE MANS [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "17:00 - GETAFE X ATLÉTICO DE MADRID [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "17:00 - GETAFE X ATLÉTICO DE MADRID [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "18:30 - ATLÉTICO-GO X VILA NOVA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "18:30 - ATLÉTICO-GO X VILA NOVA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "18:30 - FLUMINENSE X MIRASSOL [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "18:30 - FLUMINENSE X MIRASSOL [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "19:00 - RIVER PLATE X LANUS [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "19:00 - RIVER PLATE X LANUS [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "19:30 - RB BRAGANTINO X VASCO DA GAMA [1]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
-  },
-  {
-    "t": "19:30 - RB BRAGANTINO X VASCO DA GAMA [2]",
-    "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (22/11)"
+    "tp": "JOGOS DO DIA (23/11)"
   }
 ];
