@@ -1,4 +1,4 @@
-const CATALOG_UPDATED = "23/11/2026";
+const CATALOG_UPDATED = "24/11/2026";
 const CATALOG_DATA = [
   {
     "t": "Depravação [L]",
@@ -244801,63 +244801,133 @@ const CATALOG_DATA = [
     "tp": "24H INFANTIS/DESENHOS"
   },
   {
-    "t": "10:45 - NEFTCHI FARGONA X AL-HILAL [1]",
+    "t": "12:00 - BRASIL SUB-17 X TANZÂNIA SUB-17 [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (23/11)"
+    "tp": "JOGOS DO DIA (24/11)"
   },
   {
-    "t": "10:45 - NEFTCHI FARGONA X AL-HILAL [2]",
+    "t": "12:00 - BRASIL SUB-17 X TANZÂNIA SUB-17 [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (23/11)"
+    "tp": "JOGOS DO DIA (24/11)"
   },
   {
-    "t": "17:00 - BRENTFORD X EVERTON [1]",
+    "t": "14:45 - BODO GLIMT X LASK LINZ [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (23/11)"
+    "tp": "JOGOS DO DIA (24/11)"
   },
   {
-    "t": "17:00 - BRENTFORD X EVERTON [2]",
+    "t": "14:45 - BODO GLIMT X LASK LINZ [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (23/11)"
+    "tp": "JOGOS DO DIA (24/11)"
   },
   {
-    "t": "17:00 - GIMNASIA LA PLATA X NEWELLS OLD BOYS [1]",
+    "t": "14:45 - GALATASARAY X ASTON VILLA [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (23/11)"
+    "tp": "JOGOS DO DIA (24/11)"
   },
   {
-    "t": "17:00 - GIMNASIA LA PLATA X NEWELLS OLD BOYS [2]",
+    "t": "14:45 - GALATASARAY X ASTON VILLA [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (23/11)"
+    "tp": "JOGOS DO DIA (24/11)"
   },
   {
-    "t": "19:30 - INTERNACIONAL X VITÓRIA [1]",
+    "t": "15:15 - AL-NASSR X AL SADD [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (23/11)"
+    "tp": "JOGOS DO DIA (24/11)"
   },
   {
-    "t": "19:30 - INTERNACIONAL X VITÓRIA [2]",
+    "t": "15:15 - AL-NASSR X AL SADD [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (23/11)"
+    "tp": "JOGOS DO DIA (24/11)"
   },
   {
-    "t": "20:00 - BOTAFOGO X SÃO PAULO [1]",
+    "t": "17:00 - ARSENAL X BORUSSIA DORTMUND [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (23/11)"
+    "tp": "JOGOS DO DIA (24/11)"
   },
   {
-    "t": "20:00 - BOTAFOGO X SÃO PAULO [2]",
+    "t": "17:00 - ARSENAL X BORUSSIA DORTMUND [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (23/11)"
+    "tp": "JOGOS DO DIA (24/11)"
   },
   {
-    "t": "21:00 - SANTOS X GRÊMIO [1]",
+    "t": "17:00 - COMO X AEK ATHENS [1]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (23/11)"
+    "tp": "JOGOS DO DIA (24/11)"
   },
   {
-    "t": "21:00 - SANTOS X GRÊMIO [2]",
+    "t": "17:00 - COMO X AEK ATHENS [2]",
     "cat": "CANAIS",
-    "tp": "JOGOS DO DIA (23/11)"
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "17:00 - FEYENOORD X FC PORTO [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "17:00 - FEYENOORD X FC PORTO [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "17:00 - MANCHESTER CITY X NAPOLI [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "17:00 - MANCHESTER CITY X NAPOLI [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "17:00 - RB LEIPZIG X LENS [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "17:00 - RB LEIPZIG X LENS [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "17:00 - REAL MADRID X PSV EINDHOVEN [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "17:00 - REAL MADRID X PSV EINDHOVEN [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "17:00 - SLOVAN BRATISLAVA X REAL BETIS [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "17:00 - SLOVAN BRATISLAVA X REAL BETIS [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "17:00 - WOLVES X DERBY [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "17:00 - WOLVES X DERBY [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "18:00 - CHAPECOENSE X PALMEIRAS [1]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
+  },
+  {
+    "t": "18:00 - CHAPECOENSE X PALMEIRAS [2]",
+    "cat": "CANAIS",
+    "tp": "JOGOS DO DIA (24/11)"
   }
 ];
