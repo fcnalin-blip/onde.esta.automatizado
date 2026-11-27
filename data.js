@@ -176721,9 +176721,34 @@ const CATALOG_DATA = [
     "tp": "Filmes | Legendados"
   },
   {
+    "t": "The Glass Child (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Lançamentos 2026"
+  },
+  {
+    "t": "The Glass Child (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Drama"
+  },
+  {
+    "t": "The Glass Child [L] (2026)",
+    "cat": "FILMES",
+    "tp": "Filmes | Legendados"
+  },
+  {
     "t": "Tetra: Acreditar de Novo (2026)",
     "cat": "FILMES",
     "tp": "Filmes | Documentários"
+  },
+  {
+    "t": "Estranho: Contos de Junji Ito para Noites Intranquilas [L] (2026)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Legendadas"
+  },
+  {
+    "t": "Tulsa King (2022)",
+    "cat": "SÉRIES",
+    "tp": "Séries | Paramount"
   },
   {
     "t": "The Art of Deception [L] (2026)",
@@ -179511,19 +179536,9 @@ const CATALOG_DATA = [
     "tp": "Séries | Disney Plus"
   },
   {
-    "t": "Estranho: Contos de Junji Ito para Noites Intranquilas [L] (2026)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Legendadas"
-  },
-  {
     "t": "Yellowjackets (2021)",
     "cat": "SÉRIES",
     "tp": "Séries | Outros Streams"
-  },
-  {
-    "t": "Tulsa King (2022)",
-    "cat": "SÉRIES",
-    "tp": "Séries | Paramount"
   },
   {
     "t": "Terra da Mafia (2025)",
